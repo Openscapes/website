@@ -33,7 +33,7 @@ Shared practices with emphasis on collaborating with Future You reduces bugs, ma
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
 - [start a coding club](/blog/2018/11/20/how-to-start-a-coding-club/)
-- [join twitter for open data science]() - coming soon
+- [join twitter for the open data science community](http://127.0.0.1:4321/blog/2018/12/06/twitter-for-community/)
 
 ## OPENSCAPES & CHAMPIONS
 

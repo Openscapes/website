@@ -1,11 +1,11 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = "https://openscapes.org"
+title = "Openscapes"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -20,48 +20,54 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
+    
+[[menu.main]]
+    name = "Champions Program"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 2    
+
+[[menu.main]]
+    name = "Resources"
+    identifier = "resources"
+    url  = "/resources/"
+    weight = 3  
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 2
-
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
     weight = 4
+
+[[menu.main]]
+    name = "Get Involved"
+    url  = "/contact/"
+    weight = 5
 
 # Top bar social links menu
 
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/openscapes"
     pre = "<i class='fa fa-2x fa-github'></i>"
+
+#[[menu.topbar]]
+#    weight = 2
+#    name = "Facebook"
+#    url = "http://facebook.com"
+#    pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "http://twitter.com/openscapes"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+#[[menu.topbar]]
+#    weight = 4
+#    name = "Email"
+#    url = "mailto:your@email.com"
+#    pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -70,7 +76,7 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -90,8 +96,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julie Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are support by Mozilla and the Siegel Family Endowment.</p>"
+    copyright = "Copyright (c) 2018, Openscapes; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -116,11 +122,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
+    text = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -138,18 +140,27 @@ paginate = 10
     enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
-[params.testimonials]
-    enable = true
+[params.testimonials] 
+    enable = true  
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Champions Program"
+    subtitle = "The Champions Program mentors early career researchers to become champions and enable their labs [more here]."
+
+ [params.testimonials2]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README. 
+    title = "Testimonials2Test"
+    subtitle = "Testing out a second testimonials section."
+
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -157,7 +168,7 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -167,4 +178,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "These are blog posts and advice snippets for the Openscapes community. Some are cross-posted on Medium."

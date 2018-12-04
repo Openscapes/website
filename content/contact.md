@@ -1,10 +1,20 @@
 +++
-title = "Contact"
+title = "Get Involved"
 id = "contact"
 +++
 
-# We are here to help you
+# Welcome
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+We work openly; materials are available at github.com/openscapes.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Ways to contribute: clear contribution ladder (including funding?).
+
+- use this Google Form so we can be in touch. Also, follow us on Twitter, Medium.com and GitHub: @openscapes
+
+- [contribution ladder]
+- Cohort2 mentor or mentee
+
+
+
+
+Also exploring possibilities of teaching the Champions materials as a 2-day short-course or workshop. We can help you co-develop a proposal, please contact us. 

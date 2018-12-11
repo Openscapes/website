@@ -143,7 +143,7 @@ paginate = 10
     # For more information take a look at the README.
 
 [params.testimonials] 
-    enable = true  
+    enable = false  
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -151,12 +151,12 @@ paginate = 10
     subtitle = "The Champions Program mentors early career researchers to become champions and enable their labs [more here]."
 
  [params.testimonials2]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
-    title = "Testimonials2Test"
-    subtitle = "Testing out a second testimonials section."
+    title = "Champions Program"
+    subtitle = "The Champions Program mentors early career researchers to become champions and enable their labs [more here]."
 
 
 [params.see_more]

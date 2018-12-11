@@ -141,6 +141,8 @@ paginate = 10
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
+    title = "Champions Program"
+    subtitle = "The Champions Program mentors early career researchers to become champions and enable their labs [more here]."
 
 [params.testimonials] 
     enable = false  

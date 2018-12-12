@@ -160,6 +160,15 @@ paginate = 10
     title = "Champions Program"
     subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (e.g. faculty, lecturers, program managers) to enable open practices through their labs, teaching, and campuses."
 
+[params.testimonials3] 
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README. 
+    title = "Champions x"
+    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (faculty, lecturers, program managers, etc) to enable open practices through their labs, teaching, and departments."
+
+
 [params.see_more]
     enable = false
     icon = "fa fa-file-code-o"

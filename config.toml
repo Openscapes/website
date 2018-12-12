@@ -142,7 +142,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "We work to increase the value of open practices in environmental science so that we can get to science-based solutions faster."
+    subtitle = "We work to increase the value of open practices in environmental science so we can get to science-based solutions faster."
 
 [params.testimonials] 
     enable = false  
@@ -158,8 +158,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program"
-    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (faculty, lecturers, program managers, etc) to enable open practices through their labs, teaching, and departments."
-
+    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (e.g. faculty, lecturers, program managers) to enable open practices through their labs, teaching, and campuses."
 
 [params.see_more]
     enable = false

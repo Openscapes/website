@@ -3,16 +3,16 @@ title = "Get Involved"
 id = "contact"
 +++
 
-## Vision
+## VISION
 
 We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science.
 
-## How we work
+## HOW WE WORK
 
 We work openly; materials are available at github.com/openscapes.
 Also, follow us on Twitter, Medium.com and GitHub: @openscapes.
 
-## Contribute
+## CONTRIBUTE
 
 Ways to contribute: clear contribution ladder (including funding?).
 
@@ -22,5 +22,6 @@ Ways to contribute: clear contribution ladder (including funding?).
 - Cohort2 mentor or mentee (nominate yourself and others)
 
 
-## Workshops & Training
+## WORKSHOPS & TRAINING
+
 We're also exploring possibilities of teaching the Champions materials as a 2-day short-course or workshop. We can help you co-develop a proposal, please contact us. 

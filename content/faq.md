@@ -4,9 +4,50 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-The Champions program is an online mentoring program for environmental scientists. We mentor early career researchers who are thought leaders and have institutional support. These scientists will become visible champions for open practices, and enable their lab groups to work openly.
+Openscapes Champions is a mentoring program for environmental scientists. We mentor early career researchers who are thought leaders and have institutional support. These scientists will become visible champions for open practices, and enable their lab groups to work openly.
+
+The program is designed with the idea that scientific leaders can value and enable open practices, even before they become experts themselves. [reword!]  
 
 
+## PURPOSE
+
+The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help us find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who did not have formal computing training themselves — to value and enable these practices in their labs. 
+
+## OUTCOMES
+
+The Champions program is designed to meet scientists where they are and help them take incremental steps towards better practices that make their work more efficient and open. Thus, outcomes will vary and we will share them as stories. However, there are specific outcomes we expect of all Champions: 
+
+- Champions promote open practices in their talks and collaborations
+- Champions labs have deliberate shared practices in the lab
+  - dedicated lab meetings to discuss data and reproducible workflows
+  - code of conduct
+- Champions lab members start a coding club on campus (ex: [Eco-Data-Science](http://eco-data-science.github.io/))  
+
+
+What does being an Openscapes lab mean? It means having an open culture within the lab, with behavior that is modeled outwards to the broader campus community.
+
+## PROCESS
+
+Champions will have one-on-one mentorship calls each month to discuss and strategize how to be more efficient, and to set, review, and meet goals. Additionally, there will be cohort calls twice each month with all Champions as well as members of their labs. Cohort calls are an opportunity to learn about existing tools and how to engage, meet other labs, discuss next steps, and keep accountable.
+
+It is a five-month program modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which means it is done remotely, and it is scalable because mentees can become mentors for incoming cohorts while the operations and lesson development stay with a small core team.
+
+<!--
+If you are interested in contributing or participating, please [get involved](/contact/) [fix link]
+-->
+
+
+## LESSON SERIES
+
+As the Champions program is developed, the lessons and other resources will be found here.
+
+## STORIES FROM COHORT 1
+
+We will share stories from our inaugural cohort of Openscapes Champions here!
+
+<br>
+
+<!--
 ## COHORT 1
 
 Our inaugural cohort of Champions: we have six amazing individuals. 
@@ -38,22 +79,11 @@ Our inaugural cohort of Champions: we have six amazing individuals.
 
 <br>
 
-#### OUTCOMES
-- SWC etc
-
-
-## CURRICULUM & RESOURCES
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-
-## STORIES/"RECIPES"
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+  
 
 ---
 
 > In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+
+
+-->

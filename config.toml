@@ -96,7 +96,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julie Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are support by Mozilla and the Siegel Family Endowment.</p>"
+    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julie Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are support by Mozilla and the Siegel Family Endowment. Art by Allison Horst. Photography by Elliot Lowndes. </p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -157,16 +157,18 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
-    title = "Champions Program"
-    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (e.g. faculty, lecturers, program managers) to enable open practices through their labs, teaching, and campuses."
+    title = "Champions Program & Workshops" 
+    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (e.g. faculty, lecturers, program managers) to enable open practices through their labs, teaching, and campuses. We can also teach lessons as short-form workshops."
 
-[params.testimonials3] 
+[params.testimonials3]  
     enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
-    title = "Champions x"
-    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (faculty, lecturers, program managers, etc) to enable open practices through their labs, teaching, and departments."
+    title = "Openscapes Ethos"
+    subtitle = "Openness is about open science, open data, open knowledge. But it is also open culture, open sharing, collaboration, kindness, and empathy. It's about creating the culture we want in science. This is openscapes."
+    # title = "Trainings and Workshops"
+    # subtitle = "We will also do Trainings and Workshops..."
 
 
 [params.see_more]

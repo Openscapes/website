@@ -96,21 +96,20 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julie Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are support by Mozilla and the Siegel Family Endowment. Art by Allison Horst. Photography by Elliot Lowndes. </p>"
-    copyright = "Copyright (c) 2018, Openscapes; all rights reserved."
+    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julie Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are support by Mozilla and the Siegel Family Endowment. Original art by Allison Horst. </p>"
+    copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>Openscapes</strong>
+        <br>National Center for Ecological
+        <br>Analysis & Synthesis (NCEAS)
+        <br>University of California Santa Barbara
+        <br>735 State Street, Suite 300
+        <br>Santa Barbara, California, USA
       </p>
       """
     latitude = "-12.043333"
@@ -158,15 +157,15 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program & Workshops" 
-    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (e.g. faculty, lecturers, program managers) to enable open practices through their labs, teaching, and campuses. We can also teach lessons as short-form workshops."
+    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training is often not part of environmental academic programs, it is important that leading scientists become visible Champions open practices and data science and promote them through their labs, teaching, and campuses. The Champion program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. We can also teach lessons as short-form workshops."
 
 [params.testimonials3]  
-    enable = true
+    enable = true 
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Openscapes Ethos"
-    subtitle = "Openness is about open science, open data, open knowledge. But it is also open culture, open sharing, collaboration, kindness, and empathy. It's about creating the culture we want in science. This is openscapes."
+    subtitle = "We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science. Openscapes is about open science, open data, open knowledge. But it is also open culture, collaboration, kindness, and empathy. It's about creating the culture we want in science." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 

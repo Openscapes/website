@@ -40,7 +40,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Get Involved"
-    url  = "/contact/"
+    url  = "/get-involved/"
     weight = 5
 
 # Top bar social links menu
@@ -94,7 +94,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    # email = "your@email.com"
 
     about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julia Stewart Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are supported by Mozilla and the Siegel Family Endowment. Original art by Allison Horst. </p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 

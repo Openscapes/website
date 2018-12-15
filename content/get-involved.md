@@ -13,7 +13,8 @@ We work openly and materials are available at [github.com/openscapes](https://gi
 
 ## HOW TO GET INVOLVED
 
-There are many ways you can [help build and strengthen communities at your institution](/blog/2018/12/06/building-communities/). Additionally, you are warmly invited to:
+There are many ways you can [help build and strengthen communities at your institution](/blog/2018/12/06/building-communities/).  
+Additionally, you are warmly invited to:
 
 **Amplify Openscapes & community efforts**
 

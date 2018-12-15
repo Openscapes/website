@@ -1,6 +1,6 @@
 +++
 title = "Champions Program"
-description = "Frequently asked questions"
+description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 

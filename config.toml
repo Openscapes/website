@@ -23,8 +23,8 @@ paginate = 10
     
 [[menu.main]]
     name = "Champions Program"
-    identifier = "faq"
-    url  = "/faq/"
+    identifier = "champions"
+    url  = "/champions/"
     weight = 2    
 
 [[menu.main]]

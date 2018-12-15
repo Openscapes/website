@@ -39,7 +39,7 @@ Learning to code should be fun, because you are learning powerful and empowering
 Shared practices with emphasis on collaborating with Future You reduces coding errors, makes them easier to find, and facilitates code review. We recommend using R through the RStudio IDE, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with the tidyverse & friends and RMarkdown create good practices for collaborative, reproducible workflows.
 
 - [Better Science in Less Time](http://ohi-science.org/betterscienceinlesstime/)
-- [Resources for R and Data Science](ohi-science.org/news/Resources-for-R-and-Data-Science)
+- [Resources for R and Data Science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
 
 <br>

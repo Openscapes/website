@@ -13,7 +13,9 @@ This is a curated list of resources to welcome environmental scientists to delib
 
 ## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
 
-Embrace existing tools. Not a single tool for all jobs, but can leverage existing workflows and streamline the amount of software (and user accounts) you need. For example 
+Science is collaborative — you work daily with your most most important collaborator: Future You. And, you are contributing to scientific knowledge and sharing insights with your lab members. 
+
+Embrace existing open tools and workflows for science. There's not a single tool for all jobs, but can leverage existing workflows and streamline the amount of software (and user accounts) you need. For example, the Ocean Health Index describes its [path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) borrowing practices from software engineers, using R, RStudio, Git, and GitHub for collaborative coding and communication.
 <!--- 
 - https://github.com/baricks/opentodiscussion
 -OL!!!!
@@ -24,6 +26,8 @@ Embrace existing tools. Not a single tool for all jobs, but can leverage existin
 <br>
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
+
+Learning to code should be fun, because you are learning powerful and empowering tools that will take your science to new heights. So do it with friends, and grow your community. 
 
 - [start a coding club](/blog/2018/11/20/how-to-start-a-coding-club/)
 - [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/)
@@ -41,15 +45,11 @@ Shared practices with emphasis on collaborating with Future You reduces coding e
 <br>
 
 
-## OPENSCAPES PRESENTATIONS
+## OPENSCAPES MEDIA AND PRESENTATIONS
 
-We have been openly communicating about the Openscapes program throughout its development. See slide decks here, and a list of presentations. 
+We have been openly communicating about the Openscapes program throughout its development. Here are a list of presentations, associated slide decks, and media about Openscapes.
 
-- [slides](https://github.com/Openscapes/slides)
-list of presentations.
+- [media](/media/)
 
-<!-- 
-- training-series
--->
 
 <br>

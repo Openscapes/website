@@ -96,7 +96,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julie Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are support by Mozilla and the Siegel Family Endowment. Original art by Allison Horst. </p>"
+    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julia Stewart Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are supported by Mozilla and the Siegel Family Endowment. Original art by Allison Horst. </p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 
 
     # Format dates with Go's time formatting
@@ -107,9 +107,8 @@ paginate = 10
     address = """<p><strong>Openscapes</strong>
         <br>National Center for Ecological
         <br>Analysis & Synthesis (NCEAS)
-        <br>University of California Santa Barbara
-        <br>735 State Street, Suite 300
-        <br>Santa Barbara, California, USA
+        <br>University of California at
+        <br>Santa Barbara, USA
       </p>
       """
     latitude = "-12.043333"

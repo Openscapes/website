@@ -155,8 +155,17 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
-    title = "Champions Program & Workshops" 
-    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training is often not part of environmental academic programs, it is important that leading scientists become visible Champions open practices and data science and promote them through their labs, teaching, and campuses. The Champion program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. We can also teach lessons as short-form workshops."
+    title = "Champions Program" 
+    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training is often not part of environmental academic programs, it is important that leading scientists become visible Champions open practices and data science and promote them through their labs, teaching, and campuses. The Champion program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them."
+
+ [params.workshops]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README. 
+    title = "Workshops" 
+    subtitle = "We plan to also teach the Champions lessons series as short-form workshops. If you are interested, please contact us."
+
 
 [params.testimonials3]  
     enable = true 

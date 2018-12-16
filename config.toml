@@ -140,7 +140,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "We work to increase the value of open practices in environmental science so we can get to science-based solutions faster."
+    subtitle = "We work to increase the value of open practices in environmental science so we can get to data-driven solutions faster."
 
 [params.testimonials] 
     enable = false  
@@ -148,7 +148,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Champions Program"
-    subtitle = "The Champions program creates more champions for open practices. We mentor early career researchers in leadership roles (faculty, lecturers, program managers, etc) to enable open practices through their labs, teaching, and departments."
+    subtitle = "."
 
  [params.testimonials2]
     enable = true
@@ -156,7 +156,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program" 
-    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training is often not part of environmental academic programs, it is important that leading scientists become visible Champions open practices and data science and promote them through their labs, teaching, and campuses. The Champion program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them."
+    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training are often not part of environmental education, it is important that emerging scientific leaders have the opportunity to be empowered with existing tools, practices, and communities. The Champions program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. Openscapes helps scientists become visible Champions for open practices and data science, and promote them through their labs, teaching, and departments."
 
  [params.workshops]
     enable = true
@@ -173,7 +173,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Openscapes Ethos"
-    subtitle = "We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science. Openscapes is about open science, open data, open knowledge. But it is also open culture, collaboration, kindness, and empathy. It's about creating the culture we want in science." 
+    subtitle = "We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science. Openscapes is about the full spectrum of open science, open data, open knowledge, and using the internet for good. And it is also about open culture, collaboration, kindness, and empathy. It is about creating the positive culture we want in science." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 
@@ -197,4 +197,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "These are blog posts and advice snippets for the Openscapes community. Some are cross-posted on Medium."
+    subtitle = "These are blog posts and advice snippets for the Openscapes community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes)."

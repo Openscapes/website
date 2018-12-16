@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Universal</title>
+    <title>Categories on Openscapes</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Universal</description>
+    <description>Recent content in Categories on Openscapes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,18 +11,18 @@
     
     
     <item>
-      <title>Lorem</title>
-      <link>/categories/lorem/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Community</title>
+      <link>/categories/community/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/lorem/</guid>
+      <guid>/categories/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
       <link>/categories/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/programming/</guid>
       <description></description>
@@ -31,27 +31,9 @@
     <item>
       <title>Pseudo</title>
       <link>/categories/pseudo/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starting</title>
-      <link>/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/categories/starting/</guid>
       <description></description>
     </item>
     

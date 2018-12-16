@@ -1,5 +1,5 @@
 +++
-title = "How to start a coding club"
+title = "Start a coding club"
 date = "2018-11-24"
 tags = ["how to", "community", "study group"]
 categories = ["programming"]

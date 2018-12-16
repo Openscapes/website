@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Openscapes</title>
+    <link>/categories/community/</link>
+    <description>Recent content in Community on Openscapes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personifying code</title>
+      <link>/blog/2018/12/20/personify-code/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/12/20/personify-code/</guid>
+      <description>Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them.
+Openscapes Champion Allison Horst is doing this in part through her personifyr art series. She uses in the classroom at the University of California at Santa Barbara, where she is a lecturer of data science and statistics in an environmentally-focused graduate program.</description>
+    </item>
+    
+    <item>
+      <title>Building communities</title>
+      <link>/blog/2018/12/06/building-communities/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/12/06/building-communities/</guid>
+      <description> [To write!]
+The Openscapes program is built with the idea that we can model the culture we want in academia. So what can you do?
+What you can do as a grad student  read nature at journal club request swc workshop ask your Dept to teach data science courses seek out opportunities to learn, amplify join or start a study group/coding club  As faculty:  ask your Dept include funding for data in grant proposal give your students time space to learn this stufd  </description>
+    </item>
+    
+    <item>
+      <title>Introducing Openscapes</title>
+      <link>/blog/2018/11/20/introducing-openscapes/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/11/20/introducing-openscapes/</guid>
+      <description>Cross-posted at medium.com
+I wrote this blog in preparation for MozFest — Mozilla’s annual festival for the open internet — October 2018, in London. I am a Mozilla Fellow, and I presented the idea of Openscapes, which will help increase the value of open practices within environmental science by engaging, empowering, and amplifying individuals.
+As you know, we are currently facing some of the biggest environmental challenges of our time.</description>
+    </item>
+    
+  </channel>
+</rss>

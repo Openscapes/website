@@ -40,7 +40,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Get Involved"
-    url  = "/get-involved/"
+    url  = "/contact/"
     weight = 5
 
 # Top bar social links menu
@@ -109,11 +109,13 @@ paginate = 10
         <br>Analysis & Synthesis (NCEAS)
         <br>University of California at
         <br>Santa Barbara, USA
+        <br>----
+        <br>openscapes @ nceas.ucsb.edu
       </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
-
+      """ 
+    latitude = ""
+    longitude = ""
+ 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 

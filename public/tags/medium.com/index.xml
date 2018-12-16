@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medium.com on Openscapes</title>
+    <link>/tags/medium.com/</link>
+    <description>Recent content in Medium.com on Openscapes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/medium.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Openscapes</title>
+      <link>/blog/2018/11/20/introducing-openscapes/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/11/20/introducing-openscapes/</guid>
+      <description>Cross-posted at medium.com
+I wrote this blog in preparation for MozFest — Mozilla’s annual festival for the open internet — October 2018, in London. I am a Mozilla Fellow, and I presented the idea of Openscapes, which will help increase the value of open practices within environmental science by engaging, empowering, and amplifying individuals.
+As you know, we are currently facing some of the biggest environmental challenges of our time.</description>
+    </item>
+    
+  </channel>
+</rss>

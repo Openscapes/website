@@ -1,6 +1,6 @@
 +++
-title = "Join Twitter for the community"
-date = "2018-12-06"
+title = "Twitter for Community"
+date = "2017-01-16"
 tags = ["community"]
 categories = ["programming"]
 banner = "img/banners/banner-2.jpg"

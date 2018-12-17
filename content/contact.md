@@ -22,10 +22,12 @@ Additionally, you are warmly invited to:
 - Include the importance of open practices in your next talks and publications, and tell us about it!
 - Talk to your colleagues. Welcome others to join our community and help recruit future Champions
 - Share your short story of how open data science practices have influenced your research ()
-- Invite us for your department seminar series
-- Invite us to give a webinar for your community
+- Help us reach audiences that might not otherwise engage: 
+  - Invite us for your department seminar series
+  - Invite us for conference talks
+  - Invite us to give a webinar for your community
 
-**Participate in future Champions programs**  
+**Participate in future Champions programs**   
 Provide your information [here]() to: TODO
 
 - Nominate yourself as a Champions mentor

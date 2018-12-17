@@ -50,6 +50,12 @@
   </url>
   
   <url>
+    <loc>/tags/champion-profile/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/champions/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>

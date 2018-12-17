@@ -1,7 +1,7 @@
 +++
 title = "Personifying code"
 date = "2018-12-20"
-tags = ["art"]
+tags = ["art", "champion-profile"]
 categories = ["community"]
 banner = "img/banners/banner-2.jpg"
 author = "Julie Lowndes"

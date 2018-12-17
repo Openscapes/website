@@ -45,10 +45,11 @@ Shared practices with emphasis on collaborating with Future You reduces coding e
 <br>
 
 
-## OPENSCAPES MEDIA AND PRESENTATIONS
+## OPENSCAPES LESSONS, MEDIA, AND PRESENTATIONS
 
 We have been openly communicating about the Openscapes program throughout its development. Here are a list of presentations, associated slide decks, and media about Openscapes.
 
+- [Champions lesson series](https://openscapes.github.io/lesson-series/) TODO update link!
 - [media](/media/)
 
 

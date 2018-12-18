@@ -13,9 +13,20 @@ This is a curated list of resources to welcome environmental scientists to delib
 
 ## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
 
-Science is collaborative — you work daily with your most most important collaborator: Future You. And, you are contributing to scientific knowledge and sharing insights with your lab members. 
+The scope of environmental research spans vastly different ecosystems, scales, and organisms. But we are united by data: No matter what our questions are or how we gather information, we will need to analyze our data, and do so in a way that is efficient for ourselves and can be communicated to others. Thinking deliberately about data and embracing existing open tools and workflows for your science will increase your efficiency, broaden the scientific questions you can ask, introduce you to a network of online allies outside your scientific domain, and make it easier to ask for help.
 
-Embrace existing open tools and workflows for science. There's not a single tool for all jobs, but can leverage existing workflows and streamline the amount of software (and user accounts) you need. For example, the Ocean Health Index describes its [path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) borrowing practices from software engineers, using R, RStudio, Git, and GitHub for collaborative coding and communication.
+For example, the Ocean Health Index describes borrowing practices from software engineers, using R, RStudio, Git, and GitHub for collaborative coding and communication. Science and coding are always collabortive — your most important collaborator is Future You! 
+
+- [Our path to better science in less time using open data science tools — *Lowndes et al. 2017 Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160)
+
+
+<!---
+Embrace existing open tools and workflows for science. There's not a single tool for all jobs, but can leverage existing workflows and streamline the amount of software (and user accounts) you need.
+
+What unites us not what makes us different
+--->
+
+
 <!--- 
 - https://github.com/baricks/opentodiscussion
 -OL!!!!
@@ -41,9 +52,9 @@ Shared practices with emphasis on collaborating with Future You reduces coding e
 - [Better Science in Less Time](http://ohi-science.org/betterscienceinlesstime/)
 - [Resources for R and Data Science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
+- [So you want to learn R?](https://github.com/Openscapes/snippets/blob/master/so-you-want-to-learn-r.md) TODO update link!
 
 <br>
-
 
 ## OPENSCAPES LESSONS, MEDIA, AND PRESENTATIONS
 

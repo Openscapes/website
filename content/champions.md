@@ -12,7 +12,7 @@ The program is designed with the idea that scientific leaders can value and enab
 
 ## PURPOSE
 
-The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help us find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who did not have formal computing training themselves — to value and enable these practices in their labs. 
+The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help us find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who most often did not have formal computing training themselves — to value and enable these practices in their labs. 
 
 <br>
 
@@ -42,7 +42,7 @@ Openscapes Champions is a five-month program modeled after [Mozilla Open Leaders
 
 ## LESSON SERIES
 
-As the Champions program is developed, the lessons and other resources will be found here.
+As the Champions program is developed, the lessons and other resources will be found [here](https://openscapes.github.io/lesson-series/) TODO update link!
 
 <br>
 

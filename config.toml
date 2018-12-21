@@ -39,9 +39,14 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 5
+
+[[menu.main]]
     name = "Get Involved"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
@@ -96,7 +101,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>Openscapes is for environmental scientists by environmental scientists. It is run by Julia Stewart Lowndes, a Mozilla Fellow and marine scientist at the National Center for Ecological Analysis & Synthesis (NCEAS). We are supported by Mozilla and the Siegel Family Endowment. Original art by Allison Horst. </p>"
+    about_us = "<p>Openscapes is for environmental scientists by environmental scientists with the vision that We can get to environmental solutions faster if we are more open and collaborative with how we do science. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes. Original art by Allison Horst. </p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 
 
     # Format dates with Go's time formatting
@@ -142,7 +147,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "We work to increase the value of open practices in environmental science so we can get to data-driven solutions faster."
+    subtitle = "The scope of environmental science spans vastly different ecosystems, scales, and organisms. But no matter what our research questions are, we are united by data. Scientists all need to analyze data, and do so in a way that is efficient for ourselves and can be communicated to others. **At Openscapes, we champion open practices in environmental science so we can uncover data-driven solutions faster**. Here’s how:"
 
 [params.testimonials] 
     enable = false  
@@ -158,7 +163,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program" 
-    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training are often not part of environmental education, it is important that emerging scientific leaders have the opportunity to be empowered with existing tools, practices, and communities. The Champions program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. Openscapes helps scientists become visible Champions for open practices and data science, and promote them through their labs, teaching, and departments."
+    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training are often not part of environmental education, it is vital that emerging scientific leaders have the opportunity to engage with existing tools, practices, and communities. The Champions program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. Openscapes helps scientists become visible Champions for open practices and data science, and promote them through their labs, teaching, and departments."
 
  [params.workshops]
     enable = true
@@ -175,7 +180,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Openscapes Ethos"
-    subtitle = "We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science. Openscapes is about the full spectrum of open science, open data, open knowledge, and using the internet for good. And it is also about open culture, collaboration, kindness, and empathy. It is about creating the positive culture we want in science." 
+    subtitle = "We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science. Openscapes is about the full spectrum of open science: open data, open knowledge, and using the internet for good. And it is also about open culture: collaboration, kindness, and empathy. It is about creating the positive culture we want in science." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 

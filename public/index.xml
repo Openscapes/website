@@ -17,7 +17,8 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/12/20/personify-code/</guid>
-      <description>Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them.
+      <description>[Draft in progress!]
+Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them.
 Openscapes Champion Allison Horst is doing this in part through her personifyr art series. She uses in the classroom at the University of California at Santa Barbara, where she is a lecturer of data science and statistics in an environmentally-focused graduate program.</description>
     </item>
     
@@ -27,7 +28,7 @@ Openscapes Champion Allison Horst is doing this in part through her personifyr a
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/12/06/building-communities/</guid>
-      <description> [To write!]
+      <description> [Draft in progress!]
 The Openscapes program is built with the idea that we can model the culture we want in academia. So what can you do?
 What you can do as a grad student  read nature at journal club request swc workshop ask your Dept to teach data science courses seek out opportunities to learn, amplify join or start a study group/coding club  As faculty:  ask your Dept include funding for data in grant proposal give your students time space to learn this stufd  </description>
     </item>
@@ -83,13 +84,25 @@ As you know, we are currently facing some of the biggest environmental challenge
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Openscapes is operated by the National Center for Ecological Analysis &amp;amp; Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes.
+VISION We can get to environmental solutions faster if we are more efficient and collaborative with how we do science.
+
+NCEAS The National Center for Ecological Analysis and Synthesis (NCEAS) conducts transformational science focused on informing solutions that will allow people and nature to thrive.</description>
+    </item>
+    
+    <item>
       <title>Champions Program</title>
       <link>/champions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/champions/</guid>
-      <description>Openscapes Champions is a mentoring program for environmental scientists. We mentor early career researchers who are thought leaders in leadership roles. These scientists will become visible champions for open practices, and enable their lab groups to work openly.
-The program is designed with the idea that scientific leaders can value and enable open practices, even before they become experts themselves. [reword!]
+      <description>Openscapes Champions is a mentoring program for environmental scientists who are early career researchers in leadership roles. These scientists will become visible champions for open practices, and enable their lab groups to work openly.
+The program is designed with the idea that scientific leaders can value and enable open practices, and share those principles with others.
 
 PURPOSE The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help us find environmental solutions faster.</description>
     </item>
@@ -100,12 +113,11 @@ PURPOSE The purpose of the Champions program is to welcome more scientists to th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>VISION We can get to environmental solutions faster if we are more efficient and collaborative with how we do science.
-HOW WE WORK We work openly and materials are available at github.com/openscapes. We are @openscapes on Twitter and Medium.
+      <description>HOW WE WORK We work openly and materials are available at github.com/openscapes. We are @openscapes on Twitter and Medium.
 HOW TO GET INVOLVED There are many ways you can help build and strengthen communities at your institution.
 Additionally, you are warmly invited to:
 Amplify Openscapes &amp;amp; community efforts
- Join our community on twitter @openscapes Include the importance of open practices in your next talks and publications, and tell us about it!</description>
+ Join our community on Twitter Include the importance of open practices in your next talks and publications, and tell us about it!</description>
     </item>
     
     <item>

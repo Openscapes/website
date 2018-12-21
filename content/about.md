@@ -26,28 +26,29 @@ The National Center for Ecological Analysis and Synthesis (NCEAS) conducts trans
 
 ## JULIA LOWNDES
 
-Julia is a marine data scientist and Mozilla Fellow (2019). She works to increase the value and practice of open environmental science by empowering researchers with existing open tools and communities. She has been working in this space since 2013 at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)), helping the [Ocean Health Index]() become a visible leader of open, reproducible, and collaborative practices for science and management by building a community of practice and communicating the team’s [path to better science in less time](). She earned her PhD at Stanford University studying drivers and impacts of Humboldt squid. She is a [Carpentries]() instructor and a co-founder of [Eco-Data-Science]() and [R-Ladies Santa Barbara](). [Learn more](jules32.github.io) about Julia and follow her on [Twitter](https://twitter.com/juliesquid). 
+Julia is a marine data scientist and Mozilla Fellow (2019). She works to increase the value and practice of open environmental science by empowering researchers with existing open tools and communities. She has been working in this space since 2013 at the National Center for Ecological Analysis and Synthesis ( [NCEAS](https://www.nceas.ucsb.edu/)), helping the [Ocean Health Index]() become a visible leader of open, reproducible, and collaborative practices for science and management by building a community of practice and communicating the team’s [path to better science in less time](). She earned her PhD at Stanford University studying drivers and impacts of Humboldt squid. She is a [Carpentries]() instructor and a co-founder of [Eco-Data-Science]() and [R-Ladies Santa Barbara](). [Learn more](jules32.github.io) about Julia and follow her on [Twitter](https://twitter.com/juliesquid). 
 
 <br>
 
 
 ## ART BY ALLISON HORST
 
-Allison Horst is a lecturer of data science and statistics at the Bren School of Environmental Science & Management at the University of California at Santa Barbara, and an artist in residence at NCEAS.
+[draft in progress:]
 
-https://github.com/allisonhorst/stats-illustrations
+Allison Horst is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara, and an artist in residence at [NCEAS](https://www.nceas.ucsb.edu/). With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst).
 
+Here are Allison's Openscapes ecosytems:
 
-<img src="/img/horst_openscapes_grassland.png" width="1300px">
+<img src="/img/horst_openscapes_grassland.png" width="1100px">
 
 
 <br> 
 
-<img src="/img/horst_openscapes_desert.png" width="1300px">
+<img src="/img/horst_openscapes_desert.png" width="1100px">
 
 <br>
 
-<img src="/img/horst_openscapes_arctic.png" width="1300px">
+<img src="/img/horst_openscapes_arctic.png" width="1100px">
 
 <br>
 

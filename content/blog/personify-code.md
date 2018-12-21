@@ -7,6 +7,8 @@ banner = "img/banners/banner-2.jpg"
 author = "Julie Lowndes"
 +++
 
+[Draft in progress!]
+
 Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them. 
 
 Openscapes Champion Allison Horst is doing this in part through her `personifyr` art series. She uses in the classroom at the University of California at Santa Barbara, where she is a lecturer of data science and statistics in an environmentally-focused graduate program. She also shares the series online, to the delight of the [#rstats Twitter community](https://twitter.com/JennyBryan/status/1068755043061571585). Through the `personifyr` series, Allison personifies different operations done in the programming language R. 

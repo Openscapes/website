@@ -7,7 +7,7 @@ banner = "img/banners/banner-1.jpg"
 author = "Julie Lowndes"
 +++
 
-[To write!]
+[Draft in progress!]
 
 The Openscapes program is built with the idea that we can model the culture we want in academia. So what can you do?
 

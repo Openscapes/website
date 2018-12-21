@@ -3,10 +3,6 @@ title = "Get Involved"
 id = "contact"
 +++
 
-## VISION
-
-We can get to environmental solutions faster if we are more efficient and collaborative with how we do science.
-
 ## HOW WE WORK
 
 We work openly and materials are available at [github.com/openscapes](https://github.com/openscapes). We are @openscapes on [Twitter](https://twitter.com/openscapes) and [Medium](https://medium.com/@openscapes). 
@@ -18,7 +14,7 @@ Additionally, you are warmly invited to:
 
 **Amplify Openscapes & community efforts**
 
-- Join our community on [twitter @openscapes](https://twitter.com/openscapes)
+- Join our community on [Twitter](https://twitter.com/openscapes)
 - Include the importance of open practices in your next talks and publications, and tell us about it!
 - Talk to your colleagues. Welcome others to join our community and help recruit future Champions
 - Share your short story of how open data science practices have influenced your research ()
@@ -26,6 +22,8 @@ Additionally, you are warmly invited to:
   - Invite us for your department seminar series
   - Invite us for conference talks
   - Invite us to give a webinar for your community
+  
+<!--RStudio Community --->
 
 **Participate in future Champions programs**   
 Provide your information [here]() to: TODO
@@ -36,9 +34,7 @@ Provide your information [here]() to: TODO
 
 **Development & design**  
 
-- Improve the website by submitting a [pull request](https://github.com/Openscapes/website) or an [issue](https://github.com/openscapes/website/issues)
+- Help us improve the website! In-house CSS and HTML skills are limited so please help us by contributing a [pull request](https://github.com/Openscapes/website) or tackling a known [issue](https://github.com/openscapes/website/issues)
 - Get in touch with any new ideas, suggestions, questions and comments — we’d love to hear what you want to do together!
-
-
 
 

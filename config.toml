@@ -101,7 +101,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>Openscapes is for environmental scientists by environmental scientists with the vision that We can get to environmental solutions faster if we are more open and collaborative with how we do science. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes. Original art by Allison Horst. </p>"
+    about_us = "<p>Openscapes is for environmental scientists by environmental scientists with the vision that we can get to environmental solutions faster if we are more open and collaborative with how we do science. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes. Original art by Allison Horst. </p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 
 
     # Format dates with Go's time formatting
@@ -163,7 +163,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program" 
-    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training are often not part of environmental education, it is vital that emerging scientific leaders have the opportunity to engage with existing tools, practices, and communities. The Champions program helps build awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. Openscapes helps scientists become visible Champions for open practices and data science, and promote them through their labs, teaching, and departments."
+    subtitle = "The Champions program provides mentorship for early career researchers in leadership roles (e.g. faculty, lecturers, program managers). Because formal computing and data training are often not part of environmental education, it is vital that emerging scientific leaders have the opportunity to engage with existing tools, practices, and communities. The Champions program builds awareness of efficient and collaborative practices and helps Champions' labs take the next steps appropriate for them. Openscapes helps scientists become visible Champions for open practices and data science, and promote them through their labs, teaching, and departments."
 
  [params.workshops]
     enable = true

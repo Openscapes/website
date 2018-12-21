@@ -15,7 +15,7 @@ This is a curated list of resources to welcome environmental scientists to delib
 
 The scope of environmental research spans vastly different ecosystems, scales, and organisms. But we are united by data: No matter what our questions are or how we gather information, we will need to analyze our data, and do so in a way that is efficient for ourselves and can be communicated to others. Thinking deliberately about data and embracing existing open tools and workflows for your science will increase your efficiency, broaden the scientific questions you can ask, introduce you to a network of online allies outside your scientific domain, and make it easier to ask for help.
 
-For example, the Ocean Health Index describes borrowing practices from software engineers, using R, RStudio, Git, and GitHub for collaborative coding and communication. Science and coding are always collabortive — your most important collaborator is Future You! 
+For example, the Ocean Health Index describes borrowing practices from software engineers, using R, RStudio, Git, and GitHub for collaborative coding and communication. 
 
 - [Our path to better science in less time using open data science tools — *Lowndes et al. 2017 Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160)
 
@@ -45,9 +45,9 @@ Learning to code should be fun, because you are learning powerful and empowering
 
 <br>
 
-## R WITH RSTUDIO AND GITHUB
+## R WITH RSTUDIO & GITHUB
 
-Shared practices with emphasis on collaborating with Future You reduces coding errors, makes them easier to find, and facilitates code review. We recommend using R through the RStudio IDE, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with the tidyverse & friends and RMarkdown create good practices for collaborative, reproducible workflows.
+We recommend using R through the RStudio IDE, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with the tidyverse & friends and RMarkdown create good practices for collaborative, reproducible workflows.
 
 - [Better Science in Less Time](http://ohi-science.org/betterscienceinlesstime/)
 - [Resources for R and Data Science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
@@ -56,7 +56,7 @@ Shared practices with emphasis on collaborating with Future You reduces coding e
 
 <br>
 
-## OPENSCAPES LESSONS, MEDIA, AND PRESENTATIONS
+## OPENSCAPES LESSONS, MEDIA, & PRESENTATIONS
 
 We have been openly communicating about the Openscapes program throughout its development. Here are a list of presentations, associated slide decks, and media about Openscapes.
 

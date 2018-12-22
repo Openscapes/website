@@ -3,13 +3,20 @@ title = "Introducing Openscapes"
 date = "2018-11-20"
 tags = ["medium.com"]
 categories = ["community"]
-banner = "img/banners/banner-5.jpg"
+banner = "blog/introducing-openscapes/snyder.jpg"
 author = "Julie Lowndes"
 +++
 
-***Cross-posted at [medium.com](https://medium.com/@openscapes)***
+***This article was originally published on [medium.com](https://medium.com/read-write-participate/introducing-openscapes-2cf8ed3b69d2)***
 
 *I wrote this blog in preparation for MozFest — Mozilla’s annual festival for the open internet — October 2018, in London. I am a Mozilla Fellow, and I presented the idea of Openscapes, which will help increase the value of open practices within environmental science by engaging, empowering, and amplifying individuals.*
+
+----
+
+<center><img src="/blog/introducing-openscapes/snyderpano.jpg" width="800px"></center>
+
+<br>
+
 
 As you know, we are currently facing some of the biggest environmental challenges of our time. Our food and freshwater systems are threatened by drought and pollution, climate change is producing more frequent and severe wildfires and hurricanes, and we are only just realizing the ubiquity and impacts of plastics in oceans and animals.
 
@@ -19,7 +26,7 @@ What you might not know is that there is a huge unspoken bottleneck slowing down
 
 But there is a solution, and it is about openness and connecting scientists to existing resources. You see, open tools already exist, as do the growing communities of friendly, welcoming people who are building, using, and teaching these tools. ***These open tools and communities are powerful and empowering, and they are game-changing for science.*** And although there have been some scientists who have been early adopters — myself included, we now need dedicated efforts to welcome more scientists to use open tools and join communities of practice. This is the focus of my Mozilla Fellowship. I am excited to tell you about Openscapes, which is my plan for opening up the culture of environmental science through open community, data, and code. But first let me tell you about the motivation and momentum for Openscapes, through my experience and through Star Wars analogies.
 
-## A bit about me
+### A bit about me
 
 I am a marine biologist: For my PhD I spent time at sea and more time in front of my computer studying the behavior of Humboldt squid, which are incredible animals that can be as big as I am. And since 2013 I’ve been working to get more data-driven science into marine management around the world with a project called the Ocean Health Index. Both projects involved a volume and variety of data that I had never encountered before in all of my training as a biologist. As a result, my research was at first hindered by my skillset for data analysis and also by my mindset, because I was intimidated by coding, but knew I had to to do my science. I overcame my fears of coding and also engaged in open practices because of patient mentors, inclusive team members, and a welcoming online community.
 
@@ -27,7 +34,7 @@ Open practices have been so game-changing for me that I am stepping away from my
 
 Collaborative, open data science practices have really opened my mind to what is possible for science, and I want to accelerate this experience for other scientists so we can find solutions to environmental problems faster.
 
-## Star Wars + Open Data Science
+### Star Wars + Open Data Science
 
 When I talk about my experiences, I can’t help but think about Star Wars. When Luke crashed his plane on Dagobah, he could not solve his current problem (i.e., get his plane out of the swamp) with the skillsets he had. It was demoralizing. But, Yoda had a skillset that solved Luke’s problem in a way Luke never dreamed was possible: he used the Force. As Luke learned these skills from Yoda, he also changed his mindset — ***not only did his skills help him tackle his next challenges, but they broadened the scope of what he thought was possible and the challenges he tackled.***
 
@@ -35,7 +42,7 @@ So that was me on Dagobah too, looking at my problem (i.e. data incoming at vari
 
 And like Luke, our biggest barriers to engagement as scientists can be being aware that better practices exist and having confidence in ourselves. And so ***what we need is to value open practices as a scientific community and to welcome scientists to engage.***
 
-## Openscapes
+### Openscapes
 
 This is where Openscapes comes in. Openscapes is the program I’m developing as a [Mozilla Fellow](https://foundation.mozilla.org/fellowships/), based at [NCEAS](https://www.nceas.ucsb.edu/). ***The mission is to increase the value and practice of open data science in environmental science*** by focusing on three things: 1) engaging researchers at scientific institutions around the world, 2) empowering them with existing open software and communities, and 3) amplifying their individual and cascading efforts and impact.
 

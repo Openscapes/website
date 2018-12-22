@@ -180,12 +180,80 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Julie Lowndes</a> | January 16, 2017</p>
+                        <p class="text-muted text-uppercase mb-small text-right">By <a href="#">Sean Kross and Kelly O&#39;Briant</a> | January 16, 2017</p>
 
                         <div id="post-content">
-                          <p>Reposted from rOpenSci</p>
+                          <p><strong><em>This interview was <a href="https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/">originally published</a> by <a href="https://ropensci.org/">rOpenSci</a> on February 9, 2018 as part of the <a href="https://ropensci.org/tags/rprofile/">.rprofile series</a></em></strong>.</p>
 
-<p>[coming soon!]</p>
+<hr />
+
+<p>[This interview occurred at the 2017 rOpenSci unconference]</p>
+
+<p>SK: I’m <a href="https://twitter.com/seankross">Sean Kross</a>, I’m the CTO of the <a href="http://jhudatascience.org/">Johns Hopkins Data Science Lab</a>. Today I’m interviewing Julia Stewart Lowndes. Julia, what is your current preferred job title?</p>
+
+<p>JSL: I’m calling myself a marine data scientist - I’m the Science Program Lead for the <a href="http://www.ohi-science.org/">Ocean Health Index</a>.</p>
+
+<p>SK: How many years have you been working with R?</p>
+
+<p>JSL: I’ve been working for four years in R, so my experience has mostly been with the growing tidyverse.</p>
+
+<p>SK: How many hours a week do you spend in R?</p>
+
+<p>JSL: I probably spend 20 or 30 hours a week in RStudio, so not just coding in R but also using RMarkdown a lot.</p>
+
+<p>SK: What other technologies are part of your workflow?</p>
+
+<p>JSL: Right now my workflow is R, RStudio, git, GitHub for the most part.</p>
+
+<p>SK: You work with a team, and I imagine that there are different technical challenges with that. Do you collaborate with your team in GitHub?</p>
+
+<p>JSL: I work at NCEAS, which is the <a href="https://www.nceas.ucsb.edu/">National Center for Ecological Analysis and Synthesis</a> at the University of California Santa Barbara. There are kind of concentric circles within our team but our core workflow is that everyone is working with RStudio and GitHub to some degree – even those who aren’t coding in R everyday.</p>
+
+<p>SK: Do you use public or private GitHub repositories?</p>
+
+<p>JSL: Most of our repositories are public. But we have one private repository just for Issues, and we use that as an email equivalent so that we can have discussions that are archivable.</p>
+
+<p>SK: What kind of R or science related media do you like to peruse?</p>
+
+<p>JSL: Twitter is my main source for finding R stuff. I listen to the RStudio webinars, which are amazing. I really enjoy watching and reading other people’s tutorials, and I listen to the <a href="http://nssdeviations.com/">NotSoStandardDeviations Podcast</a>. One of my favorite episodes was with Jenny Bryan about Excel spreadsheets [<a href="http://nssdeviations.com/episode-9-spreadsheet-drama">Episode 9</a>]. I’d never heard anyone talk about Excel spreadsheets like that; I had never heard such a philosophy for working with data in spreadsheets.</p>
+
+<p>SK: It’s very inspiring how she has this philosophy - and such an accepting and empathetic philosophy compared to what I think the common perception of Excel uses is among folks in the field of computing.</p>
+
+<p>JSL: I love it! And I love the times where they talk about how businesses use R or databases. I have no formal training in coding, so I don’t have the framework to even get engaged in a topic like databases, but they’re able to engage me just with their conversation and the topics they choose.</p>
+
+<p>SK: Do you have any go-to references?</p>
+
+<p>JSL: Well, <a href="http://r4ds.had.co.nz/">R for Data Science by Hadley Wickham and Garrett Grolemund</a> is my go-to for R. In grad school, <a href="http://practicalcomputing.org/">Practical Computing for Biologists by Steve Haddock and Casey Dunn</a> was my book. Both authors are marine biologists, and the point of the book was to get people who had no experience with computing exposed to and confident with the tools already on their computers that could help their science. There is a touch of command line, a touch of python, regular expressions in a text file, a bit of graphics – this book changed my science and my life. Steve and I were colleagues and I was lucky enough that I got to read and give feedback as he was finalizing the book. It totally changed not only my skill set, but my confidence in this computing world. I can’t recommend that book enough. So R for Data Science and Practical Computing for Biologists are my bedside table books.</p>
+
+<p>SK: Have you written any books?</p>
+
+<p>JSL: I’m writing a bookdown right now. It’s for the Ocean Health Index, we essentially enable government and academic groups to measure how healthy their oceans are. We give them a GitHub repository populated with starter files and scripts and they tailor it with their own data and priorities using our R package. So my book is about how to use our software, but it’s also how to use R, RStudio and GitHub. (Editor’s Note: since the interview this has been split into two books: <a href="http://ohi-science.org/data-science-training/">Introduction to Open Data Science</a> and <a href="http://ohi-science.org/toolbox-training/">Ocean Health Index Toolbox Training</a>.)</p>
+
+<p>The <a href="https://www.nature.com/articles/s41559-017-0160">Nature paper I wrote</a> was part of this realization that I’m putting a lot of effort into teaching people how to use our Ocean Health Index methods, but in that process I’m actually teaching them good data science practices. The stuff I’m teaching is not specific to the Ocean Health Index, so I wanted to try to hit a broader audience. (Editor’s Note: <a href="https://www.nature.com/articles/s41559-017-0160">&ldquo;Our path to better science in less time using open data science tools&rdquo;</a> (Lowndes et al. 2017; Nature Ecology &amp; Evolution) was published the week before the rOpenSci #unconf17)</p>
+
+<p>SK: It’s so interesting that some people’s learning expectations are that maybe 80% of what I need to learn is specific to my field and 20% is computing/general/extra stuff that’s more widely applicable but doesn’t have to with the science. I feel like it might be the opposite - if you’re plugged into the the reproducible research techniques and all the good stuff coming out of the R community, that’s 80% of what you need to know - and you already have all the training and expertise in your field.</p>
+
+<p>JSL: I totally agree. I think one of the biggest light bulbs for me was realizing that data science is a thing, and that it is separate from my domain specific research. I wish I had discovered that when I was a grad student. That’s what I want to tell every grad student now – data science and domain science are distinct, and there are distinct places to get help. I learned to code in a total panic because my data was too big to be opened in Excel. So because I was trying to figure out science and coding at the same time, I conflated research with data science. I was confusing my thesis questions that no one had ever asked before with data questions that many people had asked before and solved – like renaming or transposing columns. Since I didn’t know these were distinct, I didn’t expect there to be solutions. I had this mindset that there was no one to ask and no help to get, which was demoralizing and I wasted a lot of time.</p>
+
+<blockquote>
+<p>I was confusing my thesis questions that no one had ever asked before with data questions that many people had asked before and solved – like renaming or transposing columns&hellip; I had this mindset that there was no one to ask and no help to get, which was demoralizing and I wasted a lot of time.</p>
+</blockquote>
+
+<p>Knowing that data science has concepts, theory, and tools is so powerful. When you’re learning to be a scientist, you have imposter syndrome all the time; there are so many things that you don’t know. I want to help scientists have the expectation that there’s a way to deal with the data challenges, so they can reach out beyond their own scientific community to look for help. If you think about data formatting - it doesn’t matter if you’re studying ocean science or archeology: data formatting is a data problem. And if you think about it as a data problem, you should expect that someone has encountered it before. It it doesn’t matter what field that someone is in; if they solved it, you can take the same solution to your data.</p>
+
+<blockquote>
+<p>When you’re learning to be a scientist, you have imposter syndrome all the time; there are so many things that you don’t know. I want to help scientists have the expectation that there’s a way to deal with the data challenges.</p>
+</blockquote>
+
+<p>SK: I think this is a big challenge going forward for the data science field, like it’s been for other fields, convincing an ocean scientist or a geologist that this “other field” is something they need. I think that other fields have had opportunities like this and just haven’t taken advantage of their potential.</p>
+
+<p>JSL: I think that the internet is changing the way that all this stuff can be incorporated into science. For most of the time I was in school, Google didn’t exist, so using the internet is not how I had been taught to learn. But now, Google is a go-to resource. I distinguish that my question is a data science question, I expect that someone has had my question before, I figure out how to articulate my question, I Google it, and I scan through the search results to see what could be a relevant answer, I learn what they did, and I incorporate the solution into my research.</p>
+
+<blockquote>
+<p>I have conversations with grad students today that break my heart. They’re like, <em>I know I need to learn R, and someday I will go to the library and check out a stats book.</em> I’m like, <em>I love libraries, but GOOGLE IT.</em></p>
+</blockquote>
+
+<p>The internet makes this all easier, but learning to code from online resources and communities  is not yet the norm in science. I have conversations with grad students today that break my heart. They’re like, I know I need to learn R, and it’s this dread that is weighing on me, but someday I will go to the library and check out a stats book. I’m like, I love libraries, but GOOGLE IT. <a href="http://hadley.nz/">Read Hadley’s books online</a>, join the welcoming <a href="https://twitter.com/hashtag/rstats">#rstats community</a> – I actually joined Twitter to learn R. The <a href="https://www.tidyverse.org/">tidyverse</a> and the community and development around it have changed the game in three huge ways in my mind: The tools are more powerful, they meet and engage people where they are, and there is a huge emphasis on teaching and training. All the amazing media - online books, tutorials, videos, slide decks, podcasts, groups like <a href="https://rladies.org/">R-Ladies</a> - all this stuff is there to help you learn more, no matter where you’re coming from. We need to help scientists expect that it’s there and that they are welcome too.</p>
 
                         </div>
                         
@@ -238,13 +306,13 @@
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
             
-            <li><a href="/categories/community">community (3)</a>
+            <li><a href="/categories/champion">champion (2)</a>
             </li>
             
-            <li><a href="/categories/programming">programming (3)</a>
+            <li><a href="/categories/community">community (5)</a>
             </li>
             
-            <li><a href="/categories/pseudo">pseudo (1)</a>
+            <li><a href="/categories/programming">programming (2)</a>
             </li>
             
         </ul>
@@ -269,12 +337,6 @@
             <li><a href="/tags/art"><i class="fa fa-tags"></i> art</a>
             </li>
             
-            <li><a href="/tags/champion-profile"><i class="fa fa-tags"></i> champion-profile</a>
-            </li>
-            
-            <li><a href="/tags/champions"><i class="fa fa-tags"></i> champions</a>
-            </li>
-            
             <li><a href="/tags/community"><i class="fa fa-tags"></i> community</a>
             </li>
             
@@ -284,10 +346,10 @@
             <li><a href="/tags/medium.com"><i class="fa fa-tags"></i> medium.com</a>
             </li>
             
-            <li><a href="/tags/study-group"><i class="fa fa-tags"></i> study-group</a>
+            <li><a href="/tags/programming"><i class="fa fa-tags"></i> programming</a>
             </li>
             
-            <li><a href="/tags/theme"><i class="fa fa-tags"></i> theme</a>
+            <li><a href="/tags/study-group"><i class="fa fa-tags"></i> study-group</a>
             </li>
             
         </ul>
@@ -341,14 +403,14 @@
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="/blog/2018/12/20/personify-code/">
+                        <a href="/blog/2018/12/21/personify-code/">
                           
                             <img src="/blog/personify-code/ggplot2_exploratory.png" class="img-responsive" alt="Personifying code">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="/blog/2018/12/20/personify-code/">Personifying code</a></h5>
+                        <h5><a href="/blog/2018/12/21/personify-code/">Personifying code</a></h5>
                     </div>
                 </div>
                 
@@ -398,6 +460,7 @@
         <br>Santa Barbara, USA
         <br>----
         <br>openscapes @ nceas.ucsb.edu
+        <br>Twitter & GitHub: @openscapes
       </p>
       
 

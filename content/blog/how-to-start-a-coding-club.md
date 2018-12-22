@@ -1,8 +1,8 @@
 +++
 title = "Start a coding club"
 date = "2018-11-24"
-tags = ["how to", "community", "study group"]
-categories = ["programming"]
+tags = ["how to", "study group"]
+categories = ["community", "programming"]
 banner = "img/banners/banner-4.jpg"
 author = "Julie Lowndes"
 +++

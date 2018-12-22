@@ -1,8 +1,8 @@
 +++
 title = "Personifying code"
 date = "2018-12-21"
-tags = ["art", "champion-profile"]
-categories = ["community"]
+tags = ["art"]
+categories = ["community", "champion"]
 banner = "blog/personify-code/ggplot2_exploratory.png" 
 author = "Julie Lowndes"
 +++
@@ -19,7 +19,7 @@ Openscapes Champion Allison Horst is doing this in part through her `personifyr`
 
 <br>
 
-...and as a final publication-worthy product
+...and as final publication-worthy products
 
 <center><img src="/blog/personify-code/ggplot2_masterpiece.png" width="500px"></center>
 

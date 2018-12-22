@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Openscapes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,34 +14,16 @@
     <item>
       <title>Art</title>
       <link>/tags/art/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Champion Profile</title>
-      <link>/tags/champion-profile/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/champion-profile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Champions</title>
-      <link>/tags/champions/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/champions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Community</title>
       <link>/tags/community/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/community/</guid>
       <description></description>
@@ -50,7 +32,7 @@
     <item>
       <title>How To</title>
       <link>/tags/how-to/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/how-to/</guid>
       <description></description>
@@ -66,20 +48,20 @@
     </item>
     
     <item>
-      <title>Study Group</title>
-      <link>/tags/study-group/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Programming</title>
+      <link>/tags/programming/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/study-group/</guid>
+      <guid>/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theme</title>
-      <link>/tags/theme/</link>
+      <title>Study Group</title>
+      <link>/tags/study-group/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/theme/</guid>
+      <guid>/tags/study-group/</guid>
       <description></description>
     </item>
     

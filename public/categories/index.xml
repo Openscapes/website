@@ -11,9 +11,18 @@
     
     
     <item>
+      <title>Champion</title>
+      <link>/categories/champion/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/champion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Community</title>
       <link>/categories/community/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/community/</guid>
       <description></description>
@@ -25,15 +34,6 @@
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pseudo</title>
-      <link>/categories/pseudo/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/pseudo/</guid>
       <description></description>
     </item>
     

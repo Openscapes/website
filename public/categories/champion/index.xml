@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on Openscapes</title>
-    <link>/tags/art/</link>
-    <description>Recent content in Art on Openscapes</description>
+    <title>Champion on Openscapes</title>
+    <link>/categories/champion/</link>
+    <description>Recent content in Champion on Openscapes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/champion/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,6 +20,15 @@
       <description>[Draft in progress!]
 Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them.
 Openscapes Champion Allison Horst is doing this in part through her personifyr art series. She uses her art in the classroom at the University of California at Santa Barbara, where she is a lecturer of data science and statistics in an environmentally-focused graduate program, the Bren School of Environmental Science &amp;amp; Management.</description>
+    </item>
+    
+    <item>
+      <title>The Champions Program</title>
+      <link>/blog/2017/12/15/introducing-champions-program/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017/12/15/introducing-champions-program/</guid>
+      <description>[coming soon!]</description>
     </item>
     
   </channel>

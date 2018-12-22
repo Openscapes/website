@@ -34,7 +34,7 @@ Provide your information [here]() to: TODO
 
 **Development & design**  
 
-- Help us improve the website! In-house CSS and HTML skills are limited so please help us by contributing a [pull request](https://github.com/Openscapes/website) or tackling a known [issue](https://github.com/openscapes/website/issues)
+- Help us improve the website! In-house CSS and HTML skills are limited so please help us by contributing a [pull request](https://github.com/Openscapes/website) or tackling a known [issue](https://github.com/Openscapes/website/labels/help%20wanted)
 - Get in touch with any new ideas, suggestions, questions and comments — we’d love to hear what you want to do together!
 
 

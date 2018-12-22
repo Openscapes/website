@@ -1,6 +1,6 @@
 +++
 title = "Start a coding club"
-date = "2018-11-24"
+date = "2018-11-16"
 tags = ["how to", "study group"]
 categories = ["community", "programming"]
 banner = "img/banners/banner-4.jpg"

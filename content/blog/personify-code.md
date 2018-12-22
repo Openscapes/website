@@ -1,8 +1,8 @@
 +++
 title = "Personifying code"
-date = "2018-12-21"
+date = "2018-12-30"
 tags = ["art"]
-categories = ["community", "champion"]
+categories = ["community", "champions"]
 banner = "blog/personify-code/ggplot2_exploratory.png" 
 author = "Julie Lowndes"
 +++

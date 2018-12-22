@@ -1,6 +1,6 @@
 +++
 title = "Building communities"
-date = "2018-12-06"
+date = "2018-11-06"
 tags = ["study group", "how to"]
 categories = ["community"]
 banner = "img/banners/banner-1.jpg"

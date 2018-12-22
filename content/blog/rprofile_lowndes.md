@@ -1,6 +1,6 @@
 +++
 title = ".rProfile Julia Stewart Lowndes"
-date = "2017-01-16"
+date = "2018-02-09"
 tags = ["programming"]
 categories = ["community"]
 banner = "img/banners/banner-2.jpg"
@@ -12,6 +12,8 @@ author = "Sean Kross and Kelly O'Briant"
 ----
 
 [This interview occurred at the 2017 rOpenSci unconference]
+
+<br>
 
 SK: I’m [Sean Kross](https://twitter.com/seankross), I’m the CTO of the [Johns Hopkins Data Science Lab](http://jhudatascience.org/). Today I’m interviewing Julia Stewart Lowndes. Julia, what is your current preferred job title?
 

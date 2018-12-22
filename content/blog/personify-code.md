@@ -3,7 +3,7 @@ title = "Personifying code"
 date = "2018-12-20"
 tags = ["art", "champion-profile"]
 categories = ["community"]
-banner = "/blog/personify-code/ggplot2_exploratory.png"
+banner = "blog/personify-code/ggplot2_exploratory.png" 
 author = "Julie Lowndes"
 +++
 

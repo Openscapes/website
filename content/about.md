@@ -4,7 +4,7 @@ description = "About"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-**Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and was incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes.**
+**Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes.**
 
 ## VISION
 

@@ -41,7 +41,8 @@ What unites us not what makes us different
 Learning to code should be fun, because you are learning powerful and empowering tools that will take your science to new heights. So do it with friends, and grow your community. 
 
 - [start a coding club](/blog/2018/11/20/how-to-start-a-coding-club/)
-- [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/)
+- [build communities on campus]
+- [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/), rOpenSci, RLadies
 
 <br>
 

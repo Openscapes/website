@@ -1,6 +1,9 @@
 # website
 Code for openscapes.org
 
+
+# Notes to self:
+
 ```
 ## setup
 library(blogdown)

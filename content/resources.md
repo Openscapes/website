@@ -6,7 +6,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 *This page is under development and currently leverages previous work*.  
 
-This is a curated list of resources to welcome environmental scientists to deliberately engage in and be empowered by open tools and communities. It is not meant to be comprehensive of all the incredible resources out there, but put together based trying to meet the needs of scientists following real conversations.
+This is a curated list of resources to welcome environmental scientists to deliberately engage in and be empowered by open tools and communities. It is not meant to be comprehensive of all the incredible resources out there, but put together based trying to meet the needs of scientists following real conversations. <!---R focused for now --->
 
 
 <br>

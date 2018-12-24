@@ -148,7 +148,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "The scope of environmental science spans vastly different ecosystems, scales, and organisms. But no matter what our research questions are, we are united by data. Scientists all need to analyze data, and do so in a way that is efficient for ourselves and can be communicated to others. **At Openscapes, we champion open practices in environmental science so we can uncover data-driven solutions faster**. Here’s how:"
+    subtitle = "The scope of environmental science spans vastly different ecosystems, scales, and organisms. But no matter what our research questions are, scientists are united by data. We all need to analyze data, and do so in a way that is efficient, reproducible, and easily communicated. **At Openscapes, we champion open practices in environmental science so we can uncover data-driven solutions faster**. Here’s how:"
 
 [params.testimonials] 
     enable = false  
@@ -181,7 +181,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Openscapes Ethos"
-    subtitle = "We believe we can get to environmental solutions faster if we are more efficient and collaborative with how we do science. Openscapes is about the full spectrum of open science: open data, open knowledge, and using the internet for good. And it is also about open culture: collaboration, kindness, and empathy. It is about creating the positive culture we want in science." 
+    subtitle = "Openscapes is about opening the landscapes of science, which means the full spectrum of openness. It means open science: open data, open knowledge, and using the internet for good. But, importantly, it also means open culture: collaboration, empathy, and kindness. It is about creating the positive culture we want in science, so we can do better science in less time." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 

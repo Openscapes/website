@@ -4,15 +4,26 @@ description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Openscapes Champions is a mentoring program for environmental scientists who are early career researchers in leadership roles. These scientists will become visible champions for open practices, and enable their lab groups to work openly.
+**Openscapes helps scientists become visible champions for open data science practices and promote them through their labs, teaching, and departments.**
 
-The program is designed with the idea that scientific leaders can value and enable open practices, and share those principles with others.
+Openscapes Champions is a mentorship program for early career researchers in leadership roles (e.g. faculty, lecturers, program managers) that helps them become visible Champions for open practices. Since formal computing and data training are often not part of environmental education, Openscapes provides these emerging scientific leaders to have the opportunity to engage with existing open practices and guide their labs take the next steps appropriate for them.
+
+<!---Through mentorship meetings with Champions and members of their labs, Openscapes provides these emerging scientific leaders to have the opportunity to engage with existing open practices and guide their labs take the next steps appropriate for them.
+
+
+The Openscapes Champions program is designed with the vision that scientific leaders can value and enable open practices, and share those principles with others.
+
+We need people that will champion this cause. Not being the best, not sports. Someone who champions
+
+--->
 
 <br>
 
 ## PURPOSE
 
 The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help us find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who frequently did not have formal computing training themselves — to value and enable these practices in their labs. 
+
+<!---https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science--->
 
 <br>
 
@@ -58,7 +69,7 @@ A marine aquaculture & fisheries scientist studying global systems.
 
 --->
 
-**The first cohort of Openscapes Champions starts in January 2019.** As we progress, we will share stories from our inaugural cohort of Openscapes Champions here!
+The first cohort of Openscapes Champions starts in January 2019. As we progress, we will share stories from our inaugural cohort of Openscapes Champions here!
 
 <br>
 

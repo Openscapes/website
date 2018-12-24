@@ -18,6 +18,11 @@ The Openscapes program is built with the idea that we can model the culture we w
 - ask your Dept to teach data science courses
 - seek out opportunities to learn, amplify
 - join or start a study group/coding club
+- [use Twitter for science]()
+- join online communities, find allies. Recommended: 
+    - rOpenSci
+    - RStudio community
+    - RLadies
 
 ### As faculty:
 

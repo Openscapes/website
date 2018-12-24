@@ -48,7 +48,7 @@ Learning to code should be fun, because you are learning powerful and empowering
 
 ## R WITH RSTUDIO & GITHUB
 
-We recommend using R through the RStudio IDE, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with the tidyverse & friends and RMarkdown create good practices for collaborative, reproducible workflows.
+We recommend using R with [RStudio](https://www.rstudio.com/), which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
 
 - [Better Science in Less Time](http://ohi-science.org/betterscienceinlesstime/)
 - [Resources for R and Data Science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Openscapes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,18 @@
     <item>
       <title>Art</title>
       <link>/tags/art/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Community</title>
-      <link>/tags/community/</link>
-      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Coding</title>
+      <link>/tags/coding/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/community/</guid>
+      <guid>/tags/coding/</guid>
       <description></description>
     </item>
     
@@ -44,15 +44,6 @@
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/medium.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>/tags/programming/</link>
-      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/programming/</guid>
       <description></description>
     </item>
     

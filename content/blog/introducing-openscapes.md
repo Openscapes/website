@@ -1,11 +1,14 @@
-+++
-title = "Introducing Openscapes"
-date = "2018-11-20"
-tags = ["medium.com"]
-categories = ["community"]
-banner = "blog/introducing-openscapes/snyder.jpg"
-author = "Julie Lowndes"
-+++
+---
+title: Introducing Openscapes
+author: Julie Lowndes
+date: '2018-11-20'
+slug: introducing-openscapes
+categories:
+  - community
+tags:
+  - medium.com
+banner: blog/introducing-openscapes/snyder.jpg
+---
 
 ***This article was originally published on [medium.com](https://medium.com/read-write-participate/introducing-openscapes-2cf8ed3b69d2)***
 

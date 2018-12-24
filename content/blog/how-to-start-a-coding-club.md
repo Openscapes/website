@@ -1,11 +1,16 @@
-+++
-title = "Start a coding club"
-date = "2018-11-16"
-tags = ["how to", "study group"]
-categories = ["community", "programming"]
-banner = "img/banners/banner-4.jpg"
-author = "Julie Lowndes"
-+++
+---
+title: Start a coding club
+author: Julie Lowndes
+date: '2018-11-16'
+slug: start-coding-club
+categories:
+  - community
+  - coding
+tags:
+  - study group
+  - how to
+banner: img/banners/banner-4.jpg
+---
 
 # How to start a coding club
 

@@ -1,11 +1,15 @@
-+++
-title = "Personifying code"
-date = "2018-12-30"
-tags = ["art"]
-categories = ["community", "champions"]
-banner = "blog/personify-code/ggplot2_exploratory.png" 
-author = "Julie Lowndes"
-+++
+---
+title: Personifying code
+author: Julie Lowndes
+date: '2018-12-24'
+slug: personify-code
+categories:
+  - community
+tags:
+  - art
+banner: blog/personify-code/ggplot2_exploratory.png
+---
+
 
 Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them. 
 

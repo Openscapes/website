@@ -1,11 +1,14 @@
-+++
-title = ".rProfile Julia Stewart Lowndes"
-date = "2018-02-09"
-tags = ["programming"]
-categories = ["community"]
-banner = "img/banners/banner-2.jpg"
-author = "Sean Kross and Kelly O'Briant"
-+++
+---
+title: .rProfile Julia Stewart Lowndes
+author: Sean Kross and Kelly O'Briant
+date: '2018-02-09'
+slug: rprofile-jsl
+categories:
+  - community
+tags:
+  - coding
+banner: img/banners/banner-2.jpg
+---
 
 ***This interview was [originally published](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/) by [rOpenSci](https://ropensci.org/) on February 9, 2018 as part of the [.rprofile series](https://ropensci.org/tags/rprofile/)***.
 

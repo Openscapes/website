@@ -1,11 +1,15 @@
-+++
-title = "Building communities"
-date = "2018-11-06"
-tags = ["study group", "how to"]
-categories = ["community"]
-banner = "img/banners/banner-1.jpg"
-author = "Julie Lowndes"
-+++
+---
+title: Build communities
+author: Julie Lowndes
+date: '2018-11-06'
+slug: build-communities
+categories:
+  - community
+tags:
+  - study group
+  - how to
+banner: img/banners/banner-1.jpg
+---
 
 [Draft in progress!]
 

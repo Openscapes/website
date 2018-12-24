@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2018/12/30/personify-code/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <loc>/blog/2018/12/24/personify-code/</loc>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +23,13 @@
   </url>
   
   <url>
-    <loc>/blog/2018/11/06/building-communities/</loc>
+    <loc>/blog/2018/11/06/build-communities/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/10/09/twitter-for-community/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,23 +38,18 @@
   </url>
   
   <url>
-    <loc>/blog/2017/01/16/twitter-for-community/</loc>
-    <lastmod>2017-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
   <url>
     <loc>/tags/art/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +60,7 @@
   
   <url>
     <loc>/categories/champions/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,14 +69,20 @@
   </url>
   
   <url>
-    <loc>/tags/community/</loc>
-    <lastmod>2017-01-16T00:00:00+00:00</lastmod>
+    <loc>/tags/coding/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/coding/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/community/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,19 +108,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/programming/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/programming/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,7 +124,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,10 +1,14 @@
-+++
-title = "Twitter for Community"
-date = "2017-01-16"
-tags = ["community"]
-categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
-author = "Julie Lowndes"
-+++
+---
+title: Twitter for Community
+author: Julie Lowndes
+date: '2018-10-09'
+slug: twitter-community
+categories:
+  - community
+tags:
+  - coding
+banner: img/banners/banner-2.jpg
+---
+
 
 [coming soon!]

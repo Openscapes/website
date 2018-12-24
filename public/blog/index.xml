@@ -6,17 +6,17 @@
     <description>Recent content in Blogs on Openscapes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personifying code</title>
-      <link>/blog/2018/12/30/personify-code/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <link>/blog/2018/12/24/personify-code/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/12/30/personify-code/</guid>
+      <guid>/blog/2018/12/24/personify-code/</guid>
       <description>Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them.
 Openscapes Champion Allison Horst is doing this in part through her personifyr art series. She uses her art in the classroom at the University of California at Santa Barbara, where she is a lecturer of data science and statistics in an environmentally-focused graduate program, the Bren School of Environmental Science &amp;amp; Management.</description>
     </item>
@@ -55,14 +55,23 @@ An example is Eco-Data-Science at UCSB. We are currently a community of &amp;gt;
     </item>
     
     <item>
-      <title>Building communities</title>
-      <link>/blog/2018/11/06/building-communities/</link>
+      <title>Build communities</title>
+      <link>/blog/2018/11/06/build-communities/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/11/06/building-communities/</guid>
+      <guid>/blog/2018/11/06/build-communities/</guid>
       <description>[Draft in progress!]
 The Openscapes program is built with the idea that we can model the culture we want in academia. So what can you do?
 What you can do as a grad student  read nature at journal club request swc workshop ask your Dept to teach data science courses seek out opportunities to learn, amplify join or start a study group/coding club [use Twitter for science]() join online communities, find allies.</description>
+    </item>
+    
+    <item>
+      <title>Twitter for Community</title>
+      <link>/blog/2018/10/09/twitter-for-community/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/10/09/twitter-for-community/</guid>
+      <description>[coming soon!]</description>
     </item>
     
     <item>
@@ -76,15 +85,6 @@ What you can do as a grad student  read nature at journal club request swc works
 
 SK: I’m Sean Kross, I’m the CTO of the Johns Hopkins Data Science Lab. Today I’m interviewing Julia Stewart Lowndes. Julia, what is your current preferred job title?
 JSL: I’m calling myself a marine data scientist - I’m the Science Program Lead for the Ocean Health Index.</description>
-    </item>
-    
-    <item>
-      <title>Twitter for Community</title>
-      <link>/blog/2017/01/16/twitter-for-community/</link>
-      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2017/01/16/twitter-for-community/</guid>
-      <description>[coming soon!]</description>
     </item>
     
   </channel>

@@ -8,8 +8,13 @@
   </url>
   
   <url>
-    <loc>/blog/2018/12/21/introducing-champions-program/</loc>
+    <loc>/blogdraft/champions-program/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/12/17/want-to-learn-r/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/blog/2018/11/06/build-communities/</loc>
+    <loc>/blogdraft/build-communities/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/10/09/twitter-for-community/</loc>
+    <loc>/blogdraft/twitter-community/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,6 +49,12 @@
   <url>
     <loc>/tags/art/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blogdraft/</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,7 +81,7 @@
   
   <url>
     <loc>/tags/coding/</loc>
-    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,12 +103,8 @@
   
   <url>
     <loc>/tags/how-to/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/media/</loc>
   </url>
   
   <url>
@@ -110,6 +117,10 @@
     <loc>/</loc>
     <lastmod>2018-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/media/</loc>
   </url>
   
   <url>

@@ -1,11 +1,11 @@
 +++
-title = "Media and Presentations"
-description = "Openscapes Media and Slides"
+title = "Presentations"
+description = "Openscapes Slides"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-## OPENSCAPES MEDIA  
+<!--- ## OPENSCAPES MEDIA  --->
 
 ## OPENSCAPES PRESENTATIONS
 

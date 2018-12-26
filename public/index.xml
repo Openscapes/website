@@ -23,11 +23,20 @@ Openscapes Champion Allison Horst is doing this in part through her personifyr a
     
     <item>
       <title>The Champions Program</title>
-      <link>/blog/2018/12/21/introducing-champions-program/</link>
+      <link>/blogdraft/champions-program/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/12/21/introducing-champions-program/</guid>
+      <guid>/blogdraft/champions-program/</guid>
       <description>[coming soon!]</description>
+    </item>
+    
+    <item>
+      <title>So you want to learn R</title>
+      <link>/blog/2018/12/17/want-to-learn-r/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/12/17/want-to-learn-r/</guid>
+      <description>So you want to learn R, where do you start? There are a lot of written and video tutorials and books and blogs online, but how do you navigate them? Our Ocean Health Index team put together a list of the resources we used to learn R that helped our team&amp;rsquo;s path to better science in less time. But this might still not be helpful for where you should actually start.</description>
     </item>
     
     <item>
@@ -56,10 +65,10 @@ An example is Eco-Data-Science at UCSB. We are currently a community of &amp;gt;
     
     <item>
       <title>Build communities</title>
-      <link>/blog/2018/11/06/build-communities/</link>
+      <link>/blogdraft/build-communities/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/11/06/build-communities/</guid>
+      <guid>/blogdraft/build-communities/</guid>
       <description>[Draft in progress!]
 The Openscapes program is built with the idea that we can model the culture we want in academia. So what can you do?
 What you can do as a grad student  read nature at journal club request swc workshop ask your Dept to teach data science courses seek out opportunities to learn, amplify join or start a study group/coding club [use Twitter for science]() join online communities, find allies.</description>
@@ -67,10 +76,10 @@ What you can do as a grad student  read nature at journal club request swc works
     
     <item>
       <title>Twitter for Community</title>
-      <link>/blog/2018/10/09/twitter-for-community/</link>
+      <link>/blogdraft/twitter-community/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/10/09/twitter-for-community/</guid>
+      <guid>/blogdraft/twitter-community/</guid>
       <description>[coming soon!]</description>
     </item>
     
@@ -124,12 +133,12 @@ Amplify Openscapes &amp;amp; community efforts
     </item>
     
     <item>
-      <title>Media and Presentations</title>
+      <title>Presentations</title>
       <link>/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/media/</guid>
-      <description> OPENSCAPES MEDIA OPENSCAPES PRESENTATIONS  slides  </description>
+      <description> OPENSCAPES PRESENTATIONS  slides  </description>
     </item>
     
     <item>
@@ -139,7 +148,7 @@ Amplify Openscapes &amp;amp; community efforts
       
       <guid>/resources/</guid>
       <description>This page is under development and currently leverages previous work.
-This is a curated list of resources to welcome environmental scientists to deliberately engage in and be empowered by open tools and communities. It is not meant to be comprehensive of all the incredible resources out there, but put together based trying to meet the needs of scientists following real conversations. 
+This is a curated list of resources to welcome environmental scientists to deliberately engage in and be empowered by open tools and communities. It is not meant to be comprehensive of all the incredible resources out there, but put together based trying to meet the needs of scientists following conversations with them. 
 WORKING COLLABORATIVELY, OPENLY, &amp;amp; EFFICIENTLY The scope of environmental research spans vastly different ecosystems, scales, and organisms.</description>
     </item>
     

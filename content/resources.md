@@ -34,7 +34,8 @@ What unites us not what makes us different
 - BIDS, NSF?
 --->
 
-<br>
+<center><img src="/img/horst_grassland_fox.png" width="150px"></center>
+
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
@@ -47,7 +48,7 @@ Learning to code should be fun, because you are learning powerful and empowering
 - [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/), rOpenSci, RLadies
 --->
 
-<br>
+<center><img src="/img/horst_grassland_fox.png" width="150px"></center>
 
 ## R WITH RSTUDIO & GITHUB
 

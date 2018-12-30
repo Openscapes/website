@@ -73,6 +73,10 @@ Here are Allison's Openscapes ecosytems:
 
 <br>
 
+<img src="/img/horst_openscapes_mountains.png" width="1100px">
+
+<br>
+
 ## WEBSITE
 
 The Openscapes website was created using  

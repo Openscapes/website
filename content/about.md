@@ -12,6 +12,8 @@ We can get to environmental solutions faster if we are more efficient and collab
 
 <br>
 
+<center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
+
 ## ORIGIN STORY
 
 [draft!!]
@@ -31,25 +33,25 @@ Notes: get into weeds too quickly about OHI and NCEAS and about bsilt. we're not
 What does Openscapes mean? Opening the landscapes of science. 
 
 
-
+<center><img src="/img/horst_openscapes_arctic_crab.png" width="100px"></center>
 
 ## NCEAS
 
 The National Center for Ecological Analysis and Synthesis (NCEAS) conducts transformational science focused on informing solutions that will allow people and nature to thrive. Through data synthesis, collaborations, and open science, NCEAS accelerates scientific discoveries and generates big-picture insights to help solve environmental challenges. Established in 1995, NCEAS is an independent research affiliate of the University of California at Santa Barbara with a global network and impact. [Learn more](https://www.nceas.ucsb.edu/) about NCEAS, [subscribe](http://ucsb.us12.list-manage1.com/subscribe?u=d7494403ed9d8c97a5479f0d4&id=bbef3949b4) to the newsletter, and follow them on [Twitter](https://twitter.com/nceas) or [Facebook](https://www.facebook.com/NCEASUCSB/).
 
-<br> 
+<center><img src="/img/horst_openscapes_arctic_narwhal.png" width="100px"></center>
 
 ## MOZILLA
 
 [coming soon] 
 
-<br>
+<center><img src="/img/horst_openscapes_arctic_puffins.png" width="100px"></center>
 
-## JULIA LOWNDES
+## JULIA STEWART LOWNDES
 
 Julia is a marine data scientist and Mozilla Fellow (2019). She works to increase the value and practice of open environmental science by empowering researchers with existing open tools and communities. She has been working in this space since 2013 at the National Center for Ecological Analysis and Synthesis ( [NCEAS](https://www.nceas.ucsb.edu/)), helping the [Ocean Health Index]() become a visible leader of open, reproducible, and collaborative practices for science and management by building a community of practice and communicating the team’s [path to better science in less time](). She earned her PhD at Stanford University studying drivers and impacts of Humboldt squid. She is a [Carpentries]() instructor and a co-founder of [Eco-Data-Science]() and [R-Ladies Santa Barbara](). [Learn more](jules32.github.io) about Julia and follow her on [Twitter](https://twitter.com/juliesquid). 
 
-<br>
+<center><img src="/img/horst_openscapes_arctic_humpback.png" width="100px"></center>
 
 
 ## ART BY ALLISON HORST
@@ -77,8 +79,11 @@ Here are Allison's Openscapes ecosytems:
 
 <br>
 
+<center><img src="/img/horst_openscapes_arctic_urchins.png" width="100px"></center>
+
 ## WEBSITE
 
 The Openscapes website was created using  
 - designed and built by Julie, using R! Blogdown and theme.
 
+<br>

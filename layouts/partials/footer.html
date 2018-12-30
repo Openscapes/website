@@ -6,6 +6,9 @@
             <h4>{{ i18n "aboutUs" }}</h4>
 
             {{ .Site.Params.about_us | markdownify }}
+            
+            <p></p>
+            <a href="/about" class="btn btn-small btn-template-main">{{ i18n "aboutGoTo" }}</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -49,7 +52,8 @@
           <h4>{{ i18n "contactTitle" }}</h4>
 
             {{ .Site.Params.address | markdownify }}
-
+            
+            <p></p>
             <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">

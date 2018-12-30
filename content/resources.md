@@ -34,8 +34,8 @@ What unites us not what makes us different
 - BIDS, NSF?
 --->
 
-<center><img src="/img/horst_grassland_fox.png" width="150px"></center>
 
+<center><img src="/img/horst_openscapes_grassland_fox.png" width="100px"></center>
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
@@ -48,7 +48,7 @@ Learning to code should be fun, because you are learning powerful and empowering
 - [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/), rOpenSci, RLadies
 --->
 
-<center><img src="/img/horst_grassland_fox.png" width="150px"></center>
+<center><img src="/img/horst_openscapes_grassland_fox.png" width="100px"></center>
 
 ## R WITH RSTUDIO & GITHUB
 
@@ -59,7 +59,7 @@ We recommend using R with [RStudio](https://www.rstudio.com/), which not only pr
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
 - [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
 
-<br>
+<center><img src="/img/horst_openscapes_grassland_condor.png" width="100px"></center>
 
 ## OPENSCAPES LESSONS, MEDIA, & PRESENTATIONS
 

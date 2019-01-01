@@ -2,7 +2,6 @@
 title = "Champions Program"
 description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
-background = "horst_openscapes_mountains_texture.png"
 +++
 
 

@@ -101,7 +101,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>Openscapes is for environmental scientists by environmental scientists with the vision that we can get to environmental solutions faster if we are more open and collaborative with how we do science. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes. Original art by Allison Horst. </p>"
+    about_us = "<p>Openscapes is a program for environmental scientists by environmental scientists with the vision that we can uncover environmental solutions faster if we are more open and collaborative with how we do science. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes. Original art by Allison Horst. </p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 
 
     # Format dates with Go's time formatting

@@ -181,7 +181,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Openscapes Ethos"
-    subtitle = "Openscapes is about opening the landscapes of science, which means the full spectrum of openness. It means open science: open data, open knowledge, and using the internet for good. But, importantly, it also means open culture: collaboration, empathy, and kindness. It is about creating the positive culture we want in science, so we can do better science in less time." 
+    subtitle = "Openscapes is about opening the landscapes of science through community, data, and code. It means open science: open data, open knowledge, and using the internet for good. But, importantly, it also means open culture: collaboration, empathy, and kindness. It is about creating the positive culture we want in science, so we can do better science in less time." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 

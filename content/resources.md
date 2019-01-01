@@ -45,7 +45,7 @@ The scope of environmental research spans vastly different ecosystems, scales, a
 
 Learning to code should be fun, because you are learning powerful and empowering tools that will take your science to new heights. So do it with friends, and grow your community. 
 
-- [start a coding club](/blog/2018/11/20/how-to-start-a-coding-club/)
+- [start a coding club](/blog/2018/11/16/how-to-start-a-coding-club/)
 
 <!---
 - [build communities on campus] link to Moz study!
@@ -60,7 +60,7 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 - [Better science in less time](http://ohi-science.org/betterscienceinlesstime/)
 - [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
-- [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools)
+- [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools) <!---REDO and add: https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science, Stevens et al--->
 - [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
 
 <center><img src="/img/horst_openscapes_grassland_condor.png" width="100px"></center>

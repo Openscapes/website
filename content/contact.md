@@ -3,20 +3,17 @@ title = "Get Involved"
 id = "contact"
 +++
 
-## HOW WE WORK
-
-We work openly and materials are available at [github.com/openscapes](https://github.com/openscapes). We are @openscapes on [Twitter](https://twitter.com/openscapes) and [Medium](https://medium.com/@openscapes). 
+Openscapes is about communities of practice around open data science in environmental science. We welcome you to engage however best works for you. We are @openscapes on [Twitter](https://twitter.com/openscapes), and [Medium](https://medium.com/@openscapes), and [Github](https://github.com/openscapes). 
 
 <br>
 
 ## HOW TO GET INVOLVED
 
-<!---There are many ways you can [help build and strengthen communities at your institution](/blog/2018/12/06/building-communities/).  
+There are many ways you can [help build and strengthen communities at your institution](/blog/2018/11/06/build-communities/).  
+
 Additionally, you are warmly invited to:
---->
 
-You are warmly invited to:
-
+<br>
 
 **Amplify Openscapes & community efforts**
 
@@ -31,6 +28,8 @@ You are warmly invited to:
   
 <!--RStudio Community --->
 
+<br>
+
 **Participate in future Champions programs**   
 Provide your information [here]() to: TODO
 
@@ -38,9 +37,11 @@ Provide your information [here]() to: TODO
 - Nominate yourself as a Champions mentee
 - Request a workshop: we plan to offer the Champions lessons as a short-form workshop, and we can help you co-develop a proposal. 
 
+<br>
+
 **Development & design**  
 
-- Help us improve the website! In-house CSS and HTML skills are limited so please help us by contributing a [pull request](https://github.com/Openscapes/website) or tackling a known ["help please" issue](https://github.com/Openscapes/website/labels/help%20wanted)
+- Help us improve the website! In-house CSS and HTML skills are limited so please help us by contributing a [pull request](https://github.com/Openscapes/website) or tackling a known ["help please" issue](https://github.com/Openscapes/website/labels/help%20please)
 - Get in touch with any new ideas, suggestions, questions and comments — we’d love to hear what you want to do together!
 
 

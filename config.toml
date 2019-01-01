@@ -199,8 +199,8 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "Openscapes partners"
+    subtitle = "This is an option if we want to show logos here (centered and resized). Otherwise, we'll cut this section."
 
 [params.recent_posts]
     enable = true

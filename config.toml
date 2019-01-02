@@ -166,7 +166,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program" 
-    subtitle = "Openscapes Champions is a mentorship program for scientists to create more visible champions for open data science practices in environmental science. Since formal computing and data training are often not part of environmental education, Openscapes mentors early career researchers in leadership roles (e.g. faculty, lecturers, program managers) and provides them with the opportunity to engage with open data science practices and champion these practices in their labs, teaching, and departments."
+    subtitle = "Openscapes Champions is a mentorship program for scientists to create new champions for open data science and grow the community of practice in environmental science. Since formal computing and data training are often not part of environmental education, Openscapes mentors early career researchers in leadership roles (e.g. faculty, lecturers, program managers) and provides them with the opportunity to engage with open practices and champion them in their labs and departments."
 
  [params.workshops]
     enable = false

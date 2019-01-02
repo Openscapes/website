@@ -150,7 +150,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "The scope of environmental science spans vastly different ecosystems, scales, and organisms. But no matter what our research questions are, scientists are united by data. We all need to analyze data, and do so in a way that is efficient, reproducible, and easily communicated. **At Openscapes, we champion open practices in environmental science so we can uncover data-driven solutions faster**. Here’s how:"
+    subtitle = "**At Openscapes, we champion open practices in environmental science so we can uncover data-driven solutions faster**. The scope of environmental science spans vastly different ecosystems, scales, and organisms. But no matter what our research questions are, we are united by data. Scientists all need to analyze data, and do so in a way that is efficient, reproducible, and easily communicated. Using open data science philosophies, tools, and workflows specifically created to meet modern demands for collaborative data analysis, the Openscapes community champions better science in less time. "
 
 [params.testimonials] 
     enable = false  

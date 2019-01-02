@@ -5,7 +5,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-Openscapes Champions is a mentorship program for scientists to create more visible champions for open data science practices. 
+Openscapes Champions is a mentorship program for scientists to create more visible champions for open data science practices in environmental science. 
 
 Since formal computing and data training are often not part of environmental education, Openscapes mentors early career researchers in leadership roles (e.g. faculty, lecturers, program managers) and provides them with the opportunity to engage with open data science practices and champion these practices in their labs, teaching, and departments.
 

@@ -20,7 +20,7 @@ Openscapes Champions is a mentorship program for early career researchers in lea
 
 ## PURPOSE
 
-The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who frequently did not have formal computing training themselves — to value and enable these practices in their labs, teaching, and departments. Being an Openscapes Champion means having an open culture within their lab, with behavior that is modeled outwards to the broader campus community.
+The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who frequently did not have formal computing training themselves — to value and enable these practices in their labs and departments. Being an Openscapes Champion means having an open culture within their lab, with behavior that is modeled outwards to the broader campus community.
 
 <!---
 
@@ -40,7 +40,7 @@ There are also specific outcomes we expect of all Champions mentored through the
 - Champions' labs engage with open data science practices
   - dedicated lab meetings to discuss data and reproducible workflows
   - stated code of conduct or lab philosophy
-- Champions' lab members start a coding club on campus (ex: [Eco-Data-Science](http://eco-data-science.github.io/))  
+- Champions' labs join or start a coding club on campus (ex: [Eco-Data-Science](http://eco-data-science.github.io/))  
 
 Additionally, since Champions have different starting points and will engage in different ways throughout the program, we will share their individual outcomes as stories. 
 

@@ -42,13 +42,15 @@ The National Center for Ecological Analysis and Synthesis (NCEAS) conducts trans
 
 Mozilla is a global community of people creating a better Internet. They build public benefit into the Internet by creating free, open source products and technologies that improve the online experience for people everywhere.
 
+[Learn more](https://foundation.mozilla.org/en/) about Mozilla, and follow them on [Twitter](https://twitter.com/mozilla).
+
 [more]
 
 <center><img src="/img/horst_openscapes_arctic_puffins.png" width="100px"></center>
 
 ## JULIA STEWART LOWNDES
 
-Julia (also Julie) is a marine data scientist and Mozilla Fellow (2019), working to increase the value and practice of open environmental science by empowering researchers with existing open tools and communities. She has been working in this space since 2013 at NCEAS with the Ocean Health Index, building international communities of practice for ocean health. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. She is a [Carpentries](https://carpentries.org/) instructor and creator of OHI's [open data science training](http://ohi-science.org/data-science-training/), and is a co-founder of [Eco-Data-Science](http://eco-data-science.github.io/) and [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). [Learn more](jules32.github.io) about Julia and follow her on [Twitter](https://twitter.com/juliesquid). 
+Julia (also Julie) is a marine data scientist and Mozilla Fellow (2019), working to increase the value and practice of open environmental science by empowering researchers with existing open tools and communities. She has been working in this space since 2013 at NCEAS with the Ocean Health Index, building international communities of practice for ocean health. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. She is a [Carpentries](https://carpentries.org/) instructor and creator of OHI's [open data science training](http://ohi-science.org/data-science-training/), and is a co-founder of [Eco-Data-Science](http://eco-data-science.github.io/) and [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). [Learn more](http://jules32.github.io) about Julia and follow her on [Twitter](https://twitter.com/juliesquid). 
 
 <center><img src="/img/horst_openscapes_arctic_humpback.png" width="100px"></center>
 

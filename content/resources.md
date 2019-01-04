@@ -6,7 +6,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 *This page is under development and currently leverages previous work*.  
 
-This is a curated list of resources to welcome environmental scientists to deliberately engage in and be empowered by open tools and communities. It is not meant to be comprehensive of all the incredible resources out there, but is R focused and compiled following conversations with scientists to meet their immediate needs. <!---R focused for now --->
+This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science. It is not meant to be comprehensive of all the incredible resources out there, but is R-focused and compiled following conversations with scientists to meet their immediate needs. <!---R focused for now --->
 
 
 <br>
@@ -43,9 +43,10 @@ The scope of environmental research spans vastly different ecosystems, scales, a
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
-Learning to code should be fun, because you are learning powerful and empowering tools that will take your science to new heights. So do it with friends, and grow your community. 
+Learning to code should be fun, because you are learning powerful and empowering tools that will be game-changing for your science. So do it with friends, and grow your community. 
 
 - [start a coding club](/blog/2018/11/16/how-to-start-a-coding-club/)
+- [build communities on campus](/blog/2018/11/06/build-communities/)
 
 <!---
 - [build communities on campus] link to Moz study!

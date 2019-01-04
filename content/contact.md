@@ -17,7 +17,7 @@ Additionally, you are warmly invited to:
 
 **Amplify Openscapes & community efforts**
 
-- Join our community on [Twitter](https://twitter.com/openscapes)
+- Join our community on [Twitter](https://twitter.com/openscapes) to follow Champions and engage in the conversation
 - Include the importance of open practices in your next talks and publications, and tell us about it!
 - Talk to your colleagues. Welcome others to join our community and help recruit future Champions
 <!--- - Share your short story of how open data science practices have influenced your research --->
@@ -39,9 +39,15 @@ Provide your information [here]() to: TODO
 
 <br>
 
-**Development & design**  
+**Help with web design**  
 
 - Help us improve the website! In-house CSS and HTML skills are limited so please help us by contributing a [pull request](https://github.com/Openscapes/website) or tackling a known ["help please" issue](https://github.com/Openscapes/website/labels/help%20please)
 - Get in touch with any new ideas, suggestions, questions and comments — we’d love to hear what you want to do together!
 
+<br> 
 
+**Support us financially**
+
+We have a long-term vision for Openscapes to grow and provide much-needed mentorship for environmental scientists, and we would love to talk to you about it. 
+
+<br>

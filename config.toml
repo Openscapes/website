@@ -19,36 +19,31 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-    
-[[menu.main]]
     name = "Champions Program"
     identifier = "champions"
     url  = "/champions/"
-    weight = 2    
+    weight = 1    
 
 [[menu.main]]
     name = "Resources"
     identifier = "resources"
     url  = "/resources/"
-    weight = 3  
+    weight = 2  
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "About"
     url  = "/about/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Get Involved"
     url  = "/contact/"
-    weight = 6
+    weight = 5
 
 # Top bar social links menu
 
@@ -103,7 +98,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>Openscapes is a program for environmental scientists by environmental scientists with the vision that we can uncover environmental solutions faster if we are more open and collaborative with how we do science. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes. Original art by Allison Horst. </p>"
+    about_us = "<p>Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Stewart Lowndes.</p>"
     copyright = "Copyright (c) 2018, Openscapes; all rights reserved." 
 
     # Format dates with Go's time formatting
@@ -150,7 +145,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "**At Openscapes, we champion open practices in environmental science so that we can uncover data-driven solutions faster**. The scope of environmental science spans vastly different ecosystems, scales, and organisms. But no matter what our research questions are, we are united by the shared need to analyze data — and do so in a way that is efficient, reproducible, and easily communicated. By bridging environmental science with open data science philosophies, tools, workflows, and communities specifically created to meet modern demands for collaborative data analysis, we champion better science in less time. Here's how:"
+    subtitle = "**At Openscapes, we champion open practices in environmental science to uncover data-driven solutions faster**. No matter the research question, environmental scientists are united by the need to analyze data — and do so in a way that is efficient, reproducible, and easily communicated. With open tools and practices specifically created to meet modern demands for collaborative data science, we enable better science in less time. Here's how:"
 
 [params.testimonials] 
     enable = false  
@@ -166,7 +161,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program" 
-    subtitle = "Openscapes Champions is a mentorship program for scientists to create new champions for open data science and grow the community of practice in environmental science. Since formal computing and data training are often not part of environmental education, Openscapes mentors early career researchers in leadership roles (e.g. faculty, lecturers, program managers) and provides them with the opportunity to engage with open practices and champion them in their labs and departments."
+    subtitle = "Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice in their labs and departments."
 
  [params.workshops]
     enable = false
@@ -183,7 +178,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Openscapes Ethos"
-    subtitle = "Openscapes is about opening the landscapes of science through community, data, and code. It means open science: open data, open knowledge, and using the internet for good. But, importantly, it also means open culture: collaboration, empathy, and kindness. It is about creating the positive culture we want in science, so we can do better science in less time." 
+    subtitle = "Openscapes opens the landscapes of science through community, data, and code. This means promoting open science: open data, open knowledge, and using the internet for good. It also means open culture: collaboration, empathy, and kindness. We aim to create a positive open culture in science, so we can do better science in less time." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 
@@ -201,8 +196,8 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Openscapes partners"
-    subtitle = "This is an option if we want to show logos here (centered and resized). Otherwise, we'll cut this section."
+    title = ""
+    subtitle = "Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and incubated by Mozilla."
 
 [params.recent_posts]
     enable = true

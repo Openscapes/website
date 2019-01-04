@@ -4,9 +4,13 @@ description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Openscapes Champions is a mentorship program for scientists to create new champions for open data science and grow the community of practice in environmental science. 
+Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice. 
 
-Since formal computing and data training are often not part of environmental education, Openscapes mentors early career researchers in leadership roles (e.g. faculty, lecturers, program managers) and provides them with the opportunity to engage with open data science practices and champion them in their labs and departments.
+<br>
+
+## PURPOSE
+
+This is a program for early career researchers who are in leaderships roles – faculty, lecturers, program managers, etc. – that provides them mentorship to employ and promote open data science practices in their labs and campuses. It complements other efforts seeking to fill a gap left by graduate education, which often lacks formal computing and data training. 
 
 <!---Through mentorship meetings with Champions and members of their labs, Openscapes provides these emerging scientific leaders to have the opportunity to engage with existing open practices and guide their labs take the next steps appropriate for them.
 
@@ -16,11 +20,6 @@ Openscapes Champions is a mentorship program for early career researchers in lea
 
 --->
 
-<br>
-
-## PURPOSE
-
-The purpose of the Champions program is to welcome more scientists to the open tools, practices, and communities that can accelerate their research and help find environmental solutions faster. We complement existing efforts and communities by mentoring early career scientists — who frequently did not have formal computing training themselves — to value and enable these practices in their labs and departments. Being an Openscapes Champion means having an open culture within their lab, with behavior that is modeled outwards to the broader campus community.
 
 <!---
 
@@ -32,36 +31,46 @@ https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-da
 
 ## OUTCOMES
 
-The main outcome of the Openscapes Champions program is to create create new champions for open data science and grow the community of practice in environmental science.
+Being an Openscapes Champion means working towards an efficient, open culture within their lab, and modeling that behavior outwards to the broader campus community.
 
-There are also specific outcomes we expect of all Champions mentored through the program: 
+Openscapes Champions will be better equipped to achieve the following:
 
-- Champions promote open data science practices in their labs and departments
-- Champions' labs engage with open data science practices
+- Promote open data science practices in their labs and departments
+- Enable an open culture in their lab, such as having
   - dedicated lab meetings to discuss data and reproducible workflows
   - stated code of conduct or lab philosophy
-- Champions' labs join or start a coding club on campus (ex: [Eco-Data-Science](http://eco-data-science.github.io/))  
-
-Additionally, since Champions have different starting points and will engage in different ways throughout the program, we will share their individual outcomes as stories. 
+- Cultivate a local community of practice through coding clubs on campus (example: [Eco-Data-Science](http://eco-data-science.github.io/))
 
 <center><img src="/img/horst_openscapes_desert_tortoise.png" width="100px"></center>
 
 ## PROCESS
 
-The Openscapes Champions program focuses on 1) mentoring scientists to become Champions for open practices; 2) supporting Champions to improve open practices within their labs; and 3) amplifying Champions’ stories and successes online.
+Openscapes Champions is a five-month program designed to meet scientists where they are and help identify incremental steps to make their data workflows and lab culture more efficient and open.  lab. 
 
-The Openscapes Champions program is designed to meet scientists where they are and help identify incremental steps to make their data workflows more efficient and open. It is a five-month program modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/). It is done remotely, and it is scalable because mentees can become mentors for incoming cohorts while the operations and lesson development stay with a small core team. It also means that we welcome members of the broader open community to [get involved](/contact/).
+Openscapes empowers Champions by: 
 
-Champions will have one-on-one mentorship calls each month to discuss and strategize how to be more efficient, and to set, review, and meet goals. Additionally, there will be cohort calls twice each month with all Champions as well as members of their labs. Cohort calls are an opportunity to learn about existing tools and how to engage, meet other labs, discuss next steps, and stay accountable. Note: "lab" is broadly defined.
+1. mentoring scientists to become Champions for open practices; 
+2. supporting Champions to improve open practices within their labs; and 
+3. amplifying Champions’ stories and successes online.
 
+The program is modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which operates remotely through both one-on-one mentorship and group lessons that also include lab members. Champions and their labs will strategize and set goals while building relationships with other labs and staying accountable. Note: “lab” is broadly defined.
+
+
+<!---
+You don’t have to be a mentee to get involved in the culture shift. We welcome members of the broader scientific and open community to join us
+<p></p>
+<a href="/contact" class="btn btn-small btn-template-main">Get involved</a>
+<p></p>
+
+--->
 
 <center><img src="/img/horst_openscapes_desert_snake.png" width="150px"></center>
 
 ## MEET THE OPENSCAPES CHAMPIONS
 
-The inaugural cohort of 7 Champions starting in January 2019 was selected springing from informal conversations over several years. They include a marine aquaculture & fisheries scientist studying global systems, a lecturer of data science and statistics in an environmentally-focused graduate program, and an ecologist studying the impacts of climate change on ocean life.
+Our inaugural cohort of 7 Champions started in January 2019 and includes a variety of scientists – from a marine aquaculture & fisheries scientist to a lecturer of environmental data science and an marine ecologist studying the impacts of climate change.
 
-As we progress, we will share stories from our Openscapes Champions here. 
+Stay tuned to learn their stories.
 
 <center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
 
@@ -69,7 +78,7 @@ As we progress, we will share stories from our Openscapes Champions here.
 
 ## CHAMPIONS SERIES
 
-As the Champions program is developed for the inaugural cohort, the lessons will be found [here](https://openscapes.github.io/series/).
+Want to follow the lessons our Champions are learning? We are sharing them [here](https://openscapes.github.io/series/) as they unfold. 
 
 
 <!---

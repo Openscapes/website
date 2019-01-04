@@ -45,7 +45,7 @@ Openscapes Champions will be better equipped to achieve the following:
 
 ## PROCESS
 
-Openscapes Champions is a five-month program designed to meet scientists where they are and help identify incremental steps to make their data workflows and lab culture more efficient and open.  lab. 
+Openscapes Champions is a five-month program designed to meet scientists where they are and help identify incremental steps to make their data workflows and lab culture more efficient and open.  
 
 Openscapes empowers Champions by: 
 

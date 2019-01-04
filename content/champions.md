@@ -38,6 +38,7 @@ Openscapes Champions will be better equipped to achieve the following:
 - Promote open data science practices in their labs and departments
 - Enable an open culture in their lab, such as having
   - dedicated lab meetings to discuss data and reproducible workflows
+  - roadmap of data workflows and lab protocols
   - stated code of conduct or lab philosophy
 - Cultivate a local community of practice through coding clubs on campus (example: [Eco-Data-Science](http://eco-data-science.github.io/))
 

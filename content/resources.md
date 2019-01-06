@@ -4,9 +4,7 @@ description = "Openscapes resources"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-*This page is under development and currently leverages previous work*.  
-
-This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science. It is not meant to be comprehensive of all the incredible resources out there, but is R-focused and compiled following conversations with scientists to meet their immediate needs. <!---R focused for now --->
+This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science. It is not meant to be comprehensive of all the incredible resources out there, but is R-focused and compiled following conversations with scientists to meet their immediate needs. *This page is under development and currently leverages previous work*.  
 
 
 <br>

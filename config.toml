@@ -177,8 +177,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
-    title = "Openscapes Ethos"
-    subtitle = "Openscapes opens the landscapes of science through community, data, and code. This means promoting open science: open data, open knowledge, and using the internet for good. It also means open culture: collaboration, empathy, and kindness. We aim to create a positive open culture in science, so we can do better science in less time." 
+    title = "Vision & Ethos"
+    subtitle = "Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes opens the landscapes of science through community, data, and code. This means promoting open science: open data, open knowledge, and using the internet for good. It also means open culture: collaboration, empathy, and kindness. We aim to create a positive open culture in science, so we can do better science in less time." 
     # title = "Trainings and Workshops"
     # subtitle = "We will also do Trainings and Workshops..."
 

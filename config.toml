@@ -197,7 +197,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = ""
-    subtitle = "Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and incubated by Mozilla."
+    subtitle = "Openscapes is operated by the National Center for Ecological Analysis & Synthesis and incubated by Mozilla."
 
 [params.recent_posts]
     enable = true

@@ -57,10 +57,10 @@ Learning to code should be fun, because you are learning powerful and empowering
 
 We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
 
-- [Better science in less time](http://ohi-science.org/betterscienceinlesstime/)
+- [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
 - [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools) <!---REDO and add: https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science, Stevens et al--->
-- [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
+- [Better science in less time](http://ohi-science.org/betterscienceinlesstime/)
 
 <center><img src="/img/horst_openscapes_grassland_condor.png" width="100px"></center>
 

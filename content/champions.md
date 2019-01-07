@@ -10,7 +10,7 @@ Openscapes Champions is a mentorship program that empowers environmental scienti
 
 ## PURPOSE
 
-This is a program for early career researchers who are in leaderships roles – faculty, lecturers, program managers, etc. – that provides them mentorship to employ and promote open data science practices in their labs and campuses. It seeks to help fill a gap left by graduate education, which often lacks formal computing and data training. 
+This is a program for early career researchers who are in leaderships roles – faculty, lecturers, program managers, etc. – that provides mentorship for them to promote and enable open data science practices in their labs and campuses. It seeks to help fill a gap left by graduate education, which often lacks formal computing and data training. 
 
 Openscapes empowers scientists by: 
 
@@ -45,6 +45,7 @@ Openscapes Champions will be better equipped to:
 - Enable an open culture in their lab, such as having
   - dedicated “data workflow” lab meetings
   - stated code of conduct or lab philosophy
+  - beginnings of a lab roadmap of shared practices for data workflows
 - Cultivate a local community of practice through coding clubs on campus (example: [Eco-Data-Science](http://eco-data-science.github.io/))
 
 <center><img src="/img/horst_openscapes_desert_tortoise.png" width="100px"></center>

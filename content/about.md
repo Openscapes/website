@@ -40,12 +40,15 @@ Mozilla is a global community of people creating a better Internet. They build p
 
 ## OUR TEAM
 
-Openscapes has many contributors and supporters at NCEAS, Mozilla, and the broader open community, and we are very appreciative.
+Openscapes has many supportive contributors at NCEAS, Mozilla, and the broader open community. 
 
 **Julia Stewart Lowndes** (also Julie) is the founding lead of Openscapes. She is a marine data scientist and Mozilla Fellow at NCEAS, working to increase the value and practice of open environmental science by empowering researchers with existing open tools and communities. She has been building communities of practice in this space since 2013 with the Ocean Health Index after earning her PhD at Stanford University studying drivers and impacts of Humboldt squid in a changing climate. She is a [Carpentries](https://carpentries.org/) instructor and lead creator of the Ocean Health Index's [open data science training](http://ohi-science.org/data-science-training/), and is a co-founder of [Eco-Data-Science](http://eco-data-science.github.io/) and [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). [Learn more](http://jules32.github.io) about Julia and follow her on [Twitter](https://twitter.com/juliesquid).
 
+<center><img src="/img/horst_openscapes_arctic_crab.png" width="100px"></center>
 
-**Allison Horst** creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). You can see all of Allison's Openscapes ecosystems [here](/openscapes_art).
+## OPENSCAPES ART
+
+Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). You can see all of Allison's Openscapes ecosystems [here](/openscapes_art).
 
 <center><img src="/img/horst_openscapes_arctic_humpback.png" width="100px"></center>
 

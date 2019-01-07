@@ -4,7 +4,7 @@ description = "About"
 keywords = ["NCEAS","Mozilla","better science in less time"]
 +++
 
-Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and is being incubated by a [Mozilla](/about#MOZILLA) Fellowship awarded to [Julia Stewart Lowndes](/about#).
+Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and is being incubated by a [Mozilla](/about#MOZILLA) Fellowship awarded to [Julia Lowndes](/about#our-team).
 
 <center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
 

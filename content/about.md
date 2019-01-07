@@ -14,13 +14,11 @@ The Openscapes story starts with file names like "data_analysis_final_v2b.xls" �
 
 In 2013, when a team of scientists at the National Center for Ecological Analysis and Synthesis (NCEAS) was leading the second annual Ocean Health Index assessment, they found themselves struggling with unruly documentation buried in forwarded emails and knew they needed to find a better way to analyze data in a collaborative way. 
 
-So they turned to open source tools and practices – the same used by software engineers for collaborative projects. These resources and the supportive online communities around them were game-changers. Not only did the efficiency of the team's analyses increase, so too did their impact and reach thanks to open source communication channels. They found these results so empowering that they shared their story with the scientific community through [a paper](https://www.nature.com/articles/s41559-017-0160) in *Nature Ecology & Evolution*, led by Openscapes founder Julia Lowndes. 
+So they turned to open source tools – the same used by software engineers — and these resources and the supportive online communities around them were game-changers. Not only did the efficiency of the team's analyses increase, so too did their impact and reach thanks to open source communication channels. They found these results so empowering that they shared their story with the scientific community through [a paper](https://www.nature.com/articles/s41559-017-0160) in *Nature Ecology & Evolution*, led by Openscapes founder Julia Lowndes. 
 
 The ideas in that paper seeded the vision for Openscapes, and that vision became a reality in the fall of 2018, when Mozilla (yes, the internet advocacy group that brings you Firefox) awarded Julia a fellowship to launch the initiative. The long-term home of Openscapes will be with NCEAS, as an important component of its work in environmental data science and training. 
 
-As Openscapes moves forward, we look forward to opening the landscapes of science and sharing more stories to help create an efficient, open culture for science. If you work in the environmental science realm, we invite you to be part of this story. 
-
-We are all in this together. Let’s do better science in less time.
+As Openscapes moves forward, we look forward to opening the landscapes of science and sharing more stories to help create an efficient, open culture for science. If you work in the environmental science realm, we invite you to be part of this story. We are all in this together. Let’s do better science in less time.
 
 <center><img src="/img/horst_openscapes_arctic_urchins.png" width="100px"></center>
 

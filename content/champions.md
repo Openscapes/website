@@ -74,7 +74,7 @@ You don’t have to be a mentee to get involved in the culture shift. We welcome
 
 ## MEET THE OPENSCAPES CHAMPIONS
 
-Our inaugural cohort of 7 Champions started in January 2019 and includes a variety of scientists – from a marine aquaculture & fisheries scientist to a lecturer of environmental data science and an marine ecologist studying the impacts of climate change.
+Our inaugural cohort of 7 Champions started in January 2019 and includes a variety of scientists – from a marine aquaculture & fisheries scientist to a lecturer of environmental data science and an marine ecologist studying the impacts of climate change. [more!]
 
 Stay tuned to learn their stories.
 

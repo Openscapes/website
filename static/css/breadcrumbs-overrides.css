@@ -1,11 +1,7 @@
 #heading-breadcrumbs[data-title='Champions Program'] {
-  background-image: url('../img/horst_openscapes_mountains_texture.png') center center repeat;
-  padding: 20px 0;
-  margin-bottom: 40px;
+  background-image: url('../img/horst_openscapes_mountains_texture.png')
 }
 
 #heading-breadcrumbs[data-title=Resources] {
-  background-image: url('../img/horst_openscapes_desert_tortoise.png') center center repeat;
-  padding: 20px 0;
-  margin-bottom: 40px;
+  background-image: url('../img/horst_openscapes_desert_tortoise.png') 
 }

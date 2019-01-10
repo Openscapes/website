@@ -1,7 +1,15 @@
 #heading-breadcrumbs[data-title='Champions Program'] {
-  background-image: url('../img/horst_openscapes_mountains_texture.png')
+  background-image: url('../img/horst_openscapes_mountains_lowres.png')
 }
 
 #heading-breadcrumbs[data-title=Resources] {
+  background-image: url('../img/horst_openscapes_desert_breadcrumbs.png') 
+}
+
+#heading-breadcrumbs[data-title=About] {
+  background-image: url('../img/horst_openscapes_desert_tortoise.png') 
+}
+
+#heading-breadcrumbs[data-title='Get Involved'] {
   background-image: url('../img/horst_openscapes_desert_tortoise.png') 
 }

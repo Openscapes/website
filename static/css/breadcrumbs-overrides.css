@@ -6,10 +6,10 @@
   background-image: url('../img/horst_openscapes_desert_breadcrumbs.png') 
 }
 
-#heading-breadcrumbs[data-title=About] {
-  background-image: url('../img/horst_openscapes_desert_tortoise.png') 
+#heading-breadcrumbs[data-title=About] { 
+  background-image: url('../img/horst_openscapes_desert_breadcrumbs.png') 
 }
 
 #heading-breadcrumbs[data-title='Get Involved'] {
-  background-image: url('../img/horst_openscapes_desert_tortoise.png') 
+  background-image: url('../img/horst_openscapes_desert_breadcrumbs.png') 
 }

@@ -64,6 +64,15 @@ Learn more about Mozilla Study Groups:
 
 The advice above assumes that you've looked to see if there are already coding clubs that exist that you could join. In addition to seeing if there is a Mozilla Study Group near you, see if there is an R Users Group [Meetup](https://www.meetup.com/), [RLadies](https://rladies.org), or other non-R focused groups near you!
 
+## How to champion (what to do as a lab lead)
+
+If you are in a leadership position and students want to start a coding club, here is what you can do to help enable it:
+
+- help get rooms
+- subsize snack & beers
+- connect potentially interested people
+- help it be visible: talk about it on campus and beyond
+
 <br>
 
 <img src="/img/blog/mrlowndes_20150725-DSC_4217.jpg" width="300px">  

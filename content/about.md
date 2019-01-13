@@ -4,7 +4,7 @@ description = "About"
 keywords = ["NCEAS","Mozilla","better science in less time"]
 +++
 
-Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and is being incubated by a [Mozilla](/about#MOZILLA) Fellowship awarded to [Julia Lowndes](/about#our-team).
+**Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and is being incubated by a [Mozilla](/about#MOZILLA) Fellowship awarded to [Julia Lowndes](/about#our-team).**
 
 <center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
 
@@ -47,9 +47,13 @@ Julia Stewart Lowndes (also Julie) is the founding lead of Openscapes. She is a 
 
 ## OPENSCAPES ART
 
-Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). You can see all of Allison's Openscapes ecosystems [here](/openscapes_art).
+Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). You can see all of Allison's Openscapes ecosystems [here](/gallery).
 
 <center><img src="/img/horst_openscapes_arctic_humpback.png" width="100px"></center>
+
+## LOGO
+
+
 
 ## WEBSITE
 

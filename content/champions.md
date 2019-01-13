@@ -4,9 +4,9 @@ description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice. 
+**Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice.** 
 
-<br>
+<center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
 
 ## PURPOSE
 
@@ -74,11 +74,36 @@ You don’t have to be a mentee to get involved in the culture shift. We welcome
 
 ## MEET THE OPENSCAPES CHAMPIONS
 
-Our inaugural cohort of 7 Champions started in January 2019 and includes a variety of scientists – from a marine aquaculture & fisheries scientist to a lecturer of environmental data science and an marine ecologist studying the impacts of climate change. [more!]
+Our inaugural cohort of seven Champions started in January 2019:
+
+<br>
+
+[**Halley Froehlich, PhD**](https://halleyfroehlich.wordpress.com/) — University of California at Santa Barbara. 
+A marine aquaculture & fisheries scientist studying global systems. 
+
+[**Allison Horst, PhD**](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) — University of California at Santa Barbara. 
+A lecturer of data science and statistics in an environmentally-focused graduate program.
+
+[**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — University Maine. 
+A physiologist studying organismal adaptation to their habitat and effects of external environmental factors.
+
+[**Malin Pinsky, PhD**](http://pinsky.marine.rutgers.edu/) — Rutgers University.
+An ecologist studying the impacts of climate change on ocean life.
+
+[**Adrian Stier, PhD**](https://www.oceanrecoveries.com/) — University of California at Santa Barbara. 
+A marine ecologist studying recovery and resilience of ocean ecosystems. 
+
+[**Nina Therkildsen, PhD**](https://dnr.cals.cornell.edu/people/nina-therkildsen/) — Cornell University.  
+An evolutionary biologist using genomic analyses to improve marine conservation and fisheries management.
+
+[**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — University of Washington. 
+A ecologist studying marine and freshwater parasites and infectious disease in a changing world.
+
+<br>
 
 Stay tuned to learn their stories.
 
-<center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
+<center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 
 
 
@@ -94,6 +119,11 @@ A lecturer of data science and statistics in an environmentally-focused graduate
 An ecologist studying the impacts of climate change on ocean life.
   
 A marine aquaculture & fisheries scientist studying global systems. 
+
+We physiological and biochemical traits underlying organismal adaptation to their habitat and how these traits are altered in response to changes in physical and chemical environmental factors
+
+The unifying thread linking my work is the recovery and resilience of ocean ecosystems. I am motivated by a desire to deepen our basic understanding of how ecosystems are assembled and an urgent need to develop sustainable management strategies for coastal marine ecosystems.
+
 
 --->
 
@@ -114,6 +144,11 @@ Our inaugural cohort of Champions: we have six amazing individuals.
 
 <br>
 
+Adrian: 
+
+The unifying thread linking my work is the recovery and resilience of ocean ecosystems. I am motivated by a desire to deepen our basic understanding of how ecosystems are assembled and an urgent need to develop sustainable management strategies for coastal marine ecosystems.
+
+
 #### Nina Therkildsen, PhD
 
 > A jfaldkajfdkaj
@@ -133,7 +168,7 @@ Our inaugural cohort of Champions: we have six amazing individuals.
 
 <br>
 
-  
+Wood: chelsealwood.wordpress.com
 
 ---
 

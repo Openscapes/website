@@ -65,11 +65,11 @@ paginate = 10
     url = "http://twitter.com/openscapes"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
-#[[menu.topbar]]
-#    weight = 4
-#    name = "Email"
-#    url = "mailto:your@email.com"
-#    pre = "<i class='fa fa-2x fa-envelope'></i>"
+[[menu.topbar]]
+    weight = 3
+    name = "Email"
+    url = "mailto:openscapes@nceas.ucsb.edu"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -196,8 +196,8 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = ""
-    subtitle = "Openscapes is operated by the National Center for Ecological Analysis & Synthesis and incubated by Mozilla."
+    title = "Openscapes is operated by NCEAS and incubated by Mozilla"
+    subtitle = ""
 
 [params.recent_posts]
     enable = true

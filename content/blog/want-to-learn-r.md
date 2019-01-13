@@ -8,8 +8,10 @@ categories:
 tags:
   - coding
   - how-to
-banner: blog/introducing-openscapes/snyder.jpg
+banner: blog/mrlowndes_140512-1160-2.jpg
 ---
+
+# So you want to learn R
 
 So you want to learn R, where do you start? There are a lot of written and video tutorials and books and blogs online, but how do you navigate them? Our Ocean Health Index team put together a [list of the resources](http://ohi-science.org/news/Resources-for-R-and-Data-Science) we used to learn R that helped our team's [path to better science in less time](http://ohi-science.org/betterscienceinlesstime/). But this might still not be helpful for where ***you*** should actually start.
 
@@ -43,3 +45,7 @@ I would also recommend watching the [RStudio webinar](https://resources.rstudio.
 Continue with other tutorials from [list of the resources](http://ohi-science.org/news/Resources-for-R-and-Data-Science), including listening to podcasts, and learning how to build websites and books!
 
 <br>
+
+<img src="/blog/mrlowndes_20150725-DSC_4217.jpg" width="300px">  
+Photo by Elliot Lowndes
+

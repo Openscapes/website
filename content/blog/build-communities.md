@@ -8,8 +8,10 @@ categories:
 tags:
   - study group
   - how to
-banner: img/banners/banner-1.jpg
+banner: blog/mrlowndes20131007-131005-7311.jpg
 ---
+
+# Build communities
 
 Openscapes is built with the idea that we can model the open culture we want in science. It starts with making open data science more visible and valued in our communities. So what can you do? All of the following involve seeking out opportunities to engage and learn, including others, and amplifying your efforts. 
 
@@ -40,6 +42,6 @@ And if you are in a leadership role, in addition to all the above:
 
 <br>
 
-
-
+<img src="/blog/mrlowndes20131007-131005-7311.jpg" width="300px">  
+Photo by Elliot Lowndes
 

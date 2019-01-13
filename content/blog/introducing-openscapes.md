@@ -7,8 +7,10 @@ categories:
   - community
 tags:
   - medium.com
-banner: blog/introducing-openscapes/snyder.jpg
+banner: blog/snyder.jpg
 ---
+
+# Introducing Openscapes
 
 ***This article was originally published on [medium.com](https://medium.com/read-write-participate/introducing-openscapes-2cf8ed3b69d2)***
 
@@ -54,3 +56,8 @@ As part of Openscapes, I am developing a mentorship program that mentors early c
 Openscapes.org will (someday soon!) have an engaging homepage, empowering resources, and stories from the champions that describe where they started, what they did next and where they are now. Through Twitter, @openscapes will amplify successes (and challenges) and bridge communities. Openscapes.org and @openscapes will complement this blog to engage environmental science communities around open practices. The Champion program will likely be just one part of Openscapes, but I will save that for a future post.
 
 The first cohort of Openscapes is beginning soon, please stay tuned!
+
+<br>
+
+<img src="/blog/snyder.jpg" width="300px">  
+Photo by Julie Lowndes

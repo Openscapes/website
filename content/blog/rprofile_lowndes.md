@@ -7,8 +7,10 @@ categories:
   - community
 tags:
   - coding
-banner: img/banners/banner-2.jpg
+banner: blog/mrlowndes_20141123-DSC_1304.jpg
 ---
+
+# .rProfile Julia Stewart Lowndes
 
 ***This interview was [originally published](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/) by [rOpenSci](https://ropensci.org/) on February 9, 2018 as part of the [.rprofile series](https://ropensci.org/tags/rprofile/)***.
 
@@ -77,3 +79,8 @@ JSL: I think that the internet is changing the way that all this stuff can be in
 > I have conversations with grad students today that break my heart. They’re like, _I know I need to learn R, and someday I will go to the library and check out a stats book._ I’m like, _I love libraries, but GOOGLE IT._
 
 The internet makes this all easier, but learning to code from online resources and communities  is not yet the norm in science. I have conversations with grad students today that break my heart. They’re like, I know I need to learn R, and it’s this dread that is weighing on me, but someday I will go to the library and check out a stats book. I’m like, I love libraries, but GOOGLE IT. [Read Hadley’s books online](http://hadley.nz/), join the welcoming [#rstats community](https://twitter.com/hashtag/rstats) – I actually joined Twitter to learn R. The [tidyverse](https://www.tidyverse.org/) and the community and development around it have changed the game in three huge ways in my mind: The tools are more powerful, they meet and engage people where they are, and there is a huge emphasis on teaching and training. All the amazing media - online books, tutorials, videos, slide decks, podcasts, groups like [R-Ladies](https://rladies.org/) - all this stuff is there to help you learn more, no matter where you’re coming from. We need to help scientists expect that it’s there and that they are welcome too.
+
+<br>
+
+<img src="/blog/mrlowndes_20141123-DSC_1304.jpg" width="300px">  
+Photo by Elliot Lowndes

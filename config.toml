@@ -145,7 +145,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
     title = "What we do"
-    subtitle = "**At Openscapes, we champion open practices in environmental science to uncover data-driven solutions faster**. No matter the research question, environmental scientists are united by the need to analyze data — and do so in a way that is efficient, reproducible, and easily communicated. With open tools and practices specifically created to meet modern demands for collaborative data science, we enable better science in less time. Here's how:"
+    subtitle = "**At Openscapes, we champion open practices in environmental science to uncover data-driven solutions faster**. No matter the research question, environmental scientists are united by the need to analyze data — and to do so in a way that is efficient, reproducible, and easily communicated. With tools and practices specifically created to meet modern demands for collaborative data science, we enable better science in less time. Here's how:"
 
 [params.testimonials] 
     enable = false  
@@ -161,7 +161,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
     title = "Champions Program" 
-    subtitle = "Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice in their labs and departments."
+    subtitle = "Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice in their labs, departments, and beyond."
 
  [params.workshops]
     enable = false

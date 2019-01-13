@@ -18,7 +18,7 @@ Additionally, you are warmly invited to:
 **Amplify Openscapes & community efforts**
 
 - Join our community on [Twitter](https://twitter.com/openscapes) to follow Champions and engage in the conversation
-- Include the importance of open practices in your next talks and publications, and tell us about it!
+- Include the importance of open practices in your next talks and publications, and tell us about it! Tag us on [Twitter](https://twitter.com/openscapes)!
 - Talk to your colleagues. Welcome others to join our community and help recruit future Champions
 <!--- - Share your short story of how open data science practices have influenced your research --->
 - Help us reach new audiences: 

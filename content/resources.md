@@ -4,7 +4,7 @@ description = "Openscapes resources"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-**This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science.** It is not meant to be comprehensive of all the incredible resources out there, but is R-focused and compiled following conversations with scientists to meet their immediate needs. *This page is under development and currently leverages previous work*.  
+**This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science.** This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. *This page is under development and currently leverages previous work*.  
 
 <!---Some guidance is also listed as blogs; Please also check the searchable blog page --->
 
@@ -12,7 +12,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
 
-Thinking deliberately about data and embracing existing open tools and workflows for science increases efficiency, broadens the scientific questions to ask, introduces a network of online allies outside scientific domains, and makes it easier to ask for help.
+Thinking deliberately about data and embracing existing open tools and workflows for science increases efficiency, broadens the scientific questions that can be asked, introduces a network of online allies outside scientific domains, and makes it easier to ask for help.
 
 For example, the Ocean Health Index describes how open software and borrowing practices from software engineers was game-changing for collaborative coding and communication. 
 
@@ -42,7 +42,7 @@ The scope of environmental research spans vastly different ecosystems, scales, a
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
-Learning to code should be fun, because you are learning powerful and empowering tools that will be game-changing for your science. So do it with friends, and grow your community. 
+Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community. 
 
 - [start a coding club](/blog/2018/11/16/how-to-start-a-coding-club/)
 - [build communities on campus](/blog/2018/11/06/build-communities/)
@@ -68,7 +68,7 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 ## OPENSCAPES RESOURCES & PRESENTATIONS 
 <!---OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS --->
 
-While developing Openscapes, we have focused on communicating about it openly. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. 
+We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. 
 
 - [Presentations](/media/) — slides about Openscapes to various audiences
 - [Champions Series](https://openscapes.github.io/series/) — instructional materials for Openscapes Champions

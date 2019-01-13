@@ -4,10 +4,10 @@ description = "Openscapes resources"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science. It is not meant to be comprehensive of all the incredible resources out there, but is R-focused and compiled following conversations with scientists to meet their immediate needs. *This page is under development and currently leverages previous work*.  
+**This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science.** It is not meant to be comprehensive of all the incredible resources out there, but is R-focused and compiled following conversations with scientists to meet their immediate needs. *This page is under development and currently leverages previous work*.  
 
 
-<br>
+<center><img src="/img/horst_openscapes_grassland_oak.png" width="80px"></center>
 
 ## WORKING COLLABORATIVELY, OPENLY, & EFFICIENTLY
 
@@ -37,7 +37,7 @@ The scope of environmental research spans vastly different ecosystems, scales, a
 --->
 
 
-<center><img src="/img/horst_openscapes_grassland_deer.png" width="100px"></center>
+<center><img src="/img/horst_openscapes_grassland_fox.png" width="80px"></center>
 
 ## JOINING & BUILDING LEARNING COMMUNITIES
 
@@ -51,7 +51,7 @@ Learning to code should be fun, because you are learning powerful and empowering
 - [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/), rOpenSci, RLadies
 --->
 
-<center><img src="/img/horst_openscapes_grassland_fox.png" width="100px"></center>
+<center><img src="/img/horst_openscapes_grassland_deer.png" width="80px"></center>
 
 ## R WITH RSTUDIO & GITHUB
 
@@ -62,7 +62,7 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools) <!---REDO and add: https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science, Stevens et al--->
 - [Better science in less time](http://ohi-science.org/betterscienceinlesstime/)
 
-<center><img src="/img/horst_openscapes_grassland_condor.png" width="100px"></center>
+<center><img src="/img/horst_openscapes_grassland_condor.png" width="80px"></center>
 
 ## OPENSCAPES RESOURCES & PRESENTATIONS 
 <!---OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS --->

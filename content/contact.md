@@ -3,9 +3,9 @@ title = "Get Involved"
 id = "contact"
 +++
 
-Openscapes is about growing communities of practice around open data science in environmental science. We welcome you to engage however best works for you! We are @openscapes on [Twitter](https://twitter.com/openscapes), and [Medium](https://medium.com/@openscapes), and [Github](https://github.com/openscapes). 
+**Openscapes is about growing communities of practice around open data science in environmental science. We welcome you to engage however best works for you! We are @openscapes on [Twitter](https://twitter.com/openscapes), [Medium](https://medium.com/@openscapes), and [Github](https://github.com/openscapes).** 
 
-<br>
+<center><img src="/img/horst_openscapes_mountains_salmon.png" width="80px"></center>
 
 ## HOW TO GET INVOLVED
 

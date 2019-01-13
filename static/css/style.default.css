@@ -794,7 +794,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/horst_openscapes_grassland.png') center center repeat;
+  background: url('../img/horst_openscapes_grassland_1500px.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1144,7 +1144,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/horst_openscapes_grassland.png') center center repeat;
+  background: url('../img/horst_openscapes_grassland_1500px.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1727,8 +1727,8 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/horst_openscapes_desert_breadcrumbs.png') center center repeat;
-  padding: 20px 0;
+  background: url('../img/horst_openscapes_desert_breadcrumbs.png') top center repeat;
+  padding: 40px 0;
   margin-bottom: 40px;
 }
 #heading-breadcrumbs.no-mb {

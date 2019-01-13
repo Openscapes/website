@@ -9,7 +9,7 @@ categories:
 tags:
   - study group
   - how to
-banner: blog/mrlowndes_20150725-DSC_4217.jpg
+banner: img/blog/mrlowndes_20150725-DSC_4217.jpg
 ---
 
 # How to start a coding club
@@ -66,6 +66,6 @@ The advice above assumes that you've looked to see if there are already coding c
 
 <br>
 
-<img src="/blog/mrlowndes_20150725-DSC_4217.jpg" width="300px">  
+<img src="/img/blog/mrlowndes_20150725-DSC_4217.jpg" width="300px">  
 Photo by Elliot Lowndes
 

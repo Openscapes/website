@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - art
-banner: blog/personify-code/ggplot2_exploratory.png
+banner: img/blog/personify-code/ggplot2_exploratory.png
 ---
 
 
@@ -17,36 +17,36 @@ Openscapes Champion Allison Horst is doing this in part through her `personifyr`
 
 `ggplot2` creates beautiful visualizations to explore data...
 
-<center><img src="/blog/personify-code/ggplot2_exploratory.png" width="500px"></center>
+<center><img src="/img/blog/personify-code/ggplot2_exploratory.png" width="500px"></center>
 
 <br>
 
 ...and as final publication-worthy products
 
-<center><img src="/blog/personify-code/ggplot2_masterpiece.png" width="500px"></center>
+<center><img src="/img/blog/personify-code/ggplot2_masterpiece.png" width="500px"></center>
 
 <br>
 
 
 `lubridate` helps you work with dates and times
 
-<center><img src="/blog/personify-code/lubridate_ymd.png" width="500px"></center>
+<center><img src="/img/blog/personify-code/lubridate_ymd.png" width="500px"></center>
 
 <br>
 
 `sf` simplifies working with spatial data 
 
-<center><img src="/blog/personify-code/sf.png" width="500px"></center>
+<center><img src="/img/blog/personify-code/sf.png" width="500px"></center>
 
 <br> 
 
 `reprex` makes asking for help more helpful
 
-<center><img src="/blog/personify-code/reprex.png" width="500px"></center>
+<center><img src="/img/blog/personify-code/reprex.png" width="500px"></center>
 
 `R` is an open source language with increasing functionality available at lower start up costs for new users. This is because of recently established norms and best practices developed by the diverse and inclusive online R community. 
 
-<center><img src="/blog/personify-code/r_first_then.png" width="500px"></center>
+<center><img src="/img/blog/personify-code/r_first_then.png" width="500px"></center>
 
 <br> 
 

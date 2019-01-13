@@ -8,7 +8,7 @@ categories:
 tags:
   - coding
   - how-to
-banner: blog/mrlowndes_140512-1160-2.jpg
+banner: img/blog/mrlowndes_140512-1160-2.jpg
 ---
 
 # So you want to learn R
@@ -46,6 +46,6 @@ Continue with other tutorials from [list of the resources](http://ohi-science.or
 
 <br>
 
-<img src="/blog/mrlowndes_20150725-DSC_4217.jpg" width="300px">  
+<img src="/img/blog/mrlowndes_20150725-DSC_4217.jpg" width="300px">  
 Photo by Elliot Lowndes
 

@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - coding
-banner: blog/mrlowndes_20141123-DSC_1304.jpg
+banner: img/blog/mrlowndes_20141123-DSC_1304.jpg
 ---
 
 # .rProfile Julia Stewart Lowndes
@@ -82,5 +82,5 @@ The internet makes this all easier, but learning to code from online resources a
 
 <br>
 
-<img src="/blog/mrlowndes_20141123-DSC_1304.jpg" width="300px">  
+<img src="/img/blog/mrlowndes_20141123-DSC_1304.jpg" width="300px">  
 Photo by Elliot Lowndes

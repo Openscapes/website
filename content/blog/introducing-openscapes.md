@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - medium.com
-banner: blog/snyder.jpg
+banner: img/blog/snyder.jpg
 ---
 
 # Introducing Openscapes
@@ -59,5 +59,5 @@ The first cohort of Openscapes is beginning soon, please stay tuned!
 
 <br>
 
-<img src="/blog/snyder.jpg" width="300px">  
+<img src="/img/blog/snyder.jpg" width="300px">  
 Photo by Julie Lowndes

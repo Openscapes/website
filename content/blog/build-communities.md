@@ -8,7 +8,7 @@ categories:
 tags:
   - study group
   - how to
-banner: blog/mrlowndes20131007-131005-7311.jpg
+banner: img/blog/mrlowndes20131007-131005-7311.jpg
 ---
 
 # Build communities
@@ -42,6 +42,6 @@ And if you are in a leadership role, in addition to all the above:
 
 <br>
 
-<img src="/blog/mrlowndes20131007-131005-7311.jpg" width="300px">  
+<img src="/img/blog/mrlowndes20131007-131005-7311.jpg" width="300px">  
 Photo by Elliot Lowndes
 

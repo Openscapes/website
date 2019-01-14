@@ -74,7 +74,9 @@ You don’t have to be a mentee to get involved in the culture shift. We welcome
 
 ## MEET THE OPENSCAPES CHAMPIONS
 
-Our inaugural cohort of seven Champions started in January 2019:
+The Champions Program officially started in January 2019 with our inaugural cohort of seven Champions! 
+
+<!---springing from informal conversations over several years. Future cohorts will involve a more formal nomination and selection process. --->
 
 <br>
 
@@ -82,7 +84,7 @@ Our inaugural cohort of seven Champions started in January 2019:
 A marine aquaculture & fisheries scientist studying global systems. 
 
 [**Allison Horst, PhD**](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) — University of California at Santa Barbara. 
-A lecturer of data science and statistics in an environmentally-focused graduate program.
+A data science and statistics lecturer in an environmentally-focused graduate program.
 
 [**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — University of Maine. 
 A physiologist studying organismal adaptation to their habitat and effects of external environmental factors.

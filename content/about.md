@@ -30,10 +30,7 @@ The National Center for Ecological Analysis and Synthesis (NCEAS) conducts trans
 
 ## MOZILLA
 
-Mozilla is a global community of people creating a better Internet. They build public benefit into the Internet by creating free, open source products and technologies that improve the online experience for people everywhere. [more]
-
-[Learn more](https://foundation.mozilla.org/en/) about Mozilla, and follow them on [Twitter](https://twitter.com/mozilla).
-
+Mozilla believes the internet must always remain a global public resource, open and accessible to all. Its work is guided by the [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/). Mozilla focuses on fueling the movement for a healthy internet by supporting a diverse group of [fellows](https://foundation.mozilla.org/fellowships/directory) working on key internet issues; by connecting open internet leaders at events like [MozFest](https://mozillafestival.org/); by publishing critical research in the [Internet Health Report](https://internethealthreport.org/2018/); and by rallying citizens around advocacy issues that connect the wellbeing of the internet directly to everyday life. Follow Mozilla on [Twitter](https://twitter.com/mozilla).
 
 <center><img src="/img/horst_openscapes_arctic_puffins.png" width="100px"></center>
 
@@ -61,7 +58,7 @@ Our logo designed by Allison Horst represents both the open landscapes and the d
 
 <center><img src="/img/horst_openscapes_arctic_ship.png" width="100px"></center>
 
-## WEBSITE
+## OUR WEBSITE
 
 The Openscapes website was created by Julia Lowndes — using the same open data science workflows she uses for research and promotes through Openscapes. The website code is on [github](https://github.com/openscapes/website), and is created with RStudio's [blogdown](https://bookdown.org/yihui/blogdown/), using the [hugo-universal-theme](https://themes.gohugo.io//theme/hugo-universal-theme/).
 

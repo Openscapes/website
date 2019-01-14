@@ -10,6 +10,7 @@ tags:
 banner: img/blog/personify-code/ggplot2_exploratory.png
 ---
 
+# Personifying code
 
 Anything and everything we do to increase visibility of open practices and data science within environmental science communities is important. When we see things, it is easier to value them. 
 

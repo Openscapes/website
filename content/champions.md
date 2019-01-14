@@ -52,12 +52,12 @@ Openscapes Champions will be better equipped to:
 
 ## PROCESS
 
-The Openscapes Champions program meets scientists where they are to help identify incremental steps that will make their data workflows and lab culture more efficient and open. It is a five-month program that is led remotely.
+The Openscapes Champions program meets scientists where they are to help identify incremental steps that will make their data workflows and lab culture more efficient and open. It is a five-month program that is led remotely, with lessons designed for active participation by Champions and their lab members.
 
 Each month, Champions will:
 
 - strategize through one-on-one mentorship calls
-- learn about existing tools & practices through group calls that also include lab members
+- learn about existing tools & practices through two group calls that also include lab members
 - set, review, and meet goals while building relationships and staying accountable 
 
 The program is modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which provides training, mentorship, and best practices for working and leading in an open way.
@@ -84,7 +84,7 @@ A marine aquaculture & fisheries scientist studying global systems.
 [**Allison Horst, PhD**](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) — University of California at Santa Barbara. 
 A lecturer of data science and statistics in an environmentally-focused graduate program.
 
-[**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — University Maine. 
+[**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — University of Maine. 
 A physiologist studying organismal adaptation to their habitat and effects of external environmental factors.
 
 [**Malin Pinsky, PhD**](http://pinsky.marine.rutgers.edu/) — Rutgers University.
@@ -93,7 +93,7 @@ An ecologist studying the impacts of climate change on ocean life.
 [**Adrian Stier, PhD**](https://www.oceanrecoveries.com/) — University of California at Santa Barbara. 
 A marine ecologist studying recovery and resilience of ocean ecosystems. 
 
-[**Nina Therkildsen, PhD**](https://dnr.cals.cornell.edu/people/nina-therkildsen/) — Cornell University.  
+[**Nina Therkildsen, PhD**](https://dnr.cals.cornell.edu/people/nina-therkildsen/) — Cornell University. 
 An evolutionary biologist using genomic analyses to improve marine conservation and fisheries management.
 
 [**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — University of Washington. 

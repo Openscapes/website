@@ -9,7 +9,7 @@ id = "contact"
 
 ## HOW TO GET INVOLVED
 
-You are warmly invited to get involved in the many ways below. Additionally, please [join our mailing list]() to be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
+You are warmly invited to get involved in the many ways below. Additionally, please join our mailing list to be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
 
 <br>
 

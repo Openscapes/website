@@ -61,7 +61,6 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 - [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
 - [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
 - [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools) <!---REDO and add: https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science, Stevens et al--->
-- [Better science in less time](http://ohi-science.org/betterscienceinlesstime/)
 
 <center><img src="/img/horst_openscapes_grassland_condor.png" width="80px"></center>
 

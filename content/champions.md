@@ -95,7 +95,7 @@ An ecologist studying the impacts of climate change on ocean life.
 [**Adrian Stier, PhD**](https://www.oceanrecoveries.com/) — University of California at Santa Barbara. 
 A marine ecologist studying recovery and resilience of ocean ecosystems. 
 
-[**Nina Therkildsen, PhD**](https://dnr.cals.cornell.edu/people/nina-therkildsen/) — Cornell University. 
+[**Nina Therkildsen, PhD**](https://www.therkildsenlab.com/) — Cornell University. 
 An evolutionary biologist using genomic analyses to improve marine conservation and fisheries management.
 
 [**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — University of Washington. 

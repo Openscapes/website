@@ -44,7 +44,7 @@ Julia Stewart Lowndes (also Julie) is the founding director of Openscapes. She i
 
 ## OUR ART
 
-Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
+Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. She is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
 
 See all of Allison's open landscapes on the [**gallery page**](/gallery).
 

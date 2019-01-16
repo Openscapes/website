@@ -108,14 +108,13 @@ Stay tuned to learn their stories.
 <center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 
 
+## CHAMPIONS SERIES
 
+Want to follow the lessons our Champions are learning? We are sharing them [here](https://openscapes.github.io/series/) as they unfold. 
 
 
 <!---
 
-## CHAMPIONS SERIES
-
-Want to follow the lessons our Champions are learning? We are sharing them [here](https://openscapes.github.io/series/) as they unfold. 
 
 
 A lecturer of data science and statistics in an environmentally-focused graduate program.  

@@ -109,12 +109,14 @@ Stay tuned to learn their stories.
 
 
 
+
+
+<!---
+
 ## CHAMPIONS SERIES
 
 Want to follow the lessons our Champions are learning? We are sharing them [here](https://openscapes.github.io/series/) as they unfold. 
 
-
-<!---
 
 A lecturer of data science and statistics in an environmentally-focused graduate program.  
  

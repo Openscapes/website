@@ -1,7 +1,7 @@
 ---
 title: Personifying code
 author: Julie Lowndes
-date: '2018-12-24'
+date: '2019-01-25'
 slug: personify-code
 categories:
   - community
@@ -28,6 +28,12 @@ Openscapes Champion Allison Horst is doing this in part through her `personifyr`
 
 <br>
 
+`gganimate` lets you animate those graphics
+
+<center><img src="/img/blog/personify-code/gganimate_fireworks.png" width="500px"></center>
+
+<br>
+
 
 `lubridate` helps you work with dates and times
 
@@ -45,6 +51,20 @@ Openscapes Champion Allison Horst is doing this in part through her `personifyr`
 
 <center><img src="/img/blog/personify-code/reprex.png" width="500px"></center>
 
+<br>
+
+`here` makes working with filepaths a dream
+
+<center><img src="/img/blog/personify-code/here.png" width="500px"></center>
+
+<br> 
+
+`RMarkdown` combines text and code into beautiful reports like magic 
+
+<center><img src="/img/blog/personify-code/rmarkdown_wizards.png" width="500px"></center>
+
+<br> 
+
 `R` is an open source language with increasing functionality available at lower start up costs for new users. This is because of recently established norms and best practices developed by the diverse and inclusive online R community. 
 
 <center><img src="/img/blog/personify-code/r_first_then.png" width="500px"></center>
@@ -57,6 +77,6 @@ Allison's art represents these R operations and the spirit of the online communi
 
 I am so impressed by the `personifyr` series in so many ways. Not only by Allison's artistic talent, which is broad and deep, spanning styles and media (fine art and digital) in ways I appreciate but do not have the vocabulary to describe. But I am also so impressed by her ability to break down and communicate complex topics, and her creativity in representing it all in such an engaging and colorful way. To imagine these programming operations as personalities, and to bring to life what they would be doing is such an incredible skill, full stop. And then additionally to have the artistic ability to match is such a gift to us all. What a powerful way to engage the community of R users and data scientists, and welcome the others, including environmental scientists, to see and value these practices as well. 
 
-Enjoy Allison's full `personifyr` series [here](https://github.com/allisonhorst/stats-illustrations#rstats-twitter-artwork).
+Enjoy Allison's full `personifyr` series — and more — [here](https://github.com/allisonhorst/stats-illustrations#rstats-twitter-artwork).
 
-
+<br>

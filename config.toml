@@ -173,7 +173,7 @@ paginate = 10
 
 
 [params.testimonials3]  
-    enable = true 
+    enable = false 
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README. 
@@ -197,7 +197,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Operated by NCEAS and incubated by Mozilla"
-    subtitle = ""
+    subtitle = "Openscapes bridges environmental synthesis science with the open movement. Learn more [about us](/about/)."
 
 [params.recent_posts]
     enable = true

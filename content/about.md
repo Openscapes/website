@@ -4,7 +4,7 @@ description = "About"
 keywords = ["NCEAS","Mozilla","better science in less time"]
 +++
 
-**Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and is being incubated by a [Mozilla](/about#MOZILLA) Fellowship awarded to [Julia Lowndes](/about#our-team).**
+**Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by a [Mozilla](/about#MOZILLA) Fellowship awarded to [Julia Lowndes](/about#our-team).**
 
 <center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
 
@@ -42,6 +42,12 @@ Julia Stewart Lowndes (also Julie) is the founding director of Openscapes. She i
 
 <center><img src="/img/horst_openscapes_arctic_crab.png" width="100px"></center>
 
+## OUR VISION & ETHOS
+
+Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes opens the landscapes of science by growing communities of practice around environmental open data science. This means promoting open science and using the internet for good. It also means enabling open culture driven by collaboration, empathy, and kindness. We aim to create a positive open culture in science, so we can do better science in less time.
+
+<center><img src="/img/horst_openscapes_arctic_ship.png" width="100px"></center>
+
 ## OUR ART
 
 Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. She is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
@@ -56,10 +62,10 @@ Our logo designed by Allison Horst represents both the open landscapes and the d
 
 <img src="/img/openscapes_hex_design_final_correct_dimensions.png" width="200px">
 
-<center><img src="/img/horst_openscapes_arctic_ship.png" width="100px"></center>
+<br>
 
 ## OUR WEBSITE
 
 The Openscapes website was created by Julia Lowndes — using the same open data science workflows she uses for research and promotes through Openscapes. The website code is on [github](https://github.com/openscapes/website), and is created with RStudio's [blogdown](https://bookdown.org/yihui/blogdown/), using the [hugo-universal-theme](https://themes.gohugo.io//theme/hugo-universal-theme/).
 
-<br>
+<br> 

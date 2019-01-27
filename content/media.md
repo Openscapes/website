@@ -9,6 +9,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES PRESENTATIONS
 
+- The power of open science: experience from the Ocean Health Index and Openscapes - *upcoming April 15, 2019*: Department Seminar, Bren School of Environmental Science and Management, University of California, Santa Barbara, California (45 minutes)
 
 - [Enabling Open Leaders & Open Culture in Science](https://docs.google.com/presentation/d/17owW5RlOKrVdlWzpE-dayadVVwKh5F3RWBkHqzB-DbM/edit?usp=sharing) - December 6, 2018: Mozilla All Hands Meeting, Orlando, Florida (5 minutes)
 

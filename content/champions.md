@@ -46,7 +46,7 @@ Openscapes Champions will be better equipped to:
   - dedicated “data workflow” lab meetings
   - stated code of conduct or lab philosophy
   - beginnings of a lab roadmap of shared practices for data workflows
-- cultivate a local community of practice through coding clubs on campus (example: [Eco-Data-Science](http://eco-data-science.github.io/))
+- cultivate a local community of practice through study groups on campus (example: [Eco-Data-Science](http://eco-data-science.github.io/))
 
 <center><img src="/img/horst_openscapes_desert_tortoise.png" width="100px"></center>
 

@@ -30,7 +30,7 @@ Plan for most sessions to be hand-on: have everyone bring their laptops and have
 
 ## Start with existing tutorials
 
-The internet is full of great tutorials made by really kind and smart people. Use them. They might not be within your scientific context, and that is OK, maybe better, even. Start by watching a video of someone giving a tutorial on a topic of interest. Then have someone teach from an existing written tutorial. When you get to a point where there is a topic you want to learn or teach and you can't find a tutorial that suits your purpose, make your own!
+The internet is full of great tutorials made by really kind and smart people. Use them. They might not be within your scientific context, and that is OK, maybe better, even. In your first sessions, watch a video together of someone teaching a topic of interest. Then have someone teach live from an existing written tutorial. When you get to a point where there is a topic you want to learn or teach and you can't find a tutorial that suits your purpose, make your own!
 
 Where to start? Here are some [R/RStudio and GitHub recommendations](http://ohi-science.org/betterscienceinlesstime/resources_and_community) that helped us learn. They are tutorials and also academic papers for journal clubs. (Note: some are more hands-on than others).
 

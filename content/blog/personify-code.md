@@ -1,7 +1,7 @@
 ---
 title: Personifying code
 author: Julie Lowndes
-date: '2019-01-21'
+date: '2019-01-15'
 slug: personify-code
 categories:
   - community

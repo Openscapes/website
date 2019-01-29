@@ -74,11 +74,13 @@ It is really empowering that I, who am not a web designer or publisher, am able 
 
 ## One month update
 
-The Openscapes Champions program began in January and has already had our first one-on-one mentorship calls and two Cohort Calls. There are assignments following each call; the first was to read *Lowndes et al. 2017*, and the second was to have a data-workflow-specific lab meeting to begin listing the lab's approaches to reproducibility, collaboration, and communication. More on this in another post! And I will also introduce the Champions and their labs, who are working on really critical environmental questions.
+The Openscapes Champions program began in January and has already had our first one-on-one mentorship calls and two Cohort Calls. They seem to be going well! On the second call we had 15 lab members in addition to the 7 Champions and there has been good feedback during and after the calls. We've had good discussions, including on topics like "how do you help people learn from each other in the lab, particularly with lots of turnover?", "how do you reduce the time it takes to get back into a project from months ago?", and "what's a good way to set up GitHub for the lab?" Each call we end with some "efficiency tips", which so far have been keyboard shortcuts that are incredibly satisfying time-savers. 
 
-So far, I've learned that I need to leave even more time for discussion, since we have had some really interesting conversations so far. Just having the time and place to think and talk about these issues is valuable, but it also means I need to be more compact with what I want to teach. While I have a plan for the Series, I am constantly trying to incorporate Champions' needs and questions into it so that this experience is as valuable as possible. 
+I've learned that I need to leave even more time for discussion, both as a group and in the breakout groups. Having the time and place to think and talk about these issues is valuable, and I need to balance it and become more compact with what I want to teach. While I have a plan for the Series, I am constantly trying to incorporate Champions' needs and questions into it so that this experience is as valuable as possible. There will be many improvements and as we go along.
 
-<!---So far, there have been a lot of questions on how to store data that is organized and accommodates different formats and permissions to allow sharing within the lab and with different collaborators. --->
+We have started thinking about and cataloging the labs' approaches to reproducibility, collaboration, and communication, which we will use to help identify places for incremental improvement to prioritize next steps. More on this in another post! And I will also introduce the Champions and their labs, who have been really great and working on exciting and critical environmental questions.
+
+<!--- So far, there have been a lot of questions on how to store data that is organized and accommodates different formats and permissions to allow sharing within the lab and with different collaborators. --->
 
 <!---
 We have already had discussions like 
@@ -92,3 +94,4 @@ By mentoring early career researchers in leadership roles, Openscapes helps crea
 
 We are excited to help grow the community of practice by mentoring and supporting scientists to champion open practices in their labs and departments! 
 
+<br>

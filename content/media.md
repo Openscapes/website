@@ -1,15 +1,21 @@
 +++
-title = "Presentations"
+title = "Media and Presentations"
 description = "Openscapes Slides"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-<!--- ## OPENSCAPES MEDIA  --->
+## OPENSCAPES MEDIA
+
+- [Announcing Openscapes: Open Science is Better Science](https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5) - Mozilla. January 29, 2019. *Medium.*
+
+<br>
 
 ## OPENSCAPES PRESENTATIONS
 
 - The power of open science: experience from the Ocean Health Index and Openscapes - *upcoming April 15, 2019*: Department Seminar, Bren School of Environmental Science and Management, University of California, Santa Barbara, California (45 minutes)
+
+- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1LwHpLQvIVeDoTNlZfrzpiYTifY4P9rGuqVq9TS9iFPI/edit?usp=sharing) - February 8, 2019: Palo Alto University Rotarty Club Meeting, Palo Alto, California (20 minutes)
 
 - [Enabling Open Leaders & Open Culture in Science](https://docs.google.com/presentation/d/17owW5RlOKrVdlWzpE-dayadVVwKh5F3RWBkHqzB-DbM/edit?usp=sharing) - December 6, 2018: Mozilla All Hands Meeting, Orlando, Florida (5 minutes)
 

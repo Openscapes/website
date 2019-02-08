@@ -64,12 +64,11 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 <center><img src="/img/horst_openscapes_grassland_condor.png" width="80px"></center>
 
-## OPENSCAPES RESOURCES & PRESENTATIONS 
-<!---OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS --->
+## OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS
 
 We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. 
 
-- [Presentations](/media/) — slides about Openscapes to various audiences
+- [Media & Presentations](/media/) — media and slides about Openscapes for various audiences
 - [Champions Series](https://openscapes.github.io/series/) — instructional materials for Openscapes Champions
 
 

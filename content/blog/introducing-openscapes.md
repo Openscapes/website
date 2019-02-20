@@ -60,4 +60,3 @@ The first cohort of Openscapes is beginning soon, please stay tuned!
 <br>
 
 <img src="/img/blog/snyder.jpg" width="300px">  
-Photo by Julie Lowndes

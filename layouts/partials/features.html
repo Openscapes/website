@@ -1,15 +1,18 @@
 {{ if isset .Site.Params "features" }}
 {{ if .Site.Params.features.enable }}
 {{ if gt (len .Site.Data.features) 0 }}
-<section class="bar background-white">
+<section class="bar background-white no-mb">
     <div class="container">
        <div class="row">
+         <div class="col-md-12">
            <div class="heading text-center">
                <h2>{{ .Site.Params.features.title }}</h2>
            </div>
+           
            <p class="lead">
             {{ .Site.Params.features.subtitle | markdownify }}
           </p>
+          
           <br></br>
         {{ range $index, $element := sort .Site.Data.features "weight" }}
 		{{ if eq (mod $index 3) 0 }}
@@ -30,6 +33,7 @@
 		</div>
 		{{ end }}
         {{ end }}
+    </div>
     </div>
     </div>
 </section>

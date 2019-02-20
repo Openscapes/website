@@ -95,3 +95,6 @@ By mentoring early career researchers in leadership roles, Openscapes helps crea
 We are excited to help grow the community of practice by mentoring and supporting scientists to champion open practices in their labs and departments! 
 
 <br>
+
+<img src="/img/blog/mrlowndes_150127-7169-Edit.jpg" width="300px">  
+Photo by Elliot Lowndes

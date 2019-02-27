@@ -15,6 +15,8 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 - The power of open science: experience from the Ocean Health Index and Openscapes - *upcoming April 15, 2019*: Department Seminar, Bren School of Environmental Science and Management, University of California, Santa Barbara, California (45 minutes)
 
+- [How mentorship & community enables better science in less time](https://docs.google.com/presentation/d/17d-G0lgLxuJtMF0T6MTIczpyat1aW-RaMQMF5kwpxPw/edit?usp=sharing) - February 21, 2019: [Mozilla Science Fellows Summit](http://mozillasciencefellows.com/), New York City, New York (5 minutes)
+
 - [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1LwHpLQvIVeDoTNlZfrzpiYTifY4P9rGuqVq9TS9iFPI/edit?usp=sharing) - February 8, 2019: [Palo Alto University Rotary Club Meeting](https://portal.clubrunner.ca/4633/Speakers/709a97af-74d2-4fe3-976e-f4572d393f41), Palo Alto, California (20 minutes)
 
 - [Enabling Open Leaders & Open Culture in Science](https://docs.google.com/presentation/d/17owW5RlOKrVdlWzpE-dayadVVwKh5F3RWBkHqzB-DbM/edit?usp=sharing) - December 6, 2018: Mozilla All Hands Meeting, Orlando, Florida (5 minutes)

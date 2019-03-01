@@ -110,8 +110,11 @@ Stay tuned to learn their stories.
 
 ## CHAMPIONS SERIES
 
-Want to follow the lessons our Champions are learning? We are sharing them [here](https://openscapes.github.io/series/) as they unfold. 
+So what do we teach during five months of remote calls with Champions and their labs? 
 
+The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. 
+
+The [Openscapes Lessons Series](https://openscapes.github.io/series/) is being developed for and used for the inaugaral cohort during twice-monthly cohort calls. It is freely available for anyone to use. It is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). This paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make similar progress themselves, no matter where they are starting from. 
 
 <!---
 

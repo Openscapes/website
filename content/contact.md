@@ -52,6 +52,6 @@ Would you like to be involved? Please [provide your information](https://docs.go
 
 **Support us financially**
 
-We have a long-term vision for Openscapes to grow and provide much-needed mentorship for environmental scientists. Support will help develop and coordinate programs, and fund travel and scholarships for workshops. We would love to talk to you about it: please [get in touch](mailto:openscapes@nceas.ucsb.edu).
+We have a long-term vision for Openscapes to grow and provide much-needed mentorship for environmental scientists. Support will help develop, coordinate, and scale up programs, and fund travel and scholarships for workshops. We would love to talk to you about it: please [get in touch](mailto:openscapes@nceas.ucsb.edu).
 
 <br>

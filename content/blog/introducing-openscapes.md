@@ -12,7 +12,7 @@ banner: img/blog/snyder.jpg
 
 # Introducing Openscapes
 
-***This article was originally published on [medium.com](https://medium.com/read-write-participate/introducing-openscapes-2cf8ed3b69d2)***
+***This article was originally published on [medium.com](https://medium.com/read-write-participate/introducing-openscapes-2cf8ed3b69d2)***  
 
 *I wrote this blog in preparation for MozFest — Mozilla’s annual festival for the open internet — October 2018, in London. I am a Mozilla Fellow, and I presented the idea of Openscapes, which will help increase the value of open practices within environmental science by engaging, empowering, and amplifying individuals.*
 

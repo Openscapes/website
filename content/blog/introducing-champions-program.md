@@ -10,6 +10,8 @@ banner: img/blog/mrlowndes_150127-7169-Edit.jpg
 
 # Introducing the Champions program
 
+***This article was originally published on [medium.com](https://medium.com/read-write-participate/introducing-the-openscapes-champions-program-daba0acad4c8)***
+
 *By engaging, empowering, and amplifying scientists with cross-cutting open data science approaches, Openscapes aims to create a more efficient and collaborative open culture in environmental science, to enable better science in less time. Openscapes centers around the Champions program, which is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice.* 
 
 ----

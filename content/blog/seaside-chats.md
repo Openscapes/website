@@ -59,6 +59,7 @@ Similarly, in Bayside Chats, the Wood Lab has met to discuss reproducible resear
 
 > [In Bayside Chats], we are thinking about how to build redundancy in our lab for knowledge about reproducible research tools.
 
+In Bluffside Chats at UCSB, Allison Horst and Jessica Couture did a self-audit of how they were organizing and sharing materials for the courses they teach. They realized they could streamline where things lived to increase efficiency with working with each other, but also so that students would have one go-to place to find everything they need. Leaving the first Bluffside Chat with a solid plan, they have been putting this plan into practice in subsequent weeks. 
 
 ## Towards shared practices
 

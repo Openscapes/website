@@ -99,7 +99,7 @@ A marine ecologist studying recovery and resilience of ocean ecosystems.
 An evolutionary biologist using genomic analyses to improve marine conservation and fisheries management.
 
 [**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — University of Washington. 
-A ecologist studying marine and freshwater parasites and infectious disease in a changing world.
+An ecologist studying marine and freshwater parasites and infectious disease in a changing world.
 
 <br>
 

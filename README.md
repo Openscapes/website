@@ -14,6 +14,12 @@ blogdown::update_hugo()
 blogdown::new_site(theme = "devcows/hugo-universal-theme")
 ```
 
+How to include a redirect: 
+
+Go to `/content/_redirects` and add for example: 
+
+`/summit2019/ http://openscapes.github.io/summit2019`
+
 How to incorporate html into the config file: 
 
 ```

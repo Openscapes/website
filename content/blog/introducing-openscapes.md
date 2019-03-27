@@ -18,10 +18,6 @@ banner: img/blog/snyder.jpg
 
 ----
 
-<center><img src="/blog/introducing-openscapes/snyderpano.jpg" width="800px"></center>
-
-<br>
-
 
 As you know, we are currently facing some of the biggest environmental challenges of our time. Our food and freshwater systems are threatened by drought and pollution, climate change is producing more frequent and severe wildfires and hurricanes, and we are only just realizing the ubiquity and impacts of plastics in oceans and animals.
 

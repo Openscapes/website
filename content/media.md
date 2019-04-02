@@ -7,9 +7,12 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES MEDIA
 
+- [A Rising Tide: Funding Ocean Science](https://www.sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) - Science Philanthropy Alliance. April 1, 2019. *Alliance blog post.*
+
 - [Julie Lowndes Wants the Force of Open Data Science to Be with You](https://www.nceas.ucsb.edu/news/nceas-portrait-julie-lowndes) — NCEAS. March 12, 2019. *NCEAS Portrait*.
 
 - [Announcing Openscapes: Open Science is Better Science](https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5) - Mozilla. January 29, 2019. *Medium.*
+
 
 <br>
 

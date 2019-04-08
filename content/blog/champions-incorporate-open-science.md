@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - medium.com
-banner: img/blog/snyder.jpg
+banner: img/blog/mrlowndes20131007-131005-7311_520x480.jpg
 ---
 
 # Openscapes Champions incorporate open practices in their science
@@ -135,5 +135,5 @@ Dr. Wood’s lab is launching a new research initiative to understand long-term 
 
 <br>
 
-<img src="/img/blog/mrlowndes20131007-131005-7311.jpg" width="300px">  
+<img src="/img/blog/mrlowndes20131007-131005-7311_520x480.jpg" width="300px">  
 Photo by Elliot Lowndes

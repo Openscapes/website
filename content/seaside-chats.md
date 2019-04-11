@@ -8,7 +8,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## SEASIDE CHAT TOPICS
 
-*Preamble. This is a running list, curated and opinionated. Last updated April 2019*
+*Preamble. This is a running list, curated and opinionated. Last updated April 2019. See also our blog post about [Champions' Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/).* 
 
 <!---
 Struggling where to start. Streamline the searching for the perfect tutorials

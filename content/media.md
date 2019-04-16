@@ -22,7 +22,10 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 <!--- How mentoRship & community enables betteR science in less time --->
 
-- The power of open data science: experience from the Ocean Health Index and Openscapes - *upcoming April 15, 2019*: Department Seminar, Bren School of Environmental Science and Management, University of California, Santa Barbara, California (45 minutes)
+- Enabling better science in less time (tentative title)- *upcoming May 8, 2019*: Talk, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA
+
+
+- [How the Ocean Health Index enables better science in less time](https://docs.google.com/presentation/d/1vqUJpdfjEzFzlh-cAPcIpUBwhFsaMSqyjDhQUjh6aR8/edit?usp=sharing) - *upcoming April 15, 2019*: Department Seminar, Bren School of Environmental Science and Management, University of California, Santa Barbara, California (45 minutes)
 
 - [How mentorship & community enables better science in less time](https://docs.google.com/presentation/d/17d-G0lgLxuJtMF0T6MTIczpyat1aW-RaMQMF5kwpxPw/edit?usp=sharing) - February 21, 2019: [Mozilla Science Fellows Summit](http://mozillasciencefellows.com/), New York City, New York (5 minutes)
 

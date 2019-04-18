@@ -25,6 +25,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 - Enabling better science in less time (tentative title)- *upcoming May 8, 2019*: Talk, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA
 
 
+- [Building communities and changing culture with environmental open data science](https://docs.google.com/presentation/d/1nuaZie__0DNdkUAyoHpwX0hnj0AWh0HUPl3Guzu7s6Q/edit?usp=sharing) - April 18, 2019: [LOACOM](https://loacom.com/), Santa Barbara, California (20 minutes)
+
+
 - [How the Ocean Health Index enables better science in less time](https://docs.google.com/presentation/d/1vqUJpdfjEzFzlh-cAPcIpUBwhFsaMSqyjDhQUjh6aR8/edit?usp=sharing) - April 15, 2019: [Department Seminar, Bren School of Environmental Science and Management](http://www.bren.ucsb.edu/news/all_events.htm), University of California, Santa Barbara, California (45 minutes)
 
 - [How mentorship & community enables better science in less time](https://docs.google.com/presentation/d/17d-G0lgLxuJtMF0T6MTIczpyat1aW-RaMQMF5kwpxPw/edit?usp=sharing) - February 21, 2019: [Mozilla Science Fellows Summit](http://mozillasciencefellows.com/), New York City, New York (5 minutes)

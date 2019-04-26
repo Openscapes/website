@@ -83,10 +83,26 @@ Champions will be creating onboarding and offboarding strategies for their labs,
 
 We talked about hackathons in the lab. Borrowed from the coding world, I think of hackathons as when a group comes together to work on something that isn’t their responsibility day-to-day. In the lab context, it is really useful for getting together to work on things that benefit the whole lab, but doesn’t fall under anyone’s day-to-day responsibilities. And they can be fun — this is a time for donuts and working in a different location.
 
-Chelsea talked about a few hackathons she has led with different collaborators: one on a large-scale international field project with multiple principle investigators, and one with her teaching assistants preparing for a course. Both involved being in the same physical place with everyone with a block of time so that everyone could focus and actually work on the same computer in some cases to discuss and set up a shared system. 
+Chelsea Wood talked about a few hackathons she has led with different collaborators: one on a large-scale international field project with multiple principle investigators, and one with her teaching assistants preparing for a course. Both involved being in the same physical place with everyone with a block of time so that everyone could focus and actually work on the same computer in some cases to discuss and set up a shared system. There is a lot more to say about hackathons, and we will continue  sharing them in future posts. 
 
-There is a lot more to say about hackathons and other elements of the summit, and we will continue  sharing them in future posts. 
 
+<br> 
+
+<center>
+  <a><img src="/img/blog/summit/openscapesing-6thfloor.jpg" width="500px"></a>
+  <figcaption>Openscapesing at NCEAS. </figcaption>
+</center>
+
+<br>
+
+#### **Open data science skills should be formally taught in our departments, and we should value the instructors that teach them**
+
+We discussed how open data science skills should really not be things we have to teach ourselves on our own time. Instead, they should be formally taught in our departments, with courses and continuing education available to anyone, including our students and ourselves. This means new courses offered, and dedicated people hired to teach them. 
+
+We learned a lot from Allison Horst sharing her experiences and strategies as a lecturer in an environmentally-focused graduate program offering data science courses. Over six years, she has transformed an inherited statistics course from being one of students' least favorite courses to being one of their most valuable overall experiences. She is incredibly dedicated to her students and invests a lot of time making sure she is teaching them the best she can, which means she herself is constantly learning and then improving lessons. In addition to modernizing all her lectures with the tidyverse, she has taken what we learned in Openscapes to organize and share all her [advanced course lessons](https://github.com/allisonhorst/esm-244-2019#esm-244) online (stay tuned for the intro course lessons). And, she has just been recognized at the university-level for her efforts, as [she won UCSB's 2019 Distinguished Teaching Award](https://twitter.com/juliesquid/status/1119348524183801858). 
+
+
+This is a good take-home message to end this whole post: **We need to change the way we do science and to help prepare our students for the data-rich world we live in**. And this means we need open data science skills taught, and although most faculty do not have the bandwidth or expertise to teach such courses, there are fantastic and motivated teachers who can. We need to value the teaching and the teachers, and we all need to do our part to champion this moving forward.  
 
 <br> 
 

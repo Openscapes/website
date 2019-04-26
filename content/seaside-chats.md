@@ -11,6 +11,8 @@ keywords = ["FAQ","How do I","questions","what if"]
 *Preamble. This is a running list, curated and opinionated. Last updated April 2019. See also our blog post about [Champions' Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/).* 
 
 <!---
+
+Add the table to seaside chats
 Struggling where to start. Streamline the searching for the perfect tutorials
 Could also be useful for a study group. 
 Streamline the searching for the perfect tutorials to get your lab started.
@@ -35,9 +37,7 @@ Each are 20 min to 1-hour, and a mix of written tutorials, blogs, slide decks, v
 
 - [Intro to RMarkdown](https://rawgit.com/eco-data-science/rmarkdown_R/master/1_rmarkdown.html), Eco-Data-Science (tutorial, 1 hour)
 
-- [Making free websites with RStudio’s R Markdown](https://jules32.github.io/rmarkdown-website-tutorial/), Ocean Health Index (tutorial, 1 hour). Basics of RMarkdown-GitHub workflow
-
-- [Friendly GitHub Intro](joeyklee.github.io/friendly-github-intro/), Mozilla (workshop w/ slide decks, 1/2 day)
+- [Making free websites with RStudio’s R Markdown](https://jules32.github.io/rmarkdown-website-tutorial/), Ocean Health Index (tutorial, 1 hour). Basics of RMarkdown-GitHub workflow, create a simple website to share documentation
 
 - [Overview of janitor functions](http://sfirke.github.io/janitor/articles/janitor.html), Sam Firke (vignette, 20 mins). The janitor functions expedite the initial data exploration and cleaning that comes with any new data set.
 
@@ -68,6 +68,11 @@ Where does our lab store data:
 - how are the steps from raw to final documented? <!--- (Think of Wilson et al table) --->
 
 <!---
+
+longer
+- [Friendly GitHub Intro](joeyklee.github.io/friendly-github-intro/), Mozilla (workshop w/ slide decks, 1/2 day)
+https://learningstatisticswithr.com/book/ Danielle Navarro
+
 https://github.com/rlbarter/reproducibility-workflow/blob/master/README.md
 https://github.com/DiscoveryDNA/team_neural_network/blob/master/data_managment.md
 

@@ -1,5 +1,5 @@
 ---
-title: Start a coding club
+title: How to start a coding club
 author: Julie Lowndes
 date: '2018-11-16'
 slug: start-coding-club

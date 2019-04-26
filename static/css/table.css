@@ -1,0 +1,12 @@
+/* https://github.com/rstudio/blogdown/issues/280 */
+table,
+th,
+td
+ {
+    border: 1px solid black;
+    padding: 3px;
+}
+th {
+    font-weight: bold;
+    text-align: center;
+}

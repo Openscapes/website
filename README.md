@@ -12,6 +12,9 @@ blogdown::update_hugo()
 
 ## theme
 blogdown::new_site(theme = "devcows/hugo-universal-theme")
+
+## serve site! (also in the addins):
+blogdown::serve_site()
 ```
 
 How to include a redirect: 

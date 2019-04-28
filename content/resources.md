@@ -4,7 +4,7 @@ description = "Openscapes resources"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-**This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science.** This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. *This page is under development and currently leverages previous work*.  
+**This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science.** This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. Additonally, Openscapes resources are below. *This page is under development and currently leverages previous work*.  
 
 <!---Some guidance is also listed as blogs; Please also check the searchable blog page --->
 
@@ -69,7 +69,7 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. 
 
 - [Media & Presentations](/media/) — media and slides about Openscapes for various audiences
-- [Champions Series](https://openscapes.github.io/series/) — instructional materials for Openscapes Champions
+- [Champions Lesson Series](https://openscapes.github.io/series/) — lesson book for the Champions program, with links to slides and course agendas
 
 
 <br>

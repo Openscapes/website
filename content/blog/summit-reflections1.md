@@ -11,6 +11,8 @@ banner: img/blog/summit/openscapes-pillows-solo.jpg
 
 # Openscapes summit reflections — becoming champions
 
+***This article is cross-posted on [medium.com](https://medium.com/read-write-participate/openscapes-summit-reflections-becoming-champions-4c00a671778f)***
+
 *In March 2019 I witnessed environmental scientists become champions for open data science when we brought the inaugural cohort of Openscapes Champions together for a [summit](https://openscapes.github.io/summit2019/) in Santa Barbara, California. The summit was supported by [Mozilla](https://foundation.mozilla.org/en/) and hosted at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) with the purpose of building relationships, sharing lessons learned, and igniting collaborations. This is the first of several blogs, as an overview of the event and its outcomes.*
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Starting our #tidytuesday coding club"
+title: "Starting our #tidytuesday hacky hours"
 author: Allison Horst
 date: '2019-05-02'
 slug: tidytuesday
@@ -12,7 +12,7 @@ tags:
 banner: img/blog/tidy_tuesday_3square.jpg
 ---
 
-# Starting our \#tidytuesday coding club
+# Starting our \#tidytuesday hacky hours
 
 *This is our first community blog post by Openscapes Champion Allison Horst!*
 
@@ -22,13 +22,13 @@ Hi everyone! I’m Allison. I teach data analysis, statistics and presentation s
 
 In [Openscapes](http://www.openscapes.org) we discuss the need to create supportive spaces, like [coding clubs](https://www.openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/), for useRs to practice and grow their coding skills. 
 
-With Bren masters student Gracie White ([@GracieGW](https://twitter.com/GracieGW)), I’ve recently started a weekly coding club in Santa Barbara. Here, I’ll share how [#tidytuesday](https://github.com/rfordatascience/tidytuesday) has reduced our workload and planning, how we started and organize our events, and a few things we’ve learned so far.
+With Bren masters student Gracie White ([@GracieGW](https://twitter.com/GracieGW)), I’ve recently started a weekly hacky hour / coding club in Santa Barbara. Here, I’ll share how [#tidytuesday](https://github.com/rfordatascience/tidytuesday) has reduced our workload and planning, how we started and organize our events, and a few things we’ve learned so far.
 
 <br> 
 
 <center>
-  <a><img src="/img/blog/tidy_tuesday_1.jpg" width="700px"></a>
-  <figcaption>First #tidytuesday coding club!</figcaption>
+  <a href="https://twitter.com/GracieGW/status/1123407504812068865">
+  <img src="/img/blog/tidy_tuesday_5gracie.png" width="400px"></a>
 </center>
 
 <br> 
@@ -46,6 +46,15 @@ Why is that so great?
 **Because it means that the groundwork for a short, productive session of data wrangling practice already exists, with very little effort on our end.** Manageable #tidytuesday datasets are shared each week with background information, citations, and code to read them directly into R. 
 
 Attendees are invited to bring any other code-related projects they’re working on, but having the #tidytuesday option means that there’s something for everyone to work on that week, and we don’t have to spend any energy to make it available or accessible. Another bonus: many #tidytuesday participants share their code and visualizations publicly, so anyone can explore examples to learn from what others have done! 
+
+<br> 
+
+<center>
+  <a href="https://twitter.com/GracieGW/status/1120876956482805761">
+  <img src="/img/blog/tidy_tuesday3_tweet.png" width="400px"></a>
+</center>
+
+<br> 
 
 #### How we started our coding club. 
 
@@ -84,8 +93,7 @@ We held our first event at a cool little brewery close to campus that satisfied 
 <br> 
 
 <center>
-  <a><img src="/img/blog/tidy_tuesday_2.jpg" width="700px"></a>
-  <figcaption>First #tidytuesday coding club!</figcaption>
+  <a><img src="/img/blog/tidy_tuesday_2b.png" width="400px"></a>
 </center>
 
 <br> 
@@ -116,8 +124,7 @@ For now, that’s our low-effort, big-reward strategy for starting a social codi
 <br> 
 
 <center>
-  <a><img src="/img/blog/tidy_tuesday_3.jpg" width="700px"></a>
-  <figcaption>Second #tidytuesday coding club!</figcaption>
+  <a><img src="/img/blog/tidy_tuesday_3.jpg" width="400px"></a>
 </center>
 
 <br> 
@@ -140,8 +147,7 @@ We’re really excited about our young coding club so far, and will share what w
 <br> 
 
 <center>
-  <a><img src="/img/blog/tidy_tuesday_4.jpg" width="700px"></a>
-  <figcaption>Fourth #tidytuesday coding club!</figcaption>
+  <a><img src="/img/blog/tidy_tuesday_4.jpg" width="400px"></a>
 </center>
 
 <br> 

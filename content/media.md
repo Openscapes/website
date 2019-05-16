@@ -25,7 +25,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 <!--- How mentoRship & community enables betteR science in less time --->
 
-- [Building communities of practice around environmental open data science](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ)- May 8, 2019: Presentation, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA (17 minutes)
+- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1KXzPId1IvspsemIOmOUQEOqt8-Nw4Lhb2-Xvi_XZWeU/edit?usp=sharing)- May 8, 2019: Presentation, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA (17 minutes) ([Zenodo](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ)) 
 
 
 - [Building communities and changing culture with environmental open data science](https://docs.google.com/presentation/d/1nuaZie__0DNdkUAyoHpwX0hnj0AWh0HUPl3Guzu7s6Q/edit?usp=sharing) - April 18, 2019: [LOACOM](https://loacom.com/), Santa Barbara, California (20 minutes)

@@ -35,7 +35,7 @@ This two-day conference included thought leaders, journalists, researchers, scie
 
 <br> 
 
-As a scientist, my entry way to the open community has been through open source software and communities like R, RStudio, rOpenSci and RLadies. Through Mozilla I am getting to know a bit more of the open community more broadly, and at csv,conf,v4 it was really impactful to see all of the ways that people think, work, and engage with open data. In all the conversations I had with people and from all the talks I saw I kept thinking that everyone at the conference was a leader. It might not be in their official job title, and they might be at csv,conf because of their official work or interests outside of work. But by attending and participating in this conference, they were there representing their communities and would be taking what they learned back with them. 
+As a scientist, my entry way to the open community has been through supportive open source software and communities like R, RStudio, rOpenSci and RLadies. Through Mozilla I am getting to know a bit more of the open community more broadly, and at csv,conf,v4 it was really impactful to meet people from across fields and to see all of the ways that they think, work, and engage with open data. In all the conversations I had with people and from all the talks I saw I kept thinking that everyone at the conference was a leader. It might not be in their official job title, and they might be at csv,conf because of their official work or interests outside of work. But by attending and participating in this conference, they were there representing their communities and would be taking what they learned back with them. 
 
 <br> 
 
@@ -45,7 +45,7 @@ As a scientist, my entry way to the open community has been through open source 
 
 <br> 
 
-It is hard to capture all of the people I met, things I learned, and conversations I had. The [organizing committee](https://twitter.com/kirstie_j/status/1126631979225534465) was incredible, thank you to the many people who worked so hard to make such a positive experience possible for us. There are  [slides from all talks](https://zenodo.org/communities/csvconfv4) and will soon be [video recordings](https://www.youtube.com/csvconf) available online. One of the talks that sticks most prominently in my mind was by [@Srta_peperina](https://twitter.com/Srta_peperina) about [@GeochicasOSM](https://twitter.com/GeochicasOSM), Open Street Maps, and Las Calles de Las Mujeres. <!---Right now women make up only 3% of contributors to Open Street Maps, meaning that mechanics are mapped long before women's clinics. ---> For a broader sense of conversations and recaps from talks, check out [#csvconf](https://twitter.com/search?src=typd&q=%23csvconf): I loved this [summary thread by @GalaCF](https://twitter.com/GalaCF/status/1128102214843527168), all [live-tweet threads by @kirstie_j](https://twitter.com/kirstie_j/status/1126185454792007680) and this [keynote thread by @serahrono](https://twitter.com/serahrono/status/1130367733634338816).
+It is hard to capture all of the people I met, things I learned, and conversations I had. The [organizing committee](https://twitter.com/kirstie_j/status/1126631979225534465) was incredible, thank you to the many people who worked so hard to make such a positive experience possible for all of us. There are also [slides posted from all talks](https://zenodo.org/communities/csvconfv4) and will soon be [video recordings](https://www.youtube.com/csvconf) available online.   <!---Of all the great talks one that sticks most prominently in my mind was by [@Srta_peperina](https://twitter.com/Srta_peperina) about [@GeochicasOSM](https://twitter.com/GeochicasOSM), Open Street Maps, and Las Calles de Las Mujeres.Right now women make up only 3% of contributors to Open Street Maps, meaning that mechanics are mapped long before women's clinics. ---> For a broader sense of conversations and recaps from talks, check out [#csvconf](https://twitter.com/search?src=typd&q=%23csvconf): I loved this [summary thread by @GalaCF](https://twitter.com/GalaCF/status/1128102214843527168), all [live-tweet threads by @kirstie_j](https://twitter.com/kirstie_j/status/1126185454792007680) and this [keynote thread by @serahrono](https://twitter.com/serahrono/status/1130367733634338816).
 
 
 <br> 
@@ -84,7 +84,7 @@ Over the past four months I have been working with [seven environmental science 
 
 <br> 
 
-My own path getting to the Openscapes program is because of six years of encouraging mentorship and leadership from our OHI team. It is so exciting to pass forward what we have learned and empower others to be champions for open data science. And because they are open data leaders, maybe we will see some of them will be at csv,conf,v5!
+My own path getting to the Openscapes program is because of six years of encouraging mentorship and leadership from our OHI team and the broader open data science community. It is so exciting to pass forward what we have learned and empower others to be champions for open data science. And because they are open data leaders, maybe we will see some of the Openscapes Champions at csv,conf,v5!
 
 <br>
 

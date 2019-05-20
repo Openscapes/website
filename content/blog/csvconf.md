@@ -25,7 +25,7 @@ banner: img/blog/csvconf_llama.jpg
 <br> 
 
 
-This two-day conference included thought leaders, journalists, researchers, scientists, developers, artists, managers, activists, city planners. It included diversity of expertise, diversity of lived experience, diversity of thought. It included diversity of genders, gender identity, ethnicity, sexual orientation, and had an upfront [Code of Conduct](https://confcodeofconduct.com/). The tone of csv,conf,v4 was like [the tone of the RStudio::conf](https://www.openscapes.org/blog/2019/02/19/rstudioconf/): it was a welcoming, inclusive place where it was possible to strike up a conversation with anyone and immediately have opportunities to share and learn. Also, there were 8 (!) Mozilla Fellows past and present in attendance, which was really exciting (sadly, not pictured all together).
+This two-day conference included thought leaders, journalists, researchers, scientists, developers, artists, managers, activists, city planners. It included diversity of expertise, diversity of lived experience, diversity of thought. It had an upfront [Code of Conduct](https://confcodeofconduct.com/) and a welcoming tone like the [RStudio::conf](https://www.openscapes.org/blog/2019/02/19/rstudioconf/): it was deliberately an inclusive place where it was possible to strike up a conversation with anyone and immediately have opportunities to share and learn. Also, there were 8 (!) Mozilla Fellows past and present in attendance, which was really exciting (sadly, not pictured all together).
 
 <br> 
 

@@ -12,7 +12,7 @@ banner: img/blog/csvconf_llama.jpg
 
 # A conference for open data leaders
 
-*I attended [csv,conf,v4](https://csvconf.com/) in Portland, Oregon in May 2019. Here are a few reflections about the conference, my talk about Openscapes, and how everyone at the conference was a leader.*
+*I attended [csv,conf,v4](https://csvconf.com/) in Portland, Oregon in May 2019. Here are a few reflections about the conference and a bit about my talk where I shared progress from the Openscapes Champions.*
 
 [csv,conf,v4](https://csvconf.com/) has a unique name and draws a unique and powerful crowd as a "community conference for data makers everywhere". It is the only conference I've ever attended with a name stemming from a format for open data (comma separated value [CSV] files), and the only conference with scheduled time with a real-life therapy llama [Rojo the Comma Llama]. It was also the most diverse conference I've ever attended, and was a powerful nexus to meet leaders from all corners of the open data world. 
 

@@ -45,7 +45,7 @@ As a scientist, my entry way to the open community has been through supportive o
 
 <br> 
 
-It is hard to capture all of the people I met, things I learned, and conversations I had. The [organizing committee](https://twitter.com/kirstie_j/status/1126631979225534465) was incredible, thank you to the many people who worked so hard to make such a positive experience possible for all of us. There are also [slides posted from all talks](https://zenodo.org/communities/csvconfv4) and will soon be [video recordings](https://www.youtube.com/csvconf) available online.   <!---Of all the great talks one that sticks most prominently in my mind was by [@Srta_peperina](https://twitter.com/Srta_peperina) about [@GeochicasOSM](https://twitter.com/GeochicasOSM), Open Street Maps, and Las Calles de Las Mujeres.Right now women make up only 3% of contributors to Open Street Maps, meaning that mechanics are mapped long before women's clinics. ---> For a broader sense of conversations and recaps from talks, check out [#csvconf](https://twitter.com/search?src=typd&q=%23csvconf): I loved this [summary thread by @GalaCF](https://twitter.com/GalaCF/status/1128102214843527168), all [live-tweet threads by @kirstie_j](https://twitter.com/kirstie_j/status/1126185454792007680) and this [keynote thread by @serahrono](https://twitter.com/serahrono/status/1130367733634338816).
+It is hard to capture all of the people I met, things I learned, and conversations I had. The [organizing committee](https://twitter.com/kirstie_j/status/1126631979225534465) was incredible, thank you to the many people who worked so hard to make such a positive experience possible for all of us. There are also [slides posted from all talks](https://zenodo.org/communities/csvconfv4) and will soon be [video recordings](https://www.youtube.com/csvconf) available online. One talk that sticks prominently in my mind was by [@Srta_peperina](https://twitter.com/Srta_peperina) about [@GeochicasOSM](https://twitter.com/GeochicasOSM): Right now women make up only 3% of contributors to Open Street Maps, meaning that auto mechanics are mapped disproportionately to, for example, women's clinics. As a network of women contributing to Open Street Maps, through the Calle de Las Mujeres initiative they are also mapping streets named after women and working with Wikipedia to make sure those women also has a Wikipedia page. So cool! For a broader sense of conversations and recaps from talks, check out [#csvconf](https://twitter.com/search?src=typd&q=%23csvconf): I loved this [summary thread by @GalaCF](https://twitter.com/GalaCF/status/1128102214843527168), all [live-tweet threads by @kirstie_j](https://twitter.com/kirstie_j/status/1126185454792007680) and this [keynote thread by @serahrono](https://twitter.com/serahrono/status/1130367733634338816).
 
 
 <br> 
@@ -56,25 +56,7 @@ It is hard to capture all of the people I met, things I learned, and conversatio
 
 <br> 
 
-<!---
-But here is a short run-down of some of the impactful work I learned about: I learned about [frictionless data processing]() with oceanographers from Amber York and had further discussions with Amber and Lily Winfree about frictionless data tools and how scientists are using them. Alex Morley talked about choosing your own adventure and the [future of notebooks](), 
-
-Two talks that stand out to me were about Open Street Maps
-Las Calles de Las Mujeres was presented by @Srta_peperina from @GeochicasOSM -- its an amazing project that has mapped streets named after women in different places in #latinamerica and has linked to see how many of these women are in @Wikipedia
-
---->
-
-In [my talk](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ) I shared about the awesome Openscapes Champions I have been working with, who are leaders in environmental science and now open data science. I've created [Openscapes](https://openscapes.org) this year during my Mozilla Fellowship, and it complements existing efforts by welcoming & empowering scientists as labs and increases the visibility & value of open data science by amplifying labs. 
-
-<br> 
-
-<center>
-  <img src="/img/blog/csvconf_slides_horst_grassland.png" width="500px">
-</center>
-
-<br> 
-
-Over the past four months I have been working with [seven environmental science labs at five universities](https://medium.com/read-write-participate/openscapes-champions-incorporate-open-practices-in-their-science-7eefa07b8573) — and sharing some of their progress and leadership over the past four months was so, so exciting. They have have created GitHub Organizations for their labs, and posted Codes of Conduct and shared protocols for data workflows and onboarding and offboarding lab members. They are leading [weekly lab "seaside chats"](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to discuss data workflows and normalize talking about open data science. They are joining and leading communities outside of their labs, including starting [#tidytuesday hacky hours](https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and the first RLadies chapter in New Jersey. They are being ambassadors & engaging with #rstats Twitter, sharing open science and #rstats resources with their scientific networks. They are starting new scientific collaborations as a result of meeting each other through this Openscapes cohort. And there are so many other wins that I am trying to measure and share, some of which are captured on this slide:
+In [my talk about Openscapes](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ) I was so proud to share about the [seven environmental science labs](https://medium.com/read-write-participate/openscapes-champions-incorporate-open-practices-in-their-science-7eefa07b8573) I have been working with over the past four months and how they have become champions for open data science. They have have created GitHub Organizations for their labs, and posted Codes of Conduct and shared protocols for data workflows and onboarding and offboarding lab members. They are leading [weekly lab "seaside chats"](https://www.openscapes.org/blog/2019/03/10/seaside-chats/) to discuss data workflows and normalize talking about open data science. They are joining and leading communities outside of their labs, including starting [#tidytuesday hacky hours](https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and the first RLadies chapter in New Jersey. They are being ambassadors & engaging with #rstats Twitter, sharing open science and #rstats resources with their scientific networks. They are starting new scientific collaborations as a result of meeting each other through this Openscapes cohort. And there are so many other wins that I am trying to measure and share, some of which are captured on this slide:
 
 <br> 
 

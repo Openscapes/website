@@ -13,7 +13,7 @@ banner: img/blog/wood-lab-logo.png
 
 # Champions Case Study: Wood Lab 
 
-*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
+*We have just concluded our inaugural cohort of Openscapes Champions. While sad to conclude, all Champion labs have so many exciting accomplishments and so much momentum for open data science, and it is truly just the beginning. Here we are posting individual case studies of accomplishments from Champions labs.*
 
 ---
 

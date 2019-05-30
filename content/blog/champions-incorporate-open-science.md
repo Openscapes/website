@@ -7,6 +7,7 @@ categories:
   - community
 tags:
   - medium.com
+  - impact
 banner: img/blog/mrlowndes20131007-131005-7311_520x480.jpg
 ---
 

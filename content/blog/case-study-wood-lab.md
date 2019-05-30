@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - champions
-  - case-study
+  - impact
 banner: img/blog/wood-lab-logo.png  
 ---
 
@@ -51,3 +51,8 @@ Congratulations Chelsea, Danielle, and the whole Wood Lab!
 
 <br>
 
+Relevant posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)

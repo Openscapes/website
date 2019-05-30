@@ -6,6 +6,8 @@ slug: summit-2
 categories:
   - champions
   - community
+tags:
+  - impact
 banner: img/blog/summit/elevator-selfie-square.jpg 
 ---
 

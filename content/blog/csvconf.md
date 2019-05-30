@@ -7,6 +7,7 @@ categories:
   - community
 tags:
   - coding
+  - impact
 banner: img/blog/csvconf_llama.jpg
 ---
 

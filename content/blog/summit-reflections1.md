@@ -6,6 +6,8 @@ slug: summit-1
 categories:
   - champions
   - community
+tags:
+  - impact
 banner: img/blog/summit/openscapes-pillows-solo.jpg 
 ---
 

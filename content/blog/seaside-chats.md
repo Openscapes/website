@@ -9,6 +9,7 @@ categories:
 tags:
   - coding
   - how-to
+  - impact
 banner: img/blog/mrlowndes_DSC01492.jpg
 ---
 

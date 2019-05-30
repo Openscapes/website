@@ -8,7 +8,6 @@ categories:
   - coding
 tags:
   - coding
-  - champions
   - impact
 banner: img/blog/tidy_tuesday_3square.jpg
 ---

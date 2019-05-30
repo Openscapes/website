@@ -5,8 +5,8 @@ date: '2019-05-29'
 slug: wood-lab
 categories:
   - community
-tags:
   - champions
+tags:
   - impact
 banner: img/blog/wood-lab-logo.png  
 ---

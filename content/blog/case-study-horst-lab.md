@@ -5,8 +5,8 @@ date: '2019-05-30'
 slug: horst-lab
 categories:
   - community
-tags:
   - champions
+tags:
   - impact
 banner: img/blog/horst-tidyverse-nebula.jpg
 ---

@@ -27,14 +27,17 @@ banner: img/blog/wood-lab-logo.png
 <br> 
 
 <center>
-  <img src="/img/blog/wood-lab-logo.png" width="350px">
+  <a><img src="/img/blog/wood-lab-logo.png" width="350px"></a>
+  <figcaption>Logo by Ana Guerra</figcaption>
 </center>
 
 <br> 
 
-The [Wood Lab Case Study](https://docs.google.com/document/d/1SW44etET6qOecOkWEVMlIhTL-5HJ5qpHxaqyHI85Tlg/edit#) shares their full account of accomplishments over the last five months with Openscapes. It includes developing a lot of systems for research and teaching that will save time now and in the future due to lower time needed to onboard lab members and organize and teach field courses. 
+The [Wood Lab Case Study](https://docs.google.com/document/d/1SW44etET6qOecOkWEVMlIhTL-5HJ5qpHxaqyHI85Tlg/edit#) shares their full account of accomplishments over the last five months with Openscapes. It includes developing a lot of systems for research and teaching that will save time now and in the future due to lower time needed to onboard lab members and organize and teach field courses. As a preview, they find that: 
 
-As a preview, they find that "Open science is achievable, and consistently taking little steps towards reproducibility can make a big difference for openness and collaboration." Their key accomplishments are: 
+> "Open science is achievable, and consistently taking little steps towards reproducibility can make a big difference for openness and collaboration." 
+
+Their key accomplishments are: 
 
 - Got lab up and running with version control (git/GitHub) - this included grad students, post docs, and undergraduate researchers
 - Established [“Bayside Chats”](https://docs.google.com/document/d/e/2PACX-1vQEN-hqEIvnddWNdpYdATzZIUgAFFzKzPCLm5ijjSQeViD6E4ExAbHXYyhQSF58SyJQrWR40i6P_h2u/pub) to discuss and promote reproducibility for all lab members

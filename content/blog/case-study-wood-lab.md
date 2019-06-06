@@ -17,7 +17,7 @@ banner: img/blog/wood-lab-logo.png
 
 ---
 
-[**The Wood Lab**](https://chelsealwood.wordpress.com/) in the School of Aquatic and Fishery Sciences at the University of Washington studies the ecology of parasites in marine and freshwater ecosystems. Participating in Openscapes was [Professor Chelsea Wood](https://chelsealwood.wordpress.com/chelsea/) and post doc [Dr. Danielle Claar](https://danielleclaar.weebly.com/).
+[**The Wood Lab**](https://chelsealwood.wordpress.com/) in the School of Aquatic and Fishery Sciences at the University of Washington studies the ecology of parasites in marine and freshwater ecosystems. Participating in Openscapes was [Professor Chelsea Wood](https://chelsealwood.wordpress.com/chelsea/), post doc [Dr. Danielle Claar](https://danielleclaar.weebly.com/), and sabattical-visiting faculty [Dr. Sarah Lee](https://www.depauw.edu/academics/departments-programs/biology/faculty-research-profiles/sarah-lee/).
 
 - Chelsea: I’m an Assistant Professor in the School of Aquatic and Fishery Sciences at the University of Washington. My research program explores the ecology of infectious disease in a changing world. I address several questions with practical applications to conservation and marine production, as well as essential value for ecological theory.
 

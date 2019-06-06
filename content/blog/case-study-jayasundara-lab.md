@@ -17,7 +17,7 @@ banner: img/blog/jayasundara-lab.png
 
 ---
 
-[**The Jayasundara Lab**](https://umaine.edu/nishad/) investigates physiological and biochemical traits underlying organismal adaptation to their habitat and how these traits are altered in response to changes in physical and chemical environmental factors. Participating in Openscapes is [Professor Nishad Jayasundara](https://umaine.edu/marine/faculty/nishad-jayasundara/) and technicians [Remy Babitch](https://github.com/RemyBabich) and [Molly Westbrook](https://github.com/mollywestbrook).
+[**The Jayasundara Lab**](https://umaine.edu/nishad/) at the University of Maine investigates physiological and biochemical traits underlying organismal adaptation to their habitat and how these traits are altered in response to changes in physical and chemical environmental factors. Participating in Openscapes is [Professor Nishad Jayasundara](https://umaine.edu/marine/faculty/nishad-jayasundara/) and technicians [Remy Babitch](https://github.com/RemyBabich) and [Molly Westbrook](https://github.com/mollywestbrook).
 
 
 - Molly & Remy: Due to our lab space being relatively new, Openscapes provided an opportunity to introduce principles of open lab culture and open data analysis relatively early on in many of the projects we’re working on, rather than incorporating old data sets into newer data analytics practices. Many of our data sets are relatively small, but we’re doing our best to begin these practices now, when many of our projects are just beginning.

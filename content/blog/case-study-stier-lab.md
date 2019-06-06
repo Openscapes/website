@@ -17,7 +17,7 @@ banner: img/blog/stier-lab.jpg
 
 ---
 
-[**The Stier Lab**](https://www.oceanrecoveries.com/) studies the resilience of harvested ocean ecosystems, with a lab culture built on the values of trust, providing and receiving critical feedback from each other, and realizing that everyone has a unique perspective and brings valuable insights to the table. Participating in Openscapes is [Professor Adrian Stier](https://www.oceanrecoveries.com/people) and PhD students [Lily Zhao](https://github.com/lilyzzhao) and [Bart Difiore](https://github.com/bartdifiore).
+[**The Stier Lab**](https://www.oceanrecoveries.com/) at the University of California at Santa Barbara studies the resilience of harvested ocean ecosystems, with a lab culture built on the values of trust, providing and receiving critical feedback from each other, and realizing that everyone has a unique perspective and brings valuable insights to the table. Participating in Openscapes is [Professor Adrian Stier](https://www.oceanrecoveries.com/people) and PhD students [Lily Zhao](https://github.com/lilyzzhao) and [Bart Difiore](https://github.com/bartdifiore).
 
 - Adrian: Openscapes was nebulous at first to me, I’d heard about lots of the tools and concepts we’ve covered, but I never had a chance to implement a lot of them. Openscapes has been a critical opportunity to establish a workflow for my lab integrating code, writing, presentations, and communication. We now work hard to integrate all of our files into one place (Google Drive) and to produce reproducible code that is carefully annotated and easily read for each of our given projects. 
 

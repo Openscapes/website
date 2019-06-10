@@ -1,6 +1,6 @@
 ---
 title: "Champions Case Study: Jayasundara Lab"
-author: Julie Lowndes
+author: Jayasundara Lab
 date: '2019-06-03'
 slug: jayasundara-lab
 categories:
@@ -29,11 +29,11 @@ banner: img/blog/jayasundara-lab.png
   <a><img src="/img/blog/jayasundara-lab.png" width="350px"></a>
 </center>
 
-The [Jayasundara Lab Case Study](https://docs.google.com/document/d/1DI8173GJ3j3mACHOhPffmCufXu83e4-05NQEFfHFCVc/edit) shares their accomplishments for setting up systems for data management and sharing alongside experimental design. As a relatively new lab, they are focused on two main questions: How do organisms respond to changes in their natural environment? And can wild fish populations serve as indicators of environmental health? Much of their work involves lab experiments raising live fishes in aquaria; creating shared systems for streamlining their experimental protocols and the resulting data has been their focus during Openscapes. As a preview, they learned that: 
+The [Jayasundara Lab Case Study](https://docs.google.com/document/d/1DI8173GJ3j3mACHOhPffmCufXu83e4-05NQEFfHFCVc/edit) shares our accomplishments for setting up systems for data management and sharing alongside experimental design. As a relatively new lab, we are focused on two main questions: How do organisms respond to changes in their natural environment? And can wild fish populations serve as indicators of environmental health? Much of our work involves lab experiments raising live fishes in aquaria; creating shared systems for streamlining our experimental protocols and the resulting data has been our focus during Openscapes. As a preview, we learned that: 
 
 > "Our lab was able to incorporate respectful lab culture and discussion of data analysis as a part of designing experiments, lab meetings and lab dialogue much more than before. The analysis of experimental data has become as important as experimental design and data collection." 
 
-Their key accomplishments are: 
+Our key accomplishments are: 
 
 - Created the first lab code of conduct for keeping the lab space respectful and open-minded
 - Began backing up data files from experiments on lab hard drive, incorporated an organization scheme to data backups

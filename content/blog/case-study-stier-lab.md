@@ -1,6 +1,6 @@
 ---
 title: "Champions Case Study: Stier Lab"
-author: Julie Lowndes
+author: Stier Lab
 date: '2019-06-04'
 slug: stier-lab
 categories:
@@ -36,11 +36,11 @@ banner: img/blog/stier-lab.jpg
 
 <br>
 
-The [Stier Lab Case Study](https://docs.google.com/document/d/1kkt-89lsFCv_d1oeKrYwcZamPa1w53H1NexfUi4a2q8/edit#) shares their accomplishments for increasing access among their lab group by migrating their daily workflows through a shared Google Drive. By sharing their files with each other regardless of the stage of work required having open conversations with each other about trust, humility, and the philosophy behind this type of openness within the lab group. As a preview: 
+The [Stier Lab Case Study](https://docs.google.com/document/d/1kkt-89lsFCv_d1oeKrYwcZamPa1w53H1NexfUi4a2q8/edit#) shares our accomplishments for increasing access among our lab group by migrating our daily workflows through a shared Google Drive. By sharing our files with each other regardless of the stage of work required having open conversations with each other about trust, humility, and the philosophy behind this type of openness within the lab group. As a preview: 
 
 > "I learned that brute force and more hours doesn’t make better science. Rather, taking the time to come up with a plan and adjust workflows can save countless hours in the long run and dramatically improve the reproducibility -- and therefore the credibility -- of our work." - Bart Difiore 
 
-Their key accomplishments are: 
+Our key accomplishments are: 
 
 - Establish Google Drive to share files, presentations, data, documentation
 - Constructed [Github Organization for the lab](https://github.com/stier-lab)

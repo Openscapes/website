@@ -1,6 +1,6 @@
 ---
 title: "Champions Case Study: Horst Lab"
-author: Julie Lowndes
+author: Horst Lab
 date: '2019-05-30'
 slug: horst-lab
 categories:
@@ -34,11 +34,11 @@ banner: img/blog/horst-tidyverse-nebula.jpg
 
 <br> 
 
-The [Horst Lab Case Study](https://docs.google.com/document/d/17CxyclpaG74E5U5P41asybkOAeruS1RxRL6kQGXLw7Y/edit) shares their accomplishments for streamlining how they teach two courses. The introductory course, ESM 206, is ~100 graduate students from Bren and other departments, and additionally the optional advanced course, ESM 244, reached enrollment of 68 students from departments across campus in 2019! In both courses, Allison and Jessica emphasize open practices and tools (R, RStudio, GitHub) for reproducibility and collaboration, along with data analysis concepts and methods. As a preview, they learned that: 
+The [Horst Lab Case Study](https://docs.google.com/document/d/17CxyclpaG74E5U5P41asybkOAeruS1RxRL6kQGXLw7Y/edit) shares our accomplishments for streamlining how we teach two courses. The introductory course, ESM 206, is ~100 graduate students from Bren and other departments, and additionally the optional advanced course, ESM 244, reached enrollment of 68 students from departments across campus in 2019! In both courses, we emphasize open practices and tools (R, RStudio, GitHub) for reproducibility and collaboration, along with data analysis concepts and methods. As a preview, we learned that: 
 
 > "being a champion for open data science doesn’t always mean being an expert in R or GitHub (or data science more generally). It means that I can be a champion by helping other people (like my students!) realize the value of open, reproducible, collaborative data analysis and give them the confidence and curiosity to learn useful tools so they can do it on their own." 
 
-Their key accomplishments are: 
+Our key accomplishments are: 
 
 - Converted ESM 206 / 244 lectures to Google Slides for sharing
 - Collected all ESM 206 / 244 lab materials, now each an .Rproj, shared on GitHub!
@@ -54,6 +54,8 @@ Their key accomplishments are:
 - Created a course code of conduct to promote positivity and inclusivity in ESM 206 / 244
 
 <br>
+
+---
 
 Congratulations Allison, Jessica, and all future TAs and students that are lucky enough to take your classes! 
 

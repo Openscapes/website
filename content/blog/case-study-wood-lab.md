@@ -1,6 +1,6 @@
 ---
 title: "Champions Case Study: Wood Lab"
-author: Julie Lowndes
+author: Wood Lab
 date: '2019-05-29'
 slug: wood-lab
 categories:
@@ -33,11 +33,11 @@ banner: img/blog/wood-lab-logo.png
 
 <br> 
 
-The [Wood Lab Case Study](https://docs.google.com/document/d/1SW44etET6qOecOkWEVMlIhTL-5HJ5qpHxaqyHI85Tlg/edit#) shares their full account of accomplishments over the last five months with Openscapes. It includes developing a lot of systems for research and teaching that will save time now and in the future due to lower time needed to onboard lab members and organize and teach field courses. As a preview, they find that: 
+The [Wood Lab Case Study](https://docs.google.com/document/d/1SW44etET6qOecOkWEVMlIhTL-5HJ5qpHxaqyHI85Tlg/edit#) shares our full account of accomplishments over the last five months with Openscapes. It includes developing a lot of systems for research and teaching that will save time now and in the future due to lower time needed to onboard lab members and organize and teach field courses. As a preview, we find that: 
 
 > "Open science is achievable, and consistently taking little steps towards reproducibility can make a big difference for openness and collaboration." 
 
-Their key accomplishments are: 
+Our key accomplishments are: 
 
 - Got lab up and running with version control (git/GitHub) - this included grad students, post docs, and undergraduate researchers
 - Established [“Bayside Chats”](https://docs.google.com/document/d/e/2PACX-1vQEN-hqEIvnddWNdpYdATzZIUgAFFzKzPCLm5ijjSQeViD6E4ExAbHXYyhQSF58SyJQrWR40i6P_h2u/pub) to discuss and promote reproducibility for all lab members

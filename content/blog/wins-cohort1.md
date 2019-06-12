@@ -55,6 +55,8 @@ So this means thinking about shared practices with lab members, which means thin
 
 Identifying key software to be used in the lab is a good first step, but it also requires making sure everyone in the lab feels comfortable using it. 
 
+> "Our lab was able to incorporate respectful lab culture and discussion of data analysis as a part of designing experiments, lab meetings and lab dialogue much more than before. The analysis of experimental data has become as important as experimental design and data collection." *- Jayasundara Lab Case Study*
+
 Labs created GitHub Organizations, and helped lab members create github accounts and get comfortable using GitHub. These GitHub Organizations may have repositories that are private, but they are open to other lab members to access and review, which is a big step forward. Additionally, there are many public repositories, some with names like "how-we-work" that have shared protocols for data workflows, and documentation for onboarding and offboarding lab members. Onboarding and offboarding were big topics of discussion: it's important that new lab members can get up to speed with lab norms quickly, and that their work and insight continues to be available to the lab when they move on.
 
 > Oh God [Openscapes has helped me save] so much time. It makes me sad to think about how inefficiently I was doing science before Openscapes. *- end-series survey*

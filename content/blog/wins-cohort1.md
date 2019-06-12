@@ -1,0 +1,154 @@
+---
+title: "Wins from the inaugural Champions cohort"
+author: Julie Lowndes
+date: '2019-06-12'
+slug: concluding-first-cohort
+categories:
+  - community
+tags:
+  - champions
+  - case-study
+  - impact
+banner: img/blog/Cohort1_zoom_square.png
+---
+
+# Wins from the inaugural Champions cohort
+
+*Last month we concluded our inaugural cohort of Openscapes Champions, and have just completed posting their individual case studies of their accomplishments and momentum. This post will be an incomplete summary of their awesome accomplishments across all labs, but it is a start! And the most exciting thing is that this is just the beginning of their impact on the future of environmental open data science.*
+
+*For more details on Openscapes see [Introducing Openscapes](https://www.openscapes.org/blog/2018/11/20/introducing-openscapes/) and [Introducing the Champions Program](https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/)*.
+
+---
+
+
+Over the past five months, 22 environmental scientists from 7 laboratory research groups — faculty, lecturers, post docs, grad students, lab managers, technicians, teaching assistants — learned together as an online cohort and also worked together with their labs towards building an efficient, open culture in their scientific work, and on modeling that behavior to their broader communities. 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/Cohort1_zoom.png" width="500px"></a>
+  <figcaption>Champions Cohort 1, via Zoom.</figcaption>
+</center>
+
+<br>
+
+In ten online sessions, our discussions centered around software to streamline collaborating with data (including R/RStudio, GitHub, and Google Docs), strategies for community learning in the lab and beyond (including rOpenSci, RLadies, and the Carpentries) and how to set a deliberate tone of openness and inclusivity in the lab (including establishing codes of conduct and built from Mozilla Open Leaders). You can see a summary of topics in this [tweet thread](https://twitter.com/openscapes/status/1131243910200668160)) and in the [series itself](https://openscapes.github.io/series/index.html#agendas) (although it is as-yet incomplete — but you can view the [slides](https://openscapes.github.io/series/index.html#agendas)!). What is so exciting is that all participants have achieved tangible achievements as individuals, as labs, and across labs. Everyone started from different places and experiences and had full schedules of responsibilities and limited time to give, but everyone made progress. 
+
+We've seen mindset shifts and increases in skills & practice by individuals. And we have also seen cultural shifts in labs as a whole, and leadership & championing inside, outside, and across labs. It is exciting to think of how these steps will continue to flourish and also seed change in other situations. Here we'll describe some of the steps we've seen.
+
+
+## Mindset shifts
+
+> This isn't just about coding and GitHub, this is about changing how we do science *— Malin Pinsky (Pinsky Lab)*
+
+The first thing Openscapes set out to do was to help individual scientists within research laboratories think of those labs as a team. We did this by trying to find common challenges and opportunities that everyone experienced, no matter their scientific question, study system, or methods of each individual. We started these conversations centered around data, and specifically: **how do you communicate about and share data/analyses/results with the lab lead** (i.e. faculty, lecturer, principal investigator)? As answers came back as a mix of Dropbox, email attachment, Google Drive, GitHub, and Box, we started to talk about the benefits of narrowing the number of channels, first of all for the sake of sanity. And efficiency. But also: with a narrower set of channels, communication could also be streamlined and create a network for all lab members, rather than the lab lead being the central hub. 
+
+> This program has honestly completely re-made how I think about my science. *— Chelsea Wood (Wood Lab)*
+
+But this type of action requires not only shifts in software, but shifts in mindset. It is hard to get motivated to change the way you already work, and it's hard to require someone else to change on your behalf. Some of the unsung challenges of science and data analysis are the in-between bits; interoperability between software, expectations and hand-offs between collaborators. And streamlining thsee interactions have big rewards. I like the way Jenny Bryan & Jim Hester describe this (in the context of file organization): 
+
+> "It’s like agreeing that we will all drive on the left or the right. A hallmark of civilization is following conventions that constrain your behavior a little, in the name of public safety" *- Jenny Bryan & Jim Hester, [What They Forgot to Teach You About R](https://whattheyforgot.org/project-oriented-workflow.html#work-in-a-project)*
+
+So this means thinking about shared practices with lab members, which means thinking about what unites scientists as a team rather than strictly about what sets us apart with our research. These changes in individual mindset lead to communities in the lab. 
+
+## Increased skills & practice
+
+Identifying key software to be used in the lab is a good first step, but it also requires making sure everyone in the lab feels comfortable using it. 
+
+Labs created GitHub Organizations, and helped lab members create github accounts and get comfortable using GitHub. These GitHub Organizations may have repositories that are private, but they are open to other lab members to access and review, which is a big step forward. Additionally, there are many public repositories, some with names like "how-we-work" that have shared protocols for data workflows, and documentation for onboarding and offboarding lab members. Onboarding and offboarding were big topics of discussion: it's important that new lab members can get up to speed with lab norms quickly, and that their work and insight continues to be available to the lab when they move on.
+
+> Oh God [Openscapes has helped me save] so much time. It makes me sad to think about how inefficiently I was doing science before Openscapes. *- end-series survey*
+
+Participants also upskilled as individuals. Some created their first GitHub account for the first time, others became confident using one they had created previously but never used. They practiced using the Issues feature to coordinate lab conversations and practiced using Markdown for Issues and lab documents. Folks that were confident R coders tried out new packages from the tidyverse and rOpenSci. Coders that used the console tried out the RStudio IDE. Python coders tried out retriculate to collaborate with R coders in RMarkdown. Scripts were less frequently versioned with underscored_dates_and_initials and sent by email — instead, they started being shared on GitHub.
+
+<br>
+
+<center>
+  <a href="https://twitter.com/allison_horst/status/1121501193358864385">
+    <img src="/img/blog/horst-tweet-bluffside-github.png" width="400px">
+  </a>
+</center>
+
+<br>
+
+## Cultural shifts
+
+Shifts in individual mindsets, along with software to streamline collaboration, led to cultural shifts in the lab more broadly. Shifting culture does not happen overnight, but having Cohort Calls be a example of what open culture can look like was a big underlying goal of Openscapes. We used software like Zoom and Google Docs to facilitate real-time collaboration and connection as a full group and smaller break-out groups, and took notes, had side conversations, and shared resources with each other. Several labs now use Google Docs to take live note-taking during their own meetings, both at the lab-scale and one-on-one.
+
+> I feel so much better about my projects that use open data science than I do about my earlier projects...I'm now insisting that all of my students use open science methods and recommending the same to colleagues. *- end-series survey*
+
+Labs also have stated, public Codes of Conduct posted on GitHub, where they put their values forward and set the example of how they do science (see post about [RStudio::conf culture](https://www.openscapes.org/blog/2019/02/19/rstudioconf/)). And, to get comfortable discussing data workflows in the lab, they have been leading semi-weekly ["seaside chats"](https://www.openscapes.org/blog/2019/03/10/seaside-chats/). Seaside chats also have the effect of strengthening the culture in the lab, encouraging peer-to-peer learning, and strengthening leadership skills. 
+
+> The course was a ton of fun, and I really did learn a lot. You also motivated much of the lab outside [Openscapes] to adopt more open data science tools and practices too! *- Daniel Forest (Pinsky Lab)* 
+
+<br>
+
+## Leadership & championing inside, outside, and across labs
+
+Open practices in the lab is key for creating happy scientists and creating a culture of efficient and reproducible innovation. But of course the point is for it not to stay in the lab, but to be seeded throughout science communities more broadly. There were great examples of this as well, with lab leads and lab members championing open data science and being leaders in many contexts. Some of my favorite examples include Seaside chats an open invitation to others in the department, and both graduate students and faculty asking faculty committees for data science to be taught within their department. 
+
+> Being able to engage in discussions that are laying the foundation not just for open data, but more inclusive practices in science is exciting and a privilege to be part of. *— end-series survey*
+
+Speaking of teaching data science within environmental science departments, Nina taught a new course at Cornell entirely from Wickham & Grolemund's [R for Data Science](https://r4ds.had.co.nz/), and has another course in the works. And Allison at UCSB not only got all her course materials organized on GitHub, she built a beautiful website as well: ([allisonhorst.github.io](https://allisonhorst.github.io)).
+
+> We will also be designing a new course for incoming graduate students that will introduce them to key open science tools, building to a large extend on the lessons from our own process. This course will connect closely with the mission of Openscapes! *- Therkildsen Lab Case Study*
+
+Outside of their labs, Champions are joining and leading communities. At UCSB, Allison from the Horst Lab started [#tidytuesday hacky hours](https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and Halley from the Froehlich Lab and Adrian and Lily from the Stier Lab attended their first eco-data-science sessions. And the Pinsky Lab has helped initiate several efforts: Michelle has started the first [RLadies chapter in New Jersey](https://rladies-hp.netlify.com/) (and there are already 30 members signed up preceding their first event!) and Malin is helping students who want to start a coding club on campus. 
+
+> I’ve reached out to people to encourage open data science and begin to build networks that encourage open data science *- series-end survey*
+
+Something that was really exciting was to see momentum and interactions across labs. Some examples are the Pinsky and Horst Labs: Michelle Stuart and Malin Pinsky are planning to teach a new open data science course at Rutgers, using Allison Horst's course materials ([allisonhorst.github.io](https://allisonhorst.github.io)). Another example is with the Froehlich, Wood, and Therkildsen Labs: they all have ongoing research about aquaculture (food systems, parasite effects, and genomics), and have some proposal ideas in the works. 
+
+> Openscapes really helped introduce me to ways of introducing open data science to colleagues and communities and resources to point them toward. *— end-series survey*
+
+Additionally, they are being ambassadors & engaging with #rstats Twitter, sharing open science and #rstats resources with their scientific networks. 
+
+<br> 
+
+<center>
+ <a href="https://twitter.com/DocFroehlich/status/1085990833571020800">
+    <img src="/img/blog/halley-rnoaa-tweet.png" width="350px">
+  </a>
+</center>
+
+<br>
+
+
+## Additional reports and Lab Case Studies
+
+We will be compiling a more complete report of the Champions program as a whole, along with other wins, challenges, lessons learned, and next steps. Until then, there is a lot of additional information and stories in these posts: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — becoming champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+- [Starting our #tidytuesday hacky hours](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/)
+
+Additionally, there are case studies sharing accomplishments for each lab: 
+
+- [Wood Lab](https://www.openscapes.org/blog/2019/05/29/case-study-wood-lab/)
+- [Horst Lab](https://www.openscapes.org/blog/2019/05/30/case-study-horst-lab/)
+- [Jayasundara Lab](https://openscapes.org/blog/2019/06/03/case-study-jayasundara-lab/)
+- [Stier Lab](https://openscapes.org/blog/2019/06/04/case-study-stier-lab/)
+- [Pinsky Lab](https://openscapes.org/blog/2019/06/06/case-study-pinsky-lab/)
+- [Therkildsen Lab](https://openscapes.org/blog/2019/06/10/case-study-therkildsen-lab/)
+- [Froehlich Lab](https://openscapes.org/blog/2019/06/11/case-study-froehlich-lab/)
+
+
+## Closing thoughts and next up 
+
+I am so proud of what all of the Openscapes Champions achieved. I had ambitious expectations but was truly blown away by every single one of these scientists: by their achievements, enthusiasm, generosity of time, and thoughtfulness with each other. Openscapes is not only about introducing tools, it's about creating a lasting culture around those tools. Our cohort included scientists who are leaders in their fields but were by and large not engaged in open science. But they are now champions in the lab and beyond, and it's just the beginning of their leadership and impact on the future of environmental open data science. 
+
+And luckily, it's just the beginning of Openscapes as well!
+
+Openscapes has been possible because of a truly life-changing Fellowship from Mozilla, and incredible mentorship and support from many many folks at Mozilla, NCEAS, the open data science community, and the Champions themselves. Thank you all, so much. And while my Mozilla Fellowship concludes at the end of this month, I have just received generous support to continue Openscapes and develop a plan to mentor future cohorts! I cannot tell you how excited I am to continue this work! And I'll continue writing blogs as I synthesize all the lessons learned into the Openscapes Report, Volume 1 (working title) (and which I will also share). 
+
+> Thank you from the bottom of my heart for introducing these practices into my life! I've been working on a brand new analysis script using the here package and github so work in the future will be more streamlined and organized. The conversation is definitely only getting started. *— end-series survey*
+
+
+<br> 
+
+<center>
+  <img src="/img/blog/concluding-tweet.png" width="500px">
+</center>
+
+<br> 

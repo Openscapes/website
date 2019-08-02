@@ -16,12 +16,13 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 - [Announcing Openscapes: Open Science is Better Science](https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5) - Mozilla. January 29, 2019. *Medium.*
 
+- [Open Science and 'Star Wars'](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. *Medium.*
 
 <br>
 
 ## OPENSCAPES PRESENTATIONS
 
-- R for science communication and culture (tentative title)- *upcoming July 10, 2019*: Keynote talk, [useR Conference](http://user2019.r-project.org/), Toulouse, France 
+- [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1) - July 10, 2019: Opening Keynote, [useR Conference](http://user2019.r-project.org/), Toulouse, France (45 minutes) [(video, starts ~46:30)](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)
 
 <!--- How mentoRship & community enables betteR science in less time --->
 

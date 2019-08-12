@@ -1,7 +1,7 @@
 ---
-title: "Opening keynote at the useR! conference"
+title: "Keynote at the useR! conference — followup Q&A"
 author: Julie Lowndes
-date: '2019-08-07'
+date: '2019-08-20'
 slug: keynote-useR
 categories:
   - community
@@ -12,53 +12,88 @@ banner: img/blog/keynote/user-keynote-titleslide.png
 
 *Last month I gave the opening keynote at the useR! Conference. *
 
-*For more details on Openscapes see [Introducing Openscapes](https://www.openscapes.org/blog/2018/11/20/introducing-openscapes/) and [Introducing the Champions Program](https://www.openscapes.org/blog/2019/01/28/introducing-champions-program/)*.
+*For more details on Openscapes see [blog by Mozilla](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f)*.
 
 ---
 
 useR! is an annual international conference for innovators around the R programming language, which are called useRs. The conference in Toulouse was the ... Learn more about it here. 
 
+Thank you for the invitation. 
+
 This is a condensed summary of my talk, with [full slides available](), along with a [video]() of the presentation live in Toulouse. 
-
-
-
 
 
 ---
 
+<br>
 
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE, warning=FALSE, message=FALSE, verbose = FALSE)
-knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+<center>
+  <a><img src="/img/blog/keynote/user-keynote-titleslide.png" width="500px"></a>
+  <figcaption>art: [@allison_horst](https://twitter.com/allison_horst)</figcaption>
+</center>
 
-library(xaringan)
-library(fontawesome)
-```
-
-
-class: title-slide, right, bottom
-background-image: url(img/horst-starwars-rey.png)
-background-size: contain
-background-position: bottom left 
+<br>
 
 
-# `r rmarkdown::metadata$title`
+There were great questions from the audience, and I liked the conference's use of Sli.do so that people could write their questions during my talk and vote on other people's so that we could answer the questions that multiple people had. I didn't get a chance to respond to all of these questions during the conference Q&A, and some I feel like I didn't respond to fully in the moment due to the adreneline from having completed the talk. So here I will comment on a few more of the questions that conference attendees had. 
 
-### `r rmarkdown::metadata$author`
-### `r rmarkdown::metadata$role`
-### `r rmarkdown::metadata$institute`
-
-[`r icon::fa("twitter")` @juliesquid](https://twitter.com/juliesquid)  
-[`r icon::fa("paper-plane")` lowndes@nceas.ucsb.edu](mailto:lowndes@nceas.ucsb.edu)  
-[`r icon::fa("desktop")` jules32.github.io/useR-2019-keynote](http://jules32.github.io/useR-2019-keynote)  
+Grouped and organized a bit based on my responses. 
 
 
-<img src="img/mozilla.png" alt="mozilla" style="float:right;width:154px;"/>
-<img src="img/nceas.png" alt="nceas" style="float:right;width:150px;"/>
+## Mindset and skillset
 
-???
+#### You have a lot of focus on tool choice as a path to open science. Do you think that scientists who struggle are held back mostly by tools or some other factor?
 
-Well thank you so much, I am so excited to be here with all of you and I want to thank the organizers for this invitation. 
+--> mindset and skills. 
+
+#### With every PhD student generation, do you feel that it becomes easier to convince them to engage in Open Science? Or is there recurring resistance?
+
+The new generation of scientists are much more willing to engage in open science. They have grown up sharing (Instagram, Twitter, GoogleDocs), and they help bring the idea of sharing openly to the scientific community. 
+
+There is great opportunity for open practices to not only accelerate and amplify collaboration and scientific discoveries, but be valued, rewarded, and help favor team science. And this is important because individual scientists cannot do it all (research, publications, mentorship, teaching, travel, committees, communication, grant writing, etc., and now open data science?), nor should they be expected to. Moving forward, the workload and credit should be more distributed. If we had a culture where open data science was valued, collaboration was fueled by the open web, credit was transparent, and researchers worked on projects as a team – as we do with the Ocean Health Index –  then we could find environmental solutions we have yet to imagine – and elevate everyone in the process.
+
+#### What are some of the big data challenges for marine data? For example, is comprehensive data collection an issue? Is coordinating data resources from diff gps?
+
+## Incremental improvement
+
+#### It is a big "what if", but still. What if your boss would *not* have been that supportive?
+
+--> I honestly think that the project would no longer exist. A project combining and modeling one hundred datasets cannot could not continue on an annual timeline with folks forwarding hand-crafted excel files to each other. 
+
+bookkeeping. 
+and with limited time and resources, we could not afford to hire someone else or waste time 
+
+#### How did u convince ur boss to have believe in something he didn't have knowledge about?
+
+It was a combination of trust, demonstrating value in ways that he cared about, and absolute necessity. In terms of trust, he already gave us independence in our tasks, valued our judgment, and welcomed feedback. This had been established within the team for months to years, so it was a collaborative environment before we even began talking about open data science. We demonstrated value in ways that he cared about: we showed him that R and GitHub would save time. And it would not be immediate; it might take us 2 days to do something that we could produce in Excel in a half a day — but it will take just an hour next week and the week after that. We demonstrated how nimble we were to rerun analyses with small changes to parameters or subsets of data, and that these skills would be valuable not only for the current project but for projects to come. And, it was due to absolute necessity. We needed a better way to work: it was not sustainable to have to waste so much time doing forensics in our emails and files to try to figure out what we had done and why in order to advance our analyses. To be dramatic, it was like accepting that candles and torches were not enough anymore and that we needed to wire our house for electricity. It meant overcoming inertia and the time it takes for changing this infrastructure, but it means that we can be more efficient in the long run. 
+
+
+#### how can you keep the balance between sharing and open data and protecting the data while working in a private company?
+
+- What about barriers to adoption? E.g. "I worked hard to get this data, why should I share it? I need the publications from it"
+
+
+#### Do we need open DATA science? Isn't open science enough?
+
+#### How to use twitter effectively to improve our skills and share our experience?
+
+#### As a marine scientist how do we get involved in openscapes?
+
+#### How about Open Data Science to help communicate and to engage with the general public ? Could Open Citizen Science be part of your Open Data Science landscape ?
+
+## Teaching
+
+#### How should data science and statistics be taught at University to students within you field of study?
+
+#### What makes R a good choice to learn for others without a computing background who want to analyze data?
+
+#### In the training you provide, would you rely on R as how it is in its R-base shape or would you prefer a restricted approach such as tidyverse type use of R?
+
+#### Are you noticing positive (measurable) effects of decreasing gender imbalance in Open Source dev? Have the Rladies and similar taken off?
+
+## Original Talk script
+
+
 
 I am a marine scientist and R as a language and as a community has been game-changing for my science, and my life. 
 

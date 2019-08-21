@@ -1,7 +1,7 @@
 ---
 title: "Keynote at the useR! conference"
 author: Julie Lowndes
-date: '2019-08-21'
+date: '2019-08-22'
 slug: keynote-useR
 categories:
   - community

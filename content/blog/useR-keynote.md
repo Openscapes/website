@@ -7,15 +7,15 @@ categories:
   - community
 tags:
   - impact
-banner: img/blog/keynote/user-keynote-titleslide.png
+banner: img/blog/keynote/user-keynote-titleslide-square.png
 ---
 
-*In July 2019 I gave the opening keynote at the useR! Conference, the R language's international gathering that has happened annually throughout the world [since 2004](http://user2019.r-project.org/past/). It was, needless to say, an incredibly huge honor. This community  Here are a few highlights from my talk, and links to resources and conversations.*
+*In July 2019 I gave the opening keynote at the [useR! Conference](http://user2019.r-project.org/program_overview/), the R language's premiere gathering that has occurred annually throughout the world [since 2004](http://user2019.r-project.org/past/). It was, needless to say, an incredibly huge honor. And perhaps an unexpected one for a marine ecologist. But the R community has been so impactful on my science and life, and this was the opportunity to try to articulate its importance back to the community and to welcome others. I am really proud of my talk, and am thankful for everyone who helped me build up to it over the years. This post is not a summary of the talk, but a few highlights, thoughts that are in development, a few responses to un-asked questions during the Q&A, and links to resources and conversations.*
 
 *Quick links:* 
 
 - *[keynote video](https://www.youtube.com/watch?v=Z8PqwFPqn6Y&feature=youtu.be) (starts at 46:30)*
-- *[keynote slides](https://jules32.github.io/useR-2019-keynote/#1) (press `p` to see presenter notes)*
+- *[keynote slides](https://jules32.github.io/useR-2019-keynote/#1) (press `p` to see presenter notes, since on-slide text is sparse)*
 - *[artwork by Allison Horst](https://github.com/allisonhorst/stats-illustrations/tree/master/openscapes#dr-julia-lowndes-keynote-illustrations) (available for download and reuse)*
 - *[useR website](http://user2019.r-project.org/program_overview/)*
 - *[#user2019 on Twitter](https://twitter.com/search?q=%23user2019&src=typed_query)*
@@ -28,17 +28,17 @@ banner: img/blog/keynote/user-keynote-titleslide.png
 <br>
 
 <center>
-  <a><img src="/img/blog/keynote/user-keynote-titleslide.png" width="500px"></a>
-  <figcaption>by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
+  <a><img src="/img/blog/keynote/user-keynote-presenting.jpg" width="500px"></a>
+  <figcaption>Kicking off useR! 2019. Photo by [](), all artwork by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 
 <br>
 
-My keynote talk was called "R for better science in less time" and is about how open software and teamwork can supercharge environmental science. And specifically, how R as a language and as a community have been so impactful on my science and on my life, so that now I am focused on passing forward what I've learned. While the message is relevant to many different fields, I focus on environmental science because that is where my expertise lies as a marine-scientist-turned-marine-data-scientist.
+My keynote talk was called "R for better science in less time" and is about how open software and teamwork can supercharge environmental science. And specifically, how R as a language and as a community have been so impactful on my science and on my life, so that now I am focused on passing forward what I've learned. While the message is relevant to many different fields, I focus on environmental science because that is where my expertise lies as a marine-scientist-turned-marine-data-scientist, and that is where there is a pressing need as scientists tackle how humans can live sustainably in a changing climate.
 
-In my keynote I shared a lot about Openscapes and what motivates the [Champions mentorship program](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/). That motivation comes from my own experience struggling with data (both alone and with collaborators) and getting through it with mentorship and teamwork, centered around open data science. My three big takehomes were that open data science is a mindset, that teamwork starts with openness, and that to be most effective we should harness the power of welcome. I won't build out those lessons learned here, but I will highlight some of what motivates my work — see options above to read and watch the whole story (or check out [@fmic_'s live-tweets!](https://twitter.com/fmic_/status/1148863951029067776)). 
+In my keynote I shared a lot about Openscapes and what motivates the [Champions mentorship program](https://www.openscapes.org/champions). That motivation comes from my own experience struggling with data (both alone and with collaborators) and getting through it with mentorship and teamwork, centered around open data science. My three big take-homes were that open data science is a mindset, that teamwork starts with openness, and that to be most effective we should harness the power of welcome. I won't build out those lessons learned here, but I will highlight some of what motivates my work — see options above to read and watch the whole story (or check out [@fmic_'s live-tweets!](https://twitter.com/fmic_/status/1148863951029067776)). 
 
-But first I wanted to say thank you again to everyone that helped me prepare for the talk. In particular, thank you Allison Horst, who coached me weekly and designed beautiful, original artwork to help convey my ideas. I made the slides in R using Yihui Xie's `xaringan`, and published them on GitHub gh-pages. #opendatascience and #teamwork.
+But first I wanted to say thank you again to everyone that helped me prepare for the talk. In particular, thank you Allison Horst, who coached me weekly and designed beautiful, original artwork to help convey my ideas. And thank you also to Yihui Xie, JJ Allaire et al for the RMarkdown suite: I made the slides in R using `xaringan`, and published them on GitHub gh-pages. #opendatascience and #teamwork #forthewin.
 
 <br>
 
@@ -48,27 +48,27 @@ But first I wanted to say thank you again to everyone that helped me prepare for
 
 <center>
   <a><img src="/img/blog/keynote/horst-eco-r4ds.png" width="800px"></a>
-  <figcaption>by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 
 <br>
 
-This is the vision I see for environmental science. Where the elements that environmental scientsts are great at — like theory, and experimental design, and data collection — is streamlined using open data science to help us uncover and communicate environmental solutions faster. The center of this illustration (the import > tidy > transform/visualize/model > communicate cycle that accompanies [Wickham & Grolemund's definition of data science](https://r4ds.had.co.nz/introduction.html)) here is ringed by communities and support that my team has found so [critical to our success](https://www.nature.com/articles/s41559-017-0160). 
+This is the vision I see for environmental science: Where the elements that environmental scientists are great at — like theory, and experimental design, and data collection — are streamlined using open data science to help us uncover and communicate environmental solutions faster. The center of this illustration (the import > tidy > transform/visualize/model > communicate cycle that accompanies [Wickham & Grolemund's definition of data science](https://r4ds.had.co.nz/introduction.html)) here is ringed by communities and support that supercharge innovation and teamwork. These are the communities that my Ocean Health Index team has found so [critical to our success](https://www.nature.com/articles/s41559-017-0160). 
 
-This complete picture is so important for the amazing scientists studying climate changes' affects on the environment (including food security and disease transmission) — but currently this is not the norm.
+This complete picture is so important for the amazing scientists studying climate changes' affects on the environment (including food security and disease transmission). But currently this is not the norm.
 
 <br>
 
 <center>
   <a><img src="/img/blog/keynote/horst-eco-r4ds-env-comm-only.png" width="700px"></a>
-  <figcaption>by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 
 <br>
 
-Currently, environmental science looks like this. We are rarely taught how to work responsibly with data or have formal training with coding or computing. This means scientists learn on their own or in pockets of opportunity but are largely unsupported at broader institutional levels. And often they are not supported even at level of the research group, which is already poised to work like a team.
+Currently, environmental science looks like this. We are rarely taught how to work responsibly with data or have formal training with coding or computing. We are largely on our own to learn how to analyze our data. This means scientists learn on their own in pockets of opportunity but are largely unsupported at broader institutional levels. We spend a lot of time struggling and reinventing the wheels of data analysis when we are trying to be focused on science questions. And often scientists are not supported even at level of the research group, which is already a science team and should be so in terms of data.
 
-Helping complete this picture drives my work now. I want to figure out how to best introduce open data science and teamwork to this picture. 
+Helping complete this picture drives my work now. [Openscapes](https://openscapes.org) is all about how to best complete this picture by introducing open data science and teamwork to supercharge scientific research. 
+
+<br>
 
 ## Open data science — teamwork feedback loop
 
@@ -76,60 +76,196 @@ Helping complete this picture drives my work now. I want to figure out how to be
 
 <center>
   <a><img src="/img/blog/keynote/horst-lowndes-loop.png" width="500px"></a>
-  <figcaption>by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 
 <br>
 
 
-Open data science and teamwork are so powerful together, and I've been thinking about them together as a beautiful feedback loop. Learning and using similar open software promotes and streamlines teammwork. And also working as a team better equips you to learn open practices data science.
+Open data science and teamwork are so powerful together, and I've been thinking about them together as a beautiful feedback loop. Starting on the left: learning and using similar open software promotes and streamlines teamwork. And from the right: working as a team better equips you to learn open practices data science.
 
-For example, using shared conventions like the tidyverse in R can reduce friction when it comes to running each other's code, which can open up time for more thoughtful suggestions and collaboration. The relationships and trust built within the team from these experiences can prime them to improve upon their workflows — they might be more willing to introduce GitHub to their team as a way to reduce the friction that comes from from filesharing. 
+For example, using shared conventions like the tidyverse in R can reduce friction when it comes to running each others' code, which can then open up time for more thoughtful suggestions and collaboration. The relationships and trust built within the team from these experiences can prime them to improve upon their workflows — they might be more willing to introduce GitHub to their team as a way to reduce the friction that comes from from file-sharing. This will then make it easier to onboard new members to the team, and continue strengthen relationships and skillsets.
 
-This is a loop that feeds back on itself, which each fueling the other. I think that this is really what is doing on in the central portion of the environmental open data science illustration above: those communities ringing the open data science workflow. It's this feedback and this fueling that is so powerful, and it is not limited to the traditional definitions of teams and creates whole communities that innovate together.
+This is a loop that feeds back on itself, which each fueling the other. Maybe it's more like a spiral, because it gets tighter and tighter? I think that this is really what is going on in the central portion of the environmental open data science illustration above: those communities ringing the data science workflow. It's this feedback and this fueling that is so powerful, and it is not limited to the traditional definitions of teams — it creates whole communities that innovate together. And it's also the part that is currently missing from the way we do environmental science.
 
-And my work with Openscapes is harness the power of welcome to ... welcome more environmental scientists into this feedback loop. Our Ocean Health Index team has found this to be so powerful for our science but when you are outside of it, what are entry points to engage? With Openscapes, we approached it kind of like a spiral. We started with building trust as a team (cohort), but framed around open data science tools and practices. And each week we would build more trust, and dig into open data science a bit more. I'm excited to revisit and improve upon the Champions program to help this cycle get fueled as effectively as possible!
+So my work with Openscapes is harness the power of welcome to ... welcome more environmental scientists into this feedback loop. This means being kind and empathetic when discussing open data science with research groups, and help them operate more like a team in an open data science context. With Openscapes, we started on the teamwork side but immediately framed it around open data science and then continued to loop around. Build more trust, discuss more tools. Discuss current norms in the research group, discuss available open tools and practices. Create a code of conduct, Create a GitHub organization. The first Openscapes cohort has had [awesome acheivements and momentum](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/), and I'm excited to revisit and improve upon the program to help science teams get into this feedback loop as effectively as possible!
 
+<br> 
+
+## R is the force that enables us to do better science in less time
+
+I like to talk about all of this in terms of metaphors with Star Wars, hence the title slide :). 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/horst-starwars-luke.png" width="600px"></a>
+</center>
+
+<br>
+
+This is Luke Skywalker after he crashed his plane in the swamp on Dagobah. 
+
+He cannot solve the the challenge in front of him with the skillsets he has, and it is super demoralizing. And if you imagine him attempting to use whatever pulleys and ropes he might have with him, you know it wouldn't be pretty, it wouldn't be reproducible, and it probably wouldn't get him where he needs to be on time. But luckily what happens next is that he meets Yoda —
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/horst-starwars-yoda.png" width="600px"></a>
+</center>
+
+<br>
+
+And Yoda has a skillset to solve Luke's problem in a way Luke never imagined was possible. He uses the Force. 
+
+And this is going to change Luke's life, both in terms of skills and mindset. Luke can see what's possible and he can learn these skills from Yoda. And he will be able to not only solve his current challenge, but it will broaden his whole mind to what is possible in the future and the scale of the challenges he will take on. 
+
+But Luke didn't go on to defeat the Empire himself, he had a whole community.
+
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/horst-starwars-hands.png" width="600px"></a>
+</center>
+
+<br>
+
+And this community is powerful because of the diversity of backgrounds and expertise, and although not everyone is a Jedi, everyone contributes in really critical ways. So to recap:
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/horst-starwars-rey.png" width="600px"></a>
+</center>
+
+<br>
+
+R is the Force that enables us as scientists to do better science in less time. 
+
+It empowers us to get our own data out of the swamp. And it empowers us and build off of our confidence and experiences and broaden the scope of scientific challenges that we can tackle, which for environmental scientists, includes food security, disease transmission, and climate change. 
+
+--
+
+Over the years folks have asked who is Yoda in this analogy. The answer is, it's relative. To me, Yoda is many of the people at useR! and in the #rstats community; they are the developers of the R tools and packages I use. In this scenario, they are the Jedis and feel more like Rey. But when I mentor with Openscapes and lead trainings with [RLadiesSB](https://twitter.com/RLadiesSB), [Eco-Data-Science](http://eco-data-science.github.io), [NCEAS](https://nceas.ucsb.edu/learning-hub), and [The Carpentries](https://thecarpentries.org), folks see me as Yoda, and they feel like Rey. And I think that's an important part of this; even if you don't feel like THE Jedi or expert, you probably are to some people, and you can step up into that role and help welcome them to the power of the Force. And that can start immediately: you can champion R as the Force now.
+
+This is a good place to end the highlights from my talk and answer a few questions that were submitted in Toulouse after my keynote.
+
+<br> 
 
 ## Q&A
 
-One of the questions I was asked after the talk was about whether "open data science" is needed as a distinction from "open science"; it's it a part of open science as a whole? I don't think I answered that question completely in the moment (I was pretty nervous the whole time) so I thought I'd try to articulate my response a bit here, as well as respond to a few of the other questions submitted on Sli.do after my talk. 
-
 #### Do we need to talk about "open data science" instead of just "open science"
 
-To me, this is more about bringing "open" to the topic of "data science" rather than distinguishing "data" in "open science". I think the concepts of openness are really critical when we think about data science and coding, but maybe since my coding experience began with propriatary software and difficulty sharing (for both technical and mindset reasons), I think it's important that we talk about openness and code together. This can help daylight "black box" algorithms as well as reuse and remix code that we can run on our own machines because the language is open source and we share it openly. 
+One of the questions I was asked after the talk was about whether "open data science" is needed as a distinction from "open science"; isn't it already a part of open science as a whole? I don't think I answered that question completely in the moment (I was pretty fried) so I thought I'd try to articulate my response a bit here.
 
+To me, "open data science" is more about bringing "open" to the topic of "data science" rather than distinguishing "data" in "open science". I think the concepts of openness are really critical when we think about data science and coding. My coding experience began with proprietary software and sluggish sharing (for both technical and mindset reasons), so I think it's important to be explicit and talk about openness and code together. Openness in data science can help daylight "black box" algorithms as well facilitate reusing and remixing code that we can run on our own machines because the language is open source and we share it openly. 
 
 #### With every PhD student generation, do you feel that it becomes easier to convince them to engage in Open Science? Or is there recurring resistance?
 
-Yes, I think it is getting easier. I think that the new (now?) generation of scientists are much more willing to engage in open science. They have grown up sharing (Instagram, Twitter, GoogleDocs), and they help bring the idea of sharing openly to the scientific community. And I'm excited to see this because there is great opportunity for open practices to not only accelerate and amplify collaboration and scientific discoveries, but be valued, rewarded, and help favor team science. Because no one can do it all, and we need to break down the expectation that they should be able to.
-
+Yes, I think it is getting easier. I think that the new (now?) generation of scientists are much more willing to engage in open science. They have grown up sharing (Instagram, Facebook, Google Docs), and they help bring the idea of sharing openly to the scientific community. And I'm excited to see this because there is great opportunity for open practices to not only accelerate and amplify collaboration and scientific discoveries, but, importantly, to be valued and rewarded within the academic system. We really need to favor openness and team science, because no one can do it all, and we need to break down the expectation that they should be able to.
 
 #### How did u convince ur boss to have believe in something he didn't have knowledge about?
 
 Convincing our boss that open data science was worth our time to learn required a combination of trust, demonstrating its value in ways that he cared about, and absolute necessity. 
 
-In terms of trust, he already gave us independence in our tasks, valued our judgment, and welcomed feedback. This had been established within the team for months to years, so it was a collaborative environment before we even began talking about open data science. We were able to demonstrate value in ways that he cared about: we showed him that R and GitHub would save time. And it would not be immediate; it might take us 2 days to do something that we could produce in Excel in a half a day — but it will take just an hour next week and the week after that. We demonstrated how nimble we were to rerun analyses with small changes to parameters or subsets of data, and that these skills would be valuable not only for the current project but for projects to come. And visualizations helped a lot too, as well as interactive graphics and gifs (great for demonstrating change over time). 
+In terms of trust, he already gave us independence in our tasks, valued our judgment, and welcomed feedback. This had been established within the team for months to years, so it was a collaborative environment before we even began talking about open data science. 
 
-This argument was helped because of absolute necessity. We had deadlines approaching and we were spending time retracing our steps instead of taking the next steps forward. We needed a better way to work: it was not sustainable to have to waste so much time doing forensics in our emails and files to try to figure out what we had done and why in order to advance our analyses. For a dramatic analogy, it was like accepting that candles were not enough anymore and that we needed to wire our house for electricity. It meant overcoming inertia and the time it takes for changing this infrastructure, but it means that we can be more efficient in the long run. 
+We were able to demonstrate value in ways that he cared about: we showed him that R and GitHub would save time. And we were clear that it would not be immediate; it might take us three days to do something in R that we could produce in Excel in a half a day — but it will take just a half-hour next week. And the week after that. We demonstrated how nimble we were to rerun analyses with small changes to parameters or subsets of data, and that these skills would be valuable not only for the current project but for projects to come. And visualizations helped a lot too, as well as interactive graphics and gifs (super great for demonstrating change over time, which ecologist think about a lot). 
 
-#### how can you keep the balance between sharing and open data and protecting the data while working in a private company?
+This argument was helped because of absolute necessity. We had deadlines approaching and we were spending time retracing our steps instead of taking the next steps forward. We needed a better way to work: it was not sustainable to have to waste so much time doing forensics in our emails and file systems to try to figure out what we had done and why in order to advance our analyses. For a dramatic analogy, it was like accepting that candles were not producing enough light anymore and that we needed to wire our house for electricity. It meant overcoming inertia and the time it takes for changing this infrastructure, but it means that we can be more efficient in the long run. 
 
-The advice that comes to mind is to "be as open as possible, and as closed as necessary". There are ways you can share code but not data, or summarize or anonymize data before sharing.
+#### How can you keep the balance between sharing and open data and protecting the data while working in a private company?
 
-But I think that part of sharing and openness is being aware and engaged with what is possible on the software side so that current, individual skillsets don't limit your imagination. 
+The advice that comes to mind is to "be as open as possible, and as closed as necessary". Folks have developed ways to summarize or anonymize sensitive data before sharing, and it is also possible to share code or methods, etc without sharing the data. I strongly believe that there are many ways to work openly even if you can't share your data; you can share slides from talks, you can share snippets of code or methods, you can blog, you can publish in open access journals. It's an exciting time for open science. 
 
-To go back to the Star Wars analogy I used in my keynote, when Luke was weighing his options of how to get his plane out of the Dagobah swamp, he *never* would have considered the Force unless he saw what Yoda was able to do. And that develops a mindset where even if you have not seen exactly everything that is possible, you start to *expect* that it is possible. 
+I also think that part of sharing and openness is being aware and engaged with what is possible on the software side so that your current, individual skillsets or experiences don't limit your imagination. 
 
-On the science side, I think sometimes our uneasiness about sharing is because we do not know what's possible, and it seems like a lot of extra work. If your experience with sharing (smallish) data has been limited to email, the idea of sharing broadly and keeping things up to date seems like a huge task. But when you not only see but have a touch of experience with how a GitHub account and a bit of Markdown gives you a whole new communication platform, it can really spark a change in mindset. And while there is time involved in sharing information, the time-saving benefits and power in the near and long term are worth the investment (just like they were for Luke).
+To go back to the Star Wars analogy, when Luke was weighing his options of how to get his plane out of the Dagobah swamp, he *never* would have considered the Force unless he saw what Yoda was able to do. And that develops a mindset where even if you have not seen exactly everything that is possible, you start to *expect* that it is possible. Luke lifted up that rock? And R2? Well, then, he should be able to do an X-Wing. Twitter is a great tool to keep tabs on new ideas and projects so that you broaden your expectations of what's possible (see the next question).
 
-#### How to use twitter effectively to improve our skills and share our experience?
+On the science side, I think sometimes our uneasiness about sharing is because we do not know what's possible, and it seems like a lot of extra work. If your experience with sharing (smallish) data has been limited to written text in email with attachments, the idea of sharing broadly and keeping things up to date seems like a huge task. But when you not only see but have a touch of experience with how a GitHub account and a bit of Markdown gives you a whole new, update-able communication platform, it really does help spark a change in mindset. And while there is time involved in sharing information, the time-saving benefits and power in the near and long term are worth the investment (just like they are for Luke and Rey).
+
+#### How to use Twitter effectively to improve our skills and share our experience?
+
+My advice for Twitter is to start off small and deliberately. Use it to listen and learn, and then you can gradually build up the courage to like and retweet things. And remember that liking and retweeting is not only a way to engage with the community yourself, but it is also a way to welcome and amplify other people.   
+
+If you're joining twitter to learn R, I suggest following hadley, jenny, rOpenSci, WeAreRLadies. Listen to what they say and who joins those conversations, and follow other people and organizations. You could also look at who they are following. How can this be useful? In Openscapes I give the following examples: 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/" width="500px"></a>
+</center>
+
+<br>
+
+When I saw [this tweet](https://twitter.com/Md_Harris/status/1074469302974193665/photo/1) by [@Md_Harris](https://twitter.com/Md_Harris), this was my internal monologue: 
+
+1. Cool visualization!
+1. I want to represent my data this way
+1. He includes his [code](https://gist.github.com/mrecos) that I can look at to understand what he did, and I can run and remix
+1. The package is from [@sckottie](https://twitter.com/sckottie) — I know he is at [rOpenSci](https://ropensci.org)
+1. [`rnoaa`]() is a package making NOAA data more accessible! I didn't know about this, it will be so useful for my colleagues
+1. I will retweet so my network can benefit as well
+
+<br>
+
+Another example, [this tweet]() where [@JennyBryan]() is asking for feedback on a super useful package for interfacing between R and excel: [`readxl`]()
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/" width="500px"></a>
+</center>
+
+<br>
+
+
+My internal monologue: 
+
+1. Yay, readxl is awesome and getting better
+1. Do I have any spreadsheets to contribute? 
+1. In any case, I will retweet so others can contribute. And I'll like it because I want Jenny to know I appreciate this work
+
+
+<br>
+
+A final example, [this tweet]() where [@]() 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/keynote/" width="500px"></a>
+</center>
+
+<br>
+
+
+My internal monologue: 
+
+1. This absolutely makes my day
+1. Retweet, maybe with my own comment, or maybe I'll also reply saying I appreciate it. 
+
+<br> 
+
+These are just a few ways to learn and build community on Twitter. And as you feel comfortable, you can start sharing your ideas or your links too. Live-tweeting is a really great way to engage as well, and bridge in-person conferences with online communities. And of course, in addition to engaging on Twitter, check whether there are local RLadies chapters or other R meetups, and join! Or perhaps [start one](https://openscapes.org/blog/2018/11/16/how-to-start-a-coding-club/)?
 
 
 
-#### As a marine scientist how do we get involved in openscapes?
 
-Great question :) :)
+#### As a marine scientist how do we get involved in Openscapes?
+
+Great question :) :). And a great one to end on.
+
+The most immediate thing to join the community is to visit the [get involved](https://openscapes.org/contact) page — there is a signup sheet and you can also follow us on Twitter. 
+
+I am currently strategizing and fundraising to build out Openscapes into a full-time, long-term program operated at the [National Center for Ecological Analysis & Synthesis](https://nceas.ucsb.edu), where I am based. I will be focused on this in the next nine months due to a generous gift from the [Moore Foundation]() following my fellowship support from [Mozilla](). My goal is to increase the number of research groups Openscapes mentors each year with a small team and vibrant community. I also want to see about extending/replicating/spinning off Openscapes to other communities (i.e. beyond environmental science). I want to continue the online cohorts, [scaling up as Mozilla Open Leaders](https://openscapes.org/blog/2019/01/28/introducing-champions-program/) has. Additionally, this winter I will adapt the online curriculum to lead in-person workshops for research groups, which I am really excited about.
+
+But I'm excited to hear your ideas! Please reach out if you have interest or ideas; I'd love to [hear from you](mailto:openscapes@nceas.ucsb.edu).
+
+<br> 
+
+
+<img src="/img/blog/keynote/user-keynote-titleslide.png" width="300px">
 
 
 

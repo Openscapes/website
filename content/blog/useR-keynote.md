@@ -255,9 +255,9 @@ Another example, [this tweet](https://twitter.com/JennyBryan/status/107433921798
 
 My internal monologue: 
 
-1. Yay, readxl is awesome and getting better
+1. Yay, readxl is awesome, and also getting better
 1. Do I have any spreadsheets to contribute? 
-1. In any case, I will retweet so others can contribute. And I'll like it because I want Jenny to know I appreciate this work
+1. In any case, I will retweet so others can contribute. And I'll like it too because I appreciate this work
 
 
 <br>
@@ -266,15 +266,15 @@ These are just a few ways to learn and build community on Twitter. And as you fe
 
 <br>
 
-#### How do we get involved in Openscapes?
+#### As a marine scientist how do we get involved in Openscapes?
 
 Great question :) :). And a great one to end on.
 
-The most immediate thing to join the community is to visit the [get involved](https://openscapes.org/contact) page — there is a signup sheet and you can also follow us on Twitter. 
+The most immediate thing to join the community is to visit the [get involved](https://openscapes.org/contact) page — there is a signup sheet and you can also follow us on Twitter. I also want to get in front of more marine science & environmental science audiences, to give department seminars and conference talks. It is kind of crazy to me that I've given a big talk like this one at useR! but not at any big marine/environmental conferences. Or maybe that's not surprising since I'm focused on increasing the visibility and value of open data science within environmental science, since it's not really a "mainstream" conversation yet, like it is in #rstats. In any case, if that is something you can help arrange, please get in touch! 
 
-I am currently strategizing and fundraising to build out Openscapes into a full-time, long-term program operated at the [National Center for Ecological Analysis & Synthesis](https://nceas.ucsb.edu), where I am based. I will be focused on this in the next nine months due to a generous gift from the [Moore Foundation](https://www.moore.org/) following my fellowship support from [Mozilla](https://foundation.mozilla.org/en/). My goal is to increase the number of research groups Openscapes mentors each year with a small team and vibrant community. I also want to see about extending/replicating/spinning off Openscapes to other communities (i.e. beyond environmental science). I want to continue the online cohorts, [scaling up as Mozilla Open Leaders](https://openscapes.org/blog/2019/01/28/introducing-champions-program/) has. Additionally, this winter I will adapt the online curriculum to lead in-person workshops for research groups, which I am really excited about.
+I am currently strategizing and fundraising to build out Openscapes into a full-time, long-term program operated at the US [National Center for Ecological Analysis & Synthesis](https://nceas.ucsb.edu) at the University of California Santa Barbara, where I am based. I will be focused on this in the next nine months due to a generous gift from the [Moore Foundation](https://www.moore.org/) following my fellowship support from [Mozilla](https://foundation.mozilla.org/en/). My goal is to increase the number of research groups Openscapes mentors each year with a small core team and vibrant community. I also want to see about extending/replicating/spinning off Openscapes to other communities (i.e. beyond environmental science). I plan to continue the online cohorts, [scaling up as Mozilla Open Leaders has](https://openscapes.org/blog/2019/01/28/introducing-champions-program/). Additionally, this winter I will lead my first in-person workshop for research groups, adapting the [Champions lesson series](https://openscapes.github.io/series) (and hoping to find time to build that out more too!).
 
-But I'm excited to hear your ideas! Please reach out if you have interest or ideas; I'd love to [hear from you](mailto:openscapes@nceas.ucsb.edu).
+But I'm excited to hear your ideas! Please reach out; I'd love to [hear from you](mailto:openscapes@nceas.ucsb.edu).
 
 <br> 
 

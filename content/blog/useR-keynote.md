@@ -184,7 +184,7 @@ This is a good place to end the highlights from my talk and answer a few questio
 
 One of the questions I was asked after the talk was about whether "open data science" is needed as a distinction from "open science"; isn't it already a part of open science as a whole? I don't think I answered that question completely in the moment (I was pretty fried) so I thought I'd try to articulate my response a bit here.
 
-To me, "open data science" is more about bringing "open" to the topic of "data science" rather than distinguishing "data" in "open science". I think the concepts of openness are really critical when we think about data science and coding. My coding experience began with proprietary software and sluggish sharing (for both technical and mindset reasons), so I think it's important to be explicit and talk about openness and code together. Openness in data science can help daylight "black box" algorithms as well facilitate reusing and remixing code that we can run on our own machines because the language is open source and we share it openly. 
+To me, "open data science" is more about bringing "open" to the topic of "data science" rather than distinguishing "data" in "open science". I think the concepts of openness are really critical when we think about data science and coding. My coding experience began with proprietary software and sluggish sharing (for both technical and mindset reasons), so I think it's important to be explicit and talk about openness and code together. Openness in data science can help daylight "black box" algorithms. And it can also facilitate innovation through reusing and remixing code that we can run on our own machines because the language is open source and we share it openly. 
 
 <br>
 
@@ -200,7 +200,7 @@ Convincing our boss that open data science was worth our time to learn required 
 
 In terms of trust, he already gave us independence in our tasks, valued our judgment, and welcomed feedback. This had been established within the team for months to years, so it was a collaborative environment before we even began talking about open data science. 
 
-We were able to demonstrate value in ways that he cared about: we showed him that R and GitHub would save time. And we were clear that it would not be immediate; it might take us three days to do something in R that we could produce in Excel in a half a day — but it will take just a half-hour next week. And the week after that. We demonstrated how nimble we were to rerun analyses with small changes to parameters or subsets of data, and that these skills would be valuable not only for the current project but for projects to come. And visualizations helped a lot too, as well as interactive graphics and gifs (super great for demonstrating change over time, which ecologist think about a lot). 
+We were able to demonstrate value in ways that he cared about: we showed him that R and GitHub would save time. And we were clear that it would not be immediate; it might take us three days to do something in R that we could produce in Excel in a half a day — but it will take just a half-hour next week. And the week after that. We demonstrated how nimble we were to rerun analyses with small changes to parameters or subsets of data, and that these skills would be valuable not only for the current project but for projects to come. And visualizations helped a lot too, as well as interactive graphics and gifs (super great for demonstrating change over time, which ecologists think about a lot). 
 
 This argument was helped because of absolute necessity. We had deadlines approaching and we were spending time retracing our steps instead of taking the next steps forward. We needed a better way to work: it was not sustainable to have to waste so much time doing forensics in our emails and file systems to try to figure out what we had done and why in order to advance our analyses. For a dramatic analogy, it was like accepting that candles were not producing enough light anymore and that we needed to wire our house for electricity. It meant overcoming inertia and the time it takes for changing this infrastructure, but it means that we can be more efficient in the long run. 
 
@@ -214,7 +214,7 @@ I also think that part of sharing and openness is being aware and engaged with w
 
 To go back to the Star Wars analogy, when Luke was weighing his options of how to get his plane out of the Dagobah swamp, he *never* would have considered the Force unless he saw what Yoda was able to do. And that develops a mindset where even if you have not seen exactly everything that is possible, you start to *expect* that it is possible. Luke lifted up that rock? And R2? Well, then, he should be able to do an X-Wing. Twitter is a great tool to keep tabs on new ideas and projects so that you broaden your expectations of what's possible (see the next question).
 
-On the science side, I think sometimes our uneasiness about sharing is because we do not know what's possible, and it seems like a lot of extra work. If your experience with sharing (smallish) data has been limited to written text in email with attachments, the idea of sharing broadly and keeping things up to date seems like a huge task. But when you not only see but have a touch of experience with how a GitHub account and a bit of Markdown gives you a whole new, update-able communication platform, it really does help spark a change in mindset. And while there is time involved in sharing information, the time-saving benefits and power in the near and long term are worth the investment (just like they are for Luke and Rey).
+On the science side, I think sometimes our uneasiness about sharing is because we do not know what's possible, and it seems like a lot of extra work. If your experience with sharing (smallish) data has been limited to written text in email with attachments, the idea of sharing broadly and keeping things up to date seems like a huge task. But if your whole workflow uses tools that streamline your day-to-day organization and analyses, then sharing requires much lower activation energy. And I think the mindset shift preceeds expertise. When you not only see but have a touch of experience with how a GitHub account and a bit of Markdown gives you a whole new, update-able communication platform, it really does help spark a change in mindset. And while there is time involved in sharing information, the time-saving benefits and power in the near and long term are worth the investment (just like they are for Luke and Rey).
 
 <br>
 
@@ -222,7 +222,9 @@ On the science side, I think sometimes our uneasiness about sharing is because w
 
 My advice for Twitter is to start off small and deliberately. Use it to listen and learn, and then you can gradually build up the courage to like and retweet things. And remember that liking and retweeting is not only a way to engage with the community yourself, but it is also a way to welcome and amplify other people.   
 
-If you're joining twitter to learn R, I suggest following hadley, jenny, rOpenSci, WeAreRLadies. Listen to what they say and who joins those conversations, and follow other people and organizations. You could also look at who they are following. How can this be useful? In Openscapes I give the following examples: 
+If you're joining twitter to learn R, I suggest following [@hadleywickham](https://twitter.com/hadleywickham), [@JennyBryan](https://twitter.com/JennyBryan), [rOpenSci](https://twitter.com/ropensci), [WeAreRLadies](https://twitter.com/https://twitter.com/WeAreRLadies). Listen to what they say and who joins those conversations, and follow other people and organizations. You could also look at who they are following. How can this be useful? Also, check out the [#rstats](https://twitter.com/search?q=%23rstats&src=typed_query) hashtag. This is not something that you can follow, but you can search it and you'll see that the people you follow use it to help tag conversations. You'll find other useful tags as well, within your domain, as well as other R-related interests, e.g. [#rspatial](https://twitter.com/search?q=%23rspatial&src=typed_query). 
+
+In Openscapes I talk through the following examples to show how I use Twitter to learn new things and keep tabs on (some of!) what's going on in R. I miss a lot because I'm not on Twitter all the time. And that is OK. There is too much goodness to know it all, and I am by no stretch of the imagination on top of it all or experienced with everything folks are developing. But, I learn more than I would if I were never on Twitter. Also, you can always look back at past users and hashtags and get "news updates" as you please. The search feature is pretty good!
 
 <br>
 
@@ -237,8 +239,8 @@ When I saw [this tweet](https://twitter.com/Md_Harris/status/1074469302974193665
 1. Cool visualization!
 1. I want to represent my data this way
 1. He includes his [code](https://gist.github.com/mrecos) that I can look at to understand what he did, and I can run and remix
-1. The package is from [@sckottie](https://twitter.com/sckottie) — I know he is at [rOpenSci](https://ropensci.org)
-1. [`rnoaa`](https://cran.r-project.org/web/packages/rnoaa/index.html) is a package making NOAA data more accessible! I didn't know about this, it will be so useful for my colleagues
+1. The package is from [@sckottie](https://twitter.com/sckottie) — I know he is at [rOpenSci](https://ropensci.org), which is a really amazing software developer community for science
+1. [`rnoaa`](https://cran.r-project.org/web/packages/rnoaa/index.html) is a package making NOAA [US environmental] data more accessible! I didn't know about this, it will be so useful for my colleagues
 1. I will retweet so my network can benefit as well
 
 <br>
@@ -271,11 +273,16 @@ These are just a few ways to learn and build community on Twitter. And as you fe
 
 Great question :) :). And a great one to end on.
 
-The most immediate thing to join the community is to visit the [get involved](https://openscapes.org/contact) page — there is a signup sheet and you can also follow us on Twitter. I also want to get in front of more marine science & environmental science audiences, to give department seminars and conference talks. It is kind of crazy to me that I've given a big talk like this one at useR! but not at any big marine/environmental conferences. Or maybe that's not surprising since I'm focused on increasing the visibility and value of open data science within environmental science, since it's not really a "mainstream" conversation yet, like it is in #rstats. In any case, if that is something you can help arrange, please get in touch! 
+The most immediate thing to join the Openscapes effort and community is to visit the [get involved](https://openscapes.org/contact) page — there is a signup sheet and you can also follow us on Twitter. I also want to get in front of more marine science & environmental science audiences, to give department seminars and conference talks. It is kind of crazy to me that I've given a big talk like this one at useR! but not at any big marine/environmental conferences. Or maybe that's not surprising since I'm focused on increasing the visibility and value of open data science within environmental science, since it's not really a "mainstream" conversation yet, like it is in #rstats. In any case, if that is something you can help arrange, please get in touch! 
 
 I am currently strategizing and fundraising to build out Openscapes into a full-time, long-term program operated at the US [National Center for Ecological Analysis & Synthesis](https://nceas.ucsb.edu) at the University of California Santa Barbara, where I am based. I will be focused on this in the next nine months due to a generous gift from the [Moore Foundation](https://www.moore.org/) following my fellowship support from [Mozilla](https://foundation.mozilla.org/en/). My goal is to increase the number of research groups Openscapes mentors each year with a small core team and vibrant community. I also want to see about extending/replicating/spinning off Openscapes to other communities (i.e. beyond environmental science). I plan to continue the online cohorts, [scaling up as Mozilla Open Leaders has](https://openscapes.org/blog/2019/01/28/introducing-champions-program/). Additionally, this winter I will lead my first in-person workshop for research groups, adapting the [Champions lesson series](https://openscapes.github.io/series) (and hoping to find time to build that out more too!).
 
 But I'm excited to hear your ideas! Please reach out; I'd love to [hear from you](mailto:openscapes@nceas.ucsb.edu).
+
+
+--
+
+Thanks for reading, and thanks again to everyone at [#useR2019](https://twitter.com/search?q=%23user2019&src=typed_query)!
 
 <br> 
 

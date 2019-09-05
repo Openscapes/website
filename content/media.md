@@ -22,9 +22,12 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES PRESENTATIONS
 
-- [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1) - July 10, 2019: Opening Keynote, [useR Conference](http://user2019.r-project.org/), Toulouse, France (45 minutes) [(video, starts ~46:30)](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)
+<!--- Force11, MozFest, SAFS, eSciences --->
 
-<!--- How mentoRship & community enables betteR science in less time --->
+- [Better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/13JkwCiXjfZfNucAsDwHI6FdEvpOngCv50cjnT7HXJK8/edit?usp=sharing) - September 5, 2019: [Tampa Bay Estuary Program Open Science Workshop](https://www.tbeptech.org/23-uncategorised/280-open-science-workshop-september-5-6), St Petersburg, Florida (remote) (20 minutes)
+
+
+- [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1) - July 10, 2019: Opening Keynote, [useR Conference](http://user2019.r-project.org/), Toulouse, France (45 minutes) [(video, starts ~46:30)](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)
 
 - [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1KXzPId1IvspsemIOmOUQEOqt8-Nw4Lhb2-Xvi_XZWeU/edit?usp=sharing)- May 8, 2019: Presentation, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA (17 minutes) ([Zenodo](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ)) 
 

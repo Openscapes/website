@@ -22,7 +22,13 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES PRESENTATIONS
 
-<!--- Force11, MozFest, SAFS, eSciences --->
+- R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washingon (45 minutes)
+
+- R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washingon (45 minutes)
+
+- Building communities of practice around environmental open data science - upcoming October 16, 2019: [FORCE11 Conference](https://www.force11.org/), Edinburgh, Scotland (30 minutes)
+
+- Building communities of practice around environmental open data science - upcoming October 2, 2019: Roundtable, NCEAS, Santa Barbara, California (45 minutes)
 
 - [Better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/13JkwCiXjfZfNucAsDwHI6FdEvpOngCv50cjnT7HXJK8/edit?usp=sharing) - September 5, 2019: [Tampa Bay Estuary Program Open Science Workshop](https://www.tbeptech.org/23-uncategorised/280-open-science-workshop-september-5-6), St Petersburg, Florida (remote) (20 minutes)
 

@@ -22,9 +22,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES PRESENTATIONS
 
-- R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washingon (45 minutes)
+- R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
 
-- R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washingon (45 minutes)
+- R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washington (45 minutes)
 
 - Building communities of practice around environmental open data science - upcoming October 16, 2019: [FORCE11 Conference](https://www.force11.org/), Edinburgh, Scotland (30 minutes)
 

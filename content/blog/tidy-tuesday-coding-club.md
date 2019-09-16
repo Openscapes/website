@@ -5,7 +5,6 @@ date: '2019-05-02'
 slug: tidytuesday
 categories:
   - community
-  - coding
   - champions
 tags:
   - how-to

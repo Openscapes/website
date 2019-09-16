@@ -5,7 +5,6 @@ date: '2019-02-19'
 slug: rstudioconf
 categories:
   - community
-  - coding
 banner: img/blog/hexes_laptop.jpg
 ---
 

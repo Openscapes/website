@@ -8,6 +8,7 @@ categories:
   - champions
 tags:
   - impact
+  - case-study  
 banner: img/blog/wood-lab-logo.png  
 ---
 

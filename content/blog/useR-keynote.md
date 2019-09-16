@@ -5,6 +5,7 @@ date: '2019-08-22'
 slug: keynote-useR
 categories:
   - community
+  - champions
 tags:
   - impact
   - art

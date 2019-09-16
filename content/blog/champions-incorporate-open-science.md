@@ -5,6 +5,7 @@ date: '2019-03-27'
 slug: introducing-openscapes
 categories:
   - community
+  - champions
 tags:
   - medium.com
   - impact

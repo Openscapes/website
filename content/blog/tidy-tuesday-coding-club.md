@@ -6,6 +6,7 @@ slug: tidytuesday
 categories:
   - community
   - coding
+  - champions
 tags:
   - coding
   - impact

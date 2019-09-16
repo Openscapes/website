@@ -5,6 +5,7 @@ date: '2019-06-12'
 slug: concluding-first-cohort
 categories:
   - community
+  - champions
 tags:
   - champions
   - case-study

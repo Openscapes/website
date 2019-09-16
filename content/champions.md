@@ -103,7 +103,7 @@ An ecologist studying marine and freshwater parasites and infectious disease in 
 
 <br>
 
-Learn their stories through [our blog](https://www.openscapes.org/categories/champions/).
+Learn their stories through [our blog](https://www.openscapes.org/categories/champions/)'s "champions" category.
 
 <center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 

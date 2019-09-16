@@ -4,7 +4,7 @@ description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-**Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice.** 
+**Openscapes Champions is a mentorship program that empowers environmental scientists with open data science tools and grows the community of practice.** <!---After running our inaugural cohort in 2019, we are gearing up to run more cohorts, see below --->
 
 <center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
 
@@ -74,7 +74,7 @@ You don’t have to be a mentee to get involved in the culture shift. We welcome
 
 ## MEET THE OPENSCAPES CHAMPIONS
 
-The Champions Program officially started in January 2019 with our inaugural cohort of seven Champions! 
+The Champions Program officially started in January 2019 with our inaugural cohort of seven Champions! We are sharing their stories through [our blog](https://www.openscapes.org/categories/champions/). 
 
 <!---springing from informal conversations over several years. Future cohorts will involve a more formal nomination and selection process. --->
 
@@ -103,7 +103,7 @@ An ecologist studying marine and freshwater parasites and infectious disease in 
 
 <br>
 
-Stay tuned to learn their stories.
+Learn their stories through [our blog](https://www.openscapes.org/categories/champions/).
 
 <center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 

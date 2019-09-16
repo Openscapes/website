@@ -7,9 +7,9 @@ categories:
   - community
   - champions
 tags:
-  - champions
   - case-study
   - impact
+  - medium.com  
 banner: img/blog/Cohort1_zoom_square.png
 ---
 

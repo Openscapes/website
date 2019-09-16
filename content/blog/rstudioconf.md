@@ -6,8 +6,6 @@ slug: rstudioconf
 categories:
   - community
   - coding
-tags:
-  - coding
 banner: img/blog/hexes_laptop.jpg
 ---
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - impact
   - art
-  - champions
+  - medium.com  
 banner: img/blog/keynote/user-keynote-titleslide-square.png
 ---
 

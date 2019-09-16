@@ -5,10 +5,9 @@ date: '2018-11-16'
 slug: start-coding-club
 categories:
   - community
-  - coding
 tags:
-  - study group
-  - how to
+  - study-group
+  - how-to
 banner: img/blog/mrlowndes_20150725-DSC_4217.jpg
 ---
 

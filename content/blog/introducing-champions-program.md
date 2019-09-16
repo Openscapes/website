@@ -5,6 +5,8 @@ date: '2019-01-28'
 slug: champions-program
 categories:
   - champions
+tags:  
+  - medium.com
 banner: img/blog/mrlowndes_150127-7169-Edit.jpg 
 ---
 

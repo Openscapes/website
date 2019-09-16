@@ -10,6 +10,7 @@ tags:
   - coding
   - how-to
   - impact
+  - study-group
 banner: img/blog/mrlowndes_DSC01492.jpg
 ---
 

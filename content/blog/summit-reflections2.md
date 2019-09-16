@@ -8,6 +8,7 @@ categories:
   - community
 tags:
   - impact
+  - medium.com  
 banner: img/blog/summit/elevator-selfie-square.jpg 
 ---
 

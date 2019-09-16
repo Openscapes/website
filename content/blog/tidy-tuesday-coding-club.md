@@ -8,7 +8,8 @@ categories:
   - coding
   - champions
 tags:
-  - coding
+  - how-to
+  - study-group
   - impact
 banner: img/blog/tidy_tuesday_3square.jpg
 ---

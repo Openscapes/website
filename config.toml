@@ -99,7 +99,7 @@ paginate = 10
     # email = "your@email.com"
 
     about_us = "<p>Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes is operated by the National Center for Ecological Analysis & Synthesis (NCEAS) and is being incubated by a Mozilla Fellowship awarded to Julia Lowndes.</p>"
-    copyright = "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a><br />Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>."
+    copyright = "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by/4.0/88x31.png' /></a>&nbsp;&nbsp;Openscapes is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

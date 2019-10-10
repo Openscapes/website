@@ -26,7 +26,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 - R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washington (45 minutes)
 
-- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - upcoming October 16, 2019: [FORCE11 Conference](https://www.force11.org/), Edinburgh, Scotland (30 minutes)
+- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - upcoming October 16, 2019: [FORCE11 Conference](https://www.force11.org/meetings/force2019), Edinburgh, Scotland (30 minutes)
 
 <!---
 - Building communities of practice around environmental open data science - upcoming October 2, 2019: Roundtable, NCEAS, Santa Barbara, California (45 minutes)

@@ -22,11 +22,13 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES PRESENTATIONS
 
+- R for better science in less time - upcoming November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
+
 - R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
 
 - R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washington (45 minutes)
 
-- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - upcoming October 16, 2019: [FORCE11 Conference](https://www.force11.org/meetings/force2019), Edinburgh, Scotland (30 minutes)
+- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - October 16, 2019: [FORCE11 Conference](https://www.force11.org/meetings/force2019), Edinburgh, Scotland (30 minutes) ([Zenodo](https://zenodo.org/record/3497306#.Xbs3WSV7nOQ)) 
 
 <!---
 - Building communities of practice around environmental open data science - upcoming October 2, 2019: Roundtable, NCEAS, Santa Barbara, California (45 minutes)

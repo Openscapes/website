@@ -5,6 +5,25 @@ keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
+## OPENSCAPES PUBLICATIONS
+
+- Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) *Nature,* Career Column, October 31, 2019
+
+<!---
+https://twitter.com/openscapes/status/1189996719800373248
+https://twitter.com/juliesquid/status/1190001975376502784
+https://twitter.com/j_perkel/status/1190011520337489920
+https://twitter.com/mozilla/status/1190359860321423361 
+https://twitter.com/jafflerbach/status/1190304771661451264
+https://twitter.com/ESIP_Erin/status/1190113564540825600
+https://twitter.com/DocFroehlich/status/1190004132674818053
+https://twitter.com/dudney_joan/status/1190040678333501440
+https://twitter.com/AdrianStier/status/1190003911760855040
+https://twitter.com/shefw/status/1190366709686788096
+--->
+
+<br>
+
 ## OPENSCAPES MEDIA
 
 - [A Rising Tide: Funding Ocean Science](https://www.sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) - Science Philanthropy Alliance. April 1, 2019. *Alliance blog post.*
@@ -29,6 +48,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 - R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washington (45 minutes)
 
 - [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - October 16, 2019: [FORCE11 Conference](https://www.force11.org/meetings/force2019), Edinburgh, Scotland (30 minutes) ([Zenodo](https://zenodo.org/record/3497306#.Xbs3WSV7nOQ)) 
+<!---https://twitter.com/shefw/status/1184419100472291328?s=19 juliesquid using the force--->
 
 <!---
 - Building communities of practice around environmental open data science - upcoming October 2, 2019: Roundtable, NCEAS, Santa Barbara, California (45 minutes)

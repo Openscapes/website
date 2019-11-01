@@ -20,6 +20,7 @@ https://twitter.com/DocFroehlich/status/1190004132674818053
 https://twitter.com/dudney_joan/status/1190040678333501440
 https://twitter.com/AdrianStier/status/1190003911760855040
 https://twitter.com/shefw/status/1190366709686788096
+https://twitter.com/ntherk/status/1190371758517489664
 --->
 
 <br>

@@ -13,7 +13,7 @@ banner: img/blog/horst-seaside-chats-square.png
 
 ## Supercharging research with open data science and teamwork
 
-Today we published a piece in Nature’s Career Column called [Supercharge your research: A 10-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4), and we are so thrilled to share this with the community. Co-authored with [group leads from our inaugural cohort](https://openscapes.github.io/summit2019/#team) – Halley Froehlich, Allison Horst, Nishad Jayasundara, Malin Pinsky, Adrian Stier, Nina Therkildsen, and Chelsea Wood – it really summarises what we learned with the entire first cohort of Champions and aims to welcome others to engage in open data science.
+Today we published a piece in Nature’s Career Column called [Supercharge your research: A 10-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4), and we are so thrilled to share this with the community. Co-authored with [group leads from our inaugural cohort](https://openscapes.github.io/summit2019/#team) – Halley Froehlich, Allison Horst, Nishad Jayasundara, Malin Pinsky, Adrian Stier, Nina Therkildsen, and Chelsea Wood – it really summarizes what we learned with the entire first cohort of Champions and aims to welcome others to engage in open data science.
 
 <br> 
 <center>
@@ -37,7 +37,7 @@ And we also share 10 concrete activities to put these ideas into action with you
 
 It has been busy since the last post about our [keynote at the useR! conference](https://www.openscapes.org/blog/2019/08/22/user-keynote/).  
 
-My [Mozilla Fellowship](https://blog.mozilla.org/blog/2018/08/21/mozilla-announces-25-new-fellows-in-openness-science-and-tech-policy/) that supported the development of Openscapes ended in June; the fellowship was a truly transformational experience and I continue to be an active member of the Mozilla community (and I do plan to write a piece reflecting how those ten months of support, mentorship, friendship, and so many opprtunities and ideas has enabled so much beyond what you see here with Openscapes). When the Fellowship ended I took three weeks in July off; although I loved everything I experienced and did, I really pushed myself hard and needed a break. 
+My [Mozilla Fellowship](https://blog.mozilla.org/blog/2018/08/21/mozilla-announces-25-new-fellows-in-openness-science-and-tech-policy/) that supported the development of Openscapes ended in June; the fellowship was a truly transformational experience and I continue to be an active member of the Mozilla community (and I do plan to write a piece reflecting how those ten months of support, mentorship, friendship, and so many opportunities and ideas has enabled so much beyond what you see here with Openscapes). When the Fellowship ended I took three weeks in July off; although I loved everything I experienced and did, I really pushed myself hard and needed a break. 
 
 Since August I have been working on a strategic plan for Openscapes, including a vision for  program sustainability and growth within and outside of environmental science. This has been possible due to generous support from the [Gordon and Betty Moore Foundation](https://www.moore.org/), and continued institutional support from NCEAS, where Openscapes is a proud part of the [Learning Hub](https://www.nceas.ucsb.edu/learning-hub). Learning from and discussing with many folks in the open, data science, and environmental communities, I am exploring different models to continue growing the Openscapes program, including offering opportunities to sponsor or book complete cohorts for the Champions program, which would be really powerful for networks of research groups already collaborating in similar areas.
 
@@ -47,7 +47,7 @@ Alongside these programmatic-level updates, what is truly the most awesome is th
 
 A few examples: 
 
-- The Wood Lab now has a [statement about open science](https://chelsealwood.wordpress.com/research/) on their website's research page, and Danielle Claar gave a talk titled “Open source software advantages for science” at the [Ocean Obs Conference](http://www.oceanobs19.net/). 
+- The Wood Lab now has a [statement about open science](https://chelsealwood.wordpress.com/research/) on their website's research page, and Danielle Claar gave a talk titled “Open source software advantages for science” at the [Ocean Obs Conference](http://www.oceanobs19.net/). Also, Chelsea Wood published about [using drone imagery to tackle ecological vectors for human disease](https://twitter.com/DrChelseaLWood/status/1188919778368311297)
 - Nina Therkildsen published about [evolution in response to fishing](https://twitter.com/ntherk/status/1157025165202661376)
 - Bart DiFiore and Adrian Stier published about [coral reef ecosystems from space](https://twitter.com/AdrianStier/status/1177713776130265088)
 - Malin Pinsky was selected as one of [Science's  ten scientists to watch this year. ](https://twitter.com/pinskylab/status/1185187024149585922)

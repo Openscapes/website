@@ -29,7 +29,7 @@ banner: img/blog/mrlowndes20131007-131005-7311_520x480.jpg
 
 At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster. Through the Champions Program, we do this by mentoring scientists and empowering them with open data science so that they can do better science in less time and champion these practices in their communities. This means working directly with scientists on the ground and in the lab to understand their challenges and help them find solutions to their data workflows and create real change and work within their already packed schedules.
 
-Although environmental research is based on collecting, combining, analyzing complext data from multiple sources, most environmental scientists have not had formal computing and data training. Through Openscapes, Champions are learning alongside their lab members how to incorporate data science and open practices into their work, enabling their lab members, and taking their research to new heights.
+Although environmental research is based on collecting, combining, analyzing complex data from multiple sources, most environmental scientists have not had formal computing and data training. Through Openscapes, Champions are learning alongside their lab members how to incorporate data science and open practices into their work, enabling their lab members, and taking their research to new heights.
 
 Our inaugural cohort of Champions are early career environmental scientists leading critically important research programs and dedicated to teaching the next generation of scientists.
 

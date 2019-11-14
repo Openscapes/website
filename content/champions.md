@@ -4,13 +4,15 @@ description = "Champions Program"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
+
 **Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice.** <!---After running our inaugural cohort in 2019, we are gearing up to run more cohorts, see below --->
 
 <center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
 
 ## PURPOSE
 
-This mentorship program is for early career environmental researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It helps fill a gap left by graduate education, which often lacks formal computing and data training.  
+This is a mentorship program for research groups. Centered around collaborative coding and open science, we meet scientists where they are and help develop habits and mindsets to make data workflows and team culture more efficient and resilient. 
+<!---This mentorship program is for early career environmental researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It helps fill a gap left by graduate education, which often lacks formal computing and data training.  --->
 
 Openscapes empowers scientists by: 
 
@@ -52,133 +54,32 @@ Openscapes Champions will be better equipped to:
 
 ## PROCESS
 
-The Openscapes Champions program meets scientists where they are to help identify incremental steps that will make their data workflows and lab culture more efficient and open. It is a five-month program that is led remotely, with lessons designed for active participation by Champions and their lab members.
+Openscapes Champions is a five-month program for that is led remotely and designed to ignite incremental and sustainable change within research groups — and beyond. Each Champions Cohort includes 7-10 research groups, with 2-5 individuals per research group actively participate through video calls. Importantly, research group leads (faculty, lecturers, program managers, etc) and members (students, analysts, lab managers, etc.) participate together so that: 
 
-Each month, Champions will:
-
-- strategize through one-on-one mentorship calls
-- learn about existing tools & practices through two group calls that also include lab members
-- set, review, and meet goals while building relationships and staying accountable 
+- everyone sees and values what is possible with open data science
+- leads support and enable members to invest time in learning skills and developing shared workflows
+- members have agency and pathways to incorporate open data science concepts into their work
+- everyone champions open data science and contributes to growing the community of practice within the research group, institution, and beyond
 
 The program is modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/), which provides training, mentorship, and best practices for working and leading in an open way.
 
-<!---
-You don’t have to be a mentee to get involved in the culture shift. We welcome members of the broader scientific and open community to join us
-<p></p>
-<a href="/contact" class="btn btn-small btn-template-main">Get involved</a>
-<p></p>
-
---->
-
 <center><img src="/img/horst_openscapes_desert_snake.png" width="150px"></center>
 
-## MEET THE OPENSCAPES CHAMPIONS
+## CHAMPIONS COHORTS 
 
-The Champions Program officially started in January 2019 with our inaugural cohort of seven Champions! We are sharing their stories through [our blog](https://www.openscapes.org/blog) and [media](https://www.openscapes.org/media). We also co-authored a column in *Nature* in October 2019: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
+Meet the Openscapes Champions: The [Cohorts page](/cohorts) lists the inspiring research groups that have participated in the Champions Program. The inaugural cohort of seven environmental science research groups completed in May 2019 — we shared stories along the way through [our blog](/blog) and [media](/media). We also co-authored a career column in *Nature*: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
 
-<!---springing from informal conversations over several years. Future cohorts will involve a more formal nomination and selection process. --->
-
-<br>
-
-[**Halley Froehlich, PhD**](https://halleyfroehlich.wordpress.com/) — University of California at Santa Barbara. 
-A marine aquaculture & fisheries scientist studying global systems. 
-
-[**Allison Horst, PhD**](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) — University of California at Santa Barbara. 
-A data science and statistics lecturer in an environmentally-focused graduate program.
-
-[**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — University of Maine. 
-A physiologist studying organismal adaptation to their habitat and effects of external environmental factors.
-
-[**Malin Pinsky, PhD**](http://pinsky.marine.rutgers.edu/) — Rutgers University.
-An ecologist studying the impacts of climate change on ocean life.
-
-[**Adrian Stier, PhD**](https://www.oceanrecoveries.com/) — University of California at Santa Barbara. 
-A marine ecologist studying recovery and resilience of ocean ecosystems. 
-
-[**Nina Therkildsen, PhD**](https://www.therkildsenlab.com/) — Cornell University. 
-An evolutionary biologist using genomic analyses to improve marine conservation and fisheries management.
-
-[**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — University of Washington. 
-An ecologist studying marine and freshwater parasites and infectious disease in a changing world.
-
-<br>
-
-We are currently planning how to continue the Champions program with future cohorts; please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [get in touch](mailto:openscapes@nceas.ucsb.edu). 
+**Are you interested in the Champions Program?**  Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking!
 
 <center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 
 
 ## CHAMPIONS SERIES
 
-So what do we teach during five months of remote calls with Champions and their labs? 
+So what do we teach during five months of remote calls with the Champion Cohorts?
 
-The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, good intentions, and creating the culture we want in science. 
+The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, good intentions, trust, and creating the culture we want in science. 
 
-The [Openscapes Lessons Series](https://openscapes.github.io/series/) is being developed for and used for the inaugural cohort during twice-monthly cohort calls. It is freely available for anyone to use. It is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). This paper is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make similar progress themselves, no matter where they are starting from. 
-
-<!---
-
-
-
-A lecturer of data science and statistics in an environmentally-focused graduate program.  
- 
-An ecologist studying the impacts of climate change on ocean life.
-  
-A marine aquaculture & fisheries scientist studying global systems. 
-
-We physiological and biochemical traits underlying organismal adaptation to their habitat and how these traits are altered in response to changes in physical and chemical environmental factors
-
-The unifying thread linking my work is the recovery and resilience of ocean ecosystems. I am motivated by a desire to deepen our basic understanding of how ecosystems are assembled and an urgent need to develop sustainable management strategies for coastal marine ecosystems.
-
-
---->
-
-
+We discuss topics described in the [Openscapes Lessons Series](https://openscapes.github.io/series/), which is improved iteratively and openly, with the most recent version is always available online. It is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). This article is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make similar progress themselves, no matter where they are starting from. 
 
 <br>
-
-<!--
-## COHORT 1
-
-Our inaugural cohort of Champions: we have six amazing individuals. 
-
-<br>
-
-#### Allison Horst, PhD
-
-> A lecturer of data science and statistics in an environmentally-focused graduate program.
-
-<br>
-
-Adrian: 
-
-The unifying thread linking my work is the recovery and resilience of ocean ecosystems. I am motivated by a desire to deepen our basic understanding of how ecosystems are assembled and an urgent need to develop sustainable management strategies for coastal marine ecosystems.
-
-
-#### Nina Therkildsen, PhD
-
-> A jfaldkajfdkaj
-
-<br>
-
-
-#### Malin Pinsky, PhD
-
-> An ecologist studying the impacts of climate change on ocean life.
-
-<br>
-
-#### Halley Froehlich, PhD
-
-> A soon-to-be Assistant Professor in Environmental Studies and Ecology, Evolution & Marine Biology at UCSB studying marine aquaculture & fisheries under climate change.
-
-<br>
-
-Wood: chelsealwood.wordpress.com
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
-
-
--->

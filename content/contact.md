@@ -3,55 +3,56 @@ title = "Get Involved"
 id = "contact"
 +++
 
-**Openscapes is about growing communities of practice around open data science in environmental science. We welcome you to engage however best works for you! We are @openscapes on [Twitter](https://twitter.com/openscapes), [Medium](https://medium.com/@openscapes), and [Github](https://github.com/openscapes).** 
+## WELCOME!
+Openscapes is about engaging, empowering, and amplifying each other as we increase the visibility, value, and practice of open data science within our scientific communities. We are happy you are here. 
+
+
+<!---
+We welcome you to engage however best works for you! We are @openscapes on [Twitter](https://twitter.com/openscapes), [Medium](https://medium.com/@openscapes), and [Github](https://github.com/openscapes).** 
+
+--->
 
 <center><img src="/img/horst_openscapes_mountains_salmon.png" width="80px"></center>
 
-## HOW TO GET INVOLVED
+We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:openscapes@nceas.ucsb.edu) with more ideas. 
 
-You are warmly invited to get involved in the many ways below. Please [join the community](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform?usp=sf_link) to be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
+### Follow us on Twitter @openscapes
 
-<br>
+We are [@openscapes](https://twitter.com/openscapes) on Twitter. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
 
-**Amplify Openscapes & community efforts**
+### Join our mailing list
 
-- join us on [Twitter](https://twitter.com/openscapes) to follow [Openscapes Champions](/champions/) and engage in the conversation
-- include the importance of open practices in your talks & publications — and tell us about it!
-- talk to your colleagues — welcome others to join our community and help recruit future Champions
-<!--- - Share your short story of how open data science practices have influenced your research --->
-- help us reach new audiences by inviting us to give a [presentation](/media): 
-  - at your department seminar series
-  - at a conference in your research domain
-  - through a webinar series for your community
+Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform?usp=sf_link) to receive infrequent emails from Openscapes so you can be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
 
-<!--RStudio Community --->  
+Additionally, as we grow, we will welcome members of the open community to be involved as mentors, à la [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/). If you are interested, please indicate your interest on the mailing list sign up. 
 
+### Talk with your colleagues
+
+Share your enthusiasm with others! Open data science is so powerful and empowering, we think the best way to engage others is to talk about it more. You can do this informally and in data-centric meetings ("Seaside Chats"). We hope our column [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) can help start and continue these conversations. And please share your experiences — [tag us](https://twitter.com/openscapes) on Twitter, or add additional weekly activities in the column's [github repository](https://github.com/Openscapes/supercharge-research). 
+
+### Amplify through media and events
+
+In your next presentations and publications, include a slide or sentence about open data science — what you have done and/or why it's important. You're welcome to use/remix slides from our [presentations](/media).
+
+As you plan department seminar series, conferences, or webinar series, consider inviting Openscapes or others from the open data science community as a speaker! 
+
+<!--
+### Build and join local communities
+Allison's tidy tuesday post
 Additionally, there are many ways you can [help build and strengthen communities at your institution](/blog/2018/11/06/build-communities/).  
 
+--->
 
-<br>
+### Book a Champions Cohort or Workshop
 
-**Participate in future Champions programs**   
+It is now possible to book complete Openscapes Champions Cohorts and Workshops. Cohorts are led remotely over 5 months, and Workshops are led in-person for 2 full days, and both involve 7-10 participating research groups. Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking. 
 
-We plan to grow the Openscapes Champions program and support an increasing number of mentees. As we plan future cohorts, we will additionally welcome members of the open community to be involved as mentors. Additionally, we plan to offer the Champions series as short-form workshops, and are interested in understanding what your community needs. We welcome any ideas, and can help co-develop proposals.  
+### Sponsor Champions Cohorts and Workshops
 
-Would you like to be involved? Please [provide your information](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform?usp=sf_link) to:
+We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:openscapes@nceas.ucsb.edu).
 
-- nominate yourself as a Champions mentor
-- nominate yourself as a Champions mentee
-- request a workshop 
+### Email us with your ideas
 
-<br>
-
-**Help us improve Openscapes**  
-
-- help us improve the website: please [contribute a pull request](https://github.com/Openscapes/website) or [tackle a known issue](https://github.com/Openscapes/website/labels/help%20please)
-- [email us](mailto:openscapes@nceas.ucsb.edu) with any new ideas, suggestions, questions and comments — we’d love to hear what you want to do together!
+There are more awesome ways to get involved with Openscapes and open data science than we have written above — please [email us](mailto:openscapes@nceas.ucsb.edu) with your ideas for getting involved! 
 
 <br> 
-
-**Support us financially**
-
-We have a long-term vision for Openscapes to grow and provide much-needed mentorship for environmental scientists. Support will help develop, coordinate, and scale up programs, and fund travel and scholarships for workshops. We would love to talk to you about it: please [get in touch](mailto:openscapes@nceas.ucsb.edu).
-
-<br>

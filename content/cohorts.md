@@ -40,3 +40,19 @@ An evolutionary biologist using genomic analyses to improve marine conservation 
 An ecologist studying marine and freshwater parasites and infectious disease in a changing world.
 
 <br>
+
+<!---
+Supercharge
+Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood
+--->
+
+**Related blog posts**: 
+
+- [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
+- [Openscapes summit reflections — Becoming Champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
+- [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)
+- [Wins from the inaugural Champions cohort](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/)
+
+<br>
+
+

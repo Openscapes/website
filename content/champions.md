@@ -69,7 +69,7 @@ The program is modeled after [Mozilla Open Leaders](https://foundation.mozilla.o
 
 Meet the Openscapes Champions: The [Cohorts page](/cohorts) lists the inspiring research groups that have participated in the Champions Program. The inaugural cohort of seven environmental science research groups completed in May 2019 — we shared stories along the way through [our blog](/blog) and [media](/media). We also co-authored a career column in *Nature*: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
 
-**Are you interested in the Champions Program?**  Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking!
+**Are you interested in the Champions Program?**  Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more details and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking a Cohort.
 
 <center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 

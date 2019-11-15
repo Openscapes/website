@@ -21,6 +21,9 @@ https://twitter.com/dudney_joan/status/1190040678333501440
 https://twitter.com/AdrianStier/status/1190003911760855040
 https://twitter.com/shefw/status/1190366709686788096
 https://twitter.com/ntherk/status/1190371758517489664
+https://twitter.com/nceas/status/1191754547821084672
+https://twitter.com/BE_bilingue/status/1191742621858689024 can't wait to adopt
+https://twitter.com/nature/status/1191206704605736960 nature
 --->
 
 <br>
@@ -46,7 +49,7 @@ https://twitter.com/ntherk/status/1190371758517489664
 
 - R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
 
-- R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute](https://escience.washington.edu/), Seattle, Washington (45 minutes)
+- R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute]https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes)
 
 - [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - October 16, 2019: [FORCE11 Conference](https://www.force11.org/meetings/force2019), Edinburgh, Scotland (30 minutes) ([Zenodo](https://zenodo.org/record/3497306#.Xbs3WSV7nOQ)) 
 <!---https://twitter.com/shefw/status/1184419100472291328?s=19 juliesquid using the force--->

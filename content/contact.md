@@ -45,7 +45,7 @@ Additionally, there are many ways you can [help build and strengthen communities
 
 ### Book a Champions Cohort or Workshop
 
-It is now possible to book complete Openscapes Champions Cohorts and Workshops. Cohorts are led remotely over 5 months, and Workshops are led in-person for 2 full days, and both involve 7-10 participating research groups. Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking. 
+It is now possible to book complete Openscapes Champions Cohorts and Workshops! Cohorts are led remotely over 5 months, and Workshops are led in-person for 2 full days, and both involve 7-10 participating research groups. Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking. 
 
 ### Sponsor Champions Cohorts and Workshops
 

@@ -64,9 +64,28 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 <center><img src="/img/horst_openscapes_grassland_condor.png" width="80px"></center>
 
+## QUARTER/SEMESTER-LONG COURSES
+
+Teaching official university courses is a great idea! There are more and more examples of hands-on materials that you can reuse as-is or remix/adapt for your own context. We don't recommend mix-and-matching between resources; there is logic and cadence to each one. We recommend finding one that best suits you and potentially adapting it. 
+
+- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/). [Jenny Bryan](https://en.wikipedia.org/wiki/Jenny_Bryan)'s course is the gold-standard course, highly recommended. 
+- [Introduction and advanced environmental data analysis & stats in R](https://allisonhorst.github.io/). The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling
+
+<!---
+Grant
+Carl Boettiger
+
+
+## SHORT Workshops
+https://tidy-ds.wjakethompson.com/materials/
+
+--->
+
+<br> 
+
 ## OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS
 
-We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. 
+We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. You are welcome to reuse and remix. 
 
 - [Media & Presentations](/media/) — media and slides about Openscapes for various audiences
 - [Champions Lesson Series](https://openscapes.github.io/series/) — lesson book for the Champions program, with links to slides and course agendas

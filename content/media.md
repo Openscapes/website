@@ -45,6 +45,12 @@ https://twitter.com/nature/status/1191206704605736960 nature
 
 ## OPENSCAPES PRESENTATIONS
 
+<!---
+SCCWRP
+TWEEDS
+ESIP
+--->
+
 - R for better science in less time - upcoming November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
 
 - R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
@@ -62,7 +68,7 @@ https://twitter.com/nature/status/1191206704605736960 nature
 
 - [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1) - July 10, 2019: Opening Keynote, [useR Conference](http://user2019.r-project.org/), Toulouse, France (45 minutes) [(video, starts ~46:30)](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)
 
-- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1KXzPId1IvspsemIOmOUQEOqt8-Nw4Lhb2-Xvi_XZWeU/edit?usp=sharing)- May 8, 2019: Presentation, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA (17 minutes) ([Zenodo](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ)) 
+- [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/1KXzPId1IvspsemIOmOUQEOqt8-Nw4Lhb2-Xvi_XZWeU/edit?usp=sharing)- May 8, 2019: Presentation, [csv,conf,v4](https://csvconf.com/), Portland, Oregon, USA (20 minutes) ([Zenodo](https://zenodo.org/record/2695625#.XN2CsKZ7nOQ)) 
 
 
 - [Building communities and changing culture with environmental open data science](https://docs.google.com/presentation/d/1nuaZie__0DNdkUAyoHpwX0hnj0AWh0HUPl3Guzu7s6Q/edit?usp=sharing) - April 18, 2019: [LOACOM](https://loacom.com/), Santa Barbara, California (20 minutes)

@@ -46,8 +46,9 @@ The scope of environmental research spans vastly different ecosystems, scales, a
 
 Learning to code should be fun since you are learning powerful and empowering tools that will be game-changing for your science. So learn with friends, and grow your community. 
 
-- [start a coding club](/blog/2018/11/16/how-to-start-a-coding-club/)
-- [build communities on campus](/blog/2018/11/06/build-communities/)
+- [Start a coding club](/blog/2018/11/16/how-to-start-a-coding-club/)
+- [Build communities on campus](/blog/2018/11/06/build-communities/)
+- [Starting our #tidytuesday hacky hours](https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/)
 
 <!---
 - [build communities on campus] link to Moz study!
@@ -72,6 +73,7 @@ Teaching official university courses is a great idea! There are more and more ex
 
 - [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan <!--- [Jenny Bryan](https://en.wikipedia.org/wiki/Jenny_Bryan)'s course is the gold-standard course, highly recommended. --->
 - [Introduction and advanced environmental data analysis & stats in R](https://allisonhorst.github.io/) by Dr. Allison Horst <!--- The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling --->
+- [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai
 
 <!---
 Grant
@@ -87,8 +89,9 @@ https://tidy-ds.wjakethompson.com/materials/
 
 ## OPENSCAPES RESOURCES, MEDIA, & PRESENTATIONS
 
-We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. You are welcome to reuse and remix. 
+We have focused on openly communicating the process behind our development of Oceanscapes. Here are presentations we have given about Openscapes, and materials for the Openscapes Champions series. They are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/); You are welcome to reuse and remix with attrbution. 
 
+- [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) — Nature Career Column co-authored by Openscapes Champions
 - [Media & Presentations](/media/) — media and slides about Openscapes for various audiences
 - [Champions Lesson Series](https://openscapes.github.io/series/) — lesson book for the Champions program, with links to slides and course agendas
 

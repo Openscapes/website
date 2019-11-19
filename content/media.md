@@ -55,7 +55,7 @@ ESIP
 
 - R for better science in less time - upcoming November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
 
-- R and friends for better science in less time in big (and small) team collaborations - upcoming November 19, 2019: [eScience Institute]https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes)
+- [R and friends for better science in less time in big (and small) team collaborations](https://openscapes.github.io/slides/escience/#1) - upcoming November 19, 2019: [eScience Institute]https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes)
 
 - [Building communities of practice around environmental open data science](https://docs.google.com/presentation/d/16nhQhW8sUz0XvpKX4Vgn0vpU7tesi6wXGwvLZF10r-8/edit?usp=sharing) - October 16, 2019: [FORCE11 Conference](https://www.force11.org/meetings/force2019), Edinburgh, Scotland (30 minutes) ([Zenodo](https://zenodo.org/record/3497306#.Xbs3WSV7nOQ)) 
 <!---https://twitter.com/shefw/status/1184419100472291328?s=19 juliesquid using the force--->

@@ -27,6 +27,7 @@ banner: img/blog/keynote/user-keynote-titleslide-square.png
 - *[blog by Mozilla](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f)*
 
 <!---
+https://twitter.com/mozilla/status/1149363508276092928 link to medium blog
 https://twitter.com/rstudio/status/1148943675164114949
 https://twitter.com/marc_smith/status/1149740108561600512
 https://twitter.com/jafflerbach/status/1149016729722470400

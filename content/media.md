@@ -51,11 +51,11 @@ TWEEDS
 ESIP
 --->
 
-- R for better science in less time - upcoming November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
+- [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR#1) - November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
 
 - [R for better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/1LA4EcnRxD11rjwbRh0hrjPG5J0dmiiuCbNaoQrz0XHU/edit?usp=sharing) - November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
 
-- [R and friends for better science in less time in big (and small) team collaborations](https://openscapes.github.io/slides/escience/#1) - November 19, 2019: [eScience Institute](https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes)
+- [R and friends for better science in less time in big (and small) team collaborations](https://openscapes.github.io/slides/betterscience/escience#1) - November 19, 2019: [eScience Institute](https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes)
 <!---
 https://twitter.com/benmarwick/status/1197033996061855744 nicest tweet ever
 --->

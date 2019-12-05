@@ -69,15 +69,19 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 ## QUARTER/SEMESTER-LONG COURSES
 
-Teaching official university courses is a great idea! There are more and more examples of hands-on materials that you can reuse as-is or remix/adapt for your own context. We don't recommend mix-and-matching between resources; there is logic and cadence to each one. We recommend finding one that best suits you and potentially adapting it. 
+Teaching official university courses is a great idea! These are a few examples of course materials  that you can reuse as-is or adapt for your own context — many are environmental science focused. From our experience, we don't recommend mix-and-matching between resources — especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs. 
 
 - [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan <!--- [Jenny Bryan](https://en.wikipedia.org/wiki/Jenny_Bryan)'s course is the gold-standard course, highly recommended. --->
 - [Introduction and advanced environmental data analysis & stats in R](https://allisonhorst.github.io/) by Dr. Allison Horst <!--- The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling --->
 - [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai
+- [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) — Dr. Ethan White & Dr. Zachary Brym
 
 <!---
-Grant
+Grant https://grantmcdermott.com/teaching/
 Carl Boettiger
+
+Dan Ovando: https://github.com/super-advanced-r-fall-2019 & 
+https://docs.google.com/document/d/1S63IHjNBk8e7St6XcyqhVu98qpuRTUx3DHYqzWKYDys/edit
 
 
 ## SHORT Workshops

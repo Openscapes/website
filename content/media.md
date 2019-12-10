@@ -7,7 +7,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## OPENSCAPES PUBLICATIONS
 
-- Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) *Nature,* Career Column, October 31, 2019
+- Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* Career Column, October 31, 2019
+
+- Julia Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, December 10, 2019
 
 <!---
 https://twitter.com/openscapes/status/1189996719800373248
@@ -47,8 +49,9 @@ https://twitter.com/nature/status/1191206704605736960 nature
 
 <!---
 SCCWRP
-TWEEDS
-ESIP
+Open  Science Conference 11-12 March Germany
+TWEEDS  27-28 March
+ESIP  July Vermont
 --->
 
 - [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR#1) - November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)

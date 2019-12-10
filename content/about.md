@@ -66,7 +66,7 @@ Our logo designed by Allison Horst represents both the open landscapes and the d
 
 ## OUR FUNDING
 
-We thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from [Mozilla](https://www.mozilla.org), which also sponsored the [first Champions Cohort](/cohorts). In 2019 we received additional support from the [Gordon and Betty Moore Foundation](https://www.moore.org/) to develop a strategic plan to grow Openscapes and lead future Champions Cohorts.
+We thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from [Mozilla](https://www.mozilla.org), which also sponsored the [first Champions Cohort](/cohorts). In 2019 we received additional support from the [Gordon and Betty Moore Foundation](https://www.moore.org/) to develop a strategic growth plan for Openscapes.
 
 <br>
 

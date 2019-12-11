@@ -11,7 +11,10 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 - Julia Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, December 10, 2019
 
+
+
 <!---
+Supercharge: 
 https://twitter.com/openscapes/status/1189996719800373248
 https://twitter.com/juliesquid/status/1190001975376502784
 https://twitter.com/j_perkel/status/1190011520337489920
@@ -26,6 +29,9 @@ https://twitter.com/ntherk/status/1190371758517489664
 https://twitter.com/nceas/status/1191754547821084672
 https://twitter.com/BE_bilingue/status/1191742621858689024 can't wait to adopt
 https://twitter.com/nature/status/1191206704605736960 nature
+
+kinder science:
+https://twitter.com/WeAreRLadies/status/1204488583299526656
 --->
 
 <br>

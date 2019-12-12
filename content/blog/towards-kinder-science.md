@@ -17,7 +17,7 @@ It's about how open source is not only good for science, it's good for scientist
 
 <br> 
 <center>
-  <a><img src="/img/blog/horst_openscapes_desert_1500px.png" width="700px"></a>
+  <a><img src="/img/horst_openscapes_desert_1500px.png" width="700px"></a>
   <figcaption>Art by [Allison Horst](https://twitter.com/allison_horst)</figcaption>
 </center>  
 

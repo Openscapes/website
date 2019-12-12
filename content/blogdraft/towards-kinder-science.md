@@ -41,5 +41,7 @@ demoralizing and lonely analyses don't make for happy and innovative scientists
 
 <br> 
 
-img/blog/horst_openscapes_desert_1500px_square.png
+<img src="/img/blog/horst_openscapes_desert_1500px_square.png" width="300px">  
+Art by Allison Horst  
+
 

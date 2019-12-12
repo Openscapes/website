@@ -26,10 +26,10 @@ It's about how open source is not only good for science, it's good for scientist
 > Open science is not just about improving the way we share data and methods; it is also about improving the way we think, work and interact with each other. It’s about technology enabling social infrastructure that can promote inclusivity to create kinder science. 
 
 
-I have been thinking about "kinder science" a lot, and am still working on how to talk about it. The article pulls from ideas we cover in the [Champions program](/champions) and from recent talks at
+I have been thinking about "kinder science" a lot, and am still working on how to talk about it, and am so grateful for the opportunity to share these thoughts in *Scientific American*. The article pulls from ideas we cover in the [Champions program](/champions) and from recent talks at
 [useR!](/blog/2019/08/22/user-keynote/), [FORCE 11](https://zenodo.org/record/3497306#.Xbs3WSV7nOQ), and [eScience](https://openscapes.github.io/slides/betterscience/escience#1). I've got several more upcoming talks and will continue to build out these ideas — keep an eye on the [media page](/media) for those slide decks. Thanks for the feedback and discussions so far on Twitter (particularly [here](https://twitter.com/juliesquid/status/1204460342333468672) and [here](https://twitter.com/nceas/status/1204446929981063169)).
 
-The [Scientific American version](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/) is also cross-posted as [an NCEAS commentary](https://www.nceas.ucsb.edu/news/open-science-kinder-science): Open science is kinder science". 
+"Open software means kinder science" is also cross-posted as [an NCEAS commentary](https://www.nceas.ucsb.edu/news/open-science-kinder-science): "Open science is kinder science". 
 
 
 

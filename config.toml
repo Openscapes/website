@@ -204,4 +204,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Blogs are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). Also, see our [media page](/media/) for media, presentation slide decks, and publications."
+    subtitle = "[Blog posts](/blog) are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). Also, see our [media page](/media/) for media, presentation slide decks, and publications."

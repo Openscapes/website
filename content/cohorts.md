@@ -7,7 +7,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 **As cohorts of research groups, scientists in the [Openscapes Champions program](/champions) develop skillsets and mindsets around open data science, strengthening culture and resilience in their research groups and beyond.**
 
-<center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
+<center>
+    <img src="/img/horst_openscapes_desert_roadrunner.png" width="100px">
+</center>
 
 
 Learn about these Champions and their exciting, impactful research on their websites below and through [our blog](/blog) and [media](/media). 
@@ -15,6 +17,13 @@ Learn about these Champions and their exciting, impactful research on their webs
 <br>
 
 ## 2019 COHORT 
+
+<center>
+  <a href="https://openscapes.github.io/summit2019/"> 
+    <img src="/img/blog/summit/openscapes-summit-web-champions.png" width="800px">
+  </a>
+   <figcaption>Screenshot from [Champions Summit 2019](https://openscapes.github.io/summit2019/)</figcaption>
+</center>
 
 <br>
 

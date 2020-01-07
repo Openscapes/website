@@ -4,7 +4,7 @@ description = "Openscapes resources"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-**This curated list of resources is meant to welcome environmental scientists who are curious about engaging in open data science.** This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. Additonally, Openscapes resources are below. *This page is under development and currently leverages previous work*.   
+**This curated list of resources is meant to welcome environmental scientists who are interested about engaging in open data science.** This R-focused list is not meant to be comprehensive of all the incredible resources available; it represents a selection of material immediately useful to scientists we have worked with. It is an evolving effort and Openscapes resources are also listed below. 
 
 <!---Some guidance is also listed as blogs; Please also check the searchable blog page --->
 
@@ -53,6 +53,9 @@ Learning to code should be fun since you are learning powerful and empowering to
 <!---
 - [build communities on campus] link to Moz study!
 - [join twitter for the open data science community](/blog/2018/12/06/twitter-for-community/), rOpenSci, RLadies
+
+Twitter threads:
+https://twitter.com/dgkeyes/status/1212098131774459904 
 --->
 
 <center><img src="/img/horst_openscapes_grassland_deer.png" width="80px"></center>

@@ -5,13 +5,20 @@ keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-**Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice.** <!---After running our inaugural cohort in 2019, we are gearing up to run more cohorts, see below --->
+**Openscapes Champions is a mentorship program that empowers science teams with open data science tools and grows the community of practice.**
+
+<br>
+
+The inaugural cohort of Openscapes Champions completed in May 2019, empowered with skillsets and mindsets to do better science in less time, together. Learn their stories and advice through our [blog](/blog/2019/06/12/wins-cohort1/), [presentations](/media), and our column in *Nature*: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
+
+We are leading future Champions Program cohorts — are you interested? Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more details and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking.
+
 
 <center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
 
 ## PURPOSE
 
-This is a mentorship program for research groups. Centered around collaborative coding and open science, we meet scientists where they are and help develop habits and mindsets to make data workflows and team culture more efficient and resilient. 
+Openscapes Champions is a mentorship program for research groups. Centered around collaborative coding and open science, we meet scientists where they are and help develop habits and mindsets to make data workflows and team culture more efficient and resilient. 
 <!---This mentorship program is for early career environmental researchers in leadership roles – faculty, lecturers, program managers, and others who want to establish open data science practices in their labs and on their campuses. It helps fill a gap left by graduate education, which often lacks formal computing and data training.  --->
 
 Openscapes empowers scientists by: 
@@ -67,11 +74,13 @@ The program is modeled after [Mozilla Open Leaders](https://foundation.mozilla.o
 
 ## CHAMPIONS COHORTS 
 
-Meet the Openscapes Champions: The [Cohorts page](/cohorts) lists the inspiring research groups that have participated in the Champions Program. The inaugural cohort of seven environmental science research groups completed in May 2019 — we shared stories along the way through [our blog](/blog) and [media](/media). We also co-authored a career column in *Nature*: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
+The Openscapes Champions [Cohorts page](/cohorts) lists the inspiring research groups that have participated in the Champions Program. 
 
-<br>
+<br> 
 
-#### Are you interested in the Champions Program? Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more details and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking.
+> “**This program has honestly completely re-made how I think about my science**. Openscapes is a supportive training course for moving your lab toward open science, that meets you where you are.”  — Prof. Chelsea Wood, University of Washington  
+
+> "**Openscapes isn’t just about coding and GitHub, it's about changing how we do science**" — Prof. Malin Pinsky, Rutgers University
 
 <center><img src="/img/horst_openscapes_desert_cactus.png" width="40px"></center>
 

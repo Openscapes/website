@@ -54,17 +54,24 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 ## OPENSCAPES PRESENTATIONS
 
 <!---
-SCCWRP
-Open  Science Conference 11-12 March Germany
-TWEEDS  27-28 March
 ESIP  July Vermont
 --->
+
+- Supercharging research with open data science and teamwork - upcoming March 11, 2020: [The workshop in environmental economics and data science (TWEEDS)](https://tweeds.io/) (30 minutes)
+
+- R and teamwork for better science in less time - upcoming March 16, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes)
+
+- Supercharging research with open data science and teamwork - upcoming March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (30 minutes)
+
+- R and teamwork for better science in less time - upcoming February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
+
+- R and teamwork for better science in less time - upcoming February 7, 2020: Southern California Coastal Water Research Project (SCCWRP), Coasta Mesa, California (45 minutes)
 
 - [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR#1) - November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
 
 - [R for better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/1LA4EcnRxD11rjwbRh0hrjPG5J0dmiiuCbNaoQrz0XHU/edit?usp=sharing) - November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
 
-- [R and friends for better science in less time in big (and small) team collaborations](https://openscapes.github.io/slides/betterscience/escience#1) - November 19, 2019: [eScience Institute](https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes) [(video)](https://www.youtube.com/watch?v=HjTLTiAWk1g&feature=youtu.be)
+- [R and friends for better science in less time in big (and small) team collaborations](https://openscapes.github.io/slides/betterscience/escience#1) - November 19, 2019: [eScience Institute](https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes) ([video](https://www.youtube.com/watch?v=HjTLTiAWk1g&feature=youtu.be))
 <!---
 https://twitter.com/benmarwick/status/1197033996061855744 nicest tweet ever
 --->

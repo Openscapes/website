@@ -1,11 +1,11 @@
 +++
-title = "Media and Presentations"
+title = "Openscapes Media"
 description = "Openscapes Slides"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-## OPENSCAPES PUBLICATIONS
+## PUBLICATIONS
 
 - Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* Career Column, October 31, 2019
 
@@ -36,7 +36,7 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <br>
 
-## OPENSCAPES MEDIA
+## MEDIA
 
 - [A Rising Tide: Funding Ocean Science](https://www.sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) - Science Philanthropy Alliance. April 1, 2019. *Alliance blog post.*
 
@@ -51,7 +51,7 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <br>
 
-## OPENSCAPES PRESENTATIONS
+## PRESENTATIONS
 
 <!---
 ESIP  July Vermont

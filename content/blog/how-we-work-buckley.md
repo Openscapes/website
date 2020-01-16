@@ -1,17 +1,21 @@
 ---
 title: "How we work: the Buckley Lab"
 author: Lauren Buckley
-date: '2019-12-02'
+date: '2020-01-16'
 slug: how-we-work
 categories:
   - community
 tags:
   - impact
-banner: img/blog/keynote/user-keynote-titleslide-square.png
+  - how-to
+  - case-study
+banner: img/blog/buckleylab-trenchproject-getty-thermal.png
 ---
 
 
-*Dr. Lauren Buckley spent her fall sabattical at NCEAS, where she and I chatted about her lab practices and open data science. Here she shares how she is using practices from Openscapes in her own research group at the University of Washington. Learn more about her research at [faculty.washington.edu/lbuckley](http://faculty.washington.edu/lbuckley).*
+*Dr. Lauren Buckley spent her fall sabbatical at NCEAS, where she chatted with Julie Lowndes about her lab practices and open data science. Here she shares how she is using practices from Openscapes in her own research group at the University of Washington. Learn more about her research at [faculty.washington.edu/lbuckley](http://faculty.washington.edu/lbuckley).*
+
+----
 
 I enjoyed interacting with the Openscapes and Ocean Health Index communities during a sabbatical visit to NCEAS. My lab is increasingly working on building computational and visualization tools for translating environmental change into organismal responses ([trenchproject.github.io](https://trenchproject.github.io)), so tools and best practices for open and reproducible science are increasingly essential. We have been working fairly independently and haphazardly to develop lab workflows and best practices over recent years so it was gratifying and empowering to find that our workflow linking GitHub, R Studio, and Google Drive and our use of other tools including slack and R Markdown closely aligns with the Openscapes recommendations ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160); [Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4)).
  
@@ -29,9 +33,11 @@ Some future goals for our lab based on the Openscapes resources:
 Thank you Openscapes and I look forward to continued interactions with the growing open environmental data science community.
 
 
+<br>
 
+<img src="/img/blog/buckleylab-trenchproject-getty-thermal.png" width="300px">  
 
-<img src="/img/blog/keynote/user-keynote-titleslide.png" width="300px">
+Thermal art of the Getty Museum by [@trenchproject](https://www.instagram.com/p/B40D3LRnkOL/).
 
 
 

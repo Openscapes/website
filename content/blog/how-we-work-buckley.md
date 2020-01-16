@@ -17,6 +17,16 @@ banner: img/blog/buckleylab-trenchproject-getty-thermal.png
 
 ----
 
+<br> 
+
+<center>
+  <a><img src="/img/blog/buckleylab-trenchproject-getty-thermal.png" width="500px"></a>
+  <figcaption>Thermal art of the Getty Museum by one of Dr. Buckley's research initiatives  [@trenchproject](https://www.instagram.com/p/B40D3LRnkOL/).
+ </figcaption>
+</center>
+
+<br> 
+
 I enjoyed interacting with the Openscapes and Ocean Health Index communities during a sabbatical visit to NCEAS. My lab is increasingly working on building computational and visualization tools for translating environmental change into organismal responses ([trenchproject.github.io](https://trenchproject.github.io)), so tools and best practices for open and reproducible science are increasingly essential. We have been working fairly independently and haphazardly to develop lab workflows and best practices over recent years so it was gratifying and empowering to find that our workflow linking GitHub, R Studio, and Google Drive and our use of other tools including slack and R Markdown closely aligns with the Openscapes recommendations ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160); [Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4)).
  
 Interacting with the Openscapes team has facilitated a sabbatical goal of updating our lab documentation. We previously stored our workflow and best practices documentation on an internal webpage, but I was inspired by the Openscapes recommendations to move our materials to a [GitHub “how_we_work” repository](https://github.com/HuckleyLab/how_we_work). I reformatted some of our existing resources as an onboarding document and adapted text from the [Pinsky Lab](https://github.com/pinskylab/how_we_work) (which was itself adapted from others in the Openscapes champions program) as an offboarding document. The offboarding document made me realize we need to do a better job of updating our README files once projects are completed. I aim for my lab to better inventory and describe each code and documentation file and to update the files with publication information. I hope the GitHub repository will lead to greater lab engagement with the materials and it will be nice to track changes over time. Suggestions for improving our materials are welcome and adapting them is encouraged!
@@ -35,9 +45,6 @@ Thank you Openscapes and I look forward to continued interactions with the growi
 
 <br>
 
-<img src="/img/blog/buckleylab-trenchproject-getty-thermal.png" width="300px">  
-
-Thermal art of the Getty Museum by [@trenchproject](https://www.instagram.com/p/B40D3LRnkOL/).
 
 
 

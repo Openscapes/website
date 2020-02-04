@@ -7,10 +7,10 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## PUBLICATIONS
 
+- Julia S. Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, December 10, 2019
+
+
 - Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* Career Column, October 31, 2019
-
-- Julia Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, December 10, 2019
-
 
 
 <!---
@@ -38,7 +38,13 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## MEDIA
 
-- [A Rising Tide: Funding Ocean Science](https://www.sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) - Science Philanthropy Alliance. April 1, 2019. *Alliance blog post.*
+- [Tech tools to make research more open and inclusive](https://www.nature.com/articles/d41586-020-00216-z) — Kendall Powell. February 3, 2020. *Nature*.
+
+- [The coupling of innovation and open data science tools for science has been fascinating to me and hard to tease apart: An interview with Dr Julia Stewart Lowndes](https://www.statisticsviews.com/details/feature/11216365/The-coupling-of-innovation-and-open-data-science-tools-for-science-has-been-fasc.html) — Alison Oliver. January 29, 2020. *Statistics Views*.
+
+- [Open Science and 'Star Wars'](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. *Medium.*
+
+- [A Rising Tide: Funding Ocean Science](https://www.sciencephilanthropyalliance.org/a-rising-tide-funding-ocean-science-alliance-blog-post/) — Science Philanthropy Alliance. April 1, 2019. *Alliance blog post.*
 
 - [Julie Lowndes Wants the Force of Open Data Science to Be with You](https://www.nceas.ucsb.edu/news/nceas-portrait-julie-lowndes) — NCEAS. March 12, 2019. *NCEAS Portrait*.
 
@@ -47,7 +53,6 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 - [Announcing Openscapes: Open Science is Better Science](https://medium.com/read-write-participate/announcing-openscapes-open-science-is-better-science-debe520d3de5) - Mozilla. January 29, 2019. *Medium.*
 
-- [Open Science and 'Star Wars'](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. *Medium.*
 
 <br>
 
@@ -57,7 +62,7 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 ESIP  July Vermont
 --->
 
-- Supercharging research with open data science and teamwork - upcoming March 11, 2020: [The workshop in environmental economics and data science (TWEEDS)](https://tweeds.io/) (30 minutes)
+- Supercharging research with open data science and teamwork - upcoming March 11, 2020: [The workshop in environmental economics and data science (TWEEDS)](https://tweeds.io/), Portland, Oregon (30 minutes)
 
 - R and teamwork for better science in less time - upcoming March 16, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes)
 

@@ -2,14 +2,12 @@
 title: "RStudio Conference 2020"
 author: Julie Lowndes
 date: '2020-02-04'
-slug: rstudio-conf-2020
+slug: rstudioconf-2020
 categories:
   - community
-  - champions
 tags:
-  - impact
   - art
-  - medium.com  
+  - coding
 banner: img/blog/rstudioconf-horst-postcard-square.jpg
 ---
 

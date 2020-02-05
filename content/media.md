@@ -56,6 +56,13 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <br>
 
+## LESSONS
+
+- [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) — mentorship curriculum for the Champions program, taught remotely over a five-month period or in person over two days
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the RStudio Conference, taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user.
+
+<br>
+
 ## PRESENTATIONS
 
 <!---

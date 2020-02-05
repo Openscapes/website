@@ -11,7 +11,7 @@ tags:
 banner: img/blog/rstudioconf-horst-postcard-square.jpg
 ---
 
-*Last week Openscapes went to the RStudio Conference! This is a brief summary of a conference that truly made history. It will be complemented by forthcoming blogs.*
+*Last week Openscapes went to the RStudio Conference! This is a brief summary of a conference that truly made history, both globally as RStudio announced it is a Public Benefit Corporation, and personally for me, since it marked five years of being part of the #rstats community. It is brief but will be complemented by forthcoming blogs.*
 
 
 <br>
@@ -49,7 +49,15 @@ But the absolute highlight of RStudio::conf(2020) was that [RStudio is now a Pub
 
 <br>
 
-There were many other inspiring talks — some that I saw live and many that I will watch later online since all talks were recorded (and live-streamed!) and will soon be available from [resources.rstudio.com](https://resources.rstudio.com/) (slides are now available, compiled by [Emil Hvitfeldt](https://github.com/EmilHvitfeldt/RStudioConf2020Slides#links-to-slides-from-rstudioconf-2020)!). Highlights included talks by [Jeff Leek](https://twitter.com/juliasilge/status/1222616959222575104), [Desirée De Leon](https://twitter.com/juliasilge/status/1222621842524893184) (links are Twitter threads by [Julia Silge](https://twitter.com/juliasilge/)). 
+There were many other inspiring talks — some that I saw live and many that I will watch later online since all talks were recorded (and live-streamed!) and will soon be available from [resources.rstudio.com](https://resources.rstudio.com/) (slides are now available, compiled by [Emil Hvitfeldt](https://github.com/EmilHvitfeldt/RStudioConf2020Slides#links-to-slides-from-rstudioconf-2020)!). Highlights included talks by [Jeff Leek](https://twitter.com/juliasilge/status/1222616959222575104), [Desirée De Leon](https://twitter.com/juliasilge/status/1222621842524893184), and the keynote by [Jenny Bryan](https://twitter.com/juliasilge/status/1222929942964367360) (links are Twitter threads by [Julia Silge](https://twitter.com/juliasilge/)). Also, I really appreciate [R for the Rest of Us's thread](https://twitter.com/rfortherest/status/1225075341409935360) highlighting content for those starting out in R. 
+
+<br>
+
+<center><img src="/img/blog/rstudioconf-2020-selfie.jpg" width="400px">
+<figcaption>#rstats (and Openscapes!) friends at RStudio::conf(2020).</figcaption>
+</center>
+
+<br>
 
 On the drive back home, debriefing of our experiences at RStudio::conf led to Jamie suggesting that I start my own podcast called "That Is So Great" where I interview people about what they do and ask them why it's so great. I am definitely into it, we'll just have to see. 
 

@@ -11,13 +11,14 @@ tags:
 banner: img/blog/rstudioconf-horst-postcard-square.jpg
 ---
 
-*Last week Openscapes went to the RStudio Conference! This is a brief summary of a conference that truly made history, both globally as RStudio announced it is a Public Benefit Corporation, and personally for me, since it marked five years of being part of the #rstats community. It is brief but will be complemented by forthcoming blogs.*
+*Last week Openscapes went to the RStudio Conference! This is a brief summary of a conference that truly made history, both globally as RStudio announced it is a Public Benefit Corporation, and personally for me, since it marked five years of being part of the #rstats community. It is brief (and does not begin to provide a full summary!), but will be complemented by forthcoming blogs.*
 
 
 <br>
 <center>
-  <a><img src="/img/blog/rstudioconf-horst-postcard-square.jpg" width="350px"></a>
-  <figcaption>Art played a big role at the conference. A postcard by Allison Horst.</figcaption>
+  <a href = "https://twitter.com/juliesquid/status/1224755643598307328">
+  <img src="/img/blog/rstudioconf-horst-postcard-square.jpg" width="350px"></a>
+  <figcaption>Art played a big role at the conference. A postcard by RStudio Artist in Residence [Allison Horst](https://twitter.com/allison_horst).</figcaption>
 </center>
 <br>
 

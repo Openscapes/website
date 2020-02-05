@@ -61,7 +61,7 @@ Openscapes Champions will be better equipped to:
 
 ## PROCESS
 
-Openscapes Champions is a five-month program for that is led remotely and designed to ignite incremental and sustainable change within research groups — and beyond. Each Champions Cohort includes 7-10 research groups, with 2-5 individuals per research group actively participate through video calls. Importantly, research group leads (faculty, lecturers, program managers, etc) and members (students, analysts, lab managers, etc.) participate together so that: 
+Openscapes Champions is a five-month program for that is led remotely and designed to ignite incremental and sustainable change within research groups — and beyond. Each Champions Cohort includes 7-10 research groups, with 2-5 individuals per research group actively participating through video calls. Importantly, research group leads (faculty, lecturers, program managers, etc) and members (students, analysts, lab managers, etc.) participate together so that: 
 
 - everyone sees and values what is possible with open data science
 - leads support and enable members to invest time in learning skills and developing shared workflows

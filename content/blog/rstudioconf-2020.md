@@ -60,7 +60,7 @@ There were many other inspiring talks — some that I saw live and many that I w
 
 <br>
 
-On the drive back home, debriefing of our experiences at RStudio::conf led to Jamie suggesting that I start my own podcast called "That Is So Great" where I interview people about what they do and ask them why it's so great. I am definitely into it, we'll just have to see. 
+On the drive back home, debriefing of our experiences at RStudio::conf led to Jamie suggesting that I start my own podcast called "That Is So Great" where I interview people about what they do with R and science and ask them why It Is So Great. I am definitely into this idea, we'll just have to see. 
 
 <br>
 <center>

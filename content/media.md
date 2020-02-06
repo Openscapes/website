@@ -77,7 +77,7 @@ ESIP  July Vermont
 
 - R and teamwork for better science in less time - upcoming February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
 
-- R and teamwork for better science in less time - upcoming February 7, 2020: Southern California Coastal Water Research Project (SCCWRP), Costa Mesa, California (45 minutes)
+- [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/sccwrp#1) - February 7, 2020: Southern California Coastal Water Research Project (SCCWRP), Costa Mesa, California (45 minutes)
 
 - [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR#1) - November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
 

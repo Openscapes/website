@@ -23,7 +23,7 @@ description: This course is for Excel users who want to add or integrate R and R
 > Book: https://rstudio-conf-2020.github.io/r-for-excel/ <br>
 > [Slides](https://docs.google.com/presentation/d/1w9cVzEsdbyZ6vay4UnoTvTWd9t-AO_x06HoVzgAiSFE/edit?usp=sharing) <br>
 > Cross posted: <https://education.rstudio.com/blog> <br>
-> <i class="fab fa-creative-commons fa-fw"></i> [License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+> [License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## Background
 
@@ -32,7 +32,7 @@ We were thrilled to co-teach the R for Excel Users workshop at rstudio::conf(202
 <br>
 <center>
   <img src="/img/blog/horst-r-excel-disco.png" width="350px"></a>
-  <figcaption>Art by Allison Horst.</figcaption>
+  <figcaption>Art by Allison Horst</figcaption>
 </center>
 <br>
 

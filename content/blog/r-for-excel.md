@@ -1,7 +1,7 @@
 ---
 title: R for Excel Users Workshop
 author: Allison Horst and Julie Lowndes
-date: '2021-02-18'
+date: '2020-02-18'
 slug: r-for-excel
 categories:
   - community 
@@ -31,8 +31,8 @@ We were thrilled to co-teach the R for Excel Users workshop at rstudio::conf(202
 
 <br>
 <center>
-  <img src="/img/blog/horst-esm-workflow.png" width="350px"></a>
-  <figcaption>Art by Allison Horst./figcaption>
+  <img src="/img/blog/horst-r-excel-disco.png" width="350px"></a>
+  <figcaption>Art by Allison Horst.</figcaption>
 </center>
 <br>
 
@@ -52,7 +52,7 @@ And they would build the mindset:
 4. to enable others
 
 
-Focusing on #rstats communities at our workshop was especially important to us because of our audience. These folks were coming to a 2400-person conference all about R – and they did not yet know R! That seems scary! Anything we could do to not only teach them about reproducible workflows but also make the conference easier to navigate for a newcomer we time well spent. Thus, we deliberately focused time on R learning communities that they would see and can get involved in at the conference and afterwards. And, we included a discussion about how Twitter is a legit tool for R, and how to get started. 
+Focusing on #rstats communities at our workshop was especially important to us because of our audience. These folks were coming to a 2400-person conference all about R – and they did not yet know R! That seems scary! Anything we could do to not only teach them about reproducible workflows but also make the conference easier to navigate for a newcomer we felt was time well spent. Thus, we deliberately focused time on R learning communities that they would see and can get involved in at the conference and afterwards. And, we included a discussion about how Twitter is a legit tool for R, and how to get started. 
 
 ## Teaching at RStudio::conf!
 
@@ -98,7 +98,7 @@ The vibe throughout the workshop was fun and lighthearted, which is exactly what
 
 We loved developing and teaching R for Excel Users, and hope to do it again. Our course materials evolved quite a bit throughout months of development, and were hugely helped by a pilot workshop we ran at UC Santa Barbara in early December. Even so, there are little things we would like to iron out and improve upon for next time. And we will also update the Book with images from the Slides so that the Book is completely self-contained and the Slides are a bonus, rather than a necessity. 
 
-We also got feedback that we should change the name of the course because while it has some framing from Excel, it is certainly not limited to Excel Users. This seems like a good idea. When we were first talking to RStudio’s Alison Hill about the workshop, we discussed how it could be somewhat of a precursor to Jenny Bryan and Jim Hester’s What They Forgot to Teach You About R – ours being What You Should Know When You Learn R. Jenny and Jim’s have a great acronym, WTF, so I have been thinking about names. I learned from Jenny that WTF was a welcome byproduct that came after they came up with the workshop name, but I have to approach it as a [backronym](https://en.wikipedia.org/wiki/Backronym)). I’ve had many terrible ideas, but! Through cocktail chats at the conference with Charlotte Wickham and Hannah Frick, we landed on TLDR being best. I love Charlotte’s suggestion of Take a Leap and Dive into R or my less-great Time to Learn Data analysis in R. This is an ongoing pursuit, and suggestions are very welcomed :).
+We also got feedback that we should change the name of the course because while it has some framing from Excel, it is certainly not limited to Excel Users. This seems like a good idea. When we were first talking to RStudio’s Alison Hill about the workshop, we discussed how it could be somewhat of a precursor to Jenny Bryan and Jim Hester’s What They Forgot to Teach You About R – ours being What You Should Know When You Learn R. Jenny and Jim’s have a great acronym, WTF, so I have been thinking about names. I learned from Jenny that WTF was a welcome byproduct that came after they came up with the workshop name, but I have to approach it as a [backronym](https://en.wikipedia.org/wiki/Backronym). I’ve had many terrible ideas, but! Through cocktail chats at the conference with Charlotte Wickham and Hannah Frick, we landed on TLDR being best. I love Charlotte’s suggestion of Take a Leap and Dive into R or my less-great Time to Learn Data analysis in R. This is an ongoing pursuit, and suggestions are very welcomed :).
 
 
 <br>

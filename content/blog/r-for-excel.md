@@ -31,7 +31,7 @@ We were thrilled to co-teach the R for Excel Users workshop at rstudio::conf(202
 
 <br>
 <center>
-  <img src="/img/blog/horst-r-excel-disco.png" width="350px"></a>
+  <img src="/img/blog/horst-r-excel-disco.png" width="450px"></a>
   <figcaption>Art by Allison Horst</figcaption>
 </center>
 <br>

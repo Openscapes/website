@@ -59,7 +59,8 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 ## LESSONS
 
 - [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) — mentorship curriculum for the Champions program, taught remotely over a five-month period or in person over two days
-- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the RStudio Conference, taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user.
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the [2020 RStudio Conference](https://rstudio.com/conference/), taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user.
+<!---https://education.rstudio.com/blog/2020/02/conf2020-workshops/--->
 
 <br>
 
@@ -75,7 +76,7 @@ ESIP  July Vermont
 
 - Supercharging research with open data science and teamwork - upcoming March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (30 minutes)
 
-- R and teamwork for better science in less time - upcoming February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
+- [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1) - February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
 
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/sccwrp#1) - February 7, 2020: Southern California Coastal Water Research Project (SCCWRP), Costa Mesa, California (45 minutes) ([video](https://vimeo.com/390086585)) 
 

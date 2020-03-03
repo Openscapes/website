@@ -1,51 +1,80 @@
 ---
-title: "RStudio Conference 2020"
+title: "Notes from our first Openscapes workshop"
 author: Julie Lowndes
-date: '2020-02-04'
-slug: rstudioconf-2020
+date: '2020-03-06'
+slug: nefsc-2020
 categories:
   - community
+  - champions
 tags:
-  - art
   - coding
+  - impact
 banner: img/blog/rstudioconf-horst-postcard-square.jpg
 ---
 
-*Last week Openscapes had its first in-person 2-day workshop version of the Champions program*
+*Last week Openscapes had its first in-person 2-day workshop version of the Champions program at NOAA's Northeast Fisheries Science Center (NEFSC) with six teams of fisheries scientists from NEFSC, Woods Hole Oceanographic Institute (WHOI), and University of Massachusetts Dartmouth. This post will focus on what the participants did and acheived and a following post will include more details about the workshop structure.*
 
-TODO: link accompanying blogs
-
-
-<br>
-<center>
-  <a href = "https://twitter.com/juliesquid/status/1224755643598307328">
-  <img src="/img/blog/rstudioconf-horst-postcard-square.jpg" width="350px"></a>
-  <figcaption>Art played a big role at the conference. A postcard by RStudio Artist in Residence [Allison Horst](https://twitter.com/allison_horst).</figcaption>
-</center>
-<br>
+---
 
 - Scott mustache tag
 - What does Open Science mean to you?:
   - Open science makes it easier for you to repeat/continue your work if you come back to it months or years later, and for others to contribute
 - I'm lucky because I get to learn in my job
-- biggest differences/firsts: 
-  - in person, not remote. Slide decks that were designed as essentially stand-alones every 2 weeks (so with baked-in redundancy and recaps) felt way too redudant when back-to-back. Plan: will tighten, remove redundancy so increase content. 
-  - Not all teams had leads present; only 2 groups had leads present. So focus in those teams included not only developing plan is going forward, but how to get buyin from leads. Excited to share strategies and stories as they unfold.
+
 
 ## Summary
 
 
+These groups already have quite a bit of momentum in open data science, with many folks attending coding and using GitHub. But many didn't know each other, or know that they were allies. 
 
 ## What was it? 
 
-2 day workshop with the series. Scott Large reachout to me, got funding, rallied 6 teams.
+This was a 2-day, in-person Openscapes workshop using the Openscapes [Lesson Series](https://openscapes.github.io/series/). We covered a lot in these two days, with *over a third/nearly half* of the time spent in smaller breakout groups or teams so that participants could focus on their own workflows and how the lesson topics pertain and apply. 
+
+<br>
+<center>
+  <img src="/img/blog/nefsc_workshop_breakout.jpg" width="800px"></a>
+  <figcaption>Throughout the workshop participants met in small groups to discuss how topics covered applied to their work. They met as semi-random Breakout Groups to cross-pollinate across teams, as well as with with their own Research Groups.
+</figcaption>
+</center>
+<br>
+
+We started off the first morning by setting expectations and the tone of the workshop with our Community Participation Guidelines and Openscapes Overview. Dicussions focused around collaborative mindsets, norms, and software to enable open and collaborative work, with a heavy emphasis on R, GitHub, Google Docs, and Twitter. 
+
+
+<br>
+<center>
+  <a href = "https://openscapes.github.io/series/index.html#day-in-person">
+  <img src="/img/blog/openscapes-workshop-agenda.png" width="800px"></a>
+  <figcaption>Agenda summary for the 2-day workshop. Links to slides available in the [Openscapes Series](https://openscapes.github.io/series/index.html#day-in-person). 
+</figcaption>
+</center>
+<br>
+
+[Scott Large](https://twitter.com/ScottLarge_), the Ecosystems Dynamics & Assessment Branch Chief at NEFSC, made this workshop happen. He reached out to me after following Openscapes on Twitter and asked for a 2-day version. He secured workshop funding and rallied six local teams to participate as a Champions cohort.
 
 ## What did we do? 
+
+The focus was about 
 Talked about xyz. Intentional creating space to share and be vulnerable, modeling behavior we have learned from open and Moz community, but also grounded in sci community. NOAA
 
 ## Was it valuable? 
 
+Overall, participants said the workshop was valuable
+
+> "I think the greatest value of the workshop was the time set aside to discuss our path forward as a team. We were able to discuss directly and extensively about how we can bring this open energy to enhance our workflow. We will definitely be trying the seaside chats." - post-workshop survey
+
 Yes: convos included things like xyz. Clubs shiny and SMAST. And testimonial from our post survey (change survey to "testimonial"? ). Ex of a group going forward: Scott's group. Where lead was present. Another example was xyZ, where lead was not present. 
+
+<br>
+<center>
+  <a href = "https://twitter.com/ashleighjnovak/status/1233401091951333378">
+  <img src="/img/blog/tweet-ashleighjnovak-workshop-life-changing.png" width="400px"></a>
+  <figcaption>Tweet by [@ashleighjnovak](https://twitter.com/ashleighjnovak). 
+</figcaption>
+</center>
+<br>
+
 
 ## What's next? Follow up with these teams as they get going. 
 
@@ -53,11 +82,19 @@ Firsts: in person, closely tied network of teams, not all Pi's present. Upcoming
 
 *if you're interested, contact!*
 
-These groups already have quite a bit of momentum in open data science, with many folks attending coding and using GitHub. But many didn't know each other, or know that they were allies. Shiny meetup. Quantfish woRkshops at SMAST.
+Shiny meetup. Quantfish woRkshops at SMAST.
 
-On Day 1 we...
+## Reflections
 
-On Day 2 we...
+I am really pleased with how this workshop went! Since the Openscapes Champions program is about developing mindsets and habits around open data science and nurturing cultural change and was designed as low-time investment (three hours/month) over five months, I wasn't sure how much we could catalyze in a 2-day workshop. But I'm convinced it worked; the participants were great and left the workshop with plans to create community within and beyond their teams. 
+
+This workshop had a lot of firsts, things that were different from the previous Champions cohort: 
+
+- In person, not remote. 
+- Local community and research domain: all teams are focused around the same topic (fisheries management), and were local to Cape Cod/New Bedford.
+- Not all teams had leads present; only 2 groups had leads present. So focus in those teams included not only developing plan is going forward, but how to get buyin from leads. Excited to share strategies and stories as they unfold.
+
+There were definitely things I would like to improve for next time. Most obviously for me to reduce some of the redundancy in the slide decks; such redundancy was a nice refresher/emphasis when folks were seeing them every two weeks as part of the five-month structure but was pretty repetitive over a course of two days. I've got a plan and will be improving the slides for next time. 
 
 
 ## Cool things we learned

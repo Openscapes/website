@@ -70,8 +70,6 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 ESIP  July Vermont
 --->
 
-- Supercharging research with open data science and teamwork - upcoming March 11, 2020: [The workshop in environmental economics and data science (TWEEDS)](https://tweeds.io/), Portland, Oregon (30 minutes)
-
 - R and teamwork for better science in less time - upcoming March 16, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes)
 
 - Supercharging research with open data science and teamwork - upcoming March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (30 minutes)

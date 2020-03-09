@@ -88,9 +88,9 @@ A few local meetups already exist that others know about and are welcome to atte
 
 ## What's next for participants and workshops? 
 
-We'll be following up and amplifying these teams in the coming months to share their progress. Excited to share strategies and stories as they unfold. In just the week since the workshop, the Shiny Meetup has already met — with new members that have joined from the Openscapes workshop. They have scheduled meetups throughout the rest of the year, and are discussing broadening the focus beyond Shiny: perhaps tidyverse tutorials and even [#TidyTuesday](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/). Woohoo Shiny Meetup Group! 
+We'll be following up and amplifying these teams in the coming months to share their progress, and we're excited to share strategies and stories as they unfold. In just the week since the workshop, the Shiny Meetup has already met — with new members that have joined from the Openscapes workshop. They have scheduled meetups throughout the rest of the year, and are discussing broadening the focus beyond Shiny: perhaps tidyverse tutorials and even [#TidyTuesday](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/). Woohoo Shiny Meetup Group! 
 
-If you Are interested in hosting an Openscapes workshop, please contact us: [openscapes@nceas.ucsb.edu](mailto:openscapes@nceas.ucsb.edu)!
+If you are interested in hosting an Openscapes workshop, please contact us: [openscapes@nceas.ucsb.edu](mailto:openscapes@nceas.ucsb.edu).
 
 
 ## Reflections

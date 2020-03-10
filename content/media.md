@@ -72,7 +72,7 @@ ESIP  July Vermont
 
 - R and teamwork for better science in less time - upcoming March 16, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes)
 
-- Supercharging research with open data science and teamwork - upcoming March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (30 minutes)
+- [Supercharging research with open data science and teamwork](https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing) - March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (20 minutes)
 
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1) - February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
 

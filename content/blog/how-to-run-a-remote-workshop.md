@@ -105,10 +105,6 @@ This is an excerpt from a previous post [Introducing the Champions program](http
 
 > Each call has an agenda written as a Google Doc to enable real-time participation. During the call, all participants have the agenda open, and follow along, writing their thoughts in specific places and participating in active shared note-taking. This is an [example pre-call agenda](https://drive.google.com/open?id=1Ia5-w8KiZgyZqX1ErGnrFihDAUAiAzkZwDfSgZw9BMU). Following the real-time writing and engagement during the Cohort Call, the agenda serves as a record of the discussions had that participants can revisit and anyone who missed can review. 
 
-We have now run events that were fully remote, a a mix of in-person and remote, and fully in person. In all cases, we used Google Docs as a way for folks to be hands-on and have alternative channels to share input. When we were fully remote or a mix of in-person and remote, we also had everyone on their own computers with Zoom video on (but audio off, depending on where they were). 
-
----
-
 There are definitely ways to improve and scale to accommodate people of different abilities and obligations, but this is where we are with Openscapes at the moment. I hope this is helpful and there will be future posts as we learn and iterate moving forward!
 
 

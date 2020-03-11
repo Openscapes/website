@@ -107,6 +107,10 @@ This is an excerpt from a previous post [Introducing the Champions program](http
 
 We have now run events that were fully remote, a a mix of in-person and remote, and fully in person. In all cases, we used Google Docs as a way for folks to be hands-on and have alternative channels to share input. When we were fully remote or a mix of in-person and remote, we also had everyone on their own computers with Zoom video on (but audio off, depending on where they were). 
 
+---
+
+There are definitely ways to improve and scale to accommodate people of different abilities and obligations, but this is where we are with Openscapes at the moment. I hope this is helpful and there will be future posts as we learn and iterate moving forward!
+
 
 <br>
 

@@ -22,7 +22,7 @@ description: This course is for Excel users who want to add or integrate R and R
 > GitHub: https://github.com/rstudio-conf-2020/r-for-excel <br>
 > Book: https://rstudio-conf-2020.github.io/r-for-excel/ <br>
 > [Slides](https://docs.google.com/presentation/d/1w9cVzEsdbyZ6vay4UnoTvTWd9t-AO_x06HoVzgAiSFE/edit?usp=sharing) <br>
-> Cross posted: <https://education.rstudio.com/blog> <br>
+> Cross posted: <https://education.rstudio.com/blog/2020/02/conf20-r-excel/> <br>
 > [License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## Background

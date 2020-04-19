@@ -15,7 +15,7 @@ Supporting a safe, inclusive, welcoming, and harassment-free experience for ever
 
 Openscapes is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone. 
 
-Diversity is our strength, we try to cultivate a tone where everyone in the community, no matter their backgrounds and accomplishments, comes with a mind open to learning from, with, and for each other. In this mindset, questions are always welcome and appropriate because they don’t expose the lack of knowledge of the asker. Rather, questions expose opportunities for empathy and clarification for the original communicator, and for further opening up the conversation to include different perspectives and learning styles. 
+Diversity is our strength, we try to cultivate a tone where everyone in the community, no matter their backgrounds and accomplishments, comes with a mind open to learning from, with, and for each other. In this mindset, questions are always welcome and appropriate because they don’t expose the lack of knowledge of the asker. Rather, questions expose opportunities for clarification for the original communicator, and for further opening up the conversation to include different perspectives and learning styles. 
 
 In our community we encourage listening and empathy in all of our interactions. This means: 
 
@@ -62,6 +62,6 @@ If you experience or witness unacceptable behavior, or have any other concerns, 
 
 ---
 
-The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area. Additional resources influencing this document include [Titus Brown's Lab](http://ivory.idyll.org/blog/2016-notes-on-lab-coc.html), [Open Post Academics](https://openpostac.org/), and [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/).
+The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area. Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Titus Brown's Lab](http://ivory.idyll.org/blog/2016-notes-on-lab-coc.html), [Open Post Academics](https://openpostac.org/), and [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/).
 
 <br>

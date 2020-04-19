@@ -59,20 +59,19 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 ## LESSONS
 
 - [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) — mentorship curriculum for the Champions program, taught remotely over a five-month period or in person over two days
-- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the [2020 RStudio Conference](https://rstudio.com/conference/), taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user.
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the [2020 RStudio Conference](https://rstudio.com/conference/), taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user. Co-developed and taught with Allison Horst.
 <!---https://education.rstudio.com/blog/2020/02/conf2020-workshops/--->
 
 <br>
 
 ## PRESENTATIONS
 
-<!---
-ESIP  July Vermont
---->
 
-- R and teamwork for better science in less time - upcoming March 16, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes)
+- Title TBD - upcoming July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://esipfed.org)
 
-- [Supercharging research with open data science and teamwork](https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing) - March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (20 minutes)
+- R and teamwork for better science in less time - April 21, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes) (presented remotely)
+
+- [Supercharging research with open data science and teamwork](https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing) - March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (20 minutes) (presented remotely)
 
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1) - February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
 
@@ -95,7 +94,7 @@ https://twitter.com/benmarwick/status/1197033996061855744 nicest tweet ever
 - Building communities of practice around environmental open data science - upcoming October 2, 2019: Roundtable, NCEAS, Santa Barbara, California (45 minutes)
 --->
 
-- [Better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/13JkwCiXjfZfNucAsDwHI6FdEvpOngCv50cjnT7HXJK8/edit?usp=sharing) - September 5, 2019: [Tampa Bay Estuary Program Open Science Workshop](https://www.tbeptech.org/23-uncategorised/280-open-science-workshop-september-5-6), St Petersburg, Florida (remote) (20 minutes)
+- [Better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/13JkwCiXjfZfNucAsDwHI6FdEvpOngCv50cjnT7HXJK8/edit?usp=sharing) - September 5, 2019: [Tampa Bay Estuary Program Open Science Workshop](https://www.tbeptech.org/23-uncategorised/280-open-science-workshop-september-5-6), St Petersburg, Florida (presented remotely) (20 minutes)
 
 - [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1) - July 10, 2019: Opening Keynote, [useR Conference](http://user2019.r-project.org/), Toulouse, France (45 minutes) [(video, starts ~46:30)](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)
 

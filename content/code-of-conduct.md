@@ -54,6 +54,12 @@ We come from many cultures and backgrounds. Cultural differences can encompass e
 
 By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for our community.
 
+### Summary
+
+Be respectful, honest, inclusive, accommodating, appreciative, and open to learning from everyone else. 
+
+Do not attack, demean, disrupt, harass, or threaten others or encourage such behavior.
+
 This Code of Conduct applies to all people participating in the Openscapes community, including Openscapes staff and leadership. It applies to all modes of interaction online including GitHub project repositories, remote calls, and in person at Openscapes -hosted events.
 
 ### Reporting Guidelines

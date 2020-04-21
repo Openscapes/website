@@ -69,7 +69,7 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 - Title TBD - upcoming July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://esipfed.org)
 
-- R and teamwork for better science in less time - April 21, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses_and_training.html), Leipzig, Germany (45 minutes) (presented remotely)
+- [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/idiv#1) - April 21, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses-and-training/compphylo-1-1.html), Leipzig, Germany (45 minutes) (presented remotely)
 
 - [Supercharging research with open data science and teamwork](https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing) - March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (20 minutes) (presented remotely)
 

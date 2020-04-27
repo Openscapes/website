@@ -11,6 +11,8 @@ tags:
 banner: img/blog/mrlowndes_140512-1160-2.jpg
 ---
 
+*updated with [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) resource Apr 2020*
+
 # So you want to learn R
 
 So you want to learn R, where do you start? There are a lot of written and video tutorials and books and blogs online, but how do you navigate them? Our Ocean Health Index team put together a [list of the resources](http://ohi-science.org/news/Resources-for-R-and-Data-Science) we used to learn R that helped our team's [path to better science in less time](http://ohi-science.org/betterscienceinlesstime/). But this might still not be helpful for where ***you*** should actually start.
@@ -27,7 +29,7 @@ A few things before we talk about specifics:
 
 Coding is collaborative. You will want to share code with others — starting with yourself. Emailing code can be very problematic, because it involves keeping all of the code files and data files organized and in the right place. Better to use something like GitHub, which is collaborative version control. This adds more things to learn up front, but the payoff is substantial. 
 
-If you want to learn R and GitHub together, I would recommend starting with the Ocean Health Index's [Introduction to Open Data Science](http://ohi-science.org/data-science-training/). Our team developed and has been teaching from this book for nearly four years, building from other freely available tutorials.
+If you want to learn R and GitHub together, I would recommend starting with [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (Lowndes & Horst 2020) that we developed for the 2020 RStudio Conference (similar resource is the Ocean Health Index's [Introduction to Open Data Science](http://ohi-science.org/data-science-training/), which the OHI team developed and has been teaching from this book for nearly four years, building from other freely available tutorials).
 
 [Introduction to Open Data Science](http://ohi-science.org/data-science-training/) has lessons for a 2-day course, broken into 1.5-hour sessions. It starts with how to install all the software you will need for the course, and then each chapter builds from the previous, so that you practice your skills together as a workflow. We also recorded me teaching from this book; videos are posted on the [OHI-Science YouTube Channel](https://www.youtube.com/watch?v=xpe7jmt0-J4&list=PLX7J3qtjcll_4s2oaKHuWdRdBMJz7tBAU). 
 

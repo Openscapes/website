@@ -52,7 +52,7 @@ Our rule of thumb for adapting to the virtual setting is: ***Keep it accessible,
 </center>
 <br>
 
-The structure of the workshop followed [tips for leading remote events](https://openscapes.org/blog/2020/03/11/how-to-run-a-remote-workshop/) that we [learned from Mozilla](https://foundation.mozilla.org/en/blog/new-movement-building-home-community-calls/). Participants highlighted the value of specific practices: 
+The structure of the workshop followed [tips for leading remote events](https://openscapes.org/blog/2020/03/11/how-to-run-a-remote-workshop/) that we [learned from Mozilla](https://foundation.mozilla.org/en/blog/new-movement-building-home-community-calls/), and followed [this example agenda](https://docs.google.com/document/d/1-rm903_Er4fgKVHxYSSqCnAMEGssiJw-7t9htbC4IVk/edit?usp=sharing) that participants contributed to throughout the workshop. Participants highlighted the value of specific practices: 
 
 - Using Zoom and Google-docs side-by-side engages participants through both verbal and non-verbal communication channels, making it easier for folks to share their thoughts, even in a large group. Zoom’s chat function provides a third, informal channel for participation.
 - Zoom’s Breakout Rooms create a space for small group interactions where everyone gets a chance to speak. Breakout group prompts and activities help participants make progress towards shared goals before reconvening and reporting out to the larger group. In our workshop, we first used breakout rooms to allow Working Groups to work on tasks within their teams; later in the workshop, we randomly mixed across Working Groups to create opportunities for learning and exchange to strengthen the NCEAS community more broadly. 

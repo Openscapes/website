@@ -68,6 +68,6 @@ If you experience or witness unacceptable behavior, or have any other concerns, 
 
 ---
 
-The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area. Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Titus Brown's Lab](http://ivory.idyll.org/blog/2016-notes-on-lab-coc.html), [Open Post Academics](https://openpostac.org/), and [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/).
+The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area. Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Open Post Academics](https://openpostac.org/), and [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/).
 
 <br>

@@ -66,6 +66,10 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## PRESENTATIONS
 
+<!---
+ESA talk 
+--->
+
 
 - Title TBD - upcoming July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://esipfed.org)
 

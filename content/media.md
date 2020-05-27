@@ -73,6 +73,8 @@ ESA talk
 
 - Title TBD - upcoming July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://esipfed.org)
 
+- [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/e/2PACX-1vSJuPL255pvHlABXE6dvUlmo-OEkixwe4BDD8PTqGdx6VWklEreaGZdDNzDGMasv3MHvrHMXC0T0lgk/pub?start=false&loop=false&delayms=3000) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at [Open Publishing Fest](https://openpublishingfest.org/calendar.html#event-74) (45 minutes) (presented remotely) 
+
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/idiv#1) - April 21, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses-and-training/compphylo-1-1.html), Leipzig, Germany (45 minutes) (presented remotely)
 
 - [Supercharging research with open data science and teamwork](https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing) - March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (20 minutes) (presented remotely)

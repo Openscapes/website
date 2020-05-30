@@ -10,9 +10,14 @@ tags:
 banner: img/blog/Cohort1_zoom_square.png
 ---
 
+<!---
+https://foundation.mozilla.org/en/blog/rapid-virtual-meeting-prototyping-age-pandemic/
+
+--->
+
 *Here is some tips about how to run remote workshops like we do in Openscapes, which was modeled after [Mozilla Open Leaders](https://twitter.com/MozOpenLeaders) program. This post was sparked by [a question on Twitter](https://twitter.com/Stephani_Otte/status/1236440853951860736) asking for ideas/suggestions on virtual workshops, and is really one I meant to write a long time ago. I've structured it with practical guidance for remote workshops and small remote meetings, with more details and examples from  Openscapes remote and mixed events as you continue reading.*  
 
-*Update March 19: see slides, demo doc and recording of ["Designing a remote workplace"](https://bit.ly/33uJK0n), a 30-minute webinar building off of these ideas that I presented to the Santa Barbara Nonprofit Resource Network"*
+*Update March 19: see slides, demo doc and recording of ["Designing a remote workplace"](https://bit.ly/33uJK0n), a 30-minute webinar building off of these ideas that I presented to the Santa Barbara Nonprofit Resource Network.*
 
 ## Main advice for remote workshops & meetings
 

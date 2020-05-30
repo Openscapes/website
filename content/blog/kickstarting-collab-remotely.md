@@ -10,13 +10,9 @@ tags:
 banner: img/blog/NCEAS-Module1-GDocing-square.png
 ---
 
-Kick-starting scientific collaborations remotely
-By Julie Lowndes, Carrie Kappel, Julien Brun
-
-
 ***Crossposted at [NCEAS](https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely)***  
 
-*The National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.*
+*The National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely, and Openscapes was heavily involved in designing and leading the two remote learning modules. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.*
 
 ---
 

@@ -7,6 +7,8 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## PUBLICATIONS
 
+- Abigail Cabunoc Mayes, Chad Sansing, Julia S. Stewart Lowndes. [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings). *Open Source Way*, June 12, 2020
+
 - Julia S. Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, December 10, 2019
 
 
@@ -71,7 +73,7 @@ ESA talk
 --->
 
 
-- Title TBD - upcoming July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://esipfed.org)
+- Supercharging research with open data science and teamwork - upcoming July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary)
 
 - [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/e/2PACX-1vSJuPL255pvHlABXE6dvUlmo-OEkixwe4BDD8PTqGdx6VWklEreaGZdDNzDGMasv3MHvrHMXC0T0lgk/pub?start=false&loop=false&delayms=3000) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at [Open Publishing Fest](https://openpublishingfest.org/calendar.html#event-74) (45 minutes) (presented remotely) ([Zenodo](https://zenodo.org/record/3873698#.XtbQo8Z7nOQ))
 

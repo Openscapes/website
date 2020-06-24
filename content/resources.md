@@ -20,9 +20,9 @@ For example, the Ocean Health Index describes how open software and borrowing pr
 - [Data-intensive ecological research is catalyzed by open science and team science - *Cheruvelil & Soranno 2018 BioScience*](https://academic.oup.com/bioscience/article/68/10/813/5088531)
 - [Skills and knowledge for data-intensive environmental research - *Hampton et al. 2017 BioScience*](https://dx.doi.org/10.1093%2Fbiosci%2Fbix025)
 - [Creating and maintaining high‐performing collaborative research teams: the importance of diversity and interpersonal skills — *Cheruvelil et al. 2014 Frontiers in Ecology & the Environment*](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/130001)
+<!---
 - PREReview Outbreak 
 
-<!---
 Embrace existing open tools and workflows for science. There's not a single tool for all jobs, but can leverage existing workflows and streamline the amount of software (and user accounts) you need.
 
 What unites us not what makes us different
@@ -50,6 +50,8 @@ Learning to code should be fun since you are learning powerful and empowering to
 - [Start a coding club](/blog/2018/11/16/how-to-start-a-coding-club/)
 - [Build communities locally](/blog/2018/11/06/build-communities/)
 - [Starting our #tidytuesday hacky hours](https://openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/)
+
+
 
 <!---
 - [build communities on campus] link to Moz study!

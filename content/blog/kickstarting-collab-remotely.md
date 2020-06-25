@@ -12,13 +12,13 @@ banner: img/blog/NCEAS-Module1-GDocing-square.png
 
 ***Crossposted at [NCEAS](https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely)***  
 
-*The National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely, and Openscapes was heavily involved in designing and leading the two remote learning modules. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.*
-
----
-
 > “I was blown away at how effectively and productively you’ve led a virtual meeting – and I’m in a lot these days. People can be pretty passive”. 
 
 This quote from a participant really captures what we were hoping to achieve in our first remote support module, “Efficient virtual collaboration & facilitation for synthesis science.” We wanted to not only discuss strategies for efficient collaboration and engage participants hands-on, but also model the behavior we were teaching. The way we designed, led, and executed this workshop was just as important as the content. 
+
+*The National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely, and Openscapes was heavily involved in designing and leading the two remote learning modules. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.*
+
+---
 
 <br>
 <center>

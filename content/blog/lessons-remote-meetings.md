@@ -10,7 +10,7 @@ tags:
 banner: img/blog/lakesabrina_square.jpg
 ---
 
-I had the pleasure of writing a piece with Abby Cabunoc Mayes and Chad Sansing that was just published in Open Source Way called [**3 lessons from remote meetings we’re taking back to the office**](https://opensource.com/article/20/6/remote-meetings). For me, this means our scientific offices and labs.  
+I had the pleasure of writing a piece with Abby Cabunoc Mayes and Chad Sansing that was just published in Open Source Way called [**3 lessons from remote meetings we’re taking back to the office**](https://opensource.com/article/20/6/remote-meetings). For me, this includes our scientific offices and labs.  
 
 In this article we offer 3 lessons:
 

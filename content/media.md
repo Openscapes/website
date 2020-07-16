@@ -73,7 +73,7 @@ ESA talk
 --->
 
 
-- [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 14, 2020: Plenary at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary), Remote (15 mins) ([Figshare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1))
+- [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 16, 2020: Plenary at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary), Remote (15 mins) ([Figshare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1))
 
 - [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit?usp=sharing) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at [Open Publishing Fest](https://openpublishingfest.org/calendar.html#event-74) (45 minutes), Remote ([Zenodo](https://zenodo.org/record/3873698#.XtbQo8Z7nOQ))
 

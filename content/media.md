@@ -73,9 +73,9 @@ ESA talk
 --->
 
 
-- [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary)
+- [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 14, 2020: Keynote at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary) (15 mins) ([Figshare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1))
 
-- [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/e/2PACX-1vSJuPL255pvHlABXE6dvUlmo-OEkixwe4BDD8PTqGdx6VWklEreaGZdDNzDGMasv3MHvrHMXC0T0lgk/pub?start=false&loop=false&delayms=3000) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at [Open Publishing Fest](https://openpublishingfest.org/calendar.html#event-74) (45 minutes) (presented remotely) ([Zenodo](https://zenodo.org/record/3873698#.XtbQo8Z7nOQ))
+- [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit?usp=sharing) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at [Open Publishing Fest](https://openpublishingfest.org/calendar.html#event-74) (45 minutes) (presented remotely) ([Zenodo](https://zenodo.org/record/3873698#.XtbQo8Z7nOQ))
 
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/idiv#1) - April 21, 2020: [German Centre for Integrative Biodiversity Research (iDiv)](https://www.idiv.de/en/ydiv/courses-and-training/compphylo-1-1.html), Leipzig, Germany (45 minutes) (presented remotely)
 

@@ -71,3 +71,14 @@ If you experience or witness unacceptable behavior, or have any other concerns, 
 The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area. Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Open Post Academics](https://openpostac.org/), and [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Please also see the value and ethics statements from [Ben Marwick's lab](http://faculty.washington.edu/bmarwick/values_and_ethics/) as well as other inspiring examples from [EpiEllie's twitter thread](https://twitter.com/EpiEllie/status/1268729159762747394)
 
 <br>
+
+
+<!---responding to violations, recommended by Stef:
+
+https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415
+https://www.youtube.com/watch?v=nizfHxg8y3o&feature=youtu.be
+https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Responding_to_reports
+
+--->
+
+

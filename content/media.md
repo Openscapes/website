@@ -7,12 +7,12 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## PUBLICATIONS
 
-- Abigail Cabunoc Mayes, Chad Sansing, Julia S. Stewart Lowndes. [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings). *Open Source Way*, June 12, 2020
+- Abigail Cabunoc Mayes, Chad Sansing, Julia S. Stewart Lowndes. [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings). *Open Source Way*, 2020
 
-- Julia S. Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, December 10, 2019
+- Julia S. Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, 2019
 
 
-- Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* Career Column, October 31, 2019
+- Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* Career Column, 2019
 
 
 <!---

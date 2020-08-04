@@ -79,12 +79,12 @@ The main cornerstone of Openscapes is the Champions Program, which provides ment
 <br>
 
 <center>
-  <a><img src="/img/blog/esip_plenary_championsslide.png" width="500px"></a>
+  <a><img src="/img/blog/esip_plenary_championsslide.png" width="600px"></a>
 </center>
 
 <br>
 
-A few major outcomes from the inaugural cohort in 2019 were the creation of inclusive learning communities for coding collaboratively and Lab GitHub organizations for their labs that include co-created documentation about lab philosophies and codes of conduct. Additionally, teams established practices to collaborate remotely, which is a skill in itself — important important for modern science under normal conditions but particularly now as they are forced to work remotely due to COVID. 
+A few major outcomes from the inaugural cohort in 2019 were the creation of inclusive learning communities for coding collaboratively and lab GitHub organizations that include co-created documentation about lab philosophies and codes of conduct. Additionally, teams established practices to collaborate remotely, which is a skill in itself — important for modern science under normal conditions but particularly now as they are forced to work remotely due to COVID. 
 
 We also shared tips that are more generalizable in a publication co-authored by the first Openscapes Champions ([Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4)). 
 
@@ -98,7 +98,7 @@ We also shared tips that are more generalizable in a publication co-authored by 
 
 <br>
 
-Moving forward, Openscapes is looking to build more partnerships with existing science communities to remotely mentor teams in open data science, and we were energized with all the connections we made at ESIP, and excited for what is to come!
+Moving forward, Openscapes is looking to build more partnerships with existing science communities to remotely mentor teams in open data science, with a explicit focus on trust, openness, and inclusion. We were energized with all the connections we made at ESIP, and excited for what is to come!
 
 <br>
 

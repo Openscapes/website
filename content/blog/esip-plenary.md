@@ -12,7 +12,7 @@ tags:
 banner: img/blog/horst_loop_square.png
 ---
 
-*In July 2020 I gave a plenary at the [Earth Systems Information Partners (ESIP)](esipfed.org/)'s [Summer Meeting](https://2020esipsummermeeting.sched.com/). ESIP is partnership of over 110 organizations supporting earth science data including NASA, USGS, and NOAA, and was created by NASA in 1998. This was an honor to present about Openscapes with this group and learn from this community about what they build to support data and communities. And it was a really wonderful remote conference experience due to the circumstances. This post is some highlights about this 15-minute talk that shares more mature ideas that I first voiced last year in my [useR!2019 keynote](https://www.openscapes.org/blog/2019/08/22/user-keynote/). This talk at ESIP was also a chance to reflect and share about where Openscapes is going, nearly two years since my Mozilla Fellowship started that kick-started it all.*
+*In July 2020 I gave a plenary at the [Earth Systems Information Partners (ESIP)](esipfed.org/)'s [Summer Meeting](https://2020esipsummermeeting.sched.com/). ESIP is partnership of over 110 organizations supporting earth science data including NASA, USGS, and NOAA, and was created by NASA in 1998. This was an honor to present about Openscapes with this group and learn from this community about their work building and supporting data-driven communities. It was a really engaging remote conference experience. This post is some highlights about this 15-minute talk that shares more mature ideas that I first voiced last year in my [useR!2019 keynote](https://www.openscapes.org/blog/2019/08/22/user-keynote/). This plenary was also a chance to reflect and share about where Openscapes is going, nearly two years since my Mozilla Fellowship started that kick-started it all.*
 
 *Quick links:* 
 
@@ -53,13 +53,16 @@ This is how I visualize open data science, working with the amazing Allison Hors
 
 <br>
 
+<!---
 To me open data science is the Force from Star Wars (see slides/video above or my [useR! keynote blog](https://www.openscapes.org/blog/2019/08/22/user-keynote/) for details), and its power is manifested not only through the tooling, but through the people that build, use, and support them. 
+--->
+
 
 I think open data science exists as a beautiful feedback loop, where using similar tooling promotes and streamlines teamwork. And also working as a team better equips you to learn new tools and practices. And with this shared mindset, the idea of team becomes ever-broadening and networked and also your abilities to interoperate and adapt to an evolving softwarescape also broadens. 
 
-Our Ocean Health Index team was able to engage in open data science over 4 years by incrementally introducing tooling like open source coding into our workflow and established team norms ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160)). But we had entryways to engage in this powerful feedback loop: The things that benefited us the most was leadership and trust — this enabled one of our team members [Ben Best](https://ecoquants.com/about/) to Champion open data science within our team, and for us all to agree it was worth the investment.  
+Our Ocean Health Index team was able to engage in open data science over four years by incrementally introducing tooling like open source coding into our workflow and established team norms ([Lowndes et al. 2017](https://www.nature.com/articles/s41559-017-0160)). We had entryways to engage in this powerful feedback loop: The things that benefited us the most was leadership and trust — this enabled one of our team members to Champion open data science within our team, and for us all to agree it was worth the investment and learn and develop team workflows together.  
 
-So I created Openscapes as an entryway to teams, so we can create more Champions within teams and communities and get to data-driven solutions faster. And from what I've learned from open communities like rOpenSci, RStudio, and Mozilla, this starts with the Power of Welcome. 
+I created Openscapes as an entryway for other teams, so we can create more Champions within teams and communities and uncover data-driven solutions faster. And from what I've learned from open communities like rOpenSci, RStudio, and Mozilla, this starts with the Power of Welcome. 
 
 <br>
 
@@ -72,11 +75,10 @@ So I created Openscapes as an entryway to teams, so we can create more Champions
 
 The main cornerstone of Openscapes is the Champions Program, which provides mentorship for science teams. It’s designed to empower lasting habits and mindsets for resilient culture change, and to complement other efforts that are building tools and training individuals and that taught and empowered me how to be a Champion for open data science. 
 
-br>
+<br>
 
 <center>
   <a><img src="/img/blog/esip_plenary_championsslide.png" width="500px"></a>
-  <figcaption>I define open data science as the tooling and people enabling reproducible, transparent, and inclusive practices for data analysis. Art by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 
 <br>
@@ -86,7 +88,7 @@ A few major outcomes from the inaugural cohort in 2019 were the creation of incl
 We also shared tips that are more generalizable in a publication co-authored by the first Openscapes Champions ([Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4)). 
 
 
-br>
+<br>
 
 <center>
   <a><img src="/img/blog/esip_plenary_superchargeslide.png" width="500px"></a>

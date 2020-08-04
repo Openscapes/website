@@ -37,7 +37,7 @@ banner: img/blog/horst_loop_square.png
 
 <br>
 
-My plenary talk was called "Entryways to open data science and the power of welcome". I started off by defining "open data science" as the tooling and people enabling reproducible, transparent, and inclusive practices for data analysis. 
+My plenary talk was called "Entryways to open data science and the power of welcome", and the ESIP Conference theme was "Putting Data to Work: Building Public-Private Partnerships to Increase Resilience & Enhance the Socioeconomic Value". I started off by defining "open data science" as the tooling and people enabling reproducible, transparent, and inclusive practices for data analysis. 
 
 The problem I'm trying to solve with Openscapes is that despite the power of open data science, many scientists struggle with data and code, as individuals. This is because we are rarely trained to work responsibly with data, and we’re also not trained to collaborate or work like a team. So this creates a culture where we don’t feel confident sharing our data analysis or being open about our challenges, and this is true even inside the research group. And this situation creates invisible friction when forming data-driven partnerships because people aren’t on the same page with what is possible and how they can participate. 
 

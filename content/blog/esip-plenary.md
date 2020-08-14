@@ -16,7 +16,7 @@ banner: img/blog/horst_loop_square.png
 
 *Quick links:* 
 
-- *[plenary video](https://www.youtube.com/watch?v=HAh7Xy9ReJo&feature=youtu.be) (starts at 27:30)*
+- *[plenary video](https://youtu.be/HAh7Xy9ReJo?t=1734) (starts at 28:55)*
 - *[plenary slides](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) (see presenter notes since on-slide text is sparse)*
 - *[slides on FigShare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1)*
 - *[artwork by Allison Horst](https://github.com/allisonhorst/stats-illustrations/tree/master/openscapes#dr-julia-lowndes-keynote-illustrations) (available for download and reuse)*

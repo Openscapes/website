@@ -81,6 +81,8 @@ ESA talk
 
 - [Supercharging research with open data science and teamwork](https://docs.google.com/presentation/d/16XtypOVGzuc50gYYsuUIhEkJubPdQztOYHmx9ObEiXg/edit?usp=sharing) - March 11, 2020: Keynote at [Open Science Conference](https://www.open-science-conference.eu/), Berlin, Germany (20 minutes) (presented remotely)
 
+<!--- https://twitter.com/gabioshka/status/1237683744783376384 --->
+
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/smast#1) - February 25, 2020: UMass Dartmouth's School for Marine Science & Technology (SMAST), New Bedford, Massachusetts (45 minutes)
 
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/sccwrp#1) - February 7, 2020: Southern California Coastal Water Research Project (SCCWRP), Costa Mesa, California (45 minutes) ([video](https://vimeo.com/390086585)) 

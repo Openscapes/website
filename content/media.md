@@ -40,6 +40,10 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## MEDIA
 
+- [Using Git to Drive Better Science with Dr. Julie Lowndes](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes) — Kate Wing. September 17, 2020. *Intertidal Podcast*.
+
+<!---https://twitter.com/juliesquid/status/1306658212213448709--->
+
 - [Tech tools to make research more open and inclusive](https://www.nature.com/articles/d41586-020-00216-z) — Kendall Powell. February 3, 2020. *Nature*.
 
 - [The coupling of innovation and open data science tools for science has been fascinating to me and hard to tease apart: An interview with Dr Julia Stewart Lowndes](https://www.statisticsviews.com/details/feature/11216365/The-coupling-of-innovation-and-open-data-science-tools-for-science-has-been-fasc.html) — Alison Oliver. January 29, 2020. *Statistics Views*.

@@ -67,7 +67,12 @@ Where does our lab store data:
 - where are they going to live permanently, 
 - how are the steps from raw to final documented? <!--- (Think of Wilson et al table) --->
 
+
+
 <!---
+
+https://bookdown.org/thea_knowles/dissertating_rmd_presentation/
+
 
 longer
 - [Friendly GitHub Intro](joeyklee.github.io/friendly-github-intro/), Mozilla (workshop w/ slide decks, 1/2 day)

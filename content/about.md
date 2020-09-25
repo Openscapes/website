@@ -4,7 +4,7 @@ description = "About"
 keywords = ["NCEAS","Mozilla","better science in less time"]
 +++
 
-**Openscapes is a framework for doing better science in less time.** We offer mentorship and community engagement centered around open data science, helping teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by [Mozilla](/about#MOZILLA).
+**Openscapes is an approach for doing better science in less time.** We offer mentorship and community engagement centered around open data science, helping teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by [Mozilla](/about#MOZILLA).
 
 <center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
 

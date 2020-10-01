@@ -1,5 +1,6 @@
-# website
+# Amazing Website
 Code for openscapes.org 
+At Openscapes, we champion open practices in environmental science to help uncover data-driven solutions faster
 
 
 # Notes to self:

@@ -99,7 +99,7 @@ div.section {
 .heading h4,
 .heading h5 {
   display: inline-block;
-  border-bottom: solid 5px #38a7bb;
+  border-bottom: solid 5px #38a6bb;
   line-height: 1.1;
   margin-bottom: 0;
   padding-bottom: 10px;
@@ -113,7 +113,7 @@ div.section {
 .heading h4 i.fa,
 .heading h5 i.fa {
   display: inline-block;
-  background: #38a7bb;
+  background: #38a6bb;
   width: 30px;
   height: 30px;
   vertical-align: middle;
@@ -132,7 +132,7 @@ div.section {
   line-height: 80px;
   border-radius: 40px;
   border: solid 1px #fff;
-  font-size: 30px;
+  font-size: 32px;
 }
 .icon.icon-lg {
   font-size: 30px;

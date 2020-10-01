@@ -4,9 +4,10 @@ th,
 td
  {
     border: 1px solid black;
-    padding: 3px;
+    padding: 4px;
 }
 th {
     font-weight: bold;
     text-align: center;
+    justify-content: center;
 }

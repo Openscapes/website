@@ -49,6 +49,10 @@
   transform: translate3d(0, 0, 0);
 }
 /* general styles */
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+body{
+  font-family: 'Peddana', serif;
+}
 a,
 button {
   -webkit-transition: all 0.2s ease-out;

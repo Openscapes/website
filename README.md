@@ -2,7 +2,7 @@
 Code for openscapes.org 
 
 
-# Notes to self:
+# Notes to Self:
 
 ```
 ## setup

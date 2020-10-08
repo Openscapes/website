@@ -9,7 +9,7 @@ categories:
 banner: img/blog/mrlowndes-20141209-DSC_2356-square.jpg
 ---
 
-***Cross-posted: [Mozilla](https://foundation.mozilla.org/en/blog/advising-the-future-of-Openscapes/)***
+***Cross-posted: [Mozilla](https://foundation.mozilla.org/en/blog/advising-the-future-of-Openscapes/), [NCEAS](https://www.nceas.ucsb.edu/news/advising-future-openscapes)***
 
 *In August Openscapes held an advisory meeting, made possible with support from Mozilla. This event remotely convened a wide spectrum of biomedical open data science leaders to discuss how Openscapes could meet biomedical community needs. Openscapes’ roots are in environmental science but there has been increasing interest in becoming involved from the biomedical communities as well. This event started the conversation on topics we should consider to serve and strengthen biomedical and other communities more broadly. We have learned a tremendous amount from Mozilla Open Leaders and followed their best practices, including a stated code of conduct and multiple channels for participation, to create an inclusive space where everyone felt empowered to learn, share and ask questions.* 
 

@@ -74,8 +74,11 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <!---
 ESA talk 
+Erin plenary
 --->
 
+
+- R and teamwork for better science in less time - November 19, 2020: NOAA Northwest Fisheries Science Center, Seattle, Washington (45 minutes) (presented remotely)
 
 - [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 16, 2020: Plenary at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary), Remote (15 mins) ([Figshare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1)) ([video, starts ~ 2:55](https://youtu.be/HAh7Xy9ReJo?t=1734))
 

@@ -1,7 +1,7 @@
 ---
 title: "Tidy data for efficiency, reproducibility, and collaboration"
 author: Julie Lowndes and Allison Horst
-date: '2020-10-12'
+date: '2020-10-12' 
 slug: tidy-data
 categories:
   - community

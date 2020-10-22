@@ -73,16 +73,16 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 ## PRESENTATIONS
 
 <!---
-ESA talk 
 Erin plenary
 --->
 
-
 - R and teamwork for better science in less time - November 19, 2020: NOAA Northwest Fisheries Science Center, Seattle, Washington (45 minutes) (presented remotely)
 
-- How to empower researchers with open science - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science
+- How to empower researchers with open science through meeting analytical needs and supporting people - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science
 
 - Operationalizing better science in less time. - October 29, 2020. Integrating Open Science Tools into National Estuaries Programs Workflows Workshop
+
+- [How open data science enables better science in less time](https://docs.google.com/presentation/d/1nM_q9j3zDsB4xPmbQhK7oc4hwUx2tUL19Qqg3-L5Rzg/edit?usp=sharing) - August 8, 2020. Ecological Society of America annual conference (20 mins)
 
 - [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 16, 2020: Plenary at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary), Remote (15 mins) ([Figshare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1)) ([video, starts ~ 2:55](https://youtu.be/HAh7Xy9ReJo?t=1734))
 

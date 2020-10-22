@@ -80,6 +80,10 @@ Erin plenary
 
 - R and teamwork for better science in less time - November 19, 2020: NOAA Northwest Fisheries Science Center, Seattle, Washington (45 minutes) (presented remotely)
 
+- How to empower researchers with open science - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science
+
+- Operationalizing better science in less time. - October 29, 2020. Integrating Open Science Tools into National Estuaries Programs Workflows Workshop
+
 - [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) - July 16, 2020: Plenary at [Earth Science Information Partners Conference](https://2020esipsummermeeting.sched.com/event/cItS/plenary), Remote (15 mins) ([Figshare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1)) ([video, starts ~ 2:55](https://youtu.be/HAh7Xy9ReJo?t=1734))
 
 - [Data science as an entryway to open publishing](https://docs.google.com/presentation/d/1Jv0akRHEnjG_4t_9P7t93682BCBJskYnRu_7EnaeDQI/edit?usp=sharing) - May 27, 2020: Fireside Chat co-presented with Dr. Nick Tierney at [Open Publishing Fest](https://openpublishingfest.org/calendar.html#event-74) (45 minutes), Remote ([Zenodo](https://zenodo.org/record/3873698#.XtbQo8Z7nOQ))
@@ -96,7 +100,7 @@ Erin plenary
 
 - [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR#1) - November 23, 2019: [Southern California R Users All Hands Meetup](https://twitter.com/la_Rusers/status/1187407820213379074), Los Angeles, California (45 minutes)
 
-- [R for better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/1LA4EcnRxD11rjwbRh0hrjPG5J0dmiiuCbNaoQrz0XHU/edit?usp=sharing) - November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes)
+- [R for better science in less time: Lessons from the Ocean Health Index and Openscapes](https://docs.google.com/presentation/d/1LA4EcnRxD11rjwbRh0hrjPG5J0dmiiuCbNaoQrz0XHU/edit?usp=sharing) - November 21, 2019: [School of Aquatic and Fisheries Sciences, University of Washington](https://fish.uw.edu/news-events/events/), Seattle, Washington (45 minutes) ([video](https://www.youtube.com/watch?v=AML7V7P4s4A))
 
 - [R and friends for better science in less time in big (and small) team collaborations](https://openscapes.github.io/slides/betterscience/escience#1) - November 19, 2019: [eScience Institute](https://escience.washington.edu/data-science-seminar-11/), Seattle, Washington (45 minutes) ([video](https://www.youtube.com/watch?v=HjTLTiAWk1g&feature=youtu.be))
 <!---

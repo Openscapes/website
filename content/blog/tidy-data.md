@@ -15,6 +15,12 @@ banner: img/blog/tidydata/tidydata_7-square.png
 
 ---
 
+<!---
+https://threadreaderapp.com/thread/1315710359404113920.html
+https://twitter.com/JennyBryan/status/1315716996063846400
+--->
+
+
 When we talk about organizing data to help us work in an efficient, reproducible, and collaborative way, we are talking about TIDY DATA. We mean deliberately thinking about the shape and structure of data – something that might not seem super exciting but is truly game-changing. 
 
 So let’s talk about what tidy data is and why it is so empowering for your analytical life. 

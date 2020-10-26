@@ -91,7 +91,7 @@ Wickham, H (2014). _Tidy Data_. Journal of Statistical Software 58 (10). [jstats
 
 "Informal and code-heavy version" of the full paper above: [tidyr.tidyverse.org/articles/tidy-data](https://tidyr.tidyverse.org/articles/tidy-data.html)
 
-Broman, KW and KH Woo (2018). _Data Organization in Spreadsheets_. The American Statistician 72 (1). [doi.org/10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
+Broman, KW and KH Woo (2018). _Data Organization in Spreadsheets_. [The American Statistician 72 (1)](https://doi.org/10.1080/00031305.2017.1375989). Available open access as a [PeerJ preprint](https://peerj.com/preprints/3183/).
 
 Grolemund, G & Wickham, H (2016). R for Data Science: Ch 12 (Tidy Data)
 <https://r4ds.had.co.nz>

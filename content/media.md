@@ -80,7 +80,7 @@ Erin plenary
 
 - How to empower researchers with open science through meeting analytical needs and supporting people - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science
 
-- Operationalizing better science in less time. - October 29, 2020. Integrating Open Science Tools into National Estuaries Programs Workflows Workshop
+- [Operationalizing better science in less time](https://docs.google.com/presentation/d/1OHe4C2B9cGnT9niSguXwsWiK0M2sDsdeNjTOLWAgBX4/edit?usp=sharing). - October 29, 2020. Integrating Open Science Tools into National Estuaries Programs Workflows Workshop
 
 - [How open data science enables better science in less time](https://docs.google.com/presentation/d/1nM_q9j3zDsB4xPmbQhK7oc4hwUx2tUL19Qqg3-L5Rzg/edit?usp=sharing) - August 8, 2020. Ecological Society of America annual conference (20 mins)
 

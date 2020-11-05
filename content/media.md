@@ -78,7 +78,9 @@ Erin plenary
 
 - R and teamwork for better science in less time - November 19, 2020: NOAA Northwest Fisheries Science Center, Seattle, Washington (45 minutes) (presented remotely)
 
-- How to empower researchers with open science through meeting analytical needs and supporting people - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science
+- [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing) - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science ([published slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8GlWfKNeW8SvAaqae8Uwg9TNKLO3SvdHZQulg75KnavcbA-R78JXtY3ogcEMNJzdxFxCptcSIVfS/pub?start=false&loop=false&delayms=3000))
+
+<!---https://twitter.com/juliesquid/status/1319330391480692736--->
 
 - [Operationalizing better science in less time](https://docs.google.com/presentation/d/1OHe4C2B9cGnT9niSguXwsWiK0M2sDsdeNjTOLWAgBX4/edit?usp=sharing). - October 29, 2020. Integrating Open Science Tools into National Estuaries Programs Workflows Workshop
 

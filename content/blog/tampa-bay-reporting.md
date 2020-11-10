@@ -1,0 +1,118 @@
+---
+title: "Automated reporting in Tampa Bay with open science"
+author: Marcus Beck
+date: '2020-11-09' 
+slug: tampa-bay-reporting
+categories:
+  - community
+tags:
+  - coding
+  - how-to
+banner: img/blog/tampa-bay-seagrass.png
+---
+
+*This is a guest blog by [Marcus Beck](mailto:mbeck@tbep.org) that describes how the Tampa Bay Estuary Program (TBEP) is embracing open science principles and tools to create better science in less time.  Marcus, along with TBEP Executive Director Ed Sherwood, both attended the NCEAS Open Science for Synthesis workshop in July 2017 at Santa Barbara.  Marcus, Ed, and the rest of the TBEP team are working to bring open science to improve the management of Tampa Bay and extend their applications to the broader network of the 28 National Estuary Programs.  This blog describes one application of automating a routine reporting document that builds on the data and tools developed throughout the 30 year history of TBEP.*
+
+---
+
+Those of us working in coastal environments are likely familiar with the success story of Tampa Bay.  Like many surface waters in the US prior to the Clean Water Act, Tampa Bay was impacted by organic pollution from untreated wastewater and surface runoff.  Through a coordinated regional effort of environmental professionals, utilities operators, and local politicians, nutrient loads to the Bay have been reduced nearly tenfold and seagrasses have recovered to a 1950s benchmark.  
+
+The Tampa Bay Estuary Program ([TBEP](https://tbep.org/estuary/state-of-the-bay/)) has been a key facilitator among the many local partners that have an interest in the region's natural resources.  TBEP is one of 28 estuaries in the EPA's National Estuary Program that focuses on "estuaries of national significance" to provide place-based solutions to managing these complex systems. This includes establishing benchmarks for restoration goals and tracking the status and trends of key indicators of environmental health. 
+
+TBEP uses a [water quality report card](https://drive.google.com/file/d/1Z_P3zahMFXSMyC7rW49MsjWP-jP_OqJF/view?usp=drivesdk) that summarizes annual progress in achieving programmatic goals for Tampa Bay.  This product communicates to program partners what needs to be done to ensure water quality targets are met to support seagrass growth.  However, a new report is needed each year that requires considerable effort to manually compile the data, synthesize the results, and produce the final document.
+
+<br>
+<center>
+  <a href="https://drive.google.com/file/d/1Z_P3zahMFXSMyC7rW49MsjWP-jP_OqJF/view?usp=drivesdk"><img src="/img/blog/tampa-bay-report-card.png" width="350px"></a>
+  <figcaption>The Tampa Bay water quality report card</figcaption>
+</center>
+<br>
+
+This blog describes an open science approach developed by TBEP to automate creation of the annual water quality report.  The methods leverage many open source tools that are freely available and easily modified for customizable report generation.  A broad overview of the approach is provided to encourage others to consider how these open science workflows can lead to better, kinder science in less time. 
+
+### Why do we need an open science workflow? 
+
+Report cards are important communication tools for many resource management agencies.  For years, the TBEP report was compiled by hand, by one staff member using external data from our partners.  This process has issues: 
+
+1) Wasting time each year creating the report card by hand
+1) Increased risk of introducing errors into the results by manual analysis
+1) Closed methods limiting reproducibility and sharing with others
+
+These issues can lead to increased costs, lack of trust by decision-makers, and inhibition of collaboration, all of which are bothersome for publicly-funded agencies. This closed workflow is shown below:
+
+<br>
+<center>
+  <img src="/img/blog/tampa-bay-closed.png" width="450px"></a>
+  <figcaption>A closed workflow for creating reports</figcaption>
+</center>
+<br>
+
+Although the final pdf is a great tool to communicate management needs (and the proprietary tools have their benefits), the report generation process needed to be improved. 
+
+### Developing an open science workflow
+
+To address inefficiencies of a closed workflow, TBEP has been adopting open science workflows to create reporting products that are transparent, efficient, and reproducible.  The figure below shows an expanded workflow using open science tools. 
+
+<br>
+<center>
+  <img src="/img/blog/tampa-bay-os-workflow.png" width="625px"></a>
+  <figcaption>An open workflow for creating reports</figcaption>
+</center>
+<br>
+
+There are several additional tools that make this workflow an improvement over the closed version.  
+
+1) Use of an open-source toolkit that taps into the broader [RStats](https://twitter.com/allison_horst/status/1102447015248637953) community 
+1) Code hosting on [GitHub](https://github.com/tbep-tech)
+1) Data synthesis and plot generation using the [tbeptools](https://tbep-tech.github.io/tbeptools/) R package
+1) Continuous integration (CI) using [Travis](https://travis-ci.org/github/tbep-tech/wq-static) to automate daily checks
+1) Additional reporting tools, including [R Shiny dashboards](https://shiny.tbep.org/wq-dash/)
+
+This new open science workflow is similar to the closed version from end to end (i.e., data from partners are used, reports are generated), but several key steps improve how the report is generated to increase efficiencies and expose the underlying methods for reproducibility.  Using open-source tools from the RStats community allows us to benefit from the collective knowledge of this dynamic and incredibly welcoming group.  Hosting code on GitHub makes the methods discoverable and accessible by others, including our tbeptools R package that includes all methods to read, analyze, and plot data from our external partners.  Integration with Travis provides a safety check that our code is running as intended AND allows for daily builds to make sure the most current report is up to date.  Finally, we use Shiny to create interactive dashboards that allow our partners to engage with the data in a more immersive environment for decision-making. 
+
+### Automating the process
+
+Developing the open workflow got us most of the way to achieving [open science bliss](https://tbep-tech.github.io/tbep-os-presentations/challenges_for_os.html#6).  An important part of this workflow was including automated builds using the Travis CI service.  In the RStats community, Travis is commonly used to check R package builds as a safety net to make sure CRAN guidelines are followed and the package can be installed without any issues.  This continuous service is automatic and saves the developer from having to run these checks each time the package is updated.  You've probably seen those [nifty badges](https://juliasilge.com/blog/beginners-guide-to-travis/) on GitHub that indicate if Travis builds were successful or not. 
+
+However, Travis can be used for much, much more, including custom builds for websites and highly specific testing services depending on the needs of the developer.  We developed our own custom workflow to make use of these services to automatically build the water quality report card. The external data are regularly updated [online](ftp://ftp.epchc.org/EPC_ERM_FTP/WQM_Reports/) by our friends at [Hillsborough County EPC](https://www.epchc.org/) as part of the Bay's long-term monitoring program.  We wanted to use Travis to build the report card as data are updated, without having to manually create it each time. 
+
+### How's it's done
+
+All of the pieces that we use to automate creation of the report card live on a GitHub repository [here](https://github.com/tbep-tech/wq-static).  A simple [build script](https://github.com/tbep-tech/wq-static/blob/master/build.R) is run daily by Travis to create the final PDF.  Within the build script, two .Rnw documents include LaTeX and R code to generate the [front](https://github.com/tbep-tech/wq-static/blob/master/wq1.Rnw) and [back](https://github.com/tbep-tech/wq-static/blob/master/wq2.Rnw) of the report card.  The R code uses functions from the [tbeptools](https://tbep-tech.github.io/tbeptools/) R package to import the most current data, summarize the observations, and generate the plots used in the report card.  These .Rnw files are then converted to PDF using the [tinytex](https://yihui.org/tinytex/) package.  
+
+Each day, Travis runs the build script to generate a new PDF.  If the build is successful (green badge), it pushes the changes to GitHub so that the new PDF can be hosted on the [TBEP website](https://tbep.org/water-quality-report-card/).  Any time the build is not successful (red badge), we get an email from Travis telling us something is wrong that we need to fix. This way, we only need to pay attention unless something breaks, allowing us to spend time on other things. 
+
+An expanded version of the open science workflow from above shows how the Travis process works: 
+
+<br>
+<center>
+  <img src="/img/blog/tampa-bay-travis-workflow.png" width="675px"></a>
+  <figcaption>Automated creation of the report card using Travis CI</figcaption>
+</center>
+<br>
+
+The [Travis YAML file](https://github.com/tbep-tech/wq-static/blob/master/.travis.yml) in our repository contains the necessary instructions of what to do each day to create the report.  There's a lot to say about modifying the YAML file, but briefly, we use it to specify the package dependencies, how the build is executed, and how it communicates with GitHub to push the changes back when the build is successful.
+
+It's also worth mentioning that we chose to use Sweave .Rnw files instead of RMarkdown because we needed absolute control over the style and placement of content in the PDF.  RMarkdown is great as a simple-to-use tool for generating dynamic documents, but markdown syntax is purposefully designed for simplicity and does not allow the level of precision we needed for the elements in our report card.  
+
+## Final thoughts
+
+This workflow was developed as a proof of concept to see if it was reasonable for automating our routine reporting products.  We're in the process of testing and refining this workflow on other products ([references library](https://github.com/tbep-tech/tbep-refs), [field data plotting](https://github.com/tbep-tech/desoto-buoy)).  Although there is substantial overhead in creating the process, we now have a quicker and reproducible approach to delivering decision-support tools that affect the health of Tampa Bay.  We are all time-limited and this workflow reduces the tedium of manually creating these reports each time they are needed. 
+
+This workflow is also dependent on the strong technical foundation for evaluating water quality in Tampa Bay and the invaluable work by our partners in collecting/curating the underlying data.  This work would not have been possible without the past research that has made TBEP successful as an organization.  Having a direct online connection to the raw data is also a necessary component - there's much more work to be done to ensure this information and all of our partner data are Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.nature.com/articles/sdata201618)).
+
+Finally, these tools and concepts are generalizable to other locations with similar needs.  Open science methods emphasize reproducibility and technology transfer as important benefits that come with investments in developing these tools. The collective group of 28 estuary programs in the US need these tools so that they can efficiently report on routine indicators.  This will facilitate shared learning and experiences by using a common and standardized set of reporting products created with open science.      
+
+-----
+
+### Learn more: 
+
+* R introduction to using Travis: [link](https://juliasilge.com/blog/beginners-guide-to-travis/) 
+* Setting up Travis CRON jobs: [link](https://docs.travis-ci.com/user/cron-jobs/)
+* Getting Travis to talk to GitHub: [link](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) 
+* tbeptools R package: [link](https://tbep-tech.github.io/tbeptools/)
+* TBEP GitHub group web page: [link](https://github.com/tbep-tech)
+* TBEP data visualization page: [link](https://tbep.org/our-work/data-vizualization/)
+* [#TampaBayOpenSci](https://twitter.com/hashtag/TampaBayOpenSci)
+
+<br>

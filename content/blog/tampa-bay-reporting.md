@@ -63,7 +63,7 @@ To address inefficiencies of a closed workflow, TBEP has been adopting open scie
 There are several additional tools that make this workflow an improvement over the closed version, such as:  
 
 1) Use of an open-source toolkit that taps into the broader [RStats](https://twitter.com/allison_horst/status/1102447015248637953) community; 
-1) Code hosting, sharing and community development on [GitHub](https://github.com/tbep-tech);
+1) Code hosting, sharing, and community development on [GitHub](https://github.com/tbep-tech);
 1) Data synthesis and plot generation using the [tbeptools](https://tbep-tech.github.io/tbeptools/) R package;
 1) Continuous integration (CI) using [Travis](https://travis-ci.org/github/tbep-tech/wq-static) to automate daily checks; and,
 1) Expansion of reporting tools and science communication, including [R Shiny dashboards](https://shiny.tbep.org/wq-dash/).
@@ -93,16 +93,15 @@ An expanded version of the open science workflow from above shows how the Travis
 
 The [Travis YAML file](https://github.com/tbep-tech/wq-static/blob/master/.travis.yml) in our repository contains the necessary instructions of what to do each day to create the report.  There's a lot to say about modifying the YAML file, but briefly, we use it to specify the package dependencies, how the build is executed, and how it communicates with GitHub to push the changes back when the build is successful.
 
-It's also worth mentioning that we chose to use Sweave .Rnw files instead of RMarkdown because we needed absolute control over the style and placement of content in the PDF.  RMarkdown is great as a simple-to-use tool for generating dynamic documents, but markdown syntax is purposefully designed for simplicity and does not allow the level of precision we needed for the elements in our report card. Especially as it relates to the style of the "old" report card that our partners have grown used to receiving. 
+It's also worth mentioning that we chose to use Sweave .Rnw files instead of RMarkdown because we needed absolute control over the style and placement of content in the PDF.  RMarkdown is great as a simple-to-use tool for generating dynamic documents, but Markdown syntax is purposefully designed for simplicity and does not allow the level of precision we needed for the elements in our report card. This was especially important as it relates to the style of the "old" report card that our partners are used to receiving. 
 
 ## Final thoughts
 
 This workflow was developed as a proof of concept to see if it was reasonable for automating our routine reporting products.  We're in the process of testing and refining this workflow on other products ([references library](https://github.com/tbep-tech/tbep-refs), [field data plotting](https://github.com/tbep-tech/desoto-buoy)).  Although there is substantial overhead in creating the process, we now have a quicker and reproducible approach to delivering decision-support tools that affect the health of Tampa Bay.  We are all time-limited, and this workflow reduces the tedium of manually creating these reports each time they are needed. 
 
-This workflow is also dependent on the strong technical foundation for evaluating water quality in Tampa Bay and the invaluable work by our partners in collecting/curating the underlying data.  This work would not have been possible without the past research, partner initiatives, and community of colaboration that have been the foundation of TBEP and the region's success in improving the estuary.  Having a direct online connection to the raw data is also a necessary component - and on this front, there's much more work to be done to ensure this information and all of our partner data are Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.nature.com/articles/sdata201618)).
+This workflow is also dependent on the strong technical foundation for evaluating water quality in Tampa Bay and the invaluable work by our partners in collecting/curating the underlying data.  This work would not have been possible without the past research, partner initiatives, and community of collaboration that have been the foundation of TBEP and the region's success in improving the estuary.  Having a direct online connection to the raw data is also a necessary component - and on this front, there's much more work to be done to ensure this information and all of our partner data are Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.nature.com/articles/sdata201618)).
 
 Finally, these tools and concepts are generalizable to other locations with similar needs.  Open science methods emphasize reproducibility and technology transfer as important benefits that come with investments in developing these tools. The [28 estuary program collective in the US](https://nationalestuaries.org) are beginning to embrace these tools so that they can efficiently report on routine estuarine indicators on a broad national scale.  This will facilitate shared learning and experiences by using a common and standardized set of reporting products created with open science principles at the core.      
-
 -----
 
 ### Learn more: 

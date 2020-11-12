@@ -1,14 +1,14 @@
 ---
 title: "Automated reporting in Tampa Bay with open science"
 author: Marcus Beck
-date: '2020-11-09' 
+date: '2020-11-16' 
 slug: tampa-bay-reporting
 categories:
   - community
 tags:
   - coding
   - how-to
-banner: img/blog/tampa-bay-seagrass.png
+banner: img/blog/tampa-bay-seagrass.jpg
 ---
 
 *This is a guest blog by [Marcus Beck](mailto:mbeck@tbep.org) that describes how the Tampa Bay Estuary Program (TBEP) is embracing open science principles and tools to create better science in less time.  Marcus, along with TBEP Executive Director Ed Sherwood, both attended the NCEAS Open Science for Synthesis workshop in July 2017 at Santa Barbara.  Marcus, Ed, and the rest of the TBEP team are working to bring open science to improve the management of Tampa Bay and extend their applications to the broader network of the 28 National Estuary Programs.  This blog describes one application of automating a routine reporting document that builds on the data and tools developed throughout the 30 year history of TBEP.*
@@ -34,9 +34,9 @@ This blog describes an open science approach developed by TBEP to automate creat
 
 Report cards are important communication tools for many resource management agencies.  For years, the TBEP report was compiled by hand, by one staff member using external data from our partners.  This process has issues, for instance: 
 
-1) Wasted time each year creating the report card by hand;
-1) Increased risk of introducing errors into the results through manual analysis steps and workflows; and,
-1) Closed methods limiting reproducibility, sharing and collaboration with others.
+1. Wasted time each year creating the report card by hand;
+1. Increased risk of introducing errors into the results through manual analysis steps and workflows; and,
+1. Closed methods limiting reproducibility, sharing and collaboration with others.
 
 These issues can lead to increased costs, lack of trust by decision-makers, and inhibition of collaboration, all of which are bothersome for publicly-funded agencies. This closed workflow is shown below:
 
@@ -62,11 +62,11 @@ To address inefficiencies of a closed workflow, TBEP has been adopting open scie
 
 There are several additional tools that make this workflow an improvement over the closed version, such as:  
 
-1) Use of an open-source toolkit that taps into the broader [RStats](https://twitter.com/allison_horst/status/1102447015248637953) community; 
-1) Code hosting, sharing, and community development on [GitHub](https://github.com/tbep-tech);
-1) Data synthesis and plot generation using the [tbeptools](https://tbep-tech.github.io/tbeptools/) R package;
-1) Continuous integration (CI) using [Travis](https://travis-ci.org/github/tbep-tech/wq-static) to automate daily checks; and,
-1) Expansion of reporting tools and science communication, including [R Shiny dashboards](https://shiny.tbep.org/wq-dash/).
+1. Use of an open-source toolkit that taps into the broader [RStats](https://twitter.com/allison_horst/status/1102447015248637953) community; 
+1. Code hosting, sharing, and community development on [GitHub](https://github.com/tbep-tech);
+1. Data synthesis and plot generation using the [tbeptools](https://tbep-tech.github.io/tbeptools/) R package;
+1. Continuous integration (CI) using [Travis](https://travis-ci.org/github/tbep-tech/wq-static) to automate daily checks; and,
+1. Expansion of reporting tools and science communication, including [R Shiny dashboards](https://shiny.tbep.org/wq-dash/).
 
 This new open science workflow is similar to the closed version from end to end (i.e., data from partners are used, reports are generated), but several key steps improve how the report is generated to increase efficiencies and expose the underlying methods for reproducibility.  Using open-source tools from the RStats community allows us to benefit from the collective knowledge of this dynamic and incredibly welcoming group.  Hosting code on GitHub makes the methods discoverable and accessible by others, including our [tbeptools R package](https://github.com/tbep-tech/tbeptools) that includes all methods to read, analyze, and plot data from our external partners.  Integration with Travis provides a safety check that our code is running as intended AND allows for daily builds to make sure the most current report is up to date with new data published by our partners.  Finally, we use Shiny to create interactive dashboards that allow our partners to engage with the data in a more immersive environment for decision-making and science communication. 
 
@@ -101,7 +101,8 @@ This workflow was developed as a proof of concept to see if it was reasonable fo
 
 This workflow is also dependent on the strong technical foundation for evaluating water quality in Tampa Bay and the invaluable work by our partners in collecting/curating the underlying data.  This work would not have been possible without the past research, partner initiatives, and community of collaboration that have been the foundation of TBEP and the region's success in improving the estuary.  Having a direct online connection to the raw data is also a necessary component - and on this front, there's much more work to be done to ensure this information and all of our partner data are Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.nature.com/articles/sdata201618)).
 
-Finally, these tools and concepts are generalizable to other locations with similar needs.  Open science methods emphasize reproducibility and technology transfer as important benefits that come with investments in developing these tools. The [28 estuary program collective in the US](https://nationalestuaries.org) are beginning to embrace these tools so that they can efficiently report on routine estuarine indicators on a broad national scale.  This will facilitate shared learning and experiences by using a common and standardized set of reporting products created with open science principles at the core.      
+Finally, these tools and concepts are generalizable to other locations with similar needs.  Open science methods emphasize reproducibility and technology transfer as important benefits that come with investments in developing these tools. The [28 estuary program collective in the US](https://nationalestuaries.org) are beginning to embrace these tools so that they can efficiently report on routine estuarine indicators on a broad national scale.  This will facilitate shared learning and experiences by using a common and standardized set of reporting products created with open science principles at the core.     
+
 -----
 
 ### Learn more: 

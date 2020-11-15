@@ -11,7 +11,7 @@ tags:
 banner: img/blog/tampa-bay-seagrass.jpg
 ---
 
-*This is a guest blog by [Marcus Beck](mailto:mbeck@tbep.org) that describes how the Tampa Bay Estuary Program (TBEP) is embracing open science principles and tools to create better science in less time.  Marcus, along with TBEP Executive Director Ed Sherwood, both attended the NCEAS Open Science for Synthesis workshop in July 2017 at Santa Barbara.  Marcus, Ed, and the rest of the TBEP team are working to bring open science to improve the management of Tampa Bay and extend their applications to the broader network of the 28 National Estuary Programs.  This blog describes one application of automating a routine reporting document that builds on the data and tools developed throughout the 30 year history of TBEP.*
+*This is a guest blog by [Marcus Beck](mailto:mbeck@tbep.org) that describes how the Tampa Bay Estuary Program (TBEP) is embracing open science principles and tools to create better science in less time.  Marcus, along with TBEP Executive Director Ed Sherwood, both attended the NCEAS [Open Science for Synthesis](https://nceas.github.io/oss-2017/) workshop in July 2017 at Santa Barbara.  Marcus, Ed, and the rest of the TBEP team are working to bring open science to improve the management of Tampa Bay and extend their applications to the broader network of the 28 National Estuary Programs.  This blog describes one application of automating a routine reporting document that builds on the data and tools developed throughout the 30 year history of TBEP.*
 
 ---
 

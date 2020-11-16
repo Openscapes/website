@@ -76,7 +76,7 @@ Developing the open workflow got us most of the way to achieving [open science b
 
 However, Travis can be used for much, much more, including custom builds for websites and highly specific testing services depending on the needs of the developer.  We developed our own custom workflow to make use of these services to automatically build the water quality report card. The external data are regularly updated [online](ftp://ftp.epchc.org/EPC_ERM_FTP/WQM_Reports/) by our friends at [Hillsborough County EPC](https://www.epchc.org/) as part of the Bay's long-term ambient water quality monitoring program.  We wanted to use Travis to build the report card as data are updated, without having to manually create it each time. 
 
-### How's it's done
+### How it's done
 
 All of the pieces that we use to automate creation of the report card live on a GitHub repository [here](https://github.com/tbep-tech/wq-static).  A simple [build script](https://github.com/tbep-tech/wq-static/blob/master/build.R) is run daily by Travis to create the final PDF.  Within the build script, two .Rnw documents include LaTeX and R code to generate the [front](https://github.com/tbep-tech/wq-static/blob/master/wq1.Rnw) and [back](https://github.com/tbep-tech/wq-static/blob/master/wq2.Rnw) of the report card.  The R code uses functions from the [tbeptools](https://tbep-tech.github.io/tbeptools/) R package to import the most current data, summarize the observations, and generate the plots used in the report card.  These .Rnw files are then converted to PDF using the [tinytex](https://yihui.org/tinytex/) package.  
 

@@ -100,3 +100,8 @@ So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about th
 Jai: Electricity the cultural adaptation took a long time
 
 Self-Organising System - Extinction Rebellion
+
+Kaitlyn Thaney: 
+https://www.force11.org/blog/infrastructure-series-funding-research-infrastructure
+- there’s also the fact that the current funding model has led to a perceived sense of scarcity, pushing open projects to compete rather than collaborate, to build new features instead of maintaining their work and deepening their level of service for their communities. 
+- An additional dimension to our work involves looking at the staffing and human infrastructure powering open technology development, maintenance, governance and stewardship. That volunteer labor and community engagement is often an invisible cost we gloss over in our estimations and recommendations, while also being a core pillar in this work.

@@ -76,9 +76,9 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 Erin plenary
 --->
 
-- R and teamwork for better science in less time - November 19, 2020: NOAA Northwest Fisheries Science Center, Seattle, Washington (45 minutes) (presented remotely)
+- R and teamwork for better science in less time - November 19, 2020: [NOAA Northwest Fisheries Science Center](https://www.fisheries.noaa.gov/event/nwfsc-monster-seminar-jam-julia-stewart-lowndes), Seattle, Washington (45 minutes) (presented remotely)
 
-- [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing) - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science ([published slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8GlWfKNeW8SvAaqae8Uwg9TNKLO3SvdHZQulg75KnavcbA-R78JXtY3ogcEMNJzdxFxCptcSIVfS/pub?start=false&loop=false&delayms=3000))
+- [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing) - November 5, 2020. National Academies of Sciences, Engineering, and Medicine (NASEM) [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) ([published slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8GlWfKNeW8SvAaqae8Uwg9TNKLO3SvdHZQulg75KnavcbA-R78JXtY3ogcEMNJzdxFxCptcSIVfS/pub?start=false&loop=false&delayms=3000))
 
 <!---https://twitter.com/juliesquid/status/1319330391480692736--->
 

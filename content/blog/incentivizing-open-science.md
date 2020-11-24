@@ -1,8 +1,8 @@
 ---
 title: "Incentivizing Open Science"
 author: Julie Lowndes
-date: '2020-11-24'
-slug: incentivizint-nasem
+date: '2020-11-25'
+slug: incentivizing-nasem
 categories:
   - community
   - champions
@@ -12,7 +12,7 @@ tags:
 banner: img/blog/NASEM-square.png
 ---
 
-*In early November I had the honor to speak at the National Academies of Sciences, Engineering, and Medicine (NASEM) [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science). This Roundtable has been convening thought leaders and stakeholders to identify the whats, whys, and hows of open science policies and incentives, and they have drafted a Toolkit, primarily intended for university leadership, academic department chairs, research funders, and government agencies audiences. It is really exciting to have open science being such a focus at the National Academies, and I was invited to provide a researcher perspective, and provide opinions on priorities for funding open science.*
+*In early November I had the honor to speak at the National Academies of Sciences, Engineering, and Medicine (NASEM) [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science). This Roundtable has been convening thought leaders and stakeholders to identify the whats, whys, and hows of open science policies and incentives. I was invited to provide a researcher perspective and opinions on priorities for funding open science. The first part of this post is a summary of my talk. The second part is some ideas about the Roundtable's draft Toolkit a document primarily intended for university leadership, academic department chairs, research funders, and government agencies audiences. Ideas about the Toolkit are from discussions with [Erin Robinson](https://twitter.com/connector_erin).*
 
 *Quick links:* 
 
@@ -21,6 +21,8 @@ banner: img/blog/NASEM-square.png
 - *[Roundtable Workshop & Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)*
 
 ---
+
+## How to empower researchers with open science
 
 My talk was called "How to empower researchers with open science through meeting analytical needs and supporting people". The main point was that we can normalize open science through addressing the analytical needs of research teams, and that we must fund people that are already working to make this happen and grow the open movement.
 
@@ -39,7 +41,7 @@ After describing how open data science is powerful like the Force from Star Wars
 
 <br> 
 
-Our Ocean Health Index team found out the hard way that our defaut approaches to data analysis was not reproducible by even ourselves. Getting through this involved quite a reckoning, but when we got through it, we knew we had a story to tell.
+Our Ocean Health Index team found out the hard way that our default approaches to data analysis was not reproducible by even ourselves. Getting through this involved quite a reckoning, but when we got through it, we knew we had a story to tell.
 
 Two big lessons coming out of this was first that open science was a means or a byproduct of meeting our analytical needs. Open science was not a goal in itself, but a secret power that was unlocked through engaging with the open community. And the second is that the open habits we developed are enduring because they are built on trust and teamwork. These two things have been key design elements for [Openscapes](https://openscapes.org), which I founded last year with a fellowship from Mozilla.
 
@@ -65,7 +67,7 @@ Finally, I focused on priorities for funding open science. I see supporting peop
 <br>
 <center>
   <img src="/img/blog/NASEM-cos-slide.png" width="500px"></a>
-   <figcaption> My [slide](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing) about priorities for funding open science: supporting people to lead and participate. Figure from [Center for Open Science](https://twitter.com/briannosek/status/1049394904928067586)
+   <figcaption> My [slide](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing) about priorities for funding open science: supporting people to lead and participate. Figure from the<br>[Center for Open Science](https://twitter.com/briannosek/status/1049394904928067586)
 </figcaption>
 </center>
 <br>
@@ -78,7 +80,40 @@ This means paying for seats so researchers can attend Hackweeks, Meetups, Carpen
 **Second: pay the salary for open leaders who train and mentor research teams**
 We already exist in academia by various unofficial titles: we are trainers, mentors, research software engineers, community managers. We are often early career, on soft money, with no job security or career path. Creating jobs for us is the ultimate goal but what’s needed right now is to pay our salaries so we can continue doing our work. The benefits are that trainers can focus on training, which meets this critical need and increases continuity of services, and importantly it also reduces the burnout that comes when open leaders do this without full funding and causes them leave academia, which then delays open science progress
 
-**Open leaders do jobs that aren’t currently valued in academia, and they are critical to helping normalize open science.**
+My last point at the end of my talk was that Open leaders do jobs that aren’t currently valued in academia, and they are critical to helping normalize open science. And, we should expect more of them and be prepared to support them in salaried university roles in the future.
+
+<br>
+<center>
+  <img src="/img/blog/NASEM-open-leaders.png" width="500px"></a>
+</center>
+<br>
+
+
+## Ideas from the Toolkit
+
+The NASEM Roundtable on Aligning Incentives for Open Science's [draft Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop) has several sections, including Primers that give high-level overviews of open sharing on topics like articles, code & software, data, and reporting; an Open Science Imperative Essay about the benefits of open science; and a Sending Signals Rubric with language for signaling open science at specific points of high leverage. Here are some thoughts I've discussed with [Erin Robinson](https://twitter.com/connector_erin), who has been participating at the Roundtables.
+
+**Open Science Imperative Essay**. There was some language that really resonated for us: 
+
+> "Historically, academic research environments have incentivized competition between individual researchers, which stymies collaboration and leads to the hoarding of knowledge." 
+
+<br>
+
+> "Open Science practices, in contrast to traditional models of knowledge production, emphasize that open, transparent, and collaborative research dissemination practices more properly balance collective, institutional, and individual benefits. Open Science represents a positive evolution of the research endeavor along three dimensions: Collaboration drives innovation with the potential for broad social impact; Greater efficiency and speed; Replicability enhances trust and research quality
+
+<br>
+
+>"Fortunately, the values that underpin Open Science – such as inclusiveness, collaboration, social impact, and scientific literacy – are mutually reinforcing to the missions of the research institutions, agencies, and funding organizations that support scientific research. Forward- thinking organizations have already begun to implement incentives for Open Science practices that provide a model for others to follow, which have taken several forms including: creating supportive environments"
+
+These quotes resonated because they are about Open Science practices that interplay with support and collaboration. It is critical to focus on practices along with the products, which are more readily measurable and thus get a lot of the attention. From an Openscapes perspective, creating supportive environments to drive collaboration, innovation, efficiency, and speed are all part of the daily practice and benefits of Open Science. It is fantastic to see them in the stated up-front, as mutually reinforcing with the missions of research institutions. 
+
+However, missing from this Essay is how Open Science efforts relate to diversity, equity, and inclusion. Supporting Open Science needs new approaches for including and empowering diverse participation. Prioritizing diversity, equity, inclusion and belonging is a core tenet of Openscapes. It is reflected in our language, our mentoring and engagement, our publications and presentations, our grant proposals. A core part of the Champions Mentorship program is to model and normalize this behavior, and support participants to incorporate it into their own work. For example, our [Code of Conduct](https://openscapes.org/code-of-conduct/) is posted publicly and summarized before all Openscapes events, and Champions leave the program normalized to this practice and with their own version for their research group. This signals a commitment to Open Science and supporting diverse researchers — something critical for enduring and inclusive participation.
+
+**Sending Signals Rubric**. This rubric has four stages to help identify participation in Open Science. It seems like it would be really useful for other usecases beyond the hiring and tenure instances that it was developed for. For example, Openscapes may be able to use it as short-term indicators to understand where participating teams begin (likely Stage 1 or 2) and where they are at the end of the program, and months later. Likely the most useful version in this usecase timescale will be the "other outputs version", so that participants can get credit for sharing teaching materials, Codes of Conduct, presentation slides and recordings, etc. 
+
+**Primers**. We thought that the Primers had really helpful information on how to approach articles, software, and data, and we plan to use these with Openscapes cohorts as well. 
+
+
 
 
 <!---

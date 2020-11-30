@@ -60,7 +60,7 @@ The main way we do this is through Openscapes Champions, which is a mentorship p
 
 **The biggest impact is that research teams are working more openly together**. They’ve been able to do this by [reframing data analysis as a collaborative effort rather than an individual burden](https://www.nature.com/articles/d41586-019-03335-4). And what we see from that is that students are able to participate in research faster, grant money is going further, and teams are co-creating norms that promote diversity, equity and inclusion, and emerging collaborations across research groups.
 
-And **the biggest lesson is the power of teams for normalizing open science**. When we talk about open science it’s often about participating publicly. But the truth is, when researchers aren’t working openly within their research group, it’s hard to expect them to work openly in the public sense. So focusing on empowering teams to feel confident collaborating openly together can really catalyze enduring change. And developing efficiencies and resilience within the reesearch group is an immediate benefit to the research group, so there is motivation and incentive to participate and develop these habits with the right support.
+And **the biggest lesson is the power of teams for normalizing open science**. When we talk about open science it’s often about participating publicly. But the truth is, when researchers aren’t working openly within their research group, it’s hard to expect them to work openly in the public sense. So focusing on empowering teams to feel confident collaborating openly together can really catalyze enduring change. And developing efficiencies and resilience within the research group is an immediate benefit to the research group, so there is motivation and incentive to participate and develop these habits with the right support.
 
 Finally, I focused on priorities for funding open science. I see supporting people as a huge unmet need. 
 
@@ -91,7 +91,8 @@ My last point at the end of my talk was that open leaders do jobs that aren’t 
 
 ## Ideas from the Toolkit
 
-The NASEM Roundtable on Aligning Incentives for Open Science's [Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop) is organized in several sections, including Primers that give high-level overviews of open sharing on topics like articles, code & software, data, and reporting; an Open Science Imperative Essay about the benefits of open science; and a Sending Signals Rubric with language for signaling open science at specific points of high leverage. Here are some thoughts I've discussed with [Erin Robinson](https://twitter.com/connector_erin), who has been participating at the Roundtable convenings.
+The NASEM Roundtable on Aligning Incentives for Open Science's [Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop) is organized in several sections, including Primers that give high-level overviews of open sharing on topics like articles, code & software, data, and reporting; an Open Science Imperative Essay about the benefits of open science; and a Sending Signals Rubric with language for signaling open science at specific points of high leverage. Here are some thoughts I've discussed with [Erin Robinson](https://twitter.com/connector_erin), who has been participating at the Roundtable convenings. She has already been using the Toolkit to guide research statements, and reference letters, and we're interested to bring these concepts to Openscapes Champions cohorts.
+
 
 **Open Science Imperative Essay**. There was some language that really resonated for us: 
 

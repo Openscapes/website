@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - coding
-  - how-to
+  - case-study
 banner: img/blog/tampa-bay-seagrass.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Incentivizing Open Science"
 author: Julie Lowndes
-date: '2020-11-25'
+date: '2020-11-30'
 slug: incentivizing-nasem
 categories:
   - community

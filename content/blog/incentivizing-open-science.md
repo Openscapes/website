@@ -100,7 +100,7 @@ The NASEM Roundtable on Aligning Incentives for Open Science's [Toolkit](https:/
 
 <br>
 
-> "Open Science practices, in contrast to traditional models of knowledge production, emphasize that open, transparent, and collaborative research dissemination practices more properly balance collective, institutional, and individual benefits. Open Science represents a positive evolution of the research endeavor along three dimensions: Collaboration drives innovation with the potential for broad social impact; Greater efficiency and speed; Replicability enhances trust and research quality
+> "Open Science practices, in contrast to traditional models of knowledge production, emphasize that open, transparent, and collaborative research dissemination practices more properly balance collective, institutional, and individual benefits. Open Science represents a positive evolution of the research endeavor along three dimensions: Collaboration drives innovation with the potential for broad social impact; Greater efficiency and speed; Replicability enhances trust and research quality"
 
 <br>
 

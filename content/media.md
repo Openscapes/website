@@ -74,7 +74,10 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <!---
 Erin plenary
+
 --->
+
+- [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes)
 
 - [Normalizing talking about data](https://docs.google.com/presentation/d/15FsK37GQVvhL9zbnP1E1n9CEn-Xu5HvIe2FaIMpdC0s/edit#slide=id.ga265ca137f_0_1250) - November 23, 2020: CSCCE Data Science Special Interest Group Discussion (10 minutes)
 

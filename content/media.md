@@ -79,7 +79,7 @@ Erin plenary
 
 - [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes)
 
-- [Normalizing talking about data](https://docs.google.com/presentation/d/15FsK37GQVvhL9zbnP1E1n9CEn-Xu5HvIe2FaIMpdC0s/edit#slide=id.ga265ca137f_0_1250) - November 23, 2020: CSCCE Data Science Special Interest Group Discussion (10 minutes)
+- [Normalizing talking about data](https://docs.google.com/presentation/d/15FsK37GQVvhL9zbnP1E1n9CEn-Xu5HvIe2FaIMpdC0s/edit?usp=sharing) - November 23, 2020: CSCCE Data Science Special Interest Group Discussion (10 minutes)
 
 - [R and teamwork for better science in less time](https://openscapes.github.io/slides/betterscience/nwfsc#1) - November 19, 2020: [NOAA Northwest Fisheries Science Center](https://www.fisheries.noaa.gov/event/nwfsc-monster-seminar-jam-julia-stewart-lowndes), Seattle, Washington (45 minutes) (presented remotely)
 

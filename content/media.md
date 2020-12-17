@@ -77,7 +77,9 @@ Erin plenary
 
 --->
 
-- [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes)
+- [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit?usp=sharing) — December 16, 2020: 5 minute intro at the Joint Roadmap for Open Science Tools (JROST)
+
+- [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes) https://zenodo.org/record/4313522#.X9EfIV57nUI
 
 - [Normalizing talking about data](https://docs.google.com/presentation/d/15FsK37GQVvhL9zbnP1E1n9CEn-Xu5HvIe2FaIMpdC0s/edit?usp=sharing) - November 23, 2020: CSCCE Data Science Special Interest Group Discussion (10 minutes)
 

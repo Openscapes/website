@@ -157,7 +157,7 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    # title = "Champions Program"
+    title = "Testimonials"
     # subtitle = "."
 
  [params.testimonials2]

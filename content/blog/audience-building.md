@@ -10,7 +10,7 @@ tags:
 banner: img/blog/eoss-audience-outline-square.png
 ---
 
-*Last month I was invited to give a workshop at the Chan Zuckerberg Initiative's Essential Open Source Software virtual conference. The workshop was about Audience Building for Open Source Projects, focused on strategic planning and sustainability. I was both nervous and excited to give this workshop: nervous because I am by no means an expert in how to  grow and sustain a project — Openscapes is still nascent (and currently unfunded). But I was excited because although I am not an expert, I do know a lot and jumped at the opportunity to pass forward what I've learned.* 
+*Last month I was invited to give a workshop at the Chan Zuckerberg Initiative's Essential Open Source Software virtual conference. The workshop was about Audience Building for Open Source Projects, focused on strategic planning and sustainability. I was both nervous and excited to give this workshop: nervous because I am by no means an expert in how to  grow and sustain a project — Openscapes is still nascent! But I was excited because although I am not an expert, I do know a lot and was interested to pass forward what I've learned.* 
 
 *Quick links:* 
 

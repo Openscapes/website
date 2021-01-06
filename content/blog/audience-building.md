@@ -10,13 +10,14 @@ tags:
 banner: img/blog/eoss-audience-outline-square.png
 ---
 
-*Last month I was invited to give a workshop at the Chan Zuckerberg Initiative's Essential Open Source Software virtual conference. The workshop was about Audience Building for Open Source Projects, focused on strategic planning and sustainability. I was both nervous and excited to give this workshop: nervous because I am by no means an expert in how to  grow and sustain a project — Openscapes is still nascent! But I was excited because although I am not an expert, I do know a lot and was interested to pass forward what I've learned.* 
+*Last month I was invited to give a workshop at the Chan Zuckerberg Initiative's Essential Open Source Software virtual conference. The workshop was about Audience Building for Open Source Projects, focused on strategic planning and sustainability. I was both nervous and excited to give this workshop: nervous because I am by no means an expert in how to  grow and sustain a project — Openscapes is still nascent! But I was excited because although I am not an expert, I do know a lot and was interested to pass forward what I've learned. This post is a quick overview and a summary of participant activites.* 
 
 *Quick links:* 
 
 - *[slides](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing)*
 - *[#EOSSmtg](https://twitter.com/hashtag/EOSSmtg?src=hashtag_click)*
 
+---
 
 The Chan Zuckerberg Initiative's Essential Open Source Software program supports and connects folks building open source software for science. I was very excited to attend to meet folks and learn about the cool things they are developing. And, I was excited to see a [keynote by Kate Bouman](https://twitter.com/ReaderMeter/status/1336413615331528704), whose team used open algorithms and open data to "make" the first image of a black hole! 
 
@@ -30,6 +31,7 @@ I framed the workshop in broad categories: communication, community building, an
 <center>
   <img src="/img/blog/eoss-audience-outline.png" width="700px"></a>
 </center>
+<br>
 <br>
 
 I have learned so much from my mentors and many open projects that I have been introduced to in the past several years. I highlighted the main resources that frame my thinking for how I think about audience building:
@@ -46,40 +48,32 @@ I have learned so much from my mentors and many open projects that I have been i
     - [Handbook](https://osaos-book.codeforscience.org)
     
 
-I put additional references on each of the [slides](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) that you can refer to to learn more. I also had 3 silent activities throughout the workshop for folks to reflect on each of the categories we talked through. 
-
-The first activity asked folks to respond in chat: What is a potential next step for you in terms of communication (audience, messaging, web)? 
+I put additional references on each of the [slides](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) that you can refer to to learn more. I also had 3 silent activities throughout the workshop for folks to reflect on each of the categories we talked through. The first activity asked folks to respond in chat: What is a potential next step for you in terms of communication (audience, messaging, web)? Here are some of the responses:
 
 - Blogs and/or guided lessons on how to use our tool
-- Write an RFP to find collaborators that makes value outcomes clear 
 - Making our homepage messaging more inclusive for our various audiences
-- Defining touch points for each of our user types throughout their “customer journey”
 - Drafting a Slack community and user guide to share on our community Slack
 - Tutorials 
 - User survey
 - Email newsletter for communication.
-- Interested to see how our new blog can engage users to highlight their work
 - Re-thinking our community forum structure, in order to incentivize more people to engage and reward them for helping others
-- Making a video on how to use our tools
 - Video onboarding
-- Converting validation data from github repos to blog posts
-- Improving how we direct different users to the correct resources
 - Update our website, regular communication to community through newsletter, social media
 - Redesigning the website, driven by specific user groups!
-- Write a blog about our new workflow template 
-- Inviting the community to share what makes them wary of contributing
+
+<br>
 
 The second activity used Abby Cabunoc Mayes' Mountain of Engagement image along with the "stamp" feature in Zoom: participants placed a stamp or drawing where they felt their project lands on this mountain. This was fun to see happen live! There are a lot of folks transitioning into Sustained Participation, Networked Participation, and Leadership:
 
 <br>
 <center>
   <img src="/img/blog/eoss-mountain-stamp.png" width="700px"></a>
-  <figcaption> The Mountain of Engagement from Abby Cabunoc Mayes' excellent talk at the CZI EOSS kickoff meeting: [Work Open, Lead Open (#WOLO)](https://docs.google.com/presentation/d/13NAGmqP_Fb2qjBKePGVZe7awtwnFKZUHtPz8mqbYtsE/present?token=AC4w5Vjf0u1Jtdi7vB3udA5O-S5wIuJuwA%3A1582781847727&includes_info_params=1&eisi=CPP7qe6B8ecCFc8OJAode38EqA#slide=id.g25275a8168_0_260)
+  <figcaption> The Mountain of Engagement from Abby Cabunoc Mayes' talk at the CZI EOSS kickoff meeting: <br> [Work Open, Lead Open (#WOLO)](https://docs.google.com/presentation/d/13NAGmqP_Fb2qjBKePGVZe7awtwnFKZUHtPz8mqbYtsE/present?token=AC4w5Vjf0u1Jtdi7vB3udA5O-S5wIuJuwA%3A1582781847727&includes_info_params=1&eisi=CPP7qe6B8ecCFc8OJAode38EqA#slide=id.g25275a8168_0_260)
 </figcaption>  
 </center>
 <br>
 
-The final activity asked folks to write responses in chat to the question How could you use help with sustainability (strategic planning, governance, and onboarding)?
+The final activity asked folks to write responses in chat to the question: How could you use help with sustainability (strategic planning, governance, and onboarding)?
 
 - Governance is the biggest question-mark in my org
 - Challenges about gracefully moving back and forth between cycles of high-level strategic planning, and low-level "getting things done on the daily"
@@ -90,7 +84,7 @@ The final activity asked folks to write responses in chat to the question How co
 - Making onboarding easy
 - Considering the most efficient way to do a gap analysis to inform these difference facets.
 
-Thanks again to CZI for the invitation to lead this workshop: it was really fun to put together and I appreciate all the engaged participants! 
+It was great to be able to chat further with the participants about these topics so that we can share insights and tackle them together. Thanks again to CZI for the invitation to lead this workshop: it was really fun to put together — and it helped me clarify things in my own head — and I appreciate all the engaged participants! 
 
 <br> 
 <br>

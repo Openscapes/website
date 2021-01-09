@@ -1,7 +1,7 @@
 ---
 title: "Workshop reflections"
 author: Julie Lowndes
-date: '2021-02-04'
+date: '2020-02-04'
 slug: rstudioconf-2020
 categories:
   - community

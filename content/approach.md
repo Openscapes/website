@@ -27,3 +27,7 @@ We share our most current thinking and showcase community efforts through talks 
 
 
 <br>
+
+See also our [resources page](/resources)
+
+<br>

@@ -4,7 +4,7 @@ description = "About"
 keywords = ["NCEAS","Mozilla","better science in less time"]
 +++
 
-**Openscapes is an approach for doing better science in less time.** We offer mentorship and community engagement centered around open data science, helping teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by [Mozilla](/about#MOZILLA).
+**Openscapes is an approach for doing better science in less time.** We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by [Mozilla](/about#MOZILLA).
 
 <center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
 
@@ -27,6 +27,8 @@ As Openscapes moves forward, we look forward to opening the landscapes of scienc
 Openscapes has many supportive contributors at NCEAS, Mozilla, and the broader open community. 
 
 **Julia "Julie" Stewart Lowndes** is the founding director of Openscapes. Julia champions kinder, better science in less time through open data science and teamwork. As a marine data scientist, Mozilla Fellow '19 and Senior Fellow at NCEAS, she has 7+ years designing and leading programs to empower science teams with skillsets and mindsets for reproducible research, empowering researchers with existing open tools and communities. She has been building communities of practice in this space since 2013 with the Ocean Health Index after earning her PhD at Stanford University studying drivers and impacts of Humboldt squid in a changing climate. She is a [Carpentries](https://carpentries.org/) instructor, lead creator of the Ocean Health Index's [open data science training](http://ohi-science.org/data-science-training/), and a co-founder of [Eco-Data-Science](http://eco-data-science.github.io/) and [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). [Learn more](http://jules32.github.io) about Julia, [email](mailto:lowndes@nceas.ucsb.edu) her, and follow her on [Twitter](https://twitter.com/juliesquid).
+
+**Erin Robinson** works at the intersection of community informatics, Earth science and non-profit management — building communities. Over the last 15 years, she has honed an eclectic skill set both technical and managerial, creating communities and programs with lasting impact around open science, data, and technology. Erin earned a M.Sc. at Washington University in St. Louis in 2010 and it was here that she began building communities of practice to support Air Quality researchers' understanding of long-range smoke and dust events. Erin was Executive Director of the Earth Science Information Partners (ESIP) from 2014-2020, and served as chair of AGU's Data Management Advisory Board from 2014-2020. Currently, Erin is the co-founder of Metadata Game Changers, LLC and serves as an ad-hoc advisor to the NASEM Roundtable on Aligning Incentives for Open Science. [Learn more](http://erinrobinson.net/) about Erin, [email](mailto:erinmr@gmail.com) her, and follow her on [Twitter](https://twitter.com/connector_erin).
 
 <center><img src="/img/horst_openscapes_arctic_crab.png" width="100px"></center>
 

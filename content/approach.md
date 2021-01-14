@@ -22,7 +22,7 @@ We share our most current thinking and showcase community efforts through talks 
 
 - [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing). Lowndes 2020, invited talk at the National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable
 - [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing). Lowndes 2020, invited plenary at the Earth Science Information Partners Conference
-- [Putting Data to Work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ). Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference 
+- [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ). Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference 
 - [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Lowndes 2019, *Scientific American*
 
 

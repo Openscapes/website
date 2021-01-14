@@ -19,16 +19,16 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
+    name = "Our Approach"
+    identifier = "approach"
+    url  = "/approach/"
+    weight = 1  
+
+[[menu.main]]
     name = "Champions Program"
     identifier = "champions"
     url  = "/champions/"
-    weight = 1    
-
-[[menu.main]]
-    name = "Resources"
-    identifier = "resources"
-    url  = "/resources/"
-    weight = 2  
+    weight = 2    
 
 [[menu.main]]
     name = "Blog"

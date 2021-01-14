@@ -4,11 +4,11 @@ description = "Openscapes approach"
 keywords = ["inclusion","movement","questions","what if"]
 +++
 
-**We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of the research community. 
+**We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. 
 
 ---
 
- **Openscapes approaches open science as a spectrum, as a behavior change, and as a movement**. We use data analysis as an entryway to meet scientists where they are and helping them develop new skillsets and mindsets while empowering them as champions and leaders for open science. We are influenced and inspired by many leaders and community organizers before us, particularly in the social justice, climate action, and get out the vote movements.
+**We approach open science as a spectrum, as a behavior change, and as a movement**. We see data analysis as an entryway to meet scientists where they are and help them develop new skillsets and mindsets while empowering them as champions and leaders for open science. We are influenced and inspired by many leaders and community organizers before us, particularly in the social justice, climate action, and get out the vote movements.
 
 We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. <!---We created Openscapes from our own research experiences as an approach to [better science in less time](https://www.nature.com/articles/s41559-017-0160). ---> **Openscapes helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams**. We do this through mentorship, coaching, training, and community organizing, to empower researchers as open data science champions. We use existing tools and resources from the open community along with new resources we create to meet the needs of our community. Our activities include: 
 

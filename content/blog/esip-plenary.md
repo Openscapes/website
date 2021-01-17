@@ -20,6 +20,7 @@ banner: img/blog/horst_loop_square.png
 - *[plenary slides](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing) (see presenter notes since on-slide text is sparse)*
 - *[slides on FigShare](https://esip.figshare.com/articles/Entryways_to_open_data_science_and_the_power_of_welcome/12654689/1)*
 - *[artwork by Allison Horst](https://github.com/allisonhorst/stats-illustrations/tree/master/openscapes#dr-julia-lowndes-keynote-illustrations) (available for download and reuse)*
+- *[ESIP Summer Meeting Plenary Session](https://2020esipsummermeeting.sched.com/event/cItS/plenary-putting-data-to-work-open-science-open-data-2021-2026-strategic-theme-community-conversation)*
 - *[ESIP website](esipfed.org/)*
 - *[#ESIPSummer2020 on Twitter](https://twitter.com/hashtag/ESIPSummer2020?src=hashtag_click)*
 

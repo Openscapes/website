@@ -8,7 +8,7 @@ categories:
 tags:
   - impact
   - newsletter
-banner: img/blog/zoom_welcome_erin-square.png
+banner: img/blog/zoom_erin_julie_square.png
 ---
 
 *Welcome to the Openscapes’ first newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from the [get involved](https://openscapes.org/contact) page.* 
@@ -25,7 +25,7 @@ Part of this work on Openscapes, led to partnering with Erin Robinson to grow Op
 <br>
 
 <center>
-  <a><img src="/img/blog/zoom_welcome_erin.png" width="500px"></a>
+  <a><img src="/img/blog/zoom_erin_julie.png" width="500px"></a>
 </center>
 
 <br>
@@ -38,12 +38,12 @@ In August we were fortunate to host an [Openscapes advisory meeting](https://www
  
 We see open science as a movement, with a vast opportunity for mentorship, coaching, training, and community organizing. Open science as a movement puts people at its center: a community-driven approach. We see a need for excitement and empowerment around open science, with data analysis as an entryway for researchers to engage and practice open science as a daily benefit that becomes an enduring part of scientific culture. We see a need for listening, empathy, and meeting researchers where they are. Integral to this is the need to focus on inclusion, learning from traditionally underrepresented groups, and amplifying lessons from movements like Black Lives Matter and All We Can Save. We see our [Champions Program](https://openscapes.org/champions) being most impactful as a community-focused [approach](https://openscapes.org/approach) of the broader open movement, and it’s a challenge we’re excited to take on. 
 
-In December we participated in the Science Gateways Community Institute’s [SGCI](https://sciencegateways.org) Focus Week to refine our sustainability and strategic plan. Focus Week’s ‘napkin drawing’ activity spurred articulating this vision for Openscapes with Allison Horst, the amazing data scientist, Openscapes Champion, and artist, to illustrate this vision. In the open science landscape, there are many paths forward. Openscapes mentors are like park rangers who welcome and guide research teams through the open data science landscape, building new trails as necessary and helping everyone become stewards and champions. Here is a sneak-peek of work in progress: 
+In December we participated in the Science Gateways Community Institute’s [SGCI](https://sciencegateways.org) Focus Week to refine our sustainability and strategic plan. Focus Week’s ‘napkin drawing’ activity spurred articulating this vision for Openscapes with Allison Horst, the amazing data scientist, Openscapes Champion, and artist, to illustrate this vision. In the open science landscape, there are many paths forward. Openscapes mentors are like park rangers who welcome and guide research teams through the open data science landscape, building new trails as necessary and helping everyone become stewards and champions as they become more familiar, confident, and work together. Here is a sneak-peek of work in progress: 
 
 <br>
 
 <center>
-  <a><img src="/img/blog/horst-openscapes_rangers1.jpg" width="500px"></a>
+  <a><img src="/img/blog/horst_openscapes_rangers_2020_01_18.jpg" width="500px"></a>
   <figcaption>Sneak-peek of artworks in-progress by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 

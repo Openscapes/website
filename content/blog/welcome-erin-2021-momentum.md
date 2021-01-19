@@ -43,7 +43,7 @@ In December we participated in the Science Gateways Community Institute ([SGCI](
 <br>
 
 <center>
-  <a><img src="/img/blog/horst_openscapes_rangers_2020_01_18.jpg" width="500px"></a>
+  <a><img src="/img/blog/horst_openscapes_rangers_2020_01_18.jpg" width="800px"></a>
   <figcaption>Sneak-peek of Openscapes Rangers artwork in-progress by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 

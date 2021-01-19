@@ -49,9 +49,20 @@ In December we participated in the Science Gateways Community Institute ([SGCI](
 
 <br>
 
+## 2021 Momentum
+
+Building on the foundation we’ve built, in 2021, we are excited for Openscapes to grow and thrive. Here are a few opportunities where we hope to connect in the coming months: 
+
+- Openscapes is a **Community Partner at the [RStudio Conference](https://rstudio.com/conference/)** on January 21, find us in the social spaces!
+- We’ll kick off our **community calls at MozFest** in March, details upcoming!
+- We’ll lead a 2-month **Mini Champions Cohort** with an open call for participation, more details and registration upcoming!
+- We’re also **booking Cohorts for specific communities** – please get in touch to book a Cohort or partial Cohort, or if you have ideas for sponsoring these efforts so more teams can participate. 
+
+<br>
+
 ## Openscapes in the wild
 
-We are always excited to open data science championed out in the world! If you spot Openscapes work or you share Openscapes with others, please send those our way. We would love to highlight them in future newsletters. 
+We are always excited to see open data science championed out in the world! If you spot Openscapes work or share Openscapes with others, please send those our way. We would love to highlight them in future newsletters. 
 
 Here is Dr. Gavin Fay, an Openscapes Champion from the NOAA NEFSC Workshop in February 2020, presenting about [Open Marine Fisheries & Ecosystem Science: Research, Teaching, & Community Building](https://twitter.com/gavin_fay/status/1349816037366243342)! 
 
@@ -64,14 +75,10 @@ Here is Dr. Gavin Fay, an Openscapes Champion from the NOAA NEFSC Workshop in Fe
 
 <br>
 
-## 2021 Momentum
+Finally, we’re grateful to all of you for your interest, support and engagement with Openscapes. We’re excited to do more together.
 
-Building on the foundation we’ve built, in 2021, we are excited for Openscapes to grow and thrive. Here are a few opportunities where we hope to connect in the coming months: 
-
-- Openscapes is a **Community Partner at the [RStudio Conference](https://rstudio.com/conference/)** on January 21, find us in the social spaces!
-- We’ll kick off our **community calls at MozFest** in March, details upcoming!
-- We’ll lead a 2-month **Mini Champions Cohort** with an open call for participation, more details and registration upcoming!
-- We’re also **booking Cohorts for specific communities** – please get in touch to book a Cohort or partial Cohort, or if you have ideas for sponsoring these efforts so more teams can participate. 
+Looking forward,
+Julie and Erin
 
 
 <br>

@@ -11,7 +11,7 @@ tags:
 banner: img/blog/zoom_erin_julie_square.png
 ---
 
-*Welcome to the Openscapes’ first newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from the [get involved](https://openscapes.org/contact) page.* 
+*This blog post is also Openscapes’ first newsletter! Welcome! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from the [get involved](https://openscapes.org/contact) page).* 
 
 ---
 
@@ -25,7 +25,7 @@ Part of this work on Openscapes, led to partnering with Erin Robinson to grow Op
 <br>
 
 <center>
-  <a><img src="/img/blog/zoom_erin_julie.png" width="500px"></a>
+  <a><img src="/img/blog/zoom_erin_julie.png" width="700px"></a>
 </center>
 
 <br>
@@ -44,7 +44,7 @@ In December we participated in the Science Gateways Community Institute’s [SGC
 
 <center>
   <a><img src="/img/blog/horst_openscapes_rangers_2020_01_18.jpg" width="500px"></a>
-  <figcaption>Sneak-peek of artworks in-progress by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
+  <figcaption>Sneak-peek of Openscapes Rangers artwork in-progress by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 
 <br>

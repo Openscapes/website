@@ -51,7 +51,7 @@ In December we participated in the Science Gateways Community Institute ([SGCI](
 
 ## 2021 Momentum
 
-Building on the foundation we’ve built, in 2021, we are excited for Openscapes to grow and thrive. Here are a few opportunities where we hope to connect in the coming months: 
+Building on this foundation, in 2021, we are excited for Openscapes to grow and thrive. Here are a few opportunities where we hope to connect in the coming months: 
 
 - Openscapes is a **Community Partner at the [RStudio Conference](https://rstudio.com/conference/)** on January 21, find us in the social spaces!
 - We’ll kick off our **community calls at MozFest** in March, details upcoming!

@@ -16,7 +16,7 @@ banner: img/blog/tidydata/tidydata_7-square.png
 ***Please reuse & remix with your own communities, and enjoy***: 
 
 - *Download from <https://github.com/allisonhorst/stats-illustrations>*
-- *Reuse/remix from [this slide deck](https://docs.google.com/presentation/d/1N7hKepabvl9OrHjvGJWPjUsfzVdB5xzV5AsFndgSwms/edit?usp=sharing).*
+- *Reuse/remix from [this slide deck](https://docs.google.com/presentation/d/1N7hKepabvl9OrHjvGJWPjUsfzVdB5xzV5AsFndgSwms/edit?usp=sharing)*
 - *View/share this [twitter thread](https://twitter.com/juliesquid/status/1315710359404113920)*
 
 ---

@@ -11,7 +11,13 @@ tags:
 banner: img/blog/tidydata/tidydata_7-square.png
 ---
 
-*This illustrated series was a collaboration between Julie and Allison, who like to talk endlessly about data, code, teaching, open science, and art. We've been collaborating since the beginnings of Openscapes: Allison created all artwork for the Openscapes website and slides and was part of the [inaugural Champions cohort](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/). Here, we wanted these illustrations to tell a story about why tidy data is so powerful for efficiency, repeatability, and collaboration, but also stand alone to be most flexible for teaching. Please reuse with your own communities, and enjoy: Download from <https://github.com/allisonhorst/stats-illustrations> or reuse/remix from [this slide deck](https://docs.google.com/presentation/d/1N7hKepabvl9OrHjvGJWPjUsfzVdB5xzV5AsFndgSwms/edit?usp=sharing).*
+*This illustrated series was a collaboration between Julie and Allison, who like to talk endlessly about data, code, teaching, open science, and art. We've been collaborating since the beginnings of Openscapes: Allison created all artwork for the Openscapes website and slides and was part of the [inaugural Champions cohort](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/). Here, we wanted these illustrations to tell a story about why tidy data is so powerful for efficiency, repeatability, and collaboration, but also stand alone to be most flexible for teaching.*
+
+***Please reuse & remix with your own communities, and enjoy***: 
+
+- *Download from <https://github.com/allisonhorst/stats-illustrations>*
+- *Reuse/remix from [this slide deck](https://docs.google.com/presentation/d/1N7hKepabvl9OrHjvGJWPjUsfzVdB5xzV5AsFndgSwms/edit?usp=sharing).*
+- *View/share this [twitter thread](https://twitter.com/juliesquid/status/1315710359404113920)*
 
 ---
 

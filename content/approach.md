@@ -8,11 +8,11 @@ keywords = ["inclusion","movement","questions","what if"]
 
 ---
 
-**We approach open science as a spectrum, as a behavior change, and as a movement**. We see data analysis as an entryway to meet scientists where they are, helping them develop new skillsets and mindsets while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in the social justice, climate action, and get out the vote movements. 
+**We approach open science as a spectrum, as a behavior change, and as a movement**. We see data analysis as an entryway to meet scientists where they are, helping them develop new skillsets and mindsets while empowering them as leaders and welcoming them to the open community. We are influenced and inspired by many leaders and community organizers, particularly in the social justice, climate action, and get out the vote movements. 
 
 We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. <!---We created Openscapes from our own research experiences as an approach to [better science in less time](https://www.nature.com/articles/s41559-017-0160). ---> **Openscapes helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams**. We do this through mentorship, coaching, training, and community organizing, leveraging existing [resources](/resources) from the open community along with our own. Our activities include: 
 
-1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
+1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
 1. **Openscapes Framework**. A skill-building and community engagement open data science framework for research communities. This is a multi-year series of events designed to provide technical and leadership skill-building opportunities, through partnerships and the Openscapes Champions program. 
 

@@ -14,7 +14,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
-1. **Openscapes Framework**. A skill-building and community engagement open data science framework for research communities. This is a multi-year series of events designed to provide technical and leadership skill-building opportunities, through partnerships and the Openscapes Champions program. 
+1. **Openscapes Framework**. A skill-building and community engagement open data science framework for research communities. This is a multi-year series of events to provide technical and leadership skill-building opportunities that is co-designed with partners to meet specific community needs. 
 
 <br>
 

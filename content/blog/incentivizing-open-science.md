@@ -19,6 +19,7 @@ banner: img/blog/NASEM-square.png
 - *[my slides](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing)* 
 - *[Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science?utm_source=BRDI&utm_campaign=9654e8a95e-EMAIL_CAMPAIGN_2017_08_15_COPY_01&utm_medium=email&utm_term=0_5b187d867a-9654e8a95e-)* 
 - *[Roundtable Workshop & Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)*
+- *[SPARC Impact story](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)*
 
 ---
 

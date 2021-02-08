@@ -105,8 +105,8 @@ We discuss topics described in the [Openscapes Lessons Series](https://openscape
 
 <br>
 
-## FAQ: Frequently Asked Questions
+## FAQ
 
-We'll be answering FAQs on the [FAQ page](/faq). 
+Learn more from [Frequently Asked Questions](/faq). 
 
 <br>

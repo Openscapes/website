@@ -83,7 +83,9 @@ Erin plenary
 
 --->
 
-- [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit?usp=sharing) — December 16, 2020: 5 minute intro at the Joint Roadmap for Open Science Tools (JROST)
+- [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/11zgFIzYaMMsNTQVpUY5z3GnPUqTKQLJFTUsF4gi3qQ4/edit?usp=sharing) — February 10, 2021: NASA's Earth Science Data System Working Groups (ESDSWG) (5 minutes)
+
+- [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit?usp=sharing) — December 16, 2020 Invest in Open's [Joint Roadmap for Open Science Tools (JROST) Conference](https://investinopen.org/community/jrost-2020-conference/) (5 minutes)
 
 - [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes) https://zenodo.org/record/4313522#.X9EfIV57nUI
 

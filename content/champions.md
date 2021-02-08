@@ -78,11 +78,11 @@ The Openscapes Champions [Cohorts page](/cohorts) lists the inspiring research g
 
 <br> 
 
-> “**This program has honestly completely re-made how I think about my science**. Openscapes is a supportive training course for moving your lab toward open science, that meets you where you are.”  — Prof. Chelsea Wood, University of Washington  
+> “**This program has honestly completely re-made how I think about my science**. Openscapes is a supportive training course for moving your lab toward open science, that meets you where you are.”  — Dr. Chelsea Wood, University of Washington  
 
 <!-- break --> 
 
-> "**Openscapes isn’t just about coding and GitHub, it's about changing how we do science**" — Prof. Malin Pinsky, Rutgers University
+> "**Openscapes isn’t just about coding and GitHub, it's about changing how we do science**" — Dr. Malin Pinsky, Rutgers University
 
 <!-- break --> 
 

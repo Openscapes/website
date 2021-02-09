@@ -20,11 +20,11 @@ The Champions Program is structured for teams with the intent that research grou
 
 Choosing your team can be based on interests around data analysis, but also around leadership. There are no prerequisite skills to participate, just an interest to learn and contribute. The “homework” between Champions sessions and beyond is to meet as a full research group (beyond workshop participants, and optional for the lead) to establish shared workflows and habits within the research group. 
 
-## Does a team need a shared research project?
+### Does a team need a shared research project?
 
-No, the idea is to help individuals within a research group *see* themselves as part of a team. This team includes most importantly Future so you can spend more time on answering awesome research questions rather than trying to make sense of `data_analysis_finalv2b.xls`. But it also includes Future Us in the research group, so that onboarding and offboarding is more efficient and science is more inclusive and equitable.
+No, the idea is to help individuals within a research group *see* themselves as part of a team. With this team mindset, your most important collaborator is Future You. Working with Future You in mind helps you spend more time on answering awesome research questions rather than trying to make sense of `data_analysis_finalv2b.xls`. And a team mindset also includes Future Us in the research group, so that onboarding and offboarding is more efficient and science can be more inclusive and equitable.
 
-## Does a cohort need a shared research project or be closely related?
+### Does a cohort need a shared research project or be closely related?
 
 No, the cohort does not need a shared project; each team will work on what they need to for their own research. Teams within a cohort do not need to be closely related, but having teams somewhat related is good for community building (i.e. environmental science, or fisheries science).
 

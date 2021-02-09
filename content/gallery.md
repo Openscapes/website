@@ -8,7 +8,7 @@ keywords = ["art"]
 
 <!---
 
-TO ADD: 
+TODO Add: 
 - Rangers
 - Pew
 

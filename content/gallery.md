@@ -6,6 +6,14 @@ keywords = ["art"]
 
 # Original art for Openscapes by Allison Horst.
 
+<!---
+
+TO ADD: 
+- Rangers
+- Pew
+
+--->
+
 **Please credit this Openscapes artwork with:** "Artwork for <a href="https://twitter.com/openscapes">@openscapes</a> (illustrated by <a href="https://twitter.com/allison_horst">@allison_horst</a>)."
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 

@@ -87,25 +87,33 @@ Data science & teamwork feedback loop:
 
 Luke doesn't have the tools when he crashes on Dagobah...
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/starwars-luke-dagobah.png" width="600">
+<img src="/img/blog/horst-starwars-luke.png" width="700px">
+<br>
+
 
 ----
 
 ...but Yoda shows him what's possible with the foRce.
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/starwars-yoda-force.png" width="600">
+<img src="/img/blog/horst-starwars-yoda.png" width="700px">
+<br>
+
 
 ----
 
 Which is so powerful!
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/starwars-rey-rstats.png" width="500">
+<img src="/img/blog/horst-starwars-rey.png" width="700px">
+<br>
+
 
 ----
 
 But even if you become a Jedi, you still need your community to defeat the Empire:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/starwars-teamwork.png" width="500">
+<img src="/img/blog/horst-starwars-hands.png" width="700px">
+<br>
+
 
 
 

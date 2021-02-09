@@ -73,7 +73,7 @@ From Allison's [openscapes artwork on github](https://github.com/allisonhorst/st
 
 An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> schematic from Grolemund & Wickham, with environmental data science, communities, and communication added: 
 
-<img src="/img/blog/horst-eco-r4ds.png" width="700px">
+<img src="/img/blog/keynote/horst-eco-r4ds.png" width="700px">
 
 <br>
 
@@ -81,7 +81,7 @@ An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> sc
 
 Data science & teamwork feedback loop:
 
-<img src="/img/blog/horst-lowndes-loop.png" width="700px">
+<img src="/img/blog/keynote/horst-lowndes-loop.png" width="700px">
 
 <br>
 
@@ -89,7 +89,7 @@ Data science & teamwork feedback loop:
 
 Luke doesn't have the tools when he crashes on Dagobah...
 
-<img src="/img/blog/horst-starwars-luke.png" width="700px">
+<img src="/img/blog/keynote/horst-starwars-luke.png" width="700px">
 
 <br>
 
@@ -98,7 +98,7 @@ Luke doesn't have the tools when he crashes on Dagobah...
 
 ...but Yoda shows him what's possible with the foRce.
 
-<img src="/img/blog/horst-starwars-yoda.png" width="700px">
+<img src="/img/blog/keynote/horst-starwars-yoda.png" width="700px">
 <br>
 
 
@@ -106,7 +106,7 @@ Luke doesn't have the tools when he crashes on Dagobah...
 
 Which is so powerful!
 
-<img src="/img/blog/horst-starwars-rey.png" width="700px">
+<img src="/img/blog/keynote/horst-starwars-rey.png" width="700px">
 
 <br>
 

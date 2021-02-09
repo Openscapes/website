@@ -115,7 +115,7 @@ Which is so powerful!
 
 But even if you become a Jedi, you still need your community to defeat the Empire:
 
-<img src="/img/blog/horst-starwars-hands.png" width="700px">
+<img src="/img/blog/keynote/horst-starwars-hands.png" width="700px">
 
 <br>
 

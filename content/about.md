@@ -30,6 +30,8 @@ Openscapes has many supportive contributors at NCEAS, Mozilla, and the broader o
 
 **Erin Robinson** works at the intersection of community informatics, Earth science and non-profit management — building communities. Over the last 15 years, she has honed an eclectic skill set both technical and managerial, creating communities and programs with lasting impact around open science, data, and technology. Erin earned a M.Sc. at Washington University in St. Louis in 2010, where she began building communities of practice to support Air Quality researchers' understanding of long-range smoke and dust events. Erin was Executive Director of the Earth Science Information Partners (ESIP) from 2014-2020, and served as chair of AGU's Data Management Advisory Board from 2014-2020. Erin is the co-founder of Metadata Game Changers, LLC and serves as an ad-hoc advisor to the NASEM Roundtable on Aligning Incentives for Open Science. [Learn more](http://erinrobinson.net/) about Erin, [email](mailto:erinmr@gmail.com) her, and follow her on [Twitter](https://twitter.com/connector_erin).
 
+We are also grateful for [our partners](/partners) who are helping grow and improve Openscapes.
+
 <center><img src="/img/horst_openscapes_arctic_crab.png" width="100px"></center>
 
 ## NCEAS
@@ -61,7 +63,7 @@ We expect all participants to adhere to our [Code of Conduct](/code-of-conduct),
 
 ## OUR ART
 
-Allison Horst creates original art for Openscapes as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. She is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
+Allison Horst creates original art for Openscapes, beginning as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. She is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
 
 See all of Allison's open landscapes on the [**gallery page**](/gallery).
 

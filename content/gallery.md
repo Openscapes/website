@@ -73,18 +73,15 @@ From Allison's [openscapes artwork on github](https://github.com/allisonhorst/st
 
 An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> schematic from Grolemund & Wickham, with environmental data science, communities, and communication added: 
 
-<img src="/img/blog/eco-r4ds.png" width="700px">
+<img src="/img/blog/horst-eco-r4ds.png" width="700px">
 <br>
-
-And here's the same illustration as above, but with room for you to add your own organizations/communities in the green donut!
-
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds-general.png" width="700">
 
 ----
 
 Data science & teamwork feedback loop:
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/open-data-science-teamwork-loop.png" width="500">
+<img src="/img/blog/horst-lowndes-loop.png" width="700px">
+<br>
 
 ----
 

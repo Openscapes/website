@@ -7,13 +7,9 @@ keywords = ["FAQ"]
 
 ## CHAMPIONS PROGRAM FAQs
 
-### I don’t code/I am a master coder, why should I participate? 
-
-Openscapes Champions is about building efficiency, continuity, and resilience in your research group, and reframing data analysis as a collaborative effort rather than an individual burden. We help strengthen shared workflows that prioritize inclusion and empowerment around open data science within and beyond your team.
-
 ### What is a team/How do I choose my team? 
 
-We designed the Openscapes Champions program with research groups in mind, to provide resilience where folks are constantly joining and leaving. Teams don't need to have a specific shared research project. The idea is that by developing shared open data science habits within the research group, it will be more resilient, easier to onboard new folks and offboard knowledge/data/code/etc when folks leave. And, it will empower everyone to seed this change more broadly within their current communities and as they move on to other positions (i.e. when grad students defend).
+We designed the Openscapes Champions program with academic research groups in mind, to provide resilience where folks are regularly join and leave. But we're increasingly working with research groups of different kinds! Teams don't need to have a specific shared research project. The idea is that by developing shared open data science habits within the research group, it will be more resilient, easier to onboard new folks and offboard knowledge/data/code/etc when folks leave. And, it will empower everyone to seed this change more broadly within their current communities and as they move on to other positions (i.e. when grad students defend).
 
 The Champions Program is structured for teams with the intent that research group leads (faculty, lecturers, program managers, etc) and members (students, post-docs, analysts, lab managers, etc.) participate as a team together. This is a strategy so that the lead does not necessarily have to be an expert/comfortable with open data science to enable their team to design open data science workflows. Group leads and members participate together so that: 
 
@@ -33,9 +29,13 @@ No, the idea is to help individuals within a research group *see* themselves as 
 
 No, the cohort does not need a shared project; each team will work on what they need to for their own research. Teams within a cohort do not need to be closely related, but having teams somewhat related is good for community building (i.e. environmental science, or fisheries science).
 
-
+<br>
 
 <!---
+
+### I don’t code/I am a master coder, why should I participate? 
+
+Openscapes Champions is about reframing data analysis as a collaborative effort rather than an individual burden. Our working hypothesis is that normalizing data analysis as a collaborative effort will help build efficiency, continuity, and resilience in your research group, and make science more inclusive and equitable. 
 
 The Champions program is for teams: this means a lead and members. The PI should be invested...
 

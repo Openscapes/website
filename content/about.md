@@ -63,7 +63,7 @@ We expect all participants to adhere to our [Code of Conduct](/code-of-conduct),
 
 ## OUR ART
 
-Allison Horst creates original art for Openscapes, beginning as an artist in residence at NCEAS. Allison is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. She is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
+Allison Horst creates original art for Openscapes, beginning as an artist in residence at NCEAS. Allison is an [Assistant Teaching Professor](https://bren.ucsb.edu/people/allison-horst) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. She is also one of the inaugural Openscapes Champions. With a background in the fine arts, she also works digitally; see her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
 
 See all of Allison's open landscapes on the [**gallery page**](/gallery).
 

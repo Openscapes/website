@@ -49,13 +49,10 @@ Click image to open at high resolution in a new tab.
 
 ## Seaside Chat illustration
 
-Let's normalize talking about data (analysis)
+Let's normalize talking about data (analysis)!
 
 <br>
-
-<a href="/img/horst-seaside-chats.png" target="_blank">
-<img src="/img/horst-seaside-chats.png" width="1100px">
-</a>
+<img src="/img/horst-seaside-chats.png" width="700px">
 
 <br>
 

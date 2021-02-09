@@ -5,7 +5,35 @@ keywords = ["FAQ"]
 +++
 
 
-## FAQs
+## CHAMPIONS PROGRAM FAQs
+
+### I don’t code/I am a master coder, why should I participate? 
+
+Openscapes Champions is about building efficiency, continuity, and resilience in your research group, and reframing data analysis as a collaborative effort rather than an individual burden. We help strengthen shared workflows that prioritize inclusion and empowerment around open data science within and beyond your team.
+
+### What is a team/How do I choose my team? 
+
+We designed the Openscapes Champions program with research groups in mind, to provide resilience where folks are constantly joining and leaving. Teams don't need to have a specific shared research project. The idea is that by developing shared open data science habits within the research group, it will be more resilient, easier to onboard new folks and offboard knowledge/data/code/etc when folks leave. And, it will empower everyone to seed this change more broadly within their current communities and as they move on to other positions (i.e. when grad students defend).
+
+The Champions Program is structured for teams with the intent that research group leads (faculty, lecturers, program managers, etc) and members (students, post-docs, analysts, lab managers, etc.) participate as a team together. This is a strategy so that the lead does not necessarily have to be an expert/comfortable with open data science to enable their team to design open data science workflows. Group leads and members participate together so that: 
+
+1. everyone sees and values what is possible with open data science 
+2. leads enable members to invest time in learning skills and developing shared workflows as part of their jobs
+3. members have guidance, agency, and support to incorporate open data science concepts into their work
+4. everyone champions open data science and contributes to growing the community of practice within the research group, institution, and beyond, in whatever capacity their roles and circumstances (time limitations & responsibilities) allow. 
+
+The “homework” between Champions sessions and beyond is to meet as a full research group (beyond workshop participants, and optional for the lead) to establish shared workflows and habits within the research group. 
+
+
+## Does a team need a shared research project?
+
+No, the idea is to help individuals within a research group *see* themselves as part of a team. This team includes most importantly Future so you can spend more time on answering awesome research questions rather than trying to make sense of `data_analysis_finalv2b.xls`. But it also includes Future Us in the research group, so that onboarding and offboarding is more efficient and science is more inclusive and equitable.
+
+## Does a cohort need a shared research project or be closely related?
+
+No, the cohort does not need a shared project; each team will work on what they need to for their own research. Teams within a cohort do not need to be closely related, but having teams somewhat related is good for community building (i.e. environmental science, or fisheries science).
+
+
 
 <!---
 

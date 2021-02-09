@@ -4,7 +4,7 @@ description = "About"
 keywords = ["art"]
 +++
 
-# Original art for Openscapes by Allison Horst.
+# Original Openscapes artwork by Allison Horst
 
 <!---
 
@@ -14,11 +14,7 @@ TODO Add:
 
 --->
 
-**Please credit this Openscapes artwork with:** "Artwork for <a href="https://twitter.com/openscapes">@openscapes</a> (illustrated by <a href="https://twitter.com/allison_horst">@allison_horst</a>)."
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
-
-Please see more of Allison's [artwork on github](https://github.com/allisonhorst/stats-illustrations). 
+Artwork by Dr. Allison Horst helps bring Openscapes ideas and feelings to life, we are so grateful to work with her. 
 
 ## Open landscapes
 Click image to open at high resolution in a new tab. 
@@ -77,7 +73,8 @@ From Allison's [openscapes artwork on github](https://github.com/allisonhorst/st
 
 An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> schematic from Grolemund & Wickham, with environmental data science, communities, and communication added: 
 
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/openscapes/environmental-data-science-r4ds.png" width="700">
+<img src="/img/blog/eco-r4ds.png" width="700px">
+<br>
 
 And here's the same illustration as above, but with room for you to add your own organizations/communities in the green donut!
 

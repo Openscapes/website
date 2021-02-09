@@ -5,7 +5,7 @@ keywords = ["partners"]
 +++
 
 
-## Our Partners
+## Current Partners
 
 **[Allison Horst](https://www.allisonhorst.com/)** is a [lecturer of data science and statistics](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) at the Bren School of Environmental Science & Management at the University of California at Santa Barbara. With a background in the fine arts, she also works digitally; see her Openscapes [open landscapes](/gallery), her [stats illustrations](https://github.com/allisonhorst/stats-illustrations) and follow her on [Twitter](https://twitter.com/allison_horst). 
 

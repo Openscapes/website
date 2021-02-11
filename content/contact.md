@@ -20,15 +20,18 @@ We are excited to grow the Openscapes community and open data science communitie
 
 We are [@openscapes](https://twitter.com/openscapes) on Twitter. We tweet about Openscapes news and events, amplify Openscapes Champions, and sporadically retweet other awesome things going on around environmental open data science. Tag us in your tweets about your open data science wins and challenges and we'll retweet!
 
-### Book a Champions Cohort or Workshop
-
-It is now possible to book complete Openscapes Champions Cohorts and Workshops! Cohorts are led remotely over 5 months, and Workshops are led in-person for 2 full days, and both involve 7-10 participating research groups. Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking.
-
 ### Join our mailing list
 
 Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform?usp=sf_link) to receive infrequent emails from Openscapes so you can be aware of opportunities to participate in and amplify Openscapes efforts as they unfold.
 
-Additionally, as we grow, we will welcome members of the open community to be involved as mentors, à la [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/). If you are interested, please indicate your interest on the mailing list sign up. 
+### Join an upcoming event
+
+Please see our [events page](https://openscapes.github.io/events) for upcoming Community Calls, public talks, and opportunities through the Champions program. 
+
+### Book a Champions Cohort or Workshop
+
+It is now possible to book complete Openscapes Champions Cohorts and Workshops! Cohorts are led remotely over 5 months, and Workshops are led in-person for 2 full days, and both involve 7-10 participating research groups. Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking.
+
 
 ### Talk with your colleagues
 
@@ -44,6 +47,14 @@ As you plan department seminar series, conferences, or webinar series, consider 
 ### Build and join local communities
 Allison's tidy tuesday post
 Additionally, there are many ways you can [help build and strengthen communities at your institution](/blog/2018/11/06/build-communities/).  
+
+
+Our roots are in better science in less time. Here are some of the ways that is put into practice: 
+
+https://scholar.google.com/scholar?cites=12740744150044759412&as_sdt=2005&sciodt=0,5&hl=en
+
+https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155
+
 
 --->
 

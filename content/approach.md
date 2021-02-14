@@ -20,7 +20,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **Openscapes Framework**. A skill-building and community engagement framework for research communities. This is a multi-year series of events (including Champions Cohorts) to build technical and leadership skills that is co-designed with partners to meet specific community needs. 
 
-Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.
+Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers, communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.
 
 
 <br>
@@ -45,7 +45,7 @@ By supporting research teams, we see open data science tools > open, reproducibl
 
 <center>
   <a><img src="/img/horst_pew_tools_practice_mindset.png" width="500px"></a>
-  <figcaption> As teams tackle research questions (blue), their approaches (grey) can be accelerated through open data science practices (green), <br> which are underpinned by existing open source tools (orange). Art by [Allison Horst](https://twitter.com/allison_horst).
+  <figcaption> Openscapes Theory of Change: As teams tackle research questions (blue), their approaches (grey) can be accelerated through <br> open data science practices (green), which are underpinned by existing open source tools (orange). Art by [Allison Horst](https://twitter.com/allison_horst).
  </figcaption>
 </center>
 

@@ -24,8 +24,8 @@ Openscapes Champions is a mentorship program for research groups. Centered aroun
 Openscapes empowers scientists by: 
 
 - mentoring them to become champions for open practices
-- supporting them to improve open practices within their labs and campuses
-- amplifying their stories and successes online
+- supporting them to improve open practices within their research groups and campuses
+- amplifying their stories and successes, and enabling them as leaders
 
 <!---Through mentorship meetings with Champions and members of their labs, Openscapes provides these emerging scientific leaders to have the opportunity to engage with existing open practices and guide their labs take the next steps appropriate for them.
 
@@ -46,15 +46,15 @@ https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-da
 
 ## OUTCOMES
 
-Openscapes Champions work towards building an efficient, open culture within their labs, and modeling that behavior to the broader campus community.
+Openscapes Champions work towards building an efficient, open culture within their research groups, and modeling that behavior to broader campus and science communities.
 
 Openscapes Champions will be better equipped to:
 
-- promote open data science practices in their labs and departments
-- enable an open culture in their lab, such as having
+- promote open data science practices in their research groups and beyond
+- enable an open culture in their research group, such as having
   - dedicated “data workflow” lab meetings
   - stated code of conduct or lab philosophy
-  - beginnings of a lab roadmap of shared practices for data workflows
+  - beginnings of a research group roadmap of shared practices for data workflows
 - cultivate a local community of practice through study groups on campus (example: [Eco-Data-Science](http://eco-data-science.github.io/))
 
 <center><img src="/img/horst_openscapes_desert_tortoise.png" width="100px"></center>
@@ -99,9 +99,9 @@ The Openscapes Champions [Cohorts page](/cohorts) lists the inspiring research g
 
 So what do we teach during five months of remote calls with the Champion Cohorts?
 
-The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, trust, and creating the culture we want in science. 
+The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, inclusion, trust, and creating the culture we want in science. 
 
-We discuss topics described in the [Openscapes Lessons Series](https://openscapes.github.io/series/), which is improved iteratively and openly, with the most recent version is always available online. It is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). This article is a retrospective of how a team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to incrementally make similar progress themselves, no matter where they are starting from. 
+We discuss topics described in the [Openscapes Lessons Series](https://openscapes.github.io/series/), which is improved iteratively and openly, with the most recent version is always available online. It is framed around [Lowndes *et al. 2017, Nature Ecology & Evolution*: Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160). This article is a retrospective of how a research team's data workflow changed over four years; the Openscapes Series aims to help guide other labs to accelerate that timeline and incrementally make similar progress themselves, no matter where they are starting from. 
 
 <br>
 

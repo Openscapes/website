@@ -17,8 +17,9 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **Openscapes Framework**. A skill-building and community engagement framework for research communities. This is a multi-year series of events (including Champions Cohorts) to build technical and leadership skills that is co-designed with partners to meet specific community needs. 
 
+<!---
 Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers, communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.
-
+--->
 
 <br>
 
@@ -36,7 +37,7 @@ We share our most current thinking and showcase community efforts through talks 
 
 **We believe that open data science can empower robust, inclusive, and enduring impact in science and scientific culture.** Openscapes is designed around the theory that when teams engage in open data science it improves their scientific impact while creating a kinder, more inclusive culture in a cascading way — within research teams, communities, science, and far beyond.
 
-By supporting research teams, we see open data science tools > open, reproducible, collaborative, and inclusive practices > open mindsets and new questions asked > new questions answered and action taken. We are iterating our [Theory of Change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn. It can be summarized with this illustration: 
+By engaging, empowering, and amplifying research teams, we see open data science tools > transparent, reproducible, and collaborative practices > inclusive mindsets and new questions asked > new questions answered and action taken. We are iterating our [Theory of Change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn. It can be summarized with this illustration: 
 
 <br> 
 

@@ -41,7 +41,7 @@ By supporting research teams, we see open data science tools > open, reproducibl
 
 <center>
   <a><img src="/img/horst_pew_tools_practice_mindset.png" width="500px"></a>
-  <figcaption> As teams tackle research questions (blue), their approaches (grey) can be accelerated through open data science practices (green), which are underpinned by existing open source tools (orange). Art by [Allison Horst](https://twitter.com/allison_horst).
+  <figcaption> As teams tackle research questions (blue), their approaches (grey) can be accelerated through open data science practices (green), <br> which are underpinned by existing open source tools (orange). Art by [Allison Horst](https://twitter.com/allison_horst).
  </figcaption>
 </center>
 

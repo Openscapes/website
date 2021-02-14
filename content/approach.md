@@ -6,7 +6,11 @@ keywords = ["inclusion","movement","questions","what if"]
 
 **We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. 
 
----
+<br>
+
+<center><img src="/img/openscapes_hex_design_final_correct_dimensions.png" width="100px"></center>
+
+<br>
 
 **We approach open science as a spectrum, as a behavior change, and as a movement**. We see data analysis as an entryway to meet scientists where they are, helping them develop new skillsets and mindsets while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in the social justice, climate action, and get out the vote movements. We define **open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.** 
 

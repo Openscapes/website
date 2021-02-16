@@ -35,9 +35,15 @@ We share our most current thinking and showcase community efforts through talks 
 
 ## OUR THEORY OF CHANGE
 
+Our theory of change is that by engaging, empowering, and amplifying researchers with open habits and mindsets for data analysis, they become leaders in the open science movement and have more enduring scientific impact while also creating a kinder, more inclusive scientific culture.
+
+<!---
 **We believe that open data science can empower robust, inclusive, and enduring impact in science and scientific culture.** Openscapes is designed around the theory that when teams engage in open data science it improves their scientific impact while creating a kinder, more inclusive culture in a cascading way — within research teams, communities, science, and far beyond.
 
-By engaging, empowering, and amplifying research teams, we see open data science tools > transparent, reproducible, and collaborative practices > inclusive mindsets and new questions asked > new questions answered and action taken. We are iterating our [Theory of Change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn. It can be summarized with this illustration: 
+By engaging, empowering, and amplifying research teams, we see open data science tools > transparent, reproducible, and collaborative practices > inclusive mindsets and new questions asked > new questions answered and action taken.
+--->
+
+We are iterating our [theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn, and have also summarized it with this illustration: 
 
 <br> 
 

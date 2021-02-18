@@ -83,6 +83,8 @@ Erin plenary
 
 --->
 
+- Open practices for better science in less time — February 24, 2021: Environment and Climate Change Canada (40 minutes)
+
 - [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/11zgFIzYaMMsNTQVpUY5z3GnPUqTKQLJFTUsF4gi3qQ4/edit?usp=sharing) — February 10, 2021: NASA's Earth Science Data System Working Groups (ESDSWG) (5 minutes)
 
 - [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit?usp=sharing) — December 16, 2020 Invest in Open's [Joint Roadmap for Open Science Tools (JROST) Conference](https://investinopen.org/community/jrost-2020-conference/) (5 minutes)

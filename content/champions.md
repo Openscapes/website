@@ -107,6 +107,6 @@ We discuss topics described in the [Openscapes Lessons Series](https://openscape
 
 ## FAQ
 
-Learn more from [Frequently Asked Questions](/faq). 
+Learn more about how research groups participate in our [Frequently Asked Questions](/faq). 
 
 <br>

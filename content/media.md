@@ -40,7 +40,7 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## MEDIA
 
-- [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2020. *SPARC Impact Stories*
+- [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2021. *SPARC Impact Stories*
 
 - [Using Git to Drive Better Science with Dr. Julie Lowndes](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes) — Kate Wing. September 17, 2020. *Intertidal Podcast*.
 
@@ -80,7 +80,8 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <!---
 Erin plenary
-
+UF
+CascadiaR keynote
 --->
 
 - [Open practices for better science in less time](https://openscapes.github.io/slides/betterscience/environment-canada#1) — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes)

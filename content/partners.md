@@ -13,6 +13,8 @@ keywords = ["partners"]
 
 **[Amanda Tan](https://escience.washington.edu/people/amanda-tan/)** is a data scientist with the [eScience Institute](https://escience.washington.edu/) at the University of Washington. She primarily helps researchers migrate their work to the cloud and facilitates strategies for open data access, effective data visualization and collaborative cloud-based tools. Amanda received her PhD in Civil and Environmental Engineering from the University of Washington with a focus on understanding water resources management in developing countries. She is currently building decision support frameworks through cloud-based delivery models.
 
+**[The Carpentries](https://carpentries.org/)** teach foundational coding and data science skills to researchers worldwide. They are a diverse, global community includes instructors, helpers, trainers, maintainers, mentors, community champions, member organisations, supporters, workshop organisers, staff and a whole lot more. Follow them on [Twitter](https://twitter.com/thecarpentries/) or explore other ways to [get involved](https://carpentries.org/volunteer/). 
+
 <br>
 
 <!---

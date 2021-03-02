@@ -26,7 +26,7 @@ Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3
 
 ### Join an upcoming event
 
-Please see our [events page](https://openscapes.github.io/events) for upcoming Community Calls, public talks, and opportunities through the Champions program. 
+Please see our [events page](https://openscapes.github.io/events) for upcoming Community Calls and opportunities through the Champions Program. 
 
 ### Book a Champions Cohort or Workshop
 

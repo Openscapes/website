@@ -21,9 +21,11 @@ We hope your March is off to a good start. We have three upcoming opportunities 
 
 <br>
 
-### Upcoming events
+## Upcoming events
 
 You’ll find all of these opportunities and sign-up information on our new events page: **[openscapes.org/events](https://openscapes.github.io/events)**
+
+<br>
 
 [**Interview with Dr. Dawn Wright at MozFest – March 8 10:15am PST**](https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/)
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - champions
   - newsletter
-banner: img/blog/zoom_erin_julie_square.png
+banner: img/blog/mrlowndes_DSCF1808-HDR.jpg
 ---
 
 *Welcome to Openscapes’ second newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our [get involved](https://openscapes.org/contact) page.* 
@@ -25,12 +25,28 @@ You’ll find all of these opportunities and sign-up information on our new even
 
 **Interview with Dr. Dawn Wright at MozFest – March 8 10:15am PST**
 
-Please join us for a conversation with [Dr. Dawn Wright](https://twitter.com/deepseadawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This is our first Community Call, hosted at MozFest, Mozilla’s Internet Festival, and registration is open!
+Please join us for a conversation with [Dr. Dawn Wright](https://twitter.com/deepseadawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This is our first Community Call, hosted at [MozFest](https://schedule.mozillafestival.org/session/Z3JAWA-1), Mozilla’s Internet Festival, and registration is open!
 
+
+<br>
+
+<center>
+  <a><img src="/img/blog/dr-dawn-wright.jpg" width="300px"></a>
+</center>
+
+<br>
 
 **Openscapes Champions: COAST Cohort – May-June**
 
 Announcing a new Openscapes Champions opportunity: a CSU COAST Cohort in May-June 2021! Registration is open for research groups affiliated with the California State University Council on Ocean Affairs, Science & Technology ([CSU COAST](https://twitter.com/csucoast)), which supports researchers and affiliates in the California State University system and is funding this opportunity.
+
+<br>
+
+<center>
+  <a><img src="/img/blog/COAST.png" width="200px"></a>
+</center>
+
+<br>
 
 **Openscapes Champions: CS&S Cohort – May-June**
 Announcing a second Openscapes Champions opportunity: a CS&S Cohort in May-June 2021! Registration is open for environmental research groups through this opportunity sponsored by Code for Science and Society ([CS&S](https://twitter.com/codeforsociety/)), whose event fund supports events that promote inclusion and broaden participation in open data science that drives scholarship.
@@ -72,3 +88,7 @@ Julie and Erin
 
 
 <br>
+
+<img src="/img/blog/mrlowndes_DSCF1808-HDR.jpg" width="300px">  
+Photo by Elliot Lowndes
+

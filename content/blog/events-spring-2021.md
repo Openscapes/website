@@ -69,6 +69,15 @@ We are so grateful for our partners who are helping grow and improve Openscapes.
 Our work with Tara is supported by a grant from Code for Science and Society, and our focus is preparing for our Champions program in May-June. The CS&S Cohort is our first-ever “open call”, where participating groups may not have any pre-established community trust. Through our first conversations, Tara has framed [psychological safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/) as a critical piece of the trust-building, and how we can think about this through a lens of diversity, equity, and inclusion.  
 
 
+<br>
+
+<center>
+  <a><img src="/img/blog/tara-robertson" width="300px"></a>
+</center>
+
+<br>
+
+
 
 ## Openscapes in the Media 
 

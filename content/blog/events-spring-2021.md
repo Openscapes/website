@@ -8,7 +8,7 @@ categories:
 tags:
   - champions
   - newsletter
-banner: img/blog/mrlowndes_DSCF1808-HDR.jpg
+banner: img/blog/mrlowndes_DSCF1808-HDR-square.jpg
 ---
 
 *Welcome to Openscapes’ second newsletter! If you’re interested in seeing these infrequent updates in your inbox, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our [get involved](https://openscapes.org/contact) page.* 

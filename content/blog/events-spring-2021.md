@@ -75,7 +75,7 @@ Our work with Tara is supported by a grant from Code for Science and Society, an
 <br>
 
 <center>
-  <a><img src="/img/blog/tara-robertson" width="300px"></a>
+  <a><img src="/img/blog/tara-robertson.png" width="300px"></a>
 </center>
 
 <br>

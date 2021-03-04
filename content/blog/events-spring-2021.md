@@ -27,7 +27,7 @@ You’ll find all of these opportunities and sign-up information on our new even
 
 [**Interview with Dr. Dawn Wright at MozFest – March 8 10:15am PST**](https://openscapes.github.io/events/posts/2021-03-08-dr-dawn-wright-interview/)
 
-Please join us for a conversation with [Dr. Dawn Wright](https://twitter.com/deepseadawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This is our first Community Call, hosted at [MozFest](https://schedule.mozillafestival.org/session/Z3JAWA-1), Mozilla’s Internet Festival, and registration is open!
+Please join us for a conversation with [Dr. Dawn Wright](https://twitter.com/deepseadawn) about the connections between the open science movement, democratized tech, solution-driven science, and climate change. This is our first Community Call, hosted at [MozFest](https://schedule.mozillafestival.org/session/Z3JAWA-1), Mozilla’s Internet Festival, and space is limited!
 
 
 <br>
@@ -88,7 +88,7 @@ These are a few pieces that we’ve contributed to recently.
 
 [Supporting Open Research Communities During COVID](https://eventfund.codeforscience.org/supporting-open-research-communities-during-covid/) - _Lesack et al. 2021, Code for Science & Society_. This piece co-authored by Erin Robinson shares reflections from a discussion at the Joint Roadmap for Open Science Tools ([JROST](https://investinopen.org/community/jrost-2020-conference/)) conference in December 2020. They provide three tips to guide open research communities that normally rely on in-person community-building events: for newly-launched efforts, for first-time remote events, and for downscaling due to funding constraints.  
 
-[Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) - _SPARC, 2021. _This interview with Julie Lowndes builds from her talk at the National Academies of Science, Engineering, and Medicine (NASEM) Roundtable on Aligning Incentives for Open Science in November 2020. It describes Openscapes as an impact story, a way to help turn open science from an idea into a daily benefit for researchers, that also welcomes them into the broader world of “open”. 
+[Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) - *SPARC, 2021.* This interview with Julie Lowndes builds from her talk at the National Academies of Science, Engineering, and Medicine (NASEM) Roundtable on [Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science) in November 2020. It describes Openscapes as an impact story, a way to help turn open science from an idea into a daily benefit for researchers, that also welcomes them into the broader world of “open”. 
 
 <br>
 

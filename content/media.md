@@ -84,7 +84,7 @@ UF  https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917
 CascadiaR keynote
 --->
 
-- [How you can do better science in less time: Open science lessons from the Ocean Health Index & Openscapes](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series (20 minutes)
+- [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series (20 minutes)
 
 - [Open practices for better science in less time](https://openscapes.github.io/slides/betterscience/environment-canada#1) — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes)
 

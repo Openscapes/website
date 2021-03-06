@@ -80,11 +80,12 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 <!---
 Erin plenary
-UF  https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing 
 CascadiaR keynote
 --->
 
-- [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series (20 minutes)
+- [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series with Dr. Marcus Beck: [Open science lessons from Tampa Bay ](https://www.canva.com/design/DAEXu-oE6M4/o4okxvLdSs6t3lrxfqApkA/edit#1) (20 minutes each) 
+
+<!---https://twitter.com/colorsofscience/status/1367957167295373315--->
 
 - [Open practices for better science in less time](https://openscapes.github.io/slides/betterscience/environment-canada#1) — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes)
 

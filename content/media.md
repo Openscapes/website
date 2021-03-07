@@ -87,7 +87,7 @@ CascadiaR keynote
 
 <!---https://twitter.com/colorsofscience/status/1367957167295373315--->
 
-- [Open practices for better science in less time](https://openscapes.github.io/slides/betterscience/environment-canada#1) — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes)
+- [Open practices for better science in less time](https://openscapes.github.io/slides/betterscience/environment-canada#1) — February 24, 2021: Open Science Community of Practice, Environment and Climate Change Canada (40 minutes) ([video](https://youtu.be/F1Df1Macz0g))
 
 - [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/11zgFIzYaMMsNTQVpUY5z3GnPUqTKQLJFTUsF4gi3qQ4/edit?usp=sharing) — February 10, 2021: NASA's Earth Science Data System Working Groups (ESDSWG) (5 minutes)
 

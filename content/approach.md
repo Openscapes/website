@@ -4,18 +4,18 @@ description = "Openscapes approach"
 keywords = ["inclusion","movement","questions","what if"]
 +++
 
-**We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. We call this kinder science. 
+**We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. We work towards **kinder science.** 
 
 
 <center><img src="/img/openscapes_hex_design_final_correct_dimensions.png" width="150px"></center>
 
-**We approach open science as a spectrum, as a behavior change, and as a movement**. We see data analysis as an entryway to meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in the social justice, climate action, and get out the vote movements. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
+**We approach open science as a spectrum, as a behavior change, and as a movement**. There are many ways to practice open science and to empower others. We see data analysis as a powerful entryway for open science, and we meet scientists where they are, helping them develop new skillsets and mindsets of immediate value while empowering them as leaders. We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. 
 
 We know that daily demands leave little time for researchers to transition to better data practices and open science, which can be lonely and overwhelming. <!---We created Openscapes from our own research experiences as an approach to [better science in less time](https://www.nature.com/articles/s41559-017-0160). ---> **Openscapes helps researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams**. We do this through mentorship, coaching, training, and community organizing, leveraging existing [resources](/resources) from the open community along with our own. Our activities include: 
 
 1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
-1. **Openscapes Framework**. A skill-building and community engagement framework for research communities. This is a multi-year series of events (including Champions Cohorts) to build technical and leadership skills that is co-designed with partners to meet specific community needs. 
+1. **Openscapes Framework**. A skill-building and community engagement framework for research communities that can be co-designed with partners to meet specific community needs. It is a year-long series of events, including the Champions Program, that is repeated over multiple years to strengthen skills, habits, leadership, and culture. 
 
 <!---
 Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers, communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.
@@ -55,7 +55,7 @@ We are iterating our [theory of change](https://docs.google.com/spreadsheets/d/e
 
 <br> 
 
-In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. 
+In mentoring research teams, we are interested in evaluating and understanding which open data science tools are adopted, who participates, and how questions and mindsets shift. Our hypothesis is that adoption of open data science tools will lead to robust, data-driven outcomes; that participation in open data science practices will lead to deeper inclusion and belonging; and that shifting mindsets and questions asked will lead to enduring partnerships and expanded questions. We define open data science as the tools and practices enabling reproducible, transparent, and inclusive data-driven research.
 
 ***What is a Theory of Change?***   
 A Theory of Change (TOC) is a way to think through and communicate the goals of a project to help track progress when it's not possible to use more traditional metrics (i.e. revenue). The purpose is to articulate the overall aim/long-term impact, and the outcomes expected through the activities you do. Outcomes must be measurable (through appropriate indicators) so you can use the TOC to track progress.

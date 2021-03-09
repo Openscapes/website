@@ -4,7 +4,7 @@ description = "Openscapes approach"
 keywords = ["inclusion","movement","questions","what if"]
 +++
 
-**We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. 
+**We believe open practices can accelerate data-driven research and increase diversity, equity, inclusion, and belonging in science**. These are critical to uncovering enduring science-based solutions faster, as well as for the well-being and resilience of research communities. We call this kinder science. 
 
 
 <center><img src="/img/openscapes_hex_design_final_correct_dimensions.png" width="150px"></center>

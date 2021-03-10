@@ -14,7 +14,7 @@ banner: img/blog/nasa-logo.png
 
 We are thrilled to announce that we have been awarded a 3-year grant from NASA! 
 
-Together with the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)), University of Washington [eScience Institute](https://escience.washington.edu/), [Metadata Game Changers](https://metadatagamechangers.com/), [2i2c](https://2i2c.org/) and [The Carpentries](https://carpentries.org/), we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) migrating workflows to the cloud. 
+Together with the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)), University of Washington [eScience Institute](https://escience.washington.edu/), [Metadata Game Changers](https://metadatagamechangers.com/), [2i2c](https://2i2c.org/), and [The Carpentries](https://carpentries.org/), we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) migrating workflows to the cloud. 
 
 <br>
 
@@ -57,7 +57,7 @@ This framework will be repeated and improved each year, with DAAC mentors increa
 Another exciting thing about this project is the opportunity to expand our partners! 
 
 - [Julie Lowndes](https://www.openscapes.org/about/), NCEAS, UC Santa Barbara, is the Principal Investigator for this project and is the founder of Openscapes. She will lead the Champions program and communication efforts. 
-- [Amanda Tan](https://escience.washington.edu/people/amanda-tan/), eScience Institute, University of Washington is a co-Investigator on this project. Amanda has led the development of Carpentry style training material for NASA data on the cloud through an [ESIP Incubator Award](https://github.com/ESIPFed/open-data-education). In this project she will support DAAC mentors as they create and implement training material in the Carpentries’ style. 
+- [Amanda Tan](https://escience.washington.edu/people/amanda-tan/), eScience Institute, University of Washington is a co-Investigator. Amanda has led the development of Carpentries-style training material for NASA data on the cloud through an [ESIP Incubator Award](https://github.com/ESIPFed/open-data-education). In this project she will support DAAC mentors as they create and implement training material. 
 - [Erin Robinson](https://metadatagamechangers.com/about-erin), Metadata Game Changers, will support community engagement as a consultant based on her extensive work in the NASA Earth science data community.  
 
 This project allows us to partner with organizations that share Openscapes’ values of open, reproducible, and inclusive science: 

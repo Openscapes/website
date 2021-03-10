@@ -5,7 +5,6 @@ date: '2021-03-10'
 slug: nasa-announcement
 categories:
   - community
-draft: true
 banner: img/blog/nasa-logo.png
 ---
 

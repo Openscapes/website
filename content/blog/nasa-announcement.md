@@ -26,7 +26,7 @@ We are thrilled to announce that we have been awarded a 3-year grant from NASA! 
 
 The Openscapes Framework is a scalable leadership training and community building framework developed by Openscapes that we will use over three years to support NASA DAAC researchers migrating to the cloud. We designed the Openscapes Framework building off Openscapes’ flagship Champions program, which provides cohort-based open data science mentorship for research teams. 
 
-The Framework has three components: 
+**The Framework has three components:** 
 
 ***Engage DAAC mentors.*** Support and strengthen the community of DAAC folks that are already creating cloud learning resources. Through [Openscapes](https://www.openscapes.org/) mentorship, [Carpentries](https://carpentries.org/) instructor training, and [2i2c](https://2i2c.org/) cloud services, these DAAC mentors will work together to create learning resources for their teams and communities.
 
@@ -74,15 +74,17 @@ NASA Earth Science Data Systems missions collect Earth data, including sea ice, 
 Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We [approach](https://www.openscapes.org/approach/) open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. 
 With NASA support, the project team and the partners, the Openscapes Framework fundamentally changes the paradigm for supporting research teams and DAAC mentors, first to work more openly with their teams on the cloud, and ultimately to advance open science!   
 
-### Get Involved!
-
-We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. That means, we know this isn’t just about us or an effort we can do alone. We are always looking to learn and build from, with, and for others. Please find us on Twitter [@openscapes](https://twitter.com/openscapes) or join our [newsletter](https://openscapes.org/contact).  
-
 <br>
 
 <center>
-  <a><img src="/img/blog/nasa-worm.jpeg" width="500px"></a>
+  <a><img src="/img/blog/nasa-worm.jpeg" width="300px"></a>
 </center>
+
+<br>
+
+### Get Involved!
+
+We are influenced and inspired by many leaders and community organizers, particularly in climate justice and get out the vote movements. That means, we know this isn’t just about us or an effort we can do alone. We are always looking to learn and build from, with, and for others. Please find us on Twitter [@openscapes](https://twitter.com/openscapes) or join our [newsletter](https://openscapes.org/contact).  
 
 <br>
 

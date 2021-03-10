@@ -12,7 +12,7 @@ banner: img/blog/nasa-logo.png
 
 ## Announcing the NASA Openscapes Framework
 
-We are thrilled to announce that [Openscapes](https://openscapes.org), an initiative operated at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, has been awarded a 3-year grant from NASA! Together with University of Washington eScience Institute, Metadata Game Changers, 2i2c and The Carpentries, we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) practice open science and migrate workflows to the cloud. 
+We are thrilled to announce that we have been awarded a 3-year grant from NASA! Together with the National Center for Ecological Analysis and Synthesis (NCEAS), University of Washington eScience Institute, Metadata Game Changers, 2i2c and The Carpentries, we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) practice open science and migrate workflows to the cloud. 
 
 <br>
 

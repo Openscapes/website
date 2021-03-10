@@ -54,7 +54,7 @@ This framework will be repeated and improved each year, with DAAC mentors increa
 
 ### Expanding our partners
 
-Another exciting thing about this project is the opportunity to expand our partners! 
+Another exciting thing about this project is the opportunity to expand [our partners](/partners)! 
 
 - [Julie Lowndes](https://www.openscapes.org/about/), NCEAS, UC Santa Barbara, is the Principal Investigator for this project and is the founder of Openscapes. She will lead the Champions program and communication efforts. 
 - [Amanda Tan](https://escience.washington.edu/people/amanda-tan/), eScience Institute, University of Washington is a co-Investigator. Amanda has led the development of Carpentries-style training material for NASA data on the cloud through an [ESIP Incubator Award](https://github.com/ESIPFed/open-data-education). In this project she will support DAAC mentors as they create and implement training material. 

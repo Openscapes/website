@@ -81,7 +81,7 @@ We are influenced and inspired by many leaders and community organizers, particu
 <br>
 
 <center>
-  <a><img src="/img/blog/nasa-worm.png" width="500px"></a>
+  <a><img src="/img/blog/nasa-worm.jpeg" width="500px"></a>
 </center>
 
 <br>

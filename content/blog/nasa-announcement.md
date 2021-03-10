@@ -74,13 +74,9 @@ NASA Earth Science Data Systems missions collect Earth data, including sea ice, 
 Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We [approach](https://www.openscapes.org/approach/) open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. 
 With NASA support, the project team and the partners, the Openscapes Framework fundamentally changes the paradigm for supporting research teams and DAAC mentors, first to work more openly with their teams on the cloud, and ultimately to advance open science!   
 
-<br>
-
 <center>
   <a><img src="/img/blog/nasa-worm.jpeg" width="300px"></a>
 </center>
-
-<br>
 
 ### Get Involved!
 

@@ -1,7 +1,7 @@
 ---
 title: "Announcing the NASA Openscapes Framework"
 author: Erin Robinson, Amanda Tan, Julie Lowndes
-date: '2021-03-09'
+date: '2021-03-10'
 slug: nasa-announcement
 categories:
   - community

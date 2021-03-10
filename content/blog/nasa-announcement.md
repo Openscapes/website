@@ -14,7 +14,7 @@ banner: img/blog/nasa-logo.png
 
 We are thrilled to announce that we have been awarded a 3-year grant from NASA! 
 
-Together with the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)), University of Washington [eScience Institute](https://escience.washington.edu/), [Metadata Game Changers](https://metadatagamechangers.com/), [2i2c](https://2i2c.org/) and [The Carpentries](https://carpentries.org/), we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) practice open science and migrate workflows to the cloud. 
+Together with the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)), University of Washington [eScience Institute](https://escience.washington.edu/), [Metadata Game Changers](https://metadatagamechangers.com/), [2i2c](https://2i2c.org/) and [The Carpentries](https://carpentries.org/), we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) migrating workflows to the cloud. 
 
 <br>
 

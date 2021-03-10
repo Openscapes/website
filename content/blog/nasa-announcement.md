@@ -12,7 +12,9 @@ banner: img/blog/nasa-logo.png
 
 ## Announcing the NASA Openscapes Framework
 
-We are thrilled to announce that we have been awarded a 3-year grant from NASA! Together with the National Center for Ecological Analysis and Synthesis (NCEAS), University of Washington eScience Institute, Metadata Game Changers, 2i2c and The Carpentries, we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) practice open science and migrate workflows to the cloud. 
+We are thrilled to announce that we have been awarded a 3-year grant from NASA! 
+
+Together with the National Center for Ecological Analysis and Synthesis ([NCEAS](https://nceas.ucsb.edu)), University of Washington [eScience Institute](https://escience.washington.edu/), [Metadata Game Changers](https://metadatagamechangers.com/), [2i2c](https://2i2c.org/) and [The Carpentries](https://carpentries.org/), we are answering the call from NASA to support researchers from the NASA Distributed Active Archive Centers (DAACs) practice open science and migrate workflows to the cloud. 
 
 <br>
 
@@ -28,7 +30,7 @@ The Openscapes Framework is a scalable leadership training and community buildin
 
 **The Framework has three components:** 
 
-***Engage DAAC mentors.*** Support and strengthen the community of DAAC folks that are already creating cloud learning resources. Through [Openscapes](https://www.openscapes.org/) mentorship, [Carpentries](https://carpentries.org/) instructor training, and [2i2c](https://2i2c.org/) cloud services, these DAAC mentors will work together to create learning resources for their teams and communities.
+***Engage DAAC mentors.*** Support and strengthen the community of DAAC folks that are already creating cloud learning resources. Through Openscapes mentorship, Carpentries instructor training, and 2i2c cloud services, these DAAC mentors will work together to create learning resources for their teams and communities.
 
 - We are so excited to have five DAACs in this first cohort including the [Atmospheric Science Data Center (ASDC)](https://asdc.larc.nasa.gov/), [Goddard Earth Sciences Data and Information Services (GES DISC)](https://disc.gsfc.nasa.gov/), [Land Processing (LP DAAC)](https://lpdaac.usgs.gov/), [National Snow and Ice Data Center (NSIDC)](https://nsidc.org/daac) and [Physical Oceanography DAAC  (PO.DAAC)](https://podaac.jpl.nasa.gov/).
 - Each DAAC selected 2-3 mentors, who are already leading the way in helping researchers utilize the Cloud. Our first class of DAAC mentors includes: 

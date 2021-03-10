@@ -93,6 +93,7 @@ Teaching official university courses is a great idea! These are a few examples o
 Grant https://grantmcdermott.com/teaching/
 Carl Boettiger
 
+https://ds4biomed.tech/setup.html#r-rstudio
 Dan Ovando: https://github.com/super-advanced-r-fall-2019 & 
 https://docs.google.com/document/d/1S63IHjNBk8e7St6XcyqhVu98qpuRTUx3DHYqzWKYDys/edit
 

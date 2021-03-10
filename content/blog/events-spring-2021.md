@@ -5,8 +5,8 @@ date: '2021-03-04'
 slug: events-spring-2021
 categories:
   - community
-tags:
   - champions
+tags:
   - newsletter
 banner: img/blog/mrlowndes_DSCF1808-HDR-square.jpg
 ---

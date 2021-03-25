@@ -42,7 +42,9 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 - [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. *NASA Earth Data*
 
-<!---https://twitter.com/NASAEarthData/status/1374761368214196233--->
+<!---https://twitter.com/NASAEarthData/status/1374761368214196233
+https://twitter.com/mozilla/status/1375101206943703047
+--->
 
 - [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2021. *SPARC Impact Stories*
 

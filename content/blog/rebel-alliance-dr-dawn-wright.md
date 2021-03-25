@@ -8,13 +8,22 @@ categories:
 tags:
   - impact
   - community-call
-banner: img/blog/mozfest-dawn-lego-london-square.png
+banner: img/blog/mozfest-welcome-square.png
 ---
 
 
 ***[Openscapes](https://openscapes.org) had the distinct honor to introduce [Dr. Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist of [Esri](https://www.esri.com/en-us/home) to [#mozfest](https://www.mozillafestival.org/en/), Mozilla’s annual Open Festival in early March ([session page](https://schedule.mozillafestival.org/session/Z3JAWA-1), [recording](https://www.youtube.com/watch?v=JGeYYzKvwKk)). The conversation emphasized how science can be both kind and credible. What do you think of when you read ‘kinder science’?***
 
 ---
+
+<br>
+
+<center>
+  <a><img src="/img/blog/mozfest-welcome.png" width="500px"></a>
+  <figcaption> Welcome to our Openscapes session at MozFest! </figcaption>
+</center>
+
+<br> 
 
 Dr. Dawn Wright shared her approach to science, kindness, and leadership through stories of other women that inspire her. She referenced Dr. Hope Jahren, saying that when she talks about science she “can’t keep her own story out of it”. In Jahren’s best-selling memoir, _Lab Girl_, Jahren shares her process, the late nights, the special people, and strange experiences that went into making some amazing scientific discoveries. Similarly, in _All We Can Save_, editors Dr. Ayana Elizabeth Johnson and Dr. Katharine Wilkinson have curated stories from 50+ woman leaders in the climate movement, proving there is power in sharing your science by sharing yourself. And that is an integral part of open science. 
 

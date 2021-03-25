@@ -42,7 +42,6 @@ We asked Wright her vision for the planet as she’d like it to be. She describe
 
 <br>
 
-
 <center>
   <a><img src="/img/blog/mozfest-lego-ideas.png" width="500px"></a>
   <figcaption> Expandable LEGO solar farm created by Rob Nokomis and submitted to [LEGO ideas](https://ideas.lego.com/projects/433555d1-0c81-49eb-8689-5d2d315d87d8) </figcaption>

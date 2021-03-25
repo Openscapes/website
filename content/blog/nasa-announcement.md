@@ -22,6 +22,10 @@ Together with the National Center for Ecological Analysis and Synthesis ([NCEAS]
 
 <br>
 
+**Cross-postings by our partners**
+
+- ***[Metadata Game Changers](https://metadatagamechangers.com/blog/2021/3/10/metadata-game-changers-partners-with-openscapes-in-new-nasa-funded-project)***
+
 ### Building the Openscapes Framework
 
 The Openscapes Framework is a scalable leadership training and community building framework developed by Openscapes that we will use over three years to support NASA DAAC researchers migrating to the cloud. We designed the Openscapes Framework building off Openscapes’ flagship Champions program, which provides cohort-based open data science mentorship for research teams. 

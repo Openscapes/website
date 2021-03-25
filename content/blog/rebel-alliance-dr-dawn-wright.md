@@ -1,7 +1,7 @@
 ---
 title: "'Join the Rebel Alliance' - an Openscapes interview with Dr. Dawn Wright at MozFest"
 author: Erin Robinson, Dawn Wright, Julie Lowndes
-date: '2021-03-25'
+date: '2021-03-40'
 slug: rebel-alliance-dr-dawn-wright
 categories:
   - community
@@ -12,7 +12,9 @@ banner: img/blog/mozfest-dawn-lego-london-square.png
 ---
 
 
-**[Openscapes](https://openscapes.org) had the distinct honor to introduce [Dr. Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist of [Esri](https://www.esri.com/en-us/home) to [#mozfest](https://www.mozillafestival.org/en/), Mozilla’s annual Open Festival in early March ([session page](https://schedule.mozillafestival.org/session/Z3JAWA-1), [recording](https://www.youtube.com/watch?v=JGeYYzKvwKk)). The conversation emphasized how science can be both kind and credible. What do you think of when you read ‘kinder science’?** 
+***[Openscapes](https://openscapes.org) had the distinct honor to introduce [Dr. Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist of [Esri](https://www.esri.com/en-us/home) to [#mozfest](https://www.mozillafestival.org/en/), Mozilla’s annual Open Festival in early March ([session page](https://schedule.mozillafestival.org/session/Z3JAWA-1), [recording](https://www.youtube.com/watch?v=JGeYYzKvwKk)). The conversation emphasized how science can be both kind and credible. What do you think of when you read ‘kinder science’?***
+
+---
 
 Dr. Dawn Wright shared her approach to science, kindness, and leadership through stories of other women that inspire her. She referenced Dr. Hope Jahren, saying that when she talks about science she “can’t keep her own story out of it”. In Jahren’s best-selling memoir, _Lab Girl_, Jahren shares her process, the late nights, the special people, and strange experiences that went into making some amazing scientific discoveries. Similarly, in _All We Can Save_, – editors Dr. Ayana Elizabeth Johnson and Dr. Katharine Wilkinson have curated stories from 50+ woman leaders in the climate movement, proving there is power in sharing your science by sharing yourself. And that is an integral part of open science. 
 
@@ -40,7 +42,7 @@ We asked Wright her vision for the planet as she’d like it to be. She describe
 <br> 
 
 <center>
-  <a><img src="/img/blog/mozfest-dawn-lego-london.png" width="500px"></a>
+  <a><img src="/img/blog/mozfest-lego-ideas.png" width="500px"></a>
   <figcaption> Expandable LEGO solar farm created by Rob Nokomis and submitted to [LEGO ideas](https://ideas.lego.com/projects/433555d1-0c81-49eb-8689-5d2d315d87d8) </figcaption>
 </center>
 

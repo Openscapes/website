@@ -1,7 +1,7 @@
 ---
 title: "'Join the Rebel Alliance' - an Openscapes interview with Dr. Dawn Wright at MozFest"
 author: Erin Robinson, Dawn Wright, Julie Lowndes
-date: '2021-03-40'
+date: '2021-03-25'
 slug: rebel-alliance-dr-dawn-wright
 categories:
   - community

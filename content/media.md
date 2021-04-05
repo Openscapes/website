@@ -87,7 +87,10 @@ https://twitter.com/mozilla/status/1375101206943703047
 <!---
 Erin plenary
 CascadiaR keynote
+SORTEE plenary
 --->
+
+- [Openscapes for better science in less time, together](https://docs.google.com/presentation/d/1Mc__4NfMlLHvChoAWnvEqUocP8JS9Ya317hHRaZhLnM/edit?usp=sharing) — April 6, 2021: CZI Seed Networks Computational Biology Meeting
 
 - [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit?usp=sharing) — March 25, 2021: NASA ESDS-ESDIS-DAACs-IMPACT Meeting
 

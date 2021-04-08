@@ -22,8 +22,9 @@ Together with the National Center for Ecological Analysis and Synthesis ([NCEAS]
 
 <br>
 
-**Cross-postings by our partners**
+**Articles and cross-postings by our partners**
 
+- ***[NASA Earth Data — Openscapes: Using "The Force" of Open Science in the Cloud ](https://earthdata.nasa.gov/learn/articles/openscapes)***
 - ***[Metadata Game Changers](https://metadatagamechangers.com/blog/2021/3/10/metadata-game-changers-partners-with-openscapes-in-new-nasa-funded-project)***
 
 ### Building the Openscapes Framework

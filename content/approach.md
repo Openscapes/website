@@ -15,7 +15,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
-1. **Openscapes Framework**. An annual community engagement approach for open data science that is repeatable over multiple years to strengthen skills, habits, leadership, and community. It includes our flagship Champions Program, facilitators training, and is co-designed with partners to meet specific community needs. 
+1. **Openscapes Framework**. An annual community engagement approach for open data science that is repeatable over multiple years to strengthen skills, habits, leadership, and community. It includes our flagship Champions Program, facilitators training, and is co-designed with partners to meet specific community needs. See an example of the Openscapes Framework [with NASA](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/).
 
 <!---
 Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers, communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.
@@ -43,7 +43,7 @@ Our theory of change is that by engaging, empowering, and amplifying researchers
 By engaging, empowering, and amplifying research teams, we see open data science tools > transparent, reproducible, and collaborative practices > inclusive mindsets and new questions asked > new questions answered and action taken.
 --->
 
-We are iterating our [theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn, and have also summarized it with this illustration: 
+We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsku45HW-vQCPaVARXIo7a18KHdYxwn_0vk2QdNP5RZ7kUxNyqD466NYiagxZtyqoabXAilK32U5yx/pubhtml?gid=365554279&single=true) as we learn, and have also summarized it with this illustration: 
 
 <br> 
 

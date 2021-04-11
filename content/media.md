@@ -94,7 +94,7 @@ SORTEE plenary
 
 - [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit?usp=sharing) — March 25, 2021: NASA ESDS-ESDIS-DAACs-IMPACT Meeting
 
-- [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series with Dr. Marcus Beck: [Open science lessons from Tampa Bay ](https://www.canva.com/design/DAEXu-oE6M4/o4okxvLdSs6t3lrxfqApkA/edit#1) (20 minutes each) 
+- [How you can do better science in less time](https://docs.google.com/presentation/d/1EGSTC-p0kKCV3TNpc65Kyy1S0OOFmDalO917S0UIRvE/edit?usp=sharing) — March 5, 2021: University of South Florida – College of Marine Science Seminar Series with Dr. Marcus Beck: [Open science lessons from Tampa Bay ](https://www.canva.com/design/DAEXu-oE6M4/o4okxvLdSs6t3lrxfqApkA/edit#1) (20 minutes each) ([video](https://www.youtube.com/watch?v=21qS05Yv3GQ&t=195s))
 
 <!---https://twitter.com/colorsofscience/status/1367957167295373315--->
 

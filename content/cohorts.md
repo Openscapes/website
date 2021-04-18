@@ -16,6 +16,39 @@ Learn about these Champions and their exciting, impactful research on their webs
 
 <br>
 
+## 2020 COHORTS 
+
+**NOAA NWFSC (National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)**, coordinated by Eric Ward and Mary Hunsicker
+
+**Participating teams:** 
+
+- NWFSC CB
+- NWFSC EFS
+- NWFSC FE
+- NWFSC FRAM
+
+<br>
+
+## 2020 COHORT 
+
+**NOAA NEFSC (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)**, coordinated by Scott Large and Gavin Fay
+
+**Participating teams:** 
+
+- NEFSC EDAB
+- NEFSC PDB
+- NEFSC PSB
+- NEFSC SSB
+- Fay Lab, University of Massachusetts Dartmouth
+- WHOI NES-LTER
+
+**Related blog posts**: 
+
+- [Our first Openscapes workshop](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/)
+- [Our Openscapes experience: the Fay Lab](https://www.openscapes.org/blog/2020/03/31/faylab-our-openscapes-experience/)
+
+<br>
+
 ## 2019 COHORT 
 
 <center>
@@ -26,6 +59,8 @@ Learn about these Champions and their exciting, impactful research on their webs
 </center>
 
 <br>
+
+**Participating teams led by**: 
 
 [**Halley Froehlich, PhD**](https://halleyfroehlich.wordpress.com/) — University of California at Santa Barbara. 
 A marine aquaculture & fisheries scientist studying global systems. 

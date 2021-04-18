@@ -66,7 +66,7 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 <br>
 
 <center>
-  <a><img src="/img/blog/Cohort1_zoom.png" width="70px"></a>
+  <a><img src="/img/blog/Cohort1_zoom.png" width="700px"></a>
   <figcaption>Inaugural Champions Cohort, via Zoom.</figcaption>
 </center>
 
@@ -99,7 +99,7 @@ An ecologist studying marine and freshwater parasites and infectious disease in 
 
 <center>
   <a href="https://openscapes.github.io/summit2019/"> 
-    <img src="/img/blog/summit/openscapes-summit-web-champions.png" width="800px">
+    <img src="/img/blog/summit/openscapes-summit-web-champions.png" width="700px">
   </a>
    <figcaption>Screenshot from [Champions Summit 2019](https://openscapes.github.io/summit2019/)</figcaption>
 </center>

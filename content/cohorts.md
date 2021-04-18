@@ -81,7 +81,7 @@ A marine aquaculture & fisheries scientist studying global systems.
 A data science and statistics lecturer in an environmentally-focused graduate program.
 
 [**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — **University of Maine.** 
-A physiologist studying organismal adaptation to their habitat and effects of external environmental factors.
+A physiologist studying organismal adaptation to their habitat & effects of external environmental factors.
 
 [**Malin Pinsky, PhD**](http://pinsky.marine.rutgers.edu/) — **Rutgers University.**
 An ecologist studying the impacts of climate change on ocean life.

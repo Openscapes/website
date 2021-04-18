@@ -32,8 +32,7 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 ## 2020 COHORT 
 
-**NOAA NEFSC Cohort**, sponsored by NOAA, coordinated by Scott Large and Gavin Fay
-
+**NOAA NEFSC Cohort**, sponsored by NOAA, coordinated by Scott Large and Gavin Fay  
 (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)
 
 **Participating teams:** 

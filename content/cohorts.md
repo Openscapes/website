@@ -35,9 +35,11 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 **NOAA NEFSC Cohort**, sponsored by NOAA, coordinated by Scott Large and Gavin Fay  
 (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)
 
+<br>
+
 <center>
   <a href="https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/"> 
-    <img src="/img/blog/tweet-ashleighjnovak-workshop.jpg" width="500px">
+    <img src="/img/blog/tweet-ashleighjnovak-workshop.jpg" width="650px">
   </a>
    <figcaption>Photo by [Ashleigh Novak](https://twitter.com/ashleighjnovak/status/1233401091951333378)</figcaption>
 </center>

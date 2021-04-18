@@ -36,13 +36,12 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)
 
 <br>
-
 <center>
-  <a href="https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/"> 
-    <img src="/img/blog/tweet-ashleighjnovak-workshop.jpg" width="650px">
-  </a>
-   <figcaption>Photo by [Ashleigh Novak](https://twitter.com/ashleighjnovak/status/1233401091951333378)</figcaption>
+  <img src="/img/blog/nefsc_workshop_breakout.jpg" width="800px"></a>
+  <figcaption> NOAA NEFSC Cohort participants
+</figcaption>
 </center>
+<br>
 
 **Participating teams:** 
 

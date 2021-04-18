@@ -18,7 +18,8 @@ Learn about these Champions and their exciting, impactful research on their webs
 
 ## 2020 COHORTS 
 
-**NOAA NWFSC (National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)**, coordinated by Eric Ward and Mary Hunsicker
+**NOAA NWFSC Cohort**, sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker  
+(National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)
 
 **Participating teams:** 
 
@@ -31,7 +32,9 @@ Learn about these Champions and their exciting, impactful research on their webs
 
 ## 2020 COHORT 
 
-**NOAA NEFSC (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)**, coordinated by Scott Large and Gavin Fay
+**NOAA NEFSC Cohort**, sponsored by NOAA, coordinated by Scott Large and Gavin Fay
+
+(National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)
 
 **Participating teams:** 
 
@@ -50,6 +53,8 @@ Learn about these Champions and their exciting, impactful research on their webs
 <br>
 
 ## 2019 COHORT 
+
+**Inaugural Cohort**, sponsored by Mozilla
 
 <center>
   <a href="https://openscapes.github.io/summit2019/"> 

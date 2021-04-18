@@ -12,11 +12,11 @@ keywords = ["FAQ","How do I","questions","what if"]
 </center>
 
 
-Learn about these Champions and their exciting, impactful research on their websites below and through [our blog](/blog) and [media](/media). 
+Learn about these Openscapes Champions and their exciting, impactful research on their websites below and through [our blog](/blog) and [media](/media). 
 
 <br>
 
-## 2020 COHORTS 
+## 2021 COHORTS 
 
 **NOAA NWFSC Cohort**, sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker  
 (National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)

@@ -63,11 +63,11 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 **Inaugural Cohort**, sponsored by Mozilla
 
+<br>
+
 <center>
-  <a href="https://openscapes.github.io/summit2019/"> 
-    <img src="/img/blog/summit/openscapes-summit-web-champions.png" width="800px">
-  </a>
-   <figcaption>Screenshot from [Champions Summit 2019](https://openscapes.github.io/summit2019/)</figcaption>
+  <a><img src="/img/blog/Cohort1_zoom.png" width="70px"></a>
+  <figcaption>Inaugural Champions Cohort, via Zoom.</figcaption>
 </center>
 
 <br>
@@ -98,19 +98,17 @@ An ecologist studying marine and freshwater parasites and infectious disease in 
 <br>
 
 <center>
-  <a><img src="/img/blog/Cohort1_zoom.png" width="650px"></a>
-  <figcaption>Inaugural Champions Cohort, via Zoom.</figcaption>
+  <a href="https://openscapes.github.io/summit2019/"> 
+    <img src="/img/blog/summit/openscapes-summit-web-champions.png" width="800px">
+  </a>
+   <figcaption>Screenshot from [Champions Summit 2019](https://openscapes.github.io/summit2019/)</figcaption>
 </center>
 
 <br>
 
-<!---
-Supercharge
-Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood
---->
+**Related blog posts & media**: 
 
-**Related blog posts**: 
-
+- [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* 2019. Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. 
 - [Openscapes Champions incorporate open practices in their science](https://www.openscapes.org/blog/2019/03/27/champions-incorporate-open-science/)
 - [Openscapes summit reflections — Becoming Champions](https://www.openscapes.org/blog/2019/04/08/summit-reflections1/)
 - [Openscapes summit reflections 2 — Changing the way we do science](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/)

@@ -74,25 +74,25 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 **Participating teams led by**: 
 
-[**Halley Froehlich, PhD**](https://halleyfroehlich.wordpress.com/) — University of California at Santa Barbara. 
+[**Halley Froehlich, PhD**](https://halleyfroehlich.wordpress.com/) — **University of California at Santa Barbara.** 
 A marine aquaculture & fisheries scientist studying global systems. 
 
-[**Allison Horst, PhD**](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) — University of California at Santa Barbara. 
+[**Allison Horst, PhD**](https://www.bren.ucsb.edu/people/Faculty/allison_horst.htm) — **University of California at Santa Barbara.** 
 A data science and statistics lecturer in an environmentally-focused graduate program.
 
-[**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — University of Maine. 
+[**Nishad Jayasundara, PhD**](https://umaine.edu/marine/faculty/nishad-jayasundara/) — **University of Maine.** 
 A physiologist studying organismal adaptation to their habitat and effects of external environmental factors.
 
-[**Malin Pinsky, PhD**](http://pinsky.marine.rutgers.edu/) — Rutgers University.
+[**Malin Pinsky, PhD**](http://pinsky.marine.rutgers.edu/) — **Rutgers University.**
 An ecologist studying the impacts of climate change on ocean life.
 
-[**Adrian Stier, PhD**](https://www.oceanrecoveries.com/) — University of California at Santa Barbara. 
+[**Adrian Stier, PhD**](https://www.oceanrecoveries.com/) — **University of California at Santa Barbara.** 
 A marine ecologist studying recovery and resilience of ocean ecosystems. 
 
-[**Nina Therkildsen, PhD**](https://www.therkildsenlab.com/) — Cornell University. 
+[**Nina Therkildsen, PhD**](https://www.therkildsenlab.com/) — **Cornell University.** 
 An evolutionary biologist using genomic analyses to improve marine conservation and fisheries management.
 
-[**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — University of Washington. 
+[**Chelsea Wood, PhD**](https://chelsealwood.wordpress.com/) — **University of Washington.** 
 An ecologist studying marine and freshwater parasites and infectious disease in a changing world.
 
 <br>

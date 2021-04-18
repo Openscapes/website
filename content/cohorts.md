@@ -98,7 +98,7 @@ An ecologist studying marine and freshwater parasites and infectious disease in 
 <br>
 
 <center>
-  <a><img src="/img/blog/Cohort1_zoom.png" width="500px"></a>
+  <a><img src="/img/blog/Cohort1_zoom.png" width="650px"></a>
   <figcaption>Inaugural Champions Cohort, via Zoom.</figcaption>
 </center>
 

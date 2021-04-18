@@ -97,6 +97,13 @@ An ecologist studying marine and freshwater parasites and infectious disease in 
 
 <br>
 
+<center>
+  <a><img src="/img/blog/Cohort1_zoom.png" width="500px"></a>
+  <figcaption>Inaugural Champions Cohort, via Zoom.</figcaption>
+</center>
+
+<br>
+
 <!---
 Supercharge
 Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood

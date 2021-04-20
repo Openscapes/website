@@ -40,6 +40,10 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## MEDIA
 
+<!---
+- [How junior scientists can land a seat at the leadership table](https://www.nature.com/articles/d41586-021-00956-6) — Kendall Powell. April 13, 2021. *Nature*
+--->
+
 - [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. *NASA Earth Data*
 
 <!---https://twitter.com/NASAEarthData/status/1374761368214196233
@@ -89,6 +93,8 @@ Erin plenary
 CascadiaR keynote
 SORTEE plenary
 --->
+
+- Open science as a movement and the art of Openscapes — June 5, 2021: [CascadiaR Conference](https://cascadiarconf.com/) co-presented with Dr. Allison Horst
 
 - [Openscapes for better science in less time, together](https://docs.google.com/presentation/d/1Mc__4NfMlLHvChoAWnvEqUocP8JS9Ya317hHRaZhLnM/edit?usp=sharing) — April 6, 2021: CZI Seed Networks Computational Biology Meeting
 

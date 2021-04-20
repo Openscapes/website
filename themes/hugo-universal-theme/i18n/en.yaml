@@ -10,9 +10,6 @@
 - id: contactGoTo
   translation: "Go to contact page"
 
-- id: aboutGoTo
-  translation: "Go to about page"
-
 - id: contactAddrTitle
   translation: "Address"
 
@@ -72,3 +69,12 @@
 
 - id: publishedOn
   translation: "on"
+
+- id: 404Error
+  translation: "Error 404: Page not found"
+
+- id: 404Message
+  translation: "We are sorry – this page is not here anymore"
+
+- id: 404NavHome
+  translation: "Go to homepage"

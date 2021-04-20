@@ -48,3 +48,9 @@ If you want the full background image to rotate (rather than images over the bac
 If you want to see a theme that has a hero carousel widget (so where the full image rotates), check out the academic theme: https://github.com/gcushen/hugo-academic/issues/622
 
 This looks like a good tutorial for how to change how the owl javascript widget works: https://webdesign.tutsplus.com/tutorials/how-to-build-a-full-screen-responsive-carousel-slider-with-owljs--cms-31771
+
+## Updating Hugo and theme April 2021
+
+update devcows/hugo-universal-theme after it is not displaying a theme when published:
+`blogdown::install_theme(theme="devcows/hugo-universal-theme", force=TRUE, update_config=FALSE)`
+<https://community.rstudio.com/t/updating-academic-theme-woes/68224>

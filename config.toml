@@ -1,4 +1,4 @@
-baseurl = "https://openscapes.org" 
+baseURL = "https://openscapes.org"
 title = "Openscapes"
 theme = "hugo-universal-theme"
 publishDir = "public"

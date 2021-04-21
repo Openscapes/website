@@ -49,7 +49,7 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 - NEFSC PDB
 - NEFSC PSB
 - NEFSC SSB
-- Fay Lab, University of Massachusetts Dartmouth School for Marine Science & Technology (SMAST)
+- Fay Lab, University of Massachusetts Dartmouth
 - WHOI NES-LTER
 
 **Related blog posts**: 

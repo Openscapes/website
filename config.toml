@@ -1,4 +1,4 @@
-baseurl = "https://openscapes.org" 
+baseurl = "https://openscapes.org/" 
 title = "Openscapes"
 theme = "hugo-universal-theme"
 publishDir = "public"
@@ -210,8 +210,3 @@ paginate = 10
     enable = true
     title = "From our blog"
     subtitle = "[Blog posts](/blog) are both Openscapes stories and advice snippets for the community. Some are cross-posted on [Medium.com](https://medium.com/@openscapes). Also, see our [media page](/media/) for media, presentation slide decks, and publications."
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true

@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-/public/
+public
 .DS_Store
 Thumbs.db
-public, resources
+resources

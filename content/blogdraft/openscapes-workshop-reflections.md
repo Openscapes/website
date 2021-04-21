@@ -20,13 +20,6 @@ TODO: link accompanying blogs
 TODO: Also, a seminar and seaside chat the day before. Pics by Gavin Fay https://photos.google.com/share/AF1QipM8HSpx3iEfurvm_R7OxhA98kECGIIBKW1YSuroAAYDVB9f614BUIwhJNFRIcWPAA?key=Mk5wbXNxSndJQlRNT3BHSjFFS1FsamZ2Skx5bEtn
 
 
-<br>
-<center>
-  <a href = "https://twitter.com/juliesquid/status/1224755643598307328">
-  <img src="/img/blog/rstudioconf-horst-postcard-square.jpg" width="350px"></a>
-  <figcaption>Art played a big role at the conference. A postcard by RStudio Artist in Residence [Allison Horst](https://twitter.com/allison_horst).</figcaption>
-</center>
-<br>
 
 This is my list of TODOs following the February workshop.
 
@@ -55,8 +48,8 @@ https://r4ds.had.co.nz/introduction.html#prerequisites
 
 ## Agenda update
 
-- Add to agenda: focus is bailt, helping your teams do what our team did. It started w 1 champion, with resistant member and lead. Not me! 
-- Add to mindset: iteration and imperfection towards innovationand interoperability. We have guilt and overwork and this is not meant to add to that. This is about  engaging your interest and empoerign you to get involved as you can. Whatever works for you is great. Best exercise
+- Add to agenda: focus is bsilt, helping your teams do what our team did. It started w 1 champion, with resistant member and lead. Not me! 
+- Add to mindset: iteration and imperfection towards innovation and interoperability. We have guilt and overwork and this is not meant to add to that. This is about  engaging your interest and empoerign you to get involved as you can. Whatever works for you is great. Best exercise
 
 ## Slide updates
 - CoC: learn more about current ideas "best intent"

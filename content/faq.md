@@ -32,7 +32,16 @@ No, the cohort does not need a shared project; each team will work on what they 
 
 <br>
 
+### How does booking and timing work?
+
+
+
+
+
 <!---
+For the Openscapes Champions Cohort, we estimated a total time commitment of 5hrs/month for May and June. This is 3 hours/month over Zoom with us, plus 2 hours/month meeting independently to further discuss/practice topics with your broader team (that is the homework). We expect a wide range of technical backgrounds, skills and experiences – no coding or particular technical background or methodology required. Topics center around R/RStudio, GitHub, and Google Drive as examples of software that enable openness and collaboration. 
+
+
 
 ### I don’t code/I am a master coder, why should I participate? 
 

@@ -1,15 +1,15 @@
-+++
-title = "Code of Conduct"
-description = "Code of Conduct"
-keywords = ["code of conduct","community participation guidelines"]
-+++
+---
+title: "Code of Conduct"
+description: "Code of Conduct"
+keywords: ["code of conduct","community participation guidelines"]
+---
 
 
 ## Code of Conduct 
 
 **Version 2.0, April 2020**
 
----
+<hr>
 
 ### Our community is the most valuable thing about Openscapes.
 Supporting a safe, inclusive, welcoming, and harassment-free experience for everyone in our community is paramount, as is strengthening connections with other communities that have influenced our work. Our Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area.
@@ -67,7 +67,7 @@ This Code of Conduct applies to all people participating in the Openscapes commu
 
 If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organiser Julia Lowndes at openscapes @ nceas.ucsb.edu or independent community member Allison Horst at ahorst @ ucsb.edu with a description of what has occurred and any supporting information that would be helpful. After receiving a concise description of your situation, Julia or Allison will review the report and determine next steps. We will respect confidentiality requests for the purpose of protecting victims of abuse.
 
----
+<hr>
 
 The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area (see Mozilla's [inclusion repo](https://github.com/mozilla/inclusion). Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Open Post Academics](https://openpostac.org/), and the groups described in [open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Please also see the value and ethics statements from [Ben Marwick's lab](http://faculty.washington.edu/bmarwick/values_and_ethics/) as well as other inspiring examples from [EpiEllie's twitter thread](https://twitter.com/EpiEllie/status/1268729159762747394) and [the coop at Fred Hutch](https://fredhutch.github.io/coop/community/coop-values/).
 

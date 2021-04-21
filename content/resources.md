@@ -74,7 +74,9 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 - [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
 - [Resources for R and data science](http://ohi-science.org/news/Resources-for-R-and-Data-Science)
-- [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools) <!---REDO and add: https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science, Stevens et al--->
+- [The importance of open data science tools in science: a list of references](http://ohi-science.org/news/importance-of-open-data-science-tools) 
+
+<!---REDO above and add: https://bids.berkeley.edu/news/new-report-career-paths-and-prospects-academic-data-science, Stevens et al--->
 
 <center><img src="/img/horst_openscapes_grassland_condor.png" width="80px"></center>
 
@@ -82,11 +84,12 @@ We recommend using R with RStudio, which not only provides a supportive infrastr
 
 Teaching official university courses is a great idea! These are a few examples of course materials  that you can reuse as-is or adapt for your own context — many are environmental science focused. From our experience, we don't recommend mix-and-matching between resources — especially if this is your first time teaching. This is because there is logic and cadence to each one and trying to combine them can result in reinventing more wheels than intended. Instead, we recommend finding one that best suits you (based on length, content, or audience) and potentially adapting it to your needs. 
 
-- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan <!--- [Jenny Bryan](https://en.wikipedia.org/wiki/Jenny_Bryan)'s course is the gold-standard course, highly recommended. --->
-- [Introduction and advanced environmental data analysis & stats in R](https://allisonhorst.github.io/) by Dr. Allison Horst <!--- The first 5 weeks of Allison Horst's intro course uses environmental science examples for data wrangling --->
+- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) by Dr. Jenny Bryan
+- [Introduction and advanced environmental data analysis & stats in R](https://allisonhorst.github.io/) by Dr. Allison Horst 
 - [Reproducible quantative methods](https://cbahlai.github.io/rqm-template/) - Dr. Christie Bahlai
 - [Data carpentry for biologists](https://datacarpentry.org/semester-biology/) — Dr. Ethan White & Dr. Zachary Brym
 - [Reproducibility for Data Science](https://canvas.uw.edu/courses/1354201) — Dr. Ben Marwick
+
 <!---https://twitter.com/benmarwick/status/1233340012554383361--->
 
 <!---
@@ -102,6 +105,11 @@ https://docs.google.com/document/d/1S63IHjNBk8e7St6XcyqhVu98qpuRTUx3DHYqzWKYDys/
 https://tidy-ds.wjakethompson.com/materials/
 
 --->
+
+## OPEN PROGRAMS, VIRTUAL EVENTS AND MORE
+
+- [DISCOVER Cookbook](https://discover-cookbook.numfocus.org/) - Diversity and Inclusion in Scientific Computing
+
 
 <br> 
 

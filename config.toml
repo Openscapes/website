@@ -56,7 +56,7 @@ paginate = 10
     weight = 1
     name = "GitHub"
     url = "https://github.com/openscapes"
-    pre = "<i class='fab fa-2x fa-github'></i>"
+    pre = "<i class='fa fa-2x fa-github'></i>"
 
 #[[menu.topbar]]
 #    weight = 2
@@ -68,13 +68,13 @@ paginate = 10
     weight = 2
     name = "Twitter"
     url = "http://twitter.com/openscapes"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Email"
     url = "mailto:openscapes@nceas.ucsb.edu"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"

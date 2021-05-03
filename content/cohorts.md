@@ -21,12 +21,26 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 **NOAA NWFSC Cohort**, sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker  
 (National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)
 
+<br>
+<center>
+  <img src="/img/blog/cohorts/nwfsc_cohort.jpg" width="800px"></a>
+  <figcaption> NOAA NWFSC Cohort participants
+</figcaption>
+</center>
+<br>
+
 **Participating teams:** 
 
-- NWFSC CB
-- NWFSC EFS
-- NWFSC FE
-- NWFSC FRAM
+- Conservation Biology division
+- Environmental and Fisheries Science division
+- Fish Ecology division
+- Fishery Resource Analysis and Monitoring division
+
+**Related blog posts**: 
+
+- [NOAA NWFSC Openscapes Champions Cohort](https://www.openscapes.org/blog/2020/05/03/noaa-nwfsc-champions/)
+
+<br>
 
 <br>
 
@@ -45,12 +59,12 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 **Participating teams:** 
 
-- NEFSC EDAB
-- NEFSC PDB
-- NEFSC PSB
-- NEFSC SSB
+- Ecosystem Dynamics and Assessment group 
+- Population Dynamics team
+- Protected Species Branch
+- Social Science Branch
 - Fay Lab, University of Massachusetts Dartmouth
-- WHOI NES-LTER
+- WHOI NES-LTER: Woods Hole Oceanographic Institution, Northeast US Shelf Long-Term Ecological Research project
 
 **Related blog posts**: 
 

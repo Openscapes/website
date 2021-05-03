@@ -9,7 +9,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 <br>
 
-The inaugural cohort of Openscapes Champions completed in May 2019, empowered with skillsets and mindsets to do better science in less time, together. Learn their stories and advice through our [blog](/blog/2019/06/12/wins-cohort1/), [presentations](/media), and our column in *Nature*: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
+The inaugural cohort of Openscapes Champions completed in 2019, empowered with skillsets and mindsets to do better science in less time, together. Learn their stories and advice through our [blog](/blog/2019/06/12/wins-cohort1/), [presentations](/media), and our column in *Nature*: [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). 
 
 We are leading future Champions Program cohorts — are you interested? Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more details and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking.
 

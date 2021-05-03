@@ -60,6 +60,7 @@ In response to questions and feedback in the second call on several participants
 
 Increasingly, the Champions lesson series includes example workflows and stories from previous Champions cohorts, including the [2020 workshop at NOAA NEFSC](https://www.openscapes.org/blog/2020/03/06/workshop-noaa-nefsc/). For example, Scott Large’s group has continued their Seaside Chats and use [GitHub Projects to manage them openly](https://github.com/NOAA-EDAB/seaside/projects/2), and Gavin Fay’s group has written a [Lab Manual](https://thefaylab.github.io/lab-manual/index.html) stating their code of conduct and common practices in their group, including protocols for onboarding and offboarding. Additionally, Kimberly Bastille led a 2020 publication for integrated ecosystem assessments (IEA) called [Improving the IEA Approach Using Principles of Open Data Science](https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155), and is a high-profile example of the importance of open data science in applied research.
 
+<br>
 
 ## What did the participants achieve?
 
@@ -71,13 +72,15 @@ Two teams identified that they will be integrating Git into their workflows. Man
 
 > Data and code stored in email have a tendency to get lost, particularly when staff retire. Openscapes helped us understand the value of using version control, and tools like Github -- both to preserve data, and archive changes. In the week after the workshops, we’ve created several new repositories for archiving work for long running projects. Thanks so much!
 
+<br>
+
 ## What did Openscapes learn?
 
 Regarding the team structure, we do still value the formal team structure where the PI or group supervisor attends with their team. We value team leads participating as part of an effort to change the culture through learning together — and as an endorsement of staff taking time and effort to transition towards open science tools and practices. In session 4 we were surprised at the number of smaller teams that existed within this cohort and in the survey, there was a request to spend some breakouts working together as a team. We were inspired as the cohort realized that across teams and divisions, that they could collectively affect change across NWSFC by collectively advocating for open science.     
 
-It turned out that in 2 months they learned a lot and achieved a lot with these first starting steps. We will follow-up with this cohort in 3 months to check-in and provide a bit more support and accountability to see how they are progressing on their pathways and what’s changed since this session. 
+It turned out that in 2 months they learned a lot and achieved a lot with these first starting steps. We will follow-up with this cohort in 3 months to check-in and provide a bit more support and accountability to see how they are progressing on their pathways and what’s changed since this session. We were also so grateful to work with this cohort with Sean Kross, who is a UCSD PhD student studying human computer interaction, and Tara Robertson, who's work with Openscapes is supported by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/) to help us increase diversity, equity, and inclusion in Openscapes events.
 
-We are so proud of the work this cohort did and are looking forward to seeing how NOAA NWSFC continues to move toward open science. We hope that their leadership will inspire the broader scientific community through visible examples and leadership at NWSFC. 
+We are so proud of the work the NWFSC cohort did and are looking forward to seeing how NOAA NWSFC continues to move toward open science. We hope that their leadership will inspire the broader scientific community through visible examples and leadership at NWSFC. 
 
 Thank you Eric and all the NWFSC Champions!
 

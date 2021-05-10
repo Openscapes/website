@@ -90,6 +90,13 @@ CascadiaR keynote
 SORTEE plenary
 --->
 
+- Openscapes: Towards more open, reproducible, inclusive practices for research teams and communities — July 12, 2021: Keynote at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/)
+
+- Open science as a movement and the art of Openscapes — June 5, 2021: Keynote with Dr. Allison Horst at [CascadiaR Conference](https://cascadiarconf.com/) 
+
+- Learning to code with open data science communitites — June 4, 2021: *Nature* Webinar Series
+<!---https://docs.google.com/presentation/d/1hnK6AdZpKeKILph8rBJoXXT2QKyYgvNlhqsoZ3PQ46s/edit#slide=id.gd8d3954c7d_0_319--->
+
 - [Openscapes for better science in less time, together](https://docs.google.com/presentation/d/1Mc__4NfMlLHvChoAWnvEqUocP8JS9Ya317hHRaZhLnM/edit?usp=sharing) — April 6, 2021: CZI Seed Networks Computational Biology Meeting
 
 - [NASA DAACs Openscapes Framework](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit?usp=sharing) — March 25, 2021: NASA ESDS-ESDIS-DAACs-IMPACT Meeting

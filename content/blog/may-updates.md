@@ -8,6 +8,7 @@ categories:
   - champions
 tags:
   - impact
+  - newsletter
 banner: img/blog/mrlowndes-DSCF5824-square.jpg
 ---
 

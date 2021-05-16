@@ -14,7 +14,7 @@ TODO Add:
 
 --->
 
-Artwork by Dr. Allison Horst helps bring Openscapes ideas and feelings to life, we are so grateful to work with her. 
+[Artwork by Dr. Allison Horst](https://github.com/allisonhorst/stats-illustrations#hello) helps bring Openscapes ideas and feelings to life, we are so grateful to work with her. 
 
 ## Open landscapes
 Click image to open at high resolution in a new tab. 
@@ -117,7 +117,17 @@ But even if you become a Jedi, you still need your community to defeat the Empir
 <br>
 
 
+## Tidy Data Illustrated Series
 
+[**Tidy data for efficiency, reproducibility, and collaboration**](https://www.openscapes.org/blog/2020/10/12/tidy-data/) — an illustrated series as a blog and slides for reuse in the classroom and beyond. 
+
+<center>
+  <img src="/img/blog/tidydata/tidydata_7.jpg" width="800px"></a>
+</center>
+
+<br>
+
+<br>
 
 
 

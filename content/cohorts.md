@@ -23,7 +23,7 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 <br>
 <center>
-  <img src="/img/blog/cohorts/nwfsc_cohort.jpg" width="800px"></a>
+  <img src="/img/blog/cohorts/nwfsc-cohort.jpg" width="750px"></a>
   <figcaption> NOAA NWFSC Cohort participants
 </figcaption>
 </center>

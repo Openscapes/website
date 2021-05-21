@@ -13,7 +13,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 <br>
 <center>
-  <img src="/img/horst_openscapes_champions.jpg" width="600px"></a>
+  <img src="/img/horst_openscapes_champions.jpg" width="900px"></a>
    <figcaption>In the the open data science landscape, there are many paths forward. <br> Through the Champions program we help researchers move from lonely research to team science <br>with community through exploring and navigating pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst) </figcaption>
 </center>
 <br>

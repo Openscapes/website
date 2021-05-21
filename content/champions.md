@@ -5,7 +5,18 @@ keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-**Openscapes Champions is a mentorship program that onboards research teams to the open science landscape and welcomes them to the movement.** We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with research teams in academic, government, and non-profit organizations who become open science champions empowered with new skillsets and mindsets for modern data analysis and stewardship. Learn these champions' stories through our [blog](/blog/tags/case-study/), [media](/media), as well as steps for you to [supercharge your research](https://www.nature.com/articles/d41586-019-03335-4). 
+**Openscapes Champions is an open data science mentorship program for science teams.** We support researchers to reimagine data analysis & stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We work with academic, government, and non-profit research teams who become part of the open science movement as Champions empowered with new skillsets and mindsets for modern data-intensive science. Learn these Champions' stories through our [blog](/blog/tags/case-study/), [media](/media), as well as steps for you to [supercharge your research](https://www.nature.com/articles/d41586-019-03335-4). 
+
+<br>
+
+<center>"**Openscapes isn’t just about coding and GitHub, it's about changing how we do science**" — Dr. Malin Pinsky, Rutgers University </center>
+
+<br>
+<center>
+  <img src="/img/horst_openscapes_champions.jpg" width="600px"></a>
+   <figcaption>In the the open data science landscape, there are many paths forward. <br> Through the Champions program we help researchers move from lonely research to team science <br>with community through exploring and navigating pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst) </figcaption>
+</center>
+<br>
 
 <center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
 
@@ -92,9 +103,6 @@ The Openscapes Champions [Cohorts page](/cohorts) lists the inspiring research g
 
 > “**This program has honestly completely re-made how I think about my science**. Openscapes is a supportive training course for moving your lab toward open science, that meets you where you are.”  — Dr. Chelsea Wood, University of Washington  
 
-<!-- break --> 
-
-> "**Openscapes isn’t just about coding and GitHub, it's about changing how we do science**" — Dr. Malin Pinsky, Rutgers University
 
 <!-- break --> 
 

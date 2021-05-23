@@ -18,8 +18,6 @@ keywords = ["FAQ","How do I","questions","what if"]
 </center>
 <br>
 
-<center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
-
 <!---
 ## PURPOSE
 
@@ -122,6 +120,14 @@ The Openscapes Champions Program is strongly motivated by open data science, and
 The [**Openscapes Champions Lessons Series**](https://openscapes.github.io/series/) is an open curriculum that we use in the Champions Program. It is iterated openly, with the most recent version always available online. Each Chapter has associated slides used in Cohort Calls, which are presented as 2- or 4-month [Agendas](https://openscapes.github.io/series/index.html#agendas).
 
 The Lesson Series is originally framed around the the tools and practices critical to the OHI team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), with examples from the open source programming language R and R communities. However, the concepts are relevant no matter the programming language, and we continually invest in this curriculum to incorporate examples from other languages and communities as well.
+
+<center><img src="/img/horst_openscapes_desert_roadrunner.png" width="100px"></center>
+
+## RESOURCES
+
+Our [**Resources**](/resources) page has some resources meant to welcome environmental scientists who are newly onboarding to open data science. We also have a public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library) linking publications, talks, and curricula. Our [Openscapes GitHub Organization](https://github.com/openscapes) has pinned repositories of interest, including the [teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources) repo where we use [Issues]([teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources/issues)) to jot down specific tools or learning resources for open, reproducible, inclusive science.
+
+Also, see our 
 
 <br>
 

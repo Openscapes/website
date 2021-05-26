@@ -84,16 +84,11 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
-<!---
-Erin plenary
-
---->
-
 - Openscapes: Towards more open, reproducible, inclusive practices for research teams and communities — July 12, 2021: Keynote at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/)
 
 - Open science as a movement and the art of Openscapes — June 5, 2021: Keynote with Dr. Allison Horst at [CascadiaR Conference](https://cascadiarconf.com/) 
 
-- Learning to code with open data science communitites — June 4, 2021: [*Nature* Webcast](https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/)
+- [Learning to code with open science communities](https://docs.google.com/presentation/d/1hnK6AdZpKeKILph8rBJoXXT2QKyYgvNlhqsoZ3PQ46s/edit?usp=sharing) — June 4, 2021: [*Nature* Webcast](https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/)
 <!---https://docs.google.com/presentation/d/1hnK6AdZpKeKILph8rBJoXXT2QKyYgvNlhqsoZ3PQ46s/edit#slide=id.gd8d3954c7d_0_319--->
 
 - [Openscapes for better science in less time, together](https://docs.google.com/presentation/d/1Mc__4NfMlLHvChoAWnvEqUocP8JS9Ya317hHRaZhLnM/edit?usp=sharing) — April 6, 2021: CZI Seed Networks Computational Biology Meeting
@@ -110,7 +105,10 @@ Erin plenary
 
 - [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit?usp=sharing) — December 16, 2020 Invest in Open's [Joint Roadmap for Open Science Tools (JROST) Conference](https://investinopen.org/community/jrost-2020-conference/) (5 minutes)
 
-- [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes) https://zenodo.org/record/4313522#.X9EfIV57nUI
+- [Putting data to work through community] — December 2020 Plenary [Leptoukh Lecture](https://connect.agu.org/essi/awards/leptoukh-lecture-winners) at the American Geophysical Union Conference
+([video](https://www.youtube.com/watch?v=ucBBqiulkEA))
+
+- [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes) ([zenodo](https://zenodo.org/record/4313522#.X9EfIV57nUI))
 
 - [Normalizing talking about data](https://docs.google.com/presentation/d/15FsK37GQVvhL9zbnP1E1n9CEn-Xu5HvIe2FaIMpdC0s/edit?usp=sharing) - November 23, 2020: CSCCE Data Science Special Interest Group Discussion (10 minutes) ([blog & video](https://www.cscce.org/2021/02/12/data-science-sig-meeting-recap-normalizing-talking-about-data/))
 

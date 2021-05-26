@@ -105,7 +105,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 - [Openscapes](https://docs.google.com/presentation/d/1ty--0Jr7HRD3VXro5K8eMPaxApzeE1dkAZKVC4jyxm0/edit?usp=sharing) — December 16, 2020 Invest in Open's [Joint Roadmap for Open Science Tools (JROST) Conference](https://investinopen.org/community/jrost-2020-conference/) (5 minutes)
 
-- [Putting data to work through community] — December 2020 Plenary [Leptoukh Lecture](https://connect.agu.org/essi/awards/leptoukh-lecture-winners) at the American Geophysical Union Conference
+- Putting data to work through community — December 2020 Plenary [Leptoukh Lecture](https://connect.agu.org/essi/awards/leptoukh-lecture-winners) at the American Geophysical Union Conference
 ([video](https://www.youtube.com/watch?v=ucBBqiulkEA))
 
 - [Audience building for open source projects](https://docs.google.com/presentation/d/1n4Z87Z8ax_pUUO98lHzsOGYHTtbshr_LB5JSznOiIW0/edit?usp=sharing) - December 8, 2020: Workshop at Chan Zuckerberg Initiative Essential Open Source Software for Science Meeting (40 minutes) ([zenodo](https://zenodo.org/record/4313522#.X9EfIV57nUI))

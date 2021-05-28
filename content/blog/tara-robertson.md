@@ -25,6 +25,12 @@ This call was meant as a way to recap a bit of our work with Tara over the last 
     1. Julie referenced the course we took on territorial land acknowledgements by Ta7talíya Nahanee, from the Squamish nation. Ta7talíya is offering this [workshop again on June 21st](https://www.eventbrite.ca/e/territorial-acknowledgements-an-interactive-introduction-tickets-155868092661), National Indigenous Peoples Day 
     2. Erin went to [Hollaback Bystander training](https://www.ihollaback.org/harassmenttraining/ ) and shared some of the research that shows that having a plan for how you will act and react to racial injustice makes it more likely you will follow-through in the moment. 
 
+<br>
+<center>
+  <a> <img src="/img/blog/tara-julie-erin.png" width="300px"></a>
+</center>
+<br>
+
 We, collectively, with all of you, want to transform how we do science and are practicing kinder science. During the call we realized that Tara had mentored us the way that we mentor Champions teams. With that insight, Julie and I are going to work on creating a pathway document for our DEI work, and continue to be an active part of the community.
 
 As a way to carry kindness forward, we’re requesting that you take action and share on Twitter What’s something you learned or something you do in your work to #PracticeKindness? 
@@ -38,3 +44,4 @@ Erin, Julie, and Tara
 <br>
   <a> <img src="/img/blog/tara-hi.png" width="300px"></a>
 <br>
+

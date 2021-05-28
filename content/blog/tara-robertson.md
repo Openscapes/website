@@ -12,7 +12,7 @@ banner: img/blog/tara-hi.png
 
 ## A Chat with Tara Robertson
 
-Our 2nd Openscapes Community Call featured our chat with [Tara Robertson](https://tararobertson.ca/), a diversity, equity, and inclusion consultant working with us to improve practices in Openscapes. The recording is on [Openscapes YouTube](https://youtu.be/XQMgyLuKwsI) (efficiency tip reminder: in YouTube, “L” will advance by 10 seconds, “J” will go back by 10 seconds 😀)  
+Our 2nd Openscapes Community Call featured our chat with [Tara Robertson](https://tararobertson.ca/), a diversity, equity, and inclusion consultant working with us to improve practices in Openscapes. The recording is on [**Openscapes YouTube**](https://youtu.be/XQMgyLuKwsI) (efficiency tip reminder: in YouTube, “L” will advance by 10 seconds, “J” will go back by 10 seconds 😀)  
 
 This call was meant as a way to recap a bit of our work with Tara over the last three months and share some of what we’ve learned. Here is an attempt to distill our conversation:
 

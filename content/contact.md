@@ -26,12 +26,15 @@ Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3
 
 ### Join an upcoming event
 
-Please see our [events page](https://openscapes.github.io/events) for upcoming Community Calls and opportunities through the Champions Program. 
+Please see our [events page](https://openscapes.github.io/events) for **Openscapes Community Calls**, **conference talks and seminars/webinars**, and opportunities through the **Champions Program**. 
 
 ### Book a Champions Cohort or Workshop
 
 It is now possible to book complete Openscapes Champions Cohorts and Workshops! Cohorts are led remotely over 5 months, and Workshops are led in-person for 2 full days, and both involve 7-10 participating research groups. Please [download this 2-pager](https://github.com/Openscapes/website/raw/master/static/OpenscapesCohorts_2pager.pdf) for more information and [email us](mailto:openscapes@nceas.ucsb.edu) to discuss booking.
 
+### Sponsor Champions Cohorts and Workshops
+
+We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:openscapes@nceas.ucsb.edu).
 
 ### Talk with your colleagues
 
@@ -57,10 +60,6 @@ https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155
 
 
 --->
-
-### Sponsor Champions Cohorts and Workshops
-
-We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:openscapes@nceas.ucsb.edu).
 
 ### Email us with your ideas
 

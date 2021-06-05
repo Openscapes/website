@@ -127,8 +127,6 @@ The Lesson Series is originally framed around the the tools and practices critic
 
 Our [**Resources**](/resources) page has some resources meant to welcome environmental scientists who are newly onboarding to open data science. We also have a public [Openscapes Zotero library](https://www.zotero.org/groups/4118402/openscapes/library) linking publications, talks, and curricula. Our [Openscapes GitHub Organization](https://github.com/openscapes) has pinned repositories of interest, including the [teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources) repo where we use [Issues]([teaching-learning-resources](https://github.com/openscapes/teaching-learning-resources/issues)) to jot down specific tools or learning resources for open, reproducible, inclusive science.
 
-Also, see our 
-
 <br>
 
 ## FAQ

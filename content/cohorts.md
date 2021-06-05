@@ -18,7 +18,59 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 ## 2021 COHORTS 
 
-**NOAA NWFSC Cohort**, sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker  
+### NASA Cohort
+
+*upcoming — nominations open:* [nasa-openscapes.github.io/champions](https://nasa-openscapes.github.io/champions)
+
+**Related blog posts**: 
+
+- [Announcing the NASA Openscapes Framework](/blog/2021/03/10/nasa-announcement/)
+
+<br>
+
+### CS&S Cohort
+Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/)
+
+**Participating teams:** 
+
+- University of California Davis — Kiva Oken's research group
+- Kenai Watershed Forum — Benjamin Meyer, Maura Schumacher, and Galen Hecht
+- Environment and Climate Change Canada — Martin Jean and Alexandra Audet
+- University of South Florida — Nancy Williams’ research group
+- Tribes and the Exchange Network — Lydia Scheer, Angie Reed, Lisa Gover, Melinda Ronca-Battista, and Natasha Fulton
+- University of Washington — Jacqueline Padilla-Gamino’s research group
+- University of North Carolina Chapel Hill — Janet Nye’s research group
+- University of British Columbia — Cole Burton’s research group 
+
+**Related blog posts**: 
+
+- *upcoming*
+
+<br>
+
+### CSU-COAST Cohort
+Sponsored by [The California State University Council on Ocean Affairs, Science & Technology (CSU-COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast)
+
+**Participating teams:** 
+
+- San Francisco State University (SFSU) — Karina Nielsen’s Coastal Ecosystems research group 
+- Cal Poly San Luis Obispo (Cal Poly SLO) — Ben Ruttenberg’s research group  
+- Cal Poly Pomona (CPP) — Jeremy Claisse’s research group 
+- California State University Monterey Bay (CSUMB) — Alison Haupt’s research group
+- California State University Monterey Bay (CSUMB) — Cheryl Logan’s research group 
+- California State University Northridge (CSUN) — Nyssa Silbiger research group 
+- California State University Northridge (CSUN) — Kerry Nickol's research group 
+
+
+**Related blog posts**: 
+
+- *upcoming*
+
+
+<br>
+
+### NOAA NWFSC Cohort
+Sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker  
 (National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)
 
 <br>
@@ -46,7 +98,9 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 ## 2020 COHORT 
 
-**NOAA NEFSC Cohort**, sponsored by NOAA, coordinated by Scott Large and Gavin Fay  
+### NOAA NEFSC Cohort
+
+Sponsored by NOAA, coordinated by Scott Large and Gavin Fay  
 (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)
 
 <br>
@@ -75,7 +129,9 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 ## 2019 COHORT 
 
-**Inaugural Cohort**, sponsored by Mozilla
+### Inaugural Cohort
+
+Sponsored by Mozilla
 
 <br>
 

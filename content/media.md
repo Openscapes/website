@@ -86,7 +86,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 - Openscapes: Towards more open, reproducible, inclusive practices for research teams and communities — July 12, 2021: Keynote at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/)
 
-- [Open science as a movement and the art of Openscapes](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit?usp=sharing) — June 5, 2021: Keynote with Dr. Allison Horst at [CascadiaR Conference](https://cascadiarconf.com/) 
+- [Open science as a movement and the art of Openscapes](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit?usp=sharing) — June 5, 2021: Keynote with Dr. Allison Horst at [CascadiaR Conference](https://cascadiarconf.com/)  
 
 - [Learning to code with open science communities](https://docs.google.com/presentation/d/1hnK6AdZpKeKILph8rBJoXXT2QKyYgvNlhqsoZ3PQ46s/edit?usp=sharing) — June 4, 2021: [*Nature* Webcast](https://www.nature.com/webcasts/event/how-to-start-learning-to-code-in-research/)
 <!---https://docs.google.com/presentation/d/1hnK6AdZpKeKILph8rBJoXXT2QKyYgvNlhqsoZ3PQ46s/edit#slide=id.gd8d3954c7d_0_319--->

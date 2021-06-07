@@ -73,7 +73,10 @@ Each Champions Cohort includes 7-10 research groups, with 2-5 individuals per re
 
 ## PROGRAM DETAILS
 
-Openscapes Champions is a multi-month program for that is led remotely and designed to ignite incremental and sustainable change within research groups — and beyond. The program remotely convenes a cohort of science teams twice per month over two or four months for 1.5-hour video calls that we call Cohort Calls. This is a different kind of workshop structure (modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/fork-open-leaders/)) where small time requirements over longer time frames fosters incremental change, accountability, and community building within the realities of scientists’ busy schedules, varying expertise and needs. 
+[**Overview slides**](https://docs.google.com/presentation/d/e/2PACX-1vRQEGsjdnaIWovo1QTo7oZnMzfuOzlTujObHAa0B2maRioRdpvkr8P7fEzDTD98yTs7j6w3sc_DQ9Zi/pub?start=false&loop=false&delayms=3000
+)
+
+**Openscapes Champions** is a multi-month program for that is led remotely and designed to ignite incremental and sustainable change within research groups — and beyond. The program remotely convenes a cohort of science teams twice per month over two or four months for 1.5-hour video calls that we call Cohort Calls. This is a different kind of workshop structure (modeled after [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/fork-open-leaders/)) where small time requirements over longer time frames fosters incremental change, accountability, and community building within the realities of scientists’ busy schedules, varying expertise and needs. 
 
 Each Cohort Call uses the [Champions Lesson Series](https://openscapes.github.io/series/), which is an open curriculum originally based on what was instrumental in the Ocean Health Index (OHI) team’s [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), and openly iterated as we learn. We start off each call with a reminder of our Code of Conduct and provide multiple channels for participation, including through silent contributions to the Google Doc Agenda, breakout groups, and full-group discussions.
 

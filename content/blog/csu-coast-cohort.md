@@ -1,8 +1,8 @@
 ---
-title: "Our Supercharge Experience: The Logan Lab"
+title: "Our Openscapes Cohort: CSU-COAST"
 author: Arie Dash
 date: '2021-07-08'
-slug: logan-lab-experience
+slug: csu-coast-cohort
 categories:
   - community
   - champions

@@ -8,7 +8,7 @@ categories:
   - champions
 tags:
   - impact
-banner: img/blog/
+banner: img/blog/horst_openscapes_champions-square.jpg
 ---
 
 
@@ -31,7 +31,7 @@ Together, over four sessions, we discussed coding and culture best practices, de
 
 <br> 
 <center>
-  <a><img src="/img/blog/zoom-csu-coast.png" width="500px"></a>
+  <a><img src="/img/blog/horst_openscapes_champions-square.jpg" width="500px"></a>
 </center>  
 <br>
 

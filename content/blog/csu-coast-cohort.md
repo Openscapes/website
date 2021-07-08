@@ -1,7 +1,7 @@
 ---
 title: "Our Supercharge Experience: The Logan Lab"
 author: Arie Dash
-date: '2021-0708'
+date: '2021-07-08'
 slug: logan-lab-experience
 categories:
   - community

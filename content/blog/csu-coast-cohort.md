@@ -16,6 +16,8 @@ banner: img/blog/horst_openscapes_champions-square.jpg
 
 ---
 
+## Our Openscapes Cohort: CSU-COAST
+
 We recently wrapped up the 2-month CSU-COAST Openscapes Champions Cohort, sponsored by The California State University Council on Ocean Affairs, Science & Technology[ (COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast). Participating teams included: 
 
 
@@ -29,20 +31,23 @@ We recently wrapped up the 2-month CSU-COAST Openscapes Champions Cohort, sponso
 
 Together, over four sessions, we discussed coding and culture best practices, developed pathway documents to guide and plan our progress, and had our first seaside chats to begin implementing actionable items. The pathway document is a great way to take stock of where we are and what we need to do to achieve our goals, and arguably the most important thing to come out of this workshop is the seaside chats. Deliberately setting aside time in addition to or instead of regular lab meetings to implement parts of our pathway, share new tools, or simply have a group discussion is invaluable.
 
-<br> 
+<br>
 <center>
-  <a><img src="/img/blog/horst_openscapes_champions-square.jpg" width="500px"></a>
-</center>  
+  <img src="/img/horst_openscapes_champions.jpg" width="800px"></a>
+   <figcaption>In the the open data science landscape, there are many paths forward. <br> Through the Champions program, researchers move from lonely research to team science <br>with a cohort of peer teams by exploring pathways together. Artwork by [Allison Horst](https://twitter.com/allison_horst) </figcaption>
+</center>
 <br>
 
-One of the earliest topics we discussed was Github, and most people were excited to utilize it more. For some of us, it was a familiar tool that we’d been meaning to make more use of and for others it was almost entirely a new concept, but by the end of the program we were more knowledgeable and equipped to use everything from Github repos to issues and pages. In our last meeting, the Silbiger lab group brought up the possibility of setting up a Github pages branch to selectively expose parts of a repository to the public while keeping sensitive information private, which is a great idea to eliminate the need for extra repositories and streamline the onboarding process for new students.
+One of the earliest topics we discussed was Github, and most people were excited to utilize it more. For some of us, it was a familiar tool that we’d been meaning to make more use of, and for others it was almost entirely a new concept. But by the end of the program we were more knowledgeable and equipped to use everything from Github repos to issues and pages. In our last meeting, the Silbiger lab group brought up the possibility of setting up a Github pages branch to selectively expose parts of a repository to the public while keeping sensitive information private, which is a great idea to eliminate the need for extra repositories and streamline the onboarding process for new students.
+
+> "It’s ok to have a workflow you prefer as long as you make that as obvious and accessible as you can” 
 
 Thinking about data science from an open science perspective was helpful to a lot of people in the cohort. Learning to separate data wrangling from data analysis and not reinventing the wheel with our projects was an important takeaway from the program. Much of the focus was on finding and sharing new tools, as well as positioning ourselves to fully take advantage of them by having reproducible workflows. As Emily in the Nickols lab pointed out, “it’s ok to have a workflow you prefer as long as you make that as obvious and accessible as you can” which I think is a great way of thinking about an open science mindset. Perhaps the most surprising thing people learned was the usefulness of Twitter as a tool to find and share open science techniques, especially for R. The image below shows one of the good plot/bad plot examples created in Dr. Silbiger’s class. 
 
 <br> 
 <center>
   <a><img src="/img/blog/tweet-nsilbiger-badplot.png" width="500px"></a>
-  <figcaption>Tweet from [@NSilbiger](https://twitter.com/NSilbiger/status/1374074205814153216): she shared with our Cohort that in her course they had a "bad plot" competition taking everything they'd learned about data vizualation and then breaking all the rules</figcaption>
+  <figcaption>Tweet from [@NSilbiger](https://twitter.com/NSilbiger/status/1374074205814153216): Nyssa shared with our cohort that in her course they had a "bad plot" competition taking everything they'd learned about data vizualation and then breaking all the rules</figcaption>
 </center>  
 <br>
 
@@ -51,3 +56,15 @@ Additionally, discussing deliberate ways to foster the lab cultures we want was 
 By the end of the program, each lab in the cohort had made strides in their pathway. To mention a few, the Claisse lab highlighted their current efforts to organize samples and streamline communications, as well as future steps focused on promoting diversity, equity, and inclusion (DEI) into their daily science practices and “communicating my data experience to others.” The Silbiger lab aimed to use seaside chats as an opportunity to code together and is exploring launching a Github pages branch for their lab. 
 
 The Openscapes cohort was a great followup to the [10-week supercharge plan](https://www.openscapes.org/blog/2021/05/11/logan-lab-experience/) our lab did beforehand. My lab, the Logan lab, has plans to better organize and track our data as well as develop standardized onboarding/offboarding processes. Of course, there is a lot of overlap between what we all want to accomplish, and I hope we will continue to communicate with others in the cohort as we work through our pathways. I am excited to take off running with what I learned  and I know the rest of the cohort teams are  as well!
+
+<br>
+
+## The Cohort's GitHub Organizations 
+
+- [loganlabcsumb](https://github.com/loganlabcsumb)
+- [ecoocelab-csun](https://github.com/ecoocelab-csun)
+- [ClaisseLab](https://github.com/ClaisseLab) *new*!
+- [coastal ecosystems lab](https://github.com/coastal-ecosystems-lab) *new too*!
+
+
+<br>

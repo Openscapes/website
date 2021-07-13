@@ -84,9 +84,9 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
-- [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit?usp=sharing) — July 12, 2021: Keynote at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/) (30 minutes)
+- [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit?usp=sharing) — July 12, 2021: Keynote at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/) (30 minutes) 
 
-- [Better Science for Future Us](https://docs.google.com/presentation/d/17XcJSxoE3_-0PqYgQ0l7NctniBNUxaZ5Zo0hjL-bjJo/edit?usp=sharing) - June 30, 2021: [PANGEO Showcase](https://pangeo.io/pangeo-showcase.html) (15 minutes)
+- [Better Science for Future Us](https://docs.google.com/presentation/d/17XcJSxoE3_-0PqYgQ0l7NctniBNUxaZ5Zo0hjL-bjJo/edit?usp=sharing) - June 30, 2021: [PANGEO Showcase](https://pangeo.io/pangeo-showcase.html) (15 minutes) ([PANGEO Discourse](https://discourse.pangeo.io/t/june-30-2021-the-nasa-openscapes-framework/1631), [Zenodo](https://zenodo.org/record/5090115#.YO3kom5lDUI))
 
 - [Open science as a movement and the art of Openscapes](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit?usp=sharing) — June 5, 2021: Keynote with Dr. Allison Horst at [CascadiaR Conference](https://cascadiarconf.com/) (20 minutes) 
 

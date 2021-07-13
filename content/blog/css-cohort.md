@@ -8,7 +8,7 @@ categories:
   - champions
 tags:
   - impact
-banner: img/blog/horst_openscapes_champions-square.jpg
+banner: img/blog/pathway-example-square.png
 ---
 
 ## Introducing the CS&S Champions Cohort

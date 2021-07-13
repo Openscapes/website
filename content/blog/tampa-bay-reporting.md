@@ -13,6 +13,7 @@ banner: img/blog/tampa-bay-seagrass.jpg
 
 *This is a guest blog by [Marcus Beck](mailto:mbeck@tbep.org) that describes how the Tampa Bay Estuary Program (TBEP) is embracing open science principles and tools to create better science in less time.  Marcus, along with TBEP Executive Director Ed Sherwood, both attended the NCEAS [Open Science for Synthesis](https://nceas.github.io/oss-2017/) workshop in July 2017 at Santa Barbara.  Marcus, Ed, and the rest of the TBEP team are working to bring open science to improve the management of Tampa Bay and extend their applications to the broader network of the 28 National Estuary Programs.  This blog describes one application of automating a routine reporting document that builds on the data and tools developed throughout the 30 year history of TBEP.*
 
+**Update July 13 2021: Check out [TBEP's Data Management SOP( Standard Operating Procedures)](https://tbep-tech.github.io/data-management-sop/)**!
 ---
 
 Those of us working in coastal environments are likely familiar with the success story of Tampa Bay.  Like many surface waters in the US prior to the Clean Water Act, Tampa Bay was impacted by nutrient pollution from untreated wastewater and surface runoff.  Through a coordinated regional effort of environmental professionals, utility operators, and local politicians, nutrient loads to the Bay have been reduced by ~2/3 from 1970s levels and seagrasses have recovered to a 1950s benchmark extent.  

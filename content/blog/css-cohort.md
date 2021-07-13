@@ -21,7 +21,7 @@ The CS&S Cohort was 2-months, with four sessions, like we piloted earlier this y
 
 <br>
 <center>
-  <a><img src="/img/blog/tweet-og_nancy-css.png" width="500px"><img src="/img/blog/tweet-martinjeanphd-css.png" width="500px"></a>
+  <a><img src="/img/blog/tweet-og_nancy-css.png" width="400px"><img src="/img/blog/tweet-martinjeanphd-css.png" width="400px"></a>
   <figcaption>Tweets from [@OG_Nancy](https://twitter.com/OG_Nancy/status/1408496586120957952) and [@martinjeanphd](https://twitter.com/martinjeanphd/status/1408516019967115264)</figcaption>
 </center>
 <br>
@@ -39,7 +39,7 @@ While our 2-month cohorts go by so quickly, in our final session, each team shar
 
 <br>
 <center>
-  <a><img src="/img/blog/pathway-example.png" width="500px"></a>
+  <a><img src="/img/blog/pathway-example.png" width="600px"></a>
   <figcaption>An example Pathway document presented by a Champions team</figcaption>
 </center>
 <br>

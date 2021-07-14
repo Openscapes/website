@@ -16,17 +16,19 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 <br>
 
-## 2021 COHORTS 
+## 2022 COHORTS 
 
 ### NASA Cohort
 
-*upcoming — nominations open:* [nasa-openscapes.github.io/champions](https://nasa-openscapes.github.io/champions)
+*upcoming*
 
 **Related blog posts**: 
 
 - [Announcing the NASA Openscapes Framework](/blog/2021/03/10/nasa-announcement/)
 
 <br>
+
+## 2021 COHORTS
 
 ### CS&S Cohort
 Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/)
@@ -44,7 +46,7 @@ Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscie
 
 **Related blog posts**: 
 
-- *upcoming*
+- [CS&S Champions Cohort Takeaways: Seaside Chats, data access, resilient teams](https://www.openscapes.org/blog/2021/07/13/css-cohort/)
 
 <br>
 
@@ -64,7 +66,7 @@ Sponsored by [The California State University Council on Ocean Affairs, Science 
 
 **Related blog posts**: 
 
-- *upcoming*
+- [Our Openscapes Cohort: CSU-COAST](https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/)
 
 
 <br>

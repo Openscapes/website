@@ -32,13 +32,14 @@ Yes; we do try to have everyone on the team attend all Cohort Calls – but know
 ### Do I as the PI need to attend the Cohort Calls, or just my team?
 It’s important that team leads attend with their team. The Champions program is designed to reduce the burden for PIs in the long term and develop leadership within and across their teams. With this investment now, team leads and members will build resilient and enduring practices for their research group, even as that research group changes into the future. The idea is that together, the whole team sees what's possible with open data science and builds confidence, ownership, and a shared pathway forward. Then it's the entire team, not just the PI, who puts it to practice in between sessions. 
 
+<br>
+
 ## CHAMPIONS PROGRAM: COHORTS
 
 ### Does a cohort need a shared research project or to be closely related?
 
 No, the cohort does not need a shared project; each team will work on what they need to for their own research. Teams within a cohort do not need to be closely related, but having teams somewhat related is good for community building (i.e. environmental science or psychology).
 
-<br> 
 
 ### Can we have smaller teams so more teams can participate in a cohort?
 

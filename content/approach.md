@@ -25,6 +25,7 @@ Our approach is to normalize talking about data, create inclusive spaces and lis
 
 We share our most current thinking and showcase community efforts through talks and publications on our [media page](/media). Some recent highlights include:
 
+- [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit?usp=sharing) — Lowndes & Robinson 2021, invited plenary at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology SORTEE conference
 - [How to empower researchers with open science through meeting analytical needs and supporting people](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing). Lowndes 2020, invited talk at the National Academies of Sciences, Engineering, and Medicine (NASEM) Roundtable
 - [Entryways to open data science and the power of welcome](https://docs.google.com/presentation/d/1DjrMaEOw1F7zAIEXq3ZjiiyaqVAjydLyYww7huGfch8/edit?usp=sharing). Lowndes 2020, invited plenary at the Earth Science Information Partners Conference
 - [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ). Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference 

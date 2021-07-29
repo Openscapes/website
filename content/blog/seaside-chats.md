@@ -18,6 +18,8 @@ banner: img/blog/mrlowndes_DSC01492.jpg
 
 *Seaside Chats. Bluffside Chats. Fishbowl Chats. Bayside Chats. This is where we discuss data workflows in the lab.* 
 
+**Running list of Champions teams' [Seaside Chats](Pl https://github.com/Openscapes/seaside-chats)**
+
 ----
 
 One of the long-term goals of Openscapes is to change the culture about how we work with data — and that requires normalizing even *talking* about data. We need to be able to have meaningful conversations about data and data workflows: the strategies, the struggles, the successes.

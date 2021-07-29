@@ -1,5 +1,5 @@
 ---
-title: "Our Openscapes Cohort: CSU-COAST"
+title: "Our Openscapes Cohort: CSU COAST"
 author: Arie Dash
 date: '2021-07-08'
 slug: csu-coast-cohort
@@ -12,13 +12,13 @@ banner: img/blog/horst_openscapes_champions-square.jpg
 ---
 
 
-*From the Openscapes Team: This is the second guest blog from Arie Dash, who is a Master’s student at Moss Landing Marine Labs and part of the Logan Lab at California State University Monterey Bay. He is studying how climate change affects rockfish gene expression and is excited to approach his thesis from an open science perspective. Arie wrote about his lab’s experience with the [10-week supercharge plan](https://www.openscapes.org/blog/2021/05/11/logan-lab-experience/) and is back to share his thoughts on participating in the CSU-COAST Openscapes Champions Cohort.* 
+*From the Openscapes Team: This is the second guest blog from Arie Dash, who is a Master’s student at Moss Landing Marine Labs and part of the Logan Lab at California State University Monterey Bay. He is studying how climate change affects rockfish gene expression and is excited to approach his thesis from an open science perspective. Arie wrote about his lab’s experience with the [10-week supercharge plan](https://www.openscapes.org/blog/2021/05/11/logan-lab-experience/) and is back to share his thoughts on participating in the CSU COAST Openscapes Champions Cohort.* 
 
 ---
 
-## Our Openscapes Cohort: CSU-COAST
+## Our Openscapes Cohort: CSU COAST
 
-We recently wrapped up the 2-month CSU-COAST Openscapes Champions Cohort, sponsored by The California State University Council on Ocean Affairs, Science & Technology[ (COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast). Participating teams included: 
+We recently wrapped up the 2-month CSU COAST Openscapes Champions Cohort, sponsored by The California State University Council on Ocean Affairs, Science & Technology[ (COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast). Participating teams included: 
 
 
 * the [Nielsen lab](https://karinanielsen.io/) from SFSU, which focuses on coastal ecosystems, 

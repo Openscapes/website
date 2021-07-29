@@ -65,7 +65,7 @@ Another team described how they have grown and changed physical locations during
 
 **Resilient teams and kinder science:** After getting an introduction to GitHub from the browser (Issues and publication) in the second Openscapes session, one team used a [Carpentries Github lesson](https://software-carpentry.org/lessons/) to learn and practiced how to use GitHub collaboratively for version control. We thought this was a great complement to building shared skills using existing resources. 
 
-It was also exciting to see the ideas we discussed in the cohort being applied to field work – this also came up in the [CSU-COAST Cohort](https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/) that we were leading concurrently with the CS&S Cohort, and is something we hadn’t heard before – we’re interested to support this thinking. 
+It was also exciting to see the ideas we discussed in the cohort being applied to field work – this also came up in the [CSU COAST Cohort](https://www.openscapes.org/blog/2021/07/08/csu-coast-cohort/) that we were leading concurrently with the CS&S Cohort, and is something we hadn’t heard before – we’re interested to support this thinking. 
 
 We loved seeing the [Nye Lab's new website](https://nye.unc.edu/) with a statement saying: “WE AIM TO USE BOTH SCIENCE AND EMPATHY to approach environmental problems by understanding the dynamics of the natural world and how they can affect people and communities” and “OPEN DATA SCIENCE is the way in which we ensure our science is as state-of-the-art, transparent, reproducible and accessible as possible.”  ❤️
 

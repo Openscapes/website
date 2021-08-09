@@ -4,6 +4,9 @@ description = "FAQ"
 keywords = ["FAQ"]
 +++
 
+The Openscapes [Champions Program](https://openscapes/org/champions) is not a typical training workshop for individuals. **Through Openscapes you focus on your own work with your team.** We we introduce modern collaborative open data science concepts, tooling, and examples from your peers, your team focuses on where you are and where you want to go together.
+
+---
 
 ## CHAMPIONS PROGRAM: TEAMS
 

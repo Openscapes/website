@@ -84,6 +84,8 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+-   [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams' migration to the cloud](https://docs.google.com/presentation/d/18uj2eAgzetPoq73YnRQpcYr2Q-EPuiHNaFE0sgR1XTE/edit?usp=sharing) - September 8, 2021: GES DISC User Working Group
+
 - [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams’ migration to the cloud](https://docs.google.com/presentation/d/1SVwkEDe2gUzJJZ5NGsGTsGPde-NJm9HLtKieSeuthfI/edit?usp=sharing) - August 12, 2021: LP DAAC User Working Group (20 minutes)
 
 - [Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit?usp=sharing) — July 12, 2021: Plenary at the inaugural Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology [SORTEE conference](https://www.sortee.org/events/) (30 minutes) ([video](https://osf.io/47req/))

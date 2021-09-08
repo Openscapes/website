@@ -40,13 +40,13 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## MEDIA
 
-- [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. *NASA Earth Data*
+- [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. *NASA Earth Data*.
 
 <!---https://twitter.com/NASAEarthData/status/1374761368214196233
 https://twitter.com/mozilla/status/1375101206943703047
 --->
 
-- [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2021. *SPARC Impact Stories*
+- [Openscapes embraces kindness and inclusion of open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/) — January 26, 2021. *SPARC Impact Stories*.
 
 - [Using Git to Drive Better Science with Dr. Julie Lowndes](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes) — Kate Wing. September 17, 2020. *Intertidal Podcast*.
 

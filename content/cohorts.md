@@ -30,7 +30,28 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 ## 2021 COHORTS
 
-### CS&S Cohort
+### SASI 
+Sponsored by the [Gordon and Betty Moore Foundation](https://www.moore.org/)'s Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)).
+
+Website: <https://openscapes.github.io/2021-sasi/>
+
+<br>
+
+### NOAA NMFS
+Sponsored in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).
+
+Website: <https://openscapes.github.io/2021-noaa-nmfs/>
+
+<br>
+
+### FDD
+Sponsored through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).
+
+Website: <https://openscapes.github.io/2021-fdd/>
+
+<br>
+
+### CS&S 
 Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscience.org/)
 
 **Participating teams:** 
@@ -50,7 +71,7 @@ Sponsored by [Code for Science and Society (CS&S)](https://eventfund.codeforscie
 
 <br>
 
-### CSU-COAST Cohort
+### CSU-COAST
 Sponsored by [The California State University Council on Ocean Affairs, Science & Technology (CSU-COAST)](https://www2.calstate.edu/impact-of-the-csu/research/coast)
 
 **Participating teams:** 
@@ -71,7 +92,7 @@ Sponsored by [The California State University Council on Ocean Affairs, Science 
 
 <br>
 
-### NOAA NWFSC Cohort
+### NOAA NWFSC 
 Sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker  
 (National Oceanic and Atmospheric Administration Northwest Fisheries Science Center)
 
@@ -100,7 +121,7 @@ Sponsored by NOAA, coordinated by Eric Ward and Mary Hunsicker
 
 ## 2020 COHORT 
 
-### NOAA NEFSC Cohort
+### NOAA NEFSC
 
 Sponsored by NOAA, coordinated by Scott Large and Gavin Fay  
 (National Oceanic and Atmospheric Administration Northeast Fisheries Science Center)
@@ -131,7 +152,7 @@ Sponsored by NOAA, coordinated by Scott Large and Gavin Fay
 
 ## 2019 COHORT 
 
-### Inaugural Cohort
+### Inaugural
 
 Sponsored by Mozilla
 

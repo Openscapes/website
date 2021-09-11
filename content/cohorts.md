@@ -18,7 +18,7 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 
 ## 2022 COHORTS 
 
-### NASA Cohort
+### NASA
 
 *upcoming*
 

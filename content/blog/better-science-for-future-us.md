@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - newsletter
-banner: img/blog/horst_mentors_square.jpg
+banner: img/blog/horst_mentors_square.png
 ---
 
 ## Openscapes Newsletter #4: Better Science for Future Us
@@ -67,7 +67,7 @@ NASA Mentors are folks that support researchers using NASA Earthdata from Distri
 <br>
 
 <br>
-  <a> <img src="/img/blog/horst_mentors_square.jpg" width="300px"></a>
+  <a> <img src="/img/blog/horst_mentors_square.png" width="300px"></a>
     <figcaption> Openscapes Mentors by Allison Horst
 </figcaption>  
 <br>

@@ -84,7 +84,9 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
--   [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams' migration to the cloud](https://docs.google.com/presentation/d/18uj2eAgzetPoq73YnRQpcYr2Q-EPuiHNaFE0sgR1XTE/edit?usp=sharing) - September 8, 2021: GES DISC User Working Group
+-   [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams' migration to the cloud](https://docs.google.com/presentation/d/18uj2eAgzetPoq73YnRQpcYr2Q-EPuiHNaFE0sgR1XTE/edit?usp=sharing) 
+    - September 16, 2021: NSIDC User Working Group
+    - September 8, 2021: GES DISC User Working Group
 
 - [Openscapes: Better Science for Future Us. Supporting NASA Earth science research teams’ migration to the cloud](https://docs.google.com/presentation/d/1SVwkEDe2gUzJJZ5NGsGTsGPde-NJm9HLtKieSeuthfI/edit?usp=sharing) - August 12, 2021: LP DAAC User Working Group (20 minutes)
 

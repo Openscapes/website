@@ -18,7 +18,7 @@ banner: img/blog/mrlowndes_DSC01492.jpg
 
 *Seaside Chats. Bluffside Chats. Fishbowl Chats. Bayside Chats. This is where we discuss data workflows in the lab.* 
 
-**Running list of Champions teams' [Seaside Chats](Pl https://github.com/Openscapes/seaside-chats)**
+**Running list of Champions teams' [Seaside Chats](https://github.com/Openscapes/seaside-chats)**
 
 ----
 

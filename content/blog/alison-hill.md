@@ -12,7 +12,7 @@ banner: img/blog/apreshill-web.jpg
 
 ## An R Markdown Chat with Alison Hill
 
-Our 3rd Openscapes Community Call featured a chat with [Dr. Alison Hill](https://www.apreshill.com/), product manager for data science communication at RStudio. Alsion is a data scientist, behavioral scientist, and award-winning educator and we were thrilled to chat with her! The [recording](https://us02web.zoom.us/rec/share/l7YYZaoHYFYqJzA2dpHtAZIyIXnTW16LrQ0GfbAvAcgoZfg8MQov4kZz3Y9hvXoX.F2c__DAfleQSg3oV) is online. 
+Our 3rd Openscapes Community Call featured a chat with [Dr. Alison Hill](https://www.apreshill.com/), product manager for data science communication at RStudio. Alsion is a data scientist, behavioral scientist, and award-winning educator and we were thrilled to chat with her! The recording is on [Openscapes YouTube](https://youtu.be/79m1zaugEqE). 
 
 Our conversation was about why we are so enthused with R Markdown, and why we think it is so transformative for scientists. We discussed two main themes (thinking that this would be an introduction to R Markdown, a first of three conversations): 
 

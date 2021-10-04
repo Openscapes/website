@@ -12,7 +12,7 @@ banner: img/blog/faseb.png
 
 ## FASEB DataWorks! Salon
 
-Data management and sharing are not just technical issues though, they are shifts in mindset and approach. Openscapes is excited to partner with [Federation of American Societies for Experimental Biology (FASEB)](https://www.faseb.org/) in the inaugural [FASEB DataWorks! Initiative](https://www.faseb.org/Science-Policy-and-Advocacy/Communicating-Science/Promoting-Data-Sharing-and-Reuse-Announcing-FASEBs-New-DataWorks-Initiative?utm_source=iContact&utm_medium=email&utm_campaign=faseb-office-of-public-affairs&utm_content=The+Washington+Update_09.16.2021). 
+Data management and sharing are not just technical issues; they are shifts in mindset and approach. Openscapes is excited to partner with [Federation of American Societies for Experimental Biology (FASEB)](https://www.faseb.org/) in the inaugural [FASEB DataWorks! Initiative](https://www.faseb.org/Science-Policy-and-Advocacy/Communicating-Science/Promoting-Data-Sharing-and-Reuse-Announcing-FASEBs-New-DataWorks-Initiative?utm_source=iContact&utm_medium=email&utm_campaign=faseb-office-of-public-affairs&utm_content=The+Washington+Update_09.16.2021). 
 
 Over the last year, FASEB has been working with its community—researchers, policymakers, librarians, society leaders, and research administrators—to understand whether and how FASEB can support data management and sharing. FASEB DataWorks! is an intentionally open and collaborative approach to promoting culture change in the biological and biomedical sciences through conversation spaces, training, peer support, and prizes. Our goal is to transform the way research is performed and recognized. That is where our partnership with FASEB comes in. 
 

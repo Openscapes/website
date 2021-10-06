@@ -67,7 +67,7 @@ Learn more about the behind-the-scenes creation of this piece in our 2021 Cascad
 ## Openscapes Theory of Change
 
 <br>
-<img src="/img/horst_pew_tools_practice_mindset.png" width="700px">
+<img src="/img/horst_pew_tools_practice_mindset.png" width="600px">
 <br>
 
 ## Seaside Chat illustration

@@ -50,7 +50,7 @@ Click image to open at high resolution in a new tab.
 ## Openscapes logo
 
 <br>
-<img src="/img/openscapes_hex_badge.png" width="700px">
+<img src="/img/openscapes_hex_badge.png" width="250px">
 
 <br>
 
@@ -60,14 +60,14 @@ Learn more about the behind-the-scenes creation of this piece in our 2021 Cascad
 ](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit#slide=id.p) (Lowndes & Horst 2021)
 
 <br>
-<img src="/img/horst_openscapes_champions.jpg" width="700px">
+<img src="/img/horst_openscapes_champions.jpg" width="800px">
 
 <br>
 
 ## Openscapes Theory of Change
 
 <br>
-<img src="/img/horst_pew_tools_practice_mindset.png" width="500px">
+<img src="/img/horst_pew_tools_practice_mindset.png" width="700px">
 <br>
 
 ## Seaside Chat illustration

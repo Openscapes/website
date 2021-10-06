@@ -57,7 +57,7 @@ Click image to open at high resolution in a new tab.
 ## Openscapes Champions
 
 Learn more about the behind-the-scenes creation of this piece in our 2021 CascadiaR keynote [Open science as a movement and the art of Openscapes
-](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit#slide=id.p) (Lowndes & Horst 2021)
+](https://docs.google.com/presentation/d/11-flAlM33E7GwkzlJuuzbs8icfTgYnG7UmDwDkgD49k/edit#slide=id.p) 
 
 <br>
 <img src="/img/horst_openscapes_champions.jpg" width="800px">

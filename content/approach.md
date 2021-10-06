@@ -31,6 +31,8 @@ We share our most current thinking and showcase community efforts through talks 
 - [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ). Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference 
 - [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Lowndes 2019, *Scientific American*
 
+<br>
+
 We're also developing the [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) openly as an attempt to codify our approach so that we can onboard others to the team. Aligned with our values for kinder, open science, we are developing it openly and designing it so that others can also use the Openscapes Approach on their own too. 
 
 <br>

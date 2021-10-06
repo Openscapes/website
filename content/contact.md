@@ -8,7 +8,7 @@ Openscapes is about engaging, empowering, and amplifying each other as we increa
 
 ## Our current projects
 
-- [NASA Openscapes Framework](https://nasa-openscapes.github.io) — We are supporting scientists using data from NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
+- [NASA Openscapes Framework](https://nasa-openscapes.github.io) — We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
 - [Openscapes Champions Cohorts](https://openscapes.org/champions) — we aim to lead 6 Champions Cohorts per year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs
 
 <!---

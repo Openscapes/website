@@ -15,7 +15,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
-1. **Openscapes Framework**. An annual community engagement approach for open data science that is repeatable over multiple years to strengthen skills, habits, leadership, and community. It includes our flagship Champions Program, facilitators training, and is co-designed with partners to meet specific community needs. See an example of the Openscapes Framework [with NASA](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/).
+1. **Openscapes Framework**. An annual community engagement approach for open data science that is repeatable over multiple years to strengthen skills, habits, leadership, and community. It includes our flagship Champions Program, facilitators training, and is co-designed with partners to meet specific community needs. See an example: the [NASA Openscapes Framework](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/).
 
 <!---
 Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers, communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.
@@ -31,6 +31,7 @@ We share our most current thinking and showcase community efforts through talks 
 - [Putting data to work](https://zenodo.org/record/4315009#.X_-P9OB7nOQ). Robinson 2020, invited Leptoukh Lecture at the American Geophysical Union Conference 
 - [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Lowndes 2019, *Scientific American*
 
+We're also developing the [**Openscapes Approach Guide**](https://openscapes.github.io/approach-guide/) openly as an attempt to codify our approach so that we can onboard others to the team. Aligned with our values for kinder, open science, we are developing it openly and designing it so that others can also use the Openscapes Approach on their own too. 
 
 <br>
 

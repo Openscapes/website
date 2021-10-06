@@ -93,7 +93,7 @@ From Allison's [openscapes artwork on github](https://github.com/allisonhorst/st
 
 An extended version of the classic <a href="https://r4ds.had.co.nz/">R4DS</a> schematic from Grolemund & Wickham, with environmental data science, communities, and communication added: 
 
-<img src="/img/blog/keynote/horst-eco-r4ds.png" width="700px">
+<img src="/img/blog/keynote/horst-eco-r4ds.png" width="900px">
 
 <br>
 

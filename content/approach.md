@@ -52,7 +52,7 @@ We are iterating [our theory of change](https://docs.google.com/spreadsheets/d/e
 <br> 
 
 <center>
-  <a><img src="/img/horst_pew_tools_practice_mindset.png" width="500px"></a>
+  <a><img src="/img/horst_pew_tools_practice_mindset.jpg" width="500px"></a>
   <figcaption> Openscapes Theory of Change: As teams tackle research questions (blue), their approaches (grey) can be accelerated through <br> open data science practices (green), which are underpinned by existing open source tools (orange). Art by [Allison Horst](https://twitter.com/allison_horst).
  </figcaption>
 </center>

@@ -30,7 +30,7 @@ As part of this, they introduced [Transform to Open Science (TOPS)](https://scie
 </center>
 <br>
 
-As part of the NASA Open Source Science Highlights, along with Data Catalog, Artificial Intelligence/ Machine Learning (AI/ML), Prizes and Challenges, Citizen Science, and Astrophysics Data Systems, we gave a brief overview about Openscapes. We introduced the [Champions Program](/champions) and our work engaging, empowering, and amplifying research teams. We also highlighted our work with the Distributed Active Archive Centers (DAAC) Mentor Cohort, who are supporting researchers as they transition to open science workflows on the Cloud. The DAAC Mentors are hosting a Cloud Hackathon next month, an AGU workshop in December, and a Champions Cohort in early 2022! 
+As part of the NASA Open Source Science Highlights, along with Data Catalog, Artificial Intelligence/ Machine Learning (AI/ML), Prizes and Challenges, Citizen Science, and Astrophysics Data Systems, we gave a brief overview about Openscapes. We introduced the [Champions Program](/champions) and our work engaging, empowering, and amplifying research teams. We also highlighted our work with the Distributed Active Archive Centers (DAAC) Mentor Cohort, who are supporting researchers as they transition to open science workflows on the Cloud (see [nasa-openscapes.github.io](https://nasa-openscapes.github.io/). The DAAC Mentors are hosting a Cloud Hackathon next month, an AGU workshop in December, and a Champions Cohort in early 2022! 
 
 <br>
 <center>

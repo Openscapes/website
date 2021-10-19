@@ -39,6 +39,6 @@ As part of the NASA Open Source Science Highlights, along with Data Catalog, Art
 </center>
 <br>
 
-There is a lot of inclusive open science momentum going on and we're excited to be a part of it. 
+There is a lot of inclusive open science momentum going on and we're really excited to be a part of it! 
 
 <br>

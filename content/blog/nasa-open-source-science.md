@@ -20,7 +20,7 @@ At the October 14 [NASA Open Source Science for Data Processing and Archives Wor
 2. Continuous Evolution of Data and Computing Systems
 3. Harness the Community and Strategic Partnerships for Innovation
 
-As part of this, they introduced [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), a program to increase understanding and adoption of open science principles and techniques. TOPS will focus on capacity building, partner engagement, and incentives to help accelerate scientific discovery through open science, with USD\$20 million per year for five years to support these efforts. Below is one graphic from the presentation, and a few twitter threads live during the event from [\@AstroCrawford](https://twitter.com/astrocrawford/status/1448712473113153542) [\@ReaderMeter](https://twitter.com/ReaderMeter/status/1448688384096890892).
+As part of this, they introduced [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), a program to increase understanding and adoption of open science principles and techniques. TOPS will focus on capacity building, partner engagement, and incentives to help accelerate scientific discovery through open science, with USD$20 million per year for five years to support these efforts. Below is one graphic from the presentation, and a few twitter threads live during the event from [@AstroCrawford](https://twitter.com/astrocrawford/status/1448712473113153542) [@ReaderMeter](https://twitter.com/ReaderMeter/status/1448688384096890892).
 
 
 <br>

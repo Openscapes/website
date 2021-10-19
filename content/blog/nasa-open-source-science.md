@@ -25,7 +25,7 @@ As part of this, they introduced [Transform to Open Science (TOPS)](https://scie
 
 <br>
 <center>
-  <a> <img src="/img/blog/NASA-TOPS-priorities.png" width="300px"></a>
+  <a> <img src="/img/blog/NASA-TOPS-priorities.png" width="700px"></a>
   <figcaption>Highlighing NASA's priorities through the Transform to Open Science program</figcaption>
 </center>
 <br>
@@ -34,7 +34,7 @@ As part of the NASA Open Source Science Highlights, along with Data Catalog, Art
 
 <br>
 <center>
-  <a> <img src="/img/blog/approach-slide-nasa-ossi.png" width="300px"></a>
+  <a> <img src="/img/blog/approach-slide-nasa-ossi.png" width="700px"></a>
   <figcaption>A slide from our [presentation](https://docs.google.com/presentation/d/1Sl4x6oTsjD4x30O_KwNoqr0-Yckh0CCK75PIqaaYdUY/edit#slide=id.gf7194cc3cb_0_6); artwork by [@allison_horst](https://twitter.com/allison_horst)</figcaption>
 </center>
 <br>

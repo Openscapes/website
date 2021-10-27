@@ -5,8 +5,6 @@ date: '2021-10-04'
 slug: faseb-dataworks-salon
 categories:
   - community
-tags:
-  - community-call
 banner: img/blog/faseb.png
 ---
 

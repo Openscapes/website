@@ -13,7 +13,7 @@ banner: img/blog/pathway-example-square.png
 
 ## Introducing the CS&S Champions Cohort
 
-The last Friday of June we celebrated the completion of our[Code for Science and Society (CS&S](https://eventfund.codeforscience.org/)) Science Champions Cohort. This was our first open call for the Champions program, meaning that Cohort teams weren’t all part of a specific community or group that was funding the Cohort. We proposed this open call to CS&S and wanted this to be an opportunity to focus on improving how we promote and support diversity, equity, and inclusion in Openscapes, since we wanted to see who would be interested if anyone could join. 
+The last Friday of June we celebrated the completion of our [Code for Science and Society (CS&S](https://eventfund.codeforscience.org/)) Science Champions Cohort. This was our first open call for the Champions program, meaning that Cohort teams weren’t all part of a specific community or group that was funding the Cohort. We proposed this open call to CS&S and wanted this to be an opportunity to focus on improving how we promote and support diversity, equity, and inclusion in Openscapes, since we wanted to see who would be interested if anyone could join. 
 
 We announced the opportunity [via Twitter](https://twitter.com/openscapes/status/1367554540120109056) and our [newsletter](https://www.openscapes.org/blog/2021/03/04/events-spring-2021/) that we were leading a Cohort and waited to see how many teams would be interested (hoping there would be interest!) Thankfully, there was interest and this Cohort included eight environmental science teams from academic, nonprofit, government, and Tribal organizations in the US & Canada. They are a great group of teams and are described in detail below! 
 
@@ -55,7 +55,7 @@ We were absolutely blown away by the teams in this cohort and how they were thin
 
 One group described how in addition to weekly lab meetings, they already have biweekly diversity, equity, inclusion, and justice (DEIJ) meetings and found Seaside Chats focused on open/data science helpful as well, saying: 
 
- > **“We didn’t know we had so much to talk about with about”**
+ > **“We didn’t know we had so much to talk about”**
 
 We discussed how to sustain Seaside Chat to continue skillbuilding alongside everything else, and other teams shared about setting up fun competitions to help people get comfortable using GitHub. Another team has a sign-up sheet for Seaside Chats and then whomever’s turn it is both runs the meeting but also structures the google doc, icebreakers, etc. One group was inspired by the in-person [Tidy Tuesday Club at UCSB](https://www.ucsbtidytuesday.com/) (started by 2019 Champion Allison Horst) and are thinking of starting one too.
 

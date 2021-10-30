@@ -14,16 +14,17 @@ banner: img/blog/NASEM-square.png
 
 *In early November I had the honor to speak at the National Academies of Sciences, Engineering, and Medicine (NASEM) [Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science). This Roundtable has been convening thought leaders and stakeholders to identify the whats, whys, and hows of open science policies and incentives. I was invited to provide a researcher perspective and opinions on priorities for funding open science. The first part of this post is a summary of my talk. The second part is some ideas about the Roundtable's draft Toolkit a document primarily intended for university leadership, academic department chairs, research funders, and government agencies audiences. Ideas about the Toolkit are from discussions with [Erin Robinson](https://twitter.com/connector_erin).*
 
+***Update October 2021:***
+
+*NASEM's report [Developing a Toolkit for Fostering Open Science Practices](https://www.nap.edu/catalog/26308/developing-a-toolkit-for-fostering-open-science-practices-proceedings-of) was published! This includes a 2.5 page summary of our talk outlined below.*
+
 *Quick links:* 
 
 - *[my slides](https://docs.google.com/presentation/d/1AmnPV8eLQl9_0EuHQAqp7xBMHcUlcFkM30509BwJkMA/edit?usp=sharing)* 
 - *[Roundtable on Aligning Incentives for Open Science](https://www.nationalacademies.org/our-work/roundtable-on-aligning-incentives-for-open-science?utm_source=BRDI&utm_campaign=9654e8a95e-EMAIL_CAMPAIGN_2017_08_15_COPY_01&utm_medium=email&utm_term=0_5b187d867a-9654e8a95e-)* 
 - *[Roundtable Workshop & Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)*
 - *[SPARC Impact story](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)*
-
-**Update October 2021:**
-
-NASEM's report [Developing a Toolkit for Fostering Open Science Practices](https://www.nap.edu/catalog/26308/developing-a-toolkit-for-fostering-open-science-practices-proceedings-of) was published! This includes a 2.5 page summary of our talk outlined below.
+- *[Developing a Toolkit for Fostering Open Science Practices](https://www.nap.edu/catalog/26308/developing-a-toolkit-for-fostering-open-science-practices-proceedings-of) - NASEM Report*
 
 ---
 

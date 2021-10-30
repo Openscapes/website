@@ -21,6 +21,10 @@ banner: img/blog/NASEM-square.png
 - *[Roundtable Workshop & Toolkit](https://www.nationalacademies.org/event/11-05-2020/developing-a-toolkit-for-fostering-open-science-practices-a-workshop)*
 - *[SPARC Impact story](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)*
 
+**Update October 2021:**
+
+NASEM's report [Developing a Toolkit for Fostering Open Science Practices](https://www.nap.edu/catalog/26308/developing-a-toolkit-for-fostering-open-science-practices-proceedings-of) was published! This includes a 2.5 page summary of our talk outlined below.
+
 ---
 
 ## How to empower researchers with open science

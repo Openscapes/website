@@ -33,21 +33,21 @@ Learn about these Openscapes Champions and their exciting, impactful research on
 ### SASI 
 Sponsored by the [Gordon and Betty Moore Foundation](https://www.moore.org/)'s Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)).
 
-Website: <https://openscapes.github.io/2021-sasi/>
+Website and participating teams: <https://openscapes.github.io/2021-sasi/>
 
 <br>
 
 ### NOAA NMFS
 Sponsored in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).
 
-Website: <https://openscapes.github.io/2021-noaa-nmfs/>
+Website and participating teams: <https://openscapes.github.io/2021-noaa-nmfs/>
 
 <br>
 
 ### FDD
 Sponsored through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).
 
-Website: <https://openscapes.github.io/2021-fdd/>
+Website and participating teams: <https://openscapes.github.io/2021-fdd/>
 
 <br>
 

@@ -35,5 +35,5 @@ It’s always great to see what topics resonate with different teams, and how th
 
 <br>
   <a> <img src="/img/blog/mr-lowndesDSCF1746.jpg" width="500px"></a>
-  <figcaption>Photo by Elliot Lownes</figcaption>
+  <figcaption>Photo by Elliot Lowndes</figcaption>
 <br>

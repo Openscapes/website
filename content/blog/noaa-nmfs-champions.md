@@ -84,10 +84,10 @@ The NOAA-NMFS Champions Cohort was really a thoughtful and dedicated group, and 
 **The [AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center) Team** is from the Resource Assessment and Conservation Engineering (RACE) division. This team will be working to improve data, code and report workflows for survey data. Data: curation, processing and dissemination, including implementing continuous integration. Code: improving collaboration on code packages survey data processing and prep, streamlining code development and sharing. Reports: automating reports, collaborating on proposal writing, and automating standard data products.
 
 
-**The SEFSC Team** is part of the SouthEast Data, Assessment, and Review ([SEDAR](http://sedarweb.org/)) in the Sustainable Fisheries division at [SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center). This team will be working on improving data workflow, automating reports, and collaborating on packages and functions for assessment model output and diagnostics for Southeast stock assessments for the Gulf of Mexico, Caribbean, and Atlantic.
+**The [SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center) Team** is part of the SouthEast Data, Assessment, and Review ([SEDAR](http://sedarweb.org/)) in the Sustainable Fisheries division at SEFSC. This team will be working on improving data workflow, automating reports, and collaborating on packages and functions for assessment model output and diagnostics for Southeast stock assessments for the Gulf of Mexico, Caribbean, and Atlantic.
 
 
-**The [NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)Team** is involved in collecting fisheries dependent data in collaboration with the fishing industry. The team is interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature. 
+**The [NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center) Team** is involved in collecting fisheries dependent data in collaboration with the fishing industry. The team is interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature. 
 
 
 <br>

@@ -89,5 +89,8 @@ It was really a thoughtful and dedicated group, the following is a bit more abou
 **The [NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)Team** is involved in collecting fisheries dependent data in collaboration with the fishing industry. The team is interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature. 
 
 
-
+<br>
+  <img src="/img/blog/eli-holmes-github.png" width="500px">
+  <figcaption> Example [GitHub page from Eli Holmes](https://github.com/eeholmes) a senior researcher at NOAA who participated in the Spring NWFSC Cohort and then co-led the Fall NMFS Cohort. </figcaption>
+<br>
 

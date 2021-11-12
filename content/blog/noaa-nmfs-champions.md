@@ -91,6 +91,6 @@ It was really a thoughtful and dedicated group, the following is a bit more abou
 
 <br>
   <img src="/img/blog/eli-holmes-github.png" width="500px">
-  <figcaption> Example [GitHub page from Eli Holmes](https://github.com/eeholmes) a senior researcher at NOAA who participated in the Spring NWFSC Cohort and then co-led the Fall NMFS Cohort. </figcaption>
+  <figcaption> Example [GitHub page from Dr. Eli Holmes](https://github.com/eeholmes) a senior researcher at NOAA who participated in the Spring NWFSC Cohort and then co-led the Fall NMFS Cohort. </figcaption>
 <br>
 

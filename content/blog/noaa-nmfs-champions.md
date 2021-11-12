@@ -8,7 +8,7 @@ categories:
   - champions
 tags:
   - impact
-banner: img/blog/tara-robertson-psychsafety-square.jpg
+banner: img/blog/eli-holmes-github.png
 ---
 
 *In September-October, Openscapes led a 2-month Champions Cohort with the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service (NMFS), working with over 30 fisheries scientists across four fisheries science centers at NMFS. These scientists were interested in exploring new approaches to scientific and data workflow, data analysis and stewardship, and project management---as it applies to the complex workflow required in analyses and reports involving diverse teams, data flows, and analyses.*

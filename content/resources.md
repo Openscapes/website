@@ -73,6 +73,7 @@ https://twitter.com/dgkeyes/status/1212098131774459904
 We recommend using R with RStudio, which not only provides a supportive infrastructure but enables direct connection to GitHub.com (i.e. without additional software or use of the command line). Further, workflows with RStudio's tidyverse & friends and with RMarkdown create good practices for collaborative, reproducible workflows.
 
 - [So you want to learn R?](/blog/2018/12/17/want-to-learn-r/)
+- [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel) — Lowndes & Horst 2020
 - [Big Book of R](https://www.bigbookofr.com/index.html) — Oscar Baruffa, combines > 200 publically available books, tutorials, and workshops about R
 - [UO R Psych Bootcamp](https://uopsych-r-bootcamp-2020.netlify.app/) — Branden Cullen, University of Oregon
 - [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - Dr. Anna Krystalli

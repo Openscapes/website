@@ -42,12 +42,20 @@ Sponsored in part and coordinated by NOAA Northwest Fisheries Science Center ([N
 
 Website and participating teams: <https://openscapes.github.io/2021-noaa-nmfs/>
 
+**Related blog posts**: 
+
+- [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/)
+
 <br>
 
 ### FDD
 Sponsored through NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)) and a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).
 
 Website and participating teams: <https://openscapes.github.io/2021-fdd/>
+
+**Related blog posts**: 
+
+- [Identifying common approaches and needs for fisheries dependent data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/)
 
 <br>
 

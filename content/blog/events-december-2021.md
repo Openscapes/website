@@ -8,7 +8,7 @@ categories:
 banner: img/blog/bristol-snow-square.JPG
 ---
 
-*This is a brief share about some upcoming opportunities - we welcome you to join and/or share with your colleagues. More details for each are available at **[https://openscapes.org/events/](https://openscapes.github.io/events/)**.*
+*This is a brief share about some upcoming opportunities - we welcome you to join and/or share with your colleagues. More details for each are available at* ***[openscapes.org/events](https://openscapes.github.io/events/)***
 
 ---
 
@@ -20,14 +20,15 @@ banner: img/blog/bristol-snow-square.JPG
 
 **NASA Openscapes Champions Cohort - March-April 2022.** This is a mentorship and professional development opportunity for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud. Nominate your team by February 1, 2022.
 
-**Summary blogs of recent events:**
+
+Along with the above upcoming events, here are a few summary blogs of recent events:
 
 * [2021 Cloud Hackathon Teaches Scientists How to Work with Cloud-Based Data](https://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon) - NASA Earthdata Blog, November 2021
 * [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/) - NOAA NMFS Champions Cohort, October-November 2021
 * [Identifying common approaches and needs for fisheries dependent data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/) - Fisheries Dependent Data Users Champions Cohort, October-November 2021
+* [NASA Open Source Science Workshop](https://www.openscapes.org/blog/2021/10/18/nasa-open-source-science/) - October 2021
 
 <br>
-  <img src="/img/blog/bristol-snow-square.JPG" width="500px">
-  <figcaption> Photo by Julie Lowndes </figcaption>
+  <img src="/img/blog/bristol-snow-square.JPG" width="300px">
 <br>
 

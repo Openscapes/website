@@ -85,6 +85,8 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+- [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1ul9b8LcJHd5LVeFwoAmdWtNcXhOUvRIfRc-Y_hWt9oI/edit?usp=sharing) — December 3, 2021: Keynote at the [UCSB Data Science Summit](https://datascience.ucsb.edu/summit21) 
+
 - [Openscapes: Intro for NOAA AFSC](https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit?usp=sharing) — December 2, 2021
 
 - [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1Sl4x6oTsjD4x30O_KwNoqr0-Yckh0CCK75PIqaaYdUY/edit?usp=sharing) — October 14, 2021: [NASA’s Open Source Science for Data Processing and Archives Workshop](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) (5 minutes)

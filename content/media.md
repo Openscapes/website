@@ -72,7 +72,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## LESSONS
 
-- [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) — mentorship curriculum for the Champions program, taught remotely over multiple months or in person over two days.
+- [Openscapes Champions Lesson Series](https://openscapes.github.io/series/) — mentorship curriculum for the Champions program.
 - [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the [2020 RStudio Conference](https://rstudio.com/conference/), taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user. Co-developed and taught with Allison Horst.
 <!---https://education.rstudio.com/blog/2020/02/conf2020-workshops/--->
 - [Tidy Data Illustrated Series](/blog/2020/10/12/tidy-data) — artwork to illustrate why tidy data is so powerful for efficiency, reproducibility, and collaboration. Developed with and illustrated by Allison Horst.

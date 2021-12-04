@@ -4,7 +4,7 @@ description = "About"
 keywords = ["NCEAS","Mozilla","better science in less time"]
 +++
 
-**Openscapes is an approach for doing better science in less time.** We offer mentorship, training, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by [Mozilla](/about#MOZILLA).
+**Openscapes is an approach for doing better science in less time.** We offer mentorship, teaching, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. Openscapes is operated by the National Center for Ecological Analysis & Synthesis ([NCEAS](/about#NCEAS)) and incubated by [Mozilla](/about#MOZILLA).
 
 <center><img src="/img/horst_openscapes_arctic_squid.png" width="100px"></center>
 
@@ -14,11 +14,11 @@ The Openscapes story starts with file names like "data_analysis_final_v2b.xls" �
 
 Openscapes was founded by researchers who learned the hard way that their default approaches for data analysis were not reproducible by even themselves. They found themselves struggling with unruly documentation buried in forwarded emails and knew they needed to find a better way to analyze data in a collaborative way. 
 
-Open data science was a game-changer — this is the tooling and people enabling reproducible, transparent, inclusive practices for data analysis. Using the same workflows as others in open source communitites and becoming part of the open science movement increased the efficiency and reproduciblity of their work and impact through new science communication channels. The Ocean Health Index team at NCEAS found open science to be so empowering that they shared their story — [our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) — through a publication in *Nature Ecology & Evolution*, led by Openscapes founder Julia Lowndes. 
+Open data science was a game-changer — this is the tooling and people enabling reproducible, transparent, inclusive practices for data analysis. Using existing tools and the same workflows as others in open source communities, while becoming part of the open science movement, the researchers increased the efficiency and reproduciblity of their work and its impact as they shared their work through new science communication channels *using those same analytical tools*. The Ocean Health Index team at NCEAS found open science to be so empowering that they shared their story — [our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) — through a publication in *Nature Ecology & Evolution*, led by Openscapes founder Julia Lowndes. 
 
-Key ideas that publication — that the transition to better science required both new skillsets and mindsets, and it was possible because of trust and teamwork — seeded the vision for Openscapes. Openscapes became a reality in the fall of 2018, when Mozilla (yes, the internet advocacy group that brings you Firefox) awarded Julia a fellowship to launch the program. 
+Key ideas in that publication — that the transition to better science required both new skillsets and mindsets, and it was possible because of trust and teamwork — seeded the vision for Openscapes. Openscapes became a reality in the fall of 2018, when Mozilla (yes, the internet advocacy group that brings you Firefox) awarded Julia a fellowship to launch the program. 
 
-Erin Robinson joined Openscapes as Co-Director in late 2020 to strengthen [our approach](https://openscapes.org/approach) and make Openscapes more inclusive and scalable. We are excited to continue learning and iterating with the open movement towards kinder, better science for future us.
+Erin Robinson joined Openscapes as Co-Director in late 2020 to strengthen [our approach](https://openscapes.org/approach) together and make Openscapes more inclusive and sustainable. We are excited to continue learning and iterating with the open movement towards kinder, better science for future us.
 
 <center><img src="/img/horst_openscapes_arctic_urchins.png" width="100px"></center>
 

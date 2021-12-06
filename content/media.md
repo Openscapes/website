@@ -85,6 +85,8 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+- [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1i-HNx756ZsYJMYsavCwiYtp2hbQX6vNyZ6lwVdKJyzQ/edit?usp=sharing) — December 8, 2021: invited talk about data interoperability at the [National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change) (20 minutes)
+
 - [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1ul9b8LcJHd5LVeFwoAmdWtNcXhOUvRIfRc-Y_hWt9oI/edit?usp=sharing) — December 3, 2021: Keynote at the [UCSB Data Science Summit](https://datascience.ucsb.edu/summit21) (20 minutes)
 
 - [Openscapes: Intro for NOAA AFSC](https://docs.google.com/presentation/d/1QrHzdaHmcSKoBGsY12Gg5LaZhW1sfWz2TNLCh8DaJJI/edit?usp=sharing) — December 2, 2021 (8 minutes)

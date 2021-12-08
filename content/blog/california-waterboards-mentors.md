@@ -13,9 +13,7 @@ banner: img/blog/sy-river-sycamore.jpeg
 
 *Openscapes began to work with and onboard mentors over the summer while also beginning writing the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to help document our process. This post focuses on what the California Water Boards mentors learned and did as they assisted with the Fall 2021 Fisheries Dependent Data Users ([FDD](https://openscapes.github.io/2021-fdd)) and NOAA’s National Marine Fishery Service ([NMFS](https://openscapes.github.io/2021-noaa-nmfs/)) Champions Cohorts.*
 
-*This blog post is authored by Anna Holder and Corey Clatterbuck from the California Water Boards Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)), who assisted the FDD and NMFS Cohorts, respectively, and the Openscapes team (Julie Lowndes and Erin Robinson) who make the Openscapes magic a reality. See [openscapes.org/champions](https://openscapes.org/champions) for more background on the Champions program.*
-
-*Here, we describe why we assisted and what we learned through doing so, followed by more details about what we did and what's coming next.*
+*This blog post is authored by Anna Holder and Corey Clatterbuck from the California Water Boards Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)), who assisted the FDD and NMFS Cohorts, respectively, and the Openscapes team (Julie Lowndes and Erin Robinson) who make the Openscapes magic a reality. Here, we describe why we assisted and what we learned through doing so, followed by more details about what we did and what's coming next. See [openscapes.org/champions](https://openscapes.org/champions) for more background on the Champions program.*
 
 ---
 
@@ -43,7 +41,6 @@ The datasets, details, and contexts around the work we do might be different - a
 
 3. ***Onboarding can (and should!) be so much more than finding the bathroom***
 All of us have gone through some form of an onboarding process: meet the team, meet with HR to complete your I-9 and health insurance forms, find your desk and, yes, find the bathroom. But how many of us are able to utilize that process to explicitly learn about work culture/expectations, and given an easy, one-stop-shop manual that describes how to find the data and resources relevant to our work, and how to add/contribute to those resources over time so that it’s up-to-date and augmented with our perspective for the next person. 
-
 Dedicating time to think through and document the components of your workflow that are described in the Openscapes Pathway document can help streamline onboarding and offboarding processes as well as serve as a resource and reminder to folks that have been on the team for a while (including future us!). Better still - there are already a number of past Openscapes teams that have developed these types of documents in an open format that can be used as a template or inspiration for any documentation you want to create ([Faylab Manual](https://thefaylab.github.io/lab-manual/culture.html) = GOLD)!
 
 4. ***Going through the Openscapes process is an investment***
@@ -118,7 +115,7 @@ Being mentors for the Openscapes process has been fantastic, not only for learni
 From an organizational perspective - we’re all about paying it forward. We want to share what we have learned, and the Openscapes process as a whole with the Water Boards and our partners. The details of how we are going to make this happen are still in progress but we do intend to lead a small cohort of folks at the Water Boards through the Openscapes Champions Program. We are looking forward to working with Julie and Erin to contribute to the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to document what we learn through this process so others can do the same in the future. Finally, and most importantly, we are looking forward to joining the rest of the awesome Openscapes Community to create a positive open culture in our teams, organizations, and networks to enable better, more equitable, and kinder science in less time!
 
 <br>
-  <img src="/img/blog/sy-river-sycamore.jpeg" width="500px">
+  <img src="/img/blog/sy-river-sycamore.jpeg" width="350px">
   <figcaption> Photo by Julie Lowndes. </figcaption>
 <br>
 

@@ -87,7 +87,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 - [Open Project Design: Lessons from the NASA Openscapes Framework](https://docs.google.com/presentation/d/1uc2BGBsjVABa_ZnqYCi8EgeFjlUSMd3KMSlQJnok9T8/edit?usp=sharing) — December 17, 2021: invited talk at the [Open Science in Action](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session) Session at the AGU Fall meeting (30 minutes)
 
-- [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1i-HNx756ZsYJMYsavCwiYtp2hbQX6vNyZ6lwVdKJyzQ/edit?usp=sharing) — December 8, 2021: invited talk about data interoperability at the [National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change) (20 minutes)
+- [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1i-HNx756ZsYJMYsavCwiYtp2hbQX6vNyZ6lwVdKJyzQ/edit?usp=sharing) — December 8, 2021: invited talk about data interoperability at the [National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change) ([video](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change)) (20 minutes)
 
 - [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1ul9b8LcJHd5LVeFwoAmdWtNcXhOUvRIfRc-Y_hWt9oI/edit?usp=sharing) — December 3, 2021: Keynote at the [UCSB Data Science Summit](https://datascience.ucsb.edu/summit21) (20 minutes)
 

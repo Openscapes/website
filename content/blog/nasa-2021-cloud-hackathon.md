@@ -21,7 +21,7 @@ Learn more about the 2021 Cloud Hackathon in these blog summaries:
 
 
 <br>
-  <img src="/img/blog/nasa-daacs-logo-square.png" width="350px">
+  <img src="/img/blog/nasa-daacs-logo-square.png" width="250px">
 
 <br>
 

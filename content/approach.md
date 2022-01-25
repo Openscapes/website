@@ -15,7 +15,15 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
-1. **Openscapes Framework**. An annual community engagement approach for open data science that is repeatable over multiple years to strengthen skills, habits, leadership, and community. It includes our flagship Champions Program, facilitators training, and is co-designed with partners to meet specific community needs. See an example: the [NASA Openscapes Framework](https://www.openscapes.org/blog/2021/03/10/nasa-announcement/).
+1. **Openscapes Framework**. A scalable leadership and community building framework that supports researchers and staff transitioning to open data science - see our Flywheel below. The framework involves developing a Mentor community, empowering science teams through the Champions Program, and scaling the Champions program with the Mentors in a way that is sustainable and supported. See an example: [NASA Openscapes](https://nasa-openscapes.github.io).
+
+
+Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
+
+![Openscapes Flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel-eea.png)
+
+<!---https://docs.google.com/presentation/d/14Ko80NL1qA3KsH0Spgym20DXp5ZLn6zE2KOuqUTNMVA/edit#slide=id.gc846ffc89f_2_32--->
+
 
 <!---
 Our approach is to normalize talking about data, create inclusive spaces and listen with empathy, and empower science teams with existing open source tools and communities. With art, storytelling, and practical examples from our peers, communities, and heroes, we welcome teams to the world of open data science that is powerful and empowering; one that fuels them with translational confidence that immediately benefits their own work, as well as that of others as they become leaders themselves and pass forward what they have learned. In terms of increased efficiency, reproducibility, transparency, collaboration, intention, resilience, and morale, this world is not only better for science, it is better for people.

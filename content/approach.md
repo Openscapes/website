@@ -20,7 +20,8 @@ We know that daily demands leave little time for researchers to transition to be
 
 Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
 
-![Openscapes Flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel-eea.png)
+<center><img src="/img/openscapes-flywheel-eea.png"></center>
+
 
 <!---https://docs.google.com/presentation/d/14Ko80NL1qA3KsH0Spgym20DXp5ZLn6zE2KOuqUTNMVA/edit#slide=id.gc846ffc89f_2_32--->
 

@@ -15,10 +15,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **[Openscapes Champions Program](/champions)**. A remote-by-design, cohort-based open data science mentorship program for research groups. Cohorts of research groups are mentored with their peers over several months following the [Champions Lesson Series](https://openscapes.github.io/series), and learn how to [supercharge their research](https://www.nature.com/articles/d41586-019-03335-4).
 
-1. **Openscapes Framework**. A scalable leadership and community building framework that supports researchers and staff transitioning to open data science - see our Flywheel below. The framework involves developing a Mentor community, empowering science teams through the Champions Program, and scaling the Champions program with the Mentors in a way that is sustainable and supported. See an example: [NASA Openscapes](https://nasa-openscapes.github.io).
-
-
-Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
+1. **Openscapes Framework**. A scalable leadership and community building framework that supports researchers and staff transitioning to open data science. The framework involves developing a Mentor community, empowering science teams through the Champions Program, and scaling the Champions program with the Mentors in a way that is sustainable and supported. See our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) below, and an example: [NASA Openscapes](https://nasa-openscapes.github.io).
 
 <center><img src="/img/openscapes-flywheel-eea.png"></center>
 

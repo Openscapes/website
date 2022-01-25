@@ -2,7 +2,7 @@
 title: "NASA 2021 Cloud Hackathon"
 author: NASA Openscapes Team
 date: '2021-12-15'
-slug: california-waterboards-mentors
+slug: nasa-2021-cloud-hackathon
 categories:
   - community
 tags:

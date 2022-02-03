@@ -14,10 +14,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 - Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen & Chelsea L. Wood. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4). *Nature,* Career Column, 2019
 
-- Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O'Hara, Ning Jiang, & Benjamin S. Halpern. [Our path to better science in less time using open data science tools.](https://www.nature.com/articles/s41559-017-0160). *Nature Ecology & Evolution*, 2017 - Openscapes origins
-
-    - [Nature article by Jeffrey Perkel: My digital toolbox: Julia Stewart Lowndes](http://blogs.nature.com/naturejobs/2017/05/23/techblog-julia-stewart-lowndes/)
-
+- Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O'Hara, Ning Jiang, & Benjamin S. Halpern. [Our path to better science in less time using open data science tools.](https://www.nature.com/articles/s41559-017-0160). *Nature Ecology & Evolution*, 2017 ( Openscapes origins)
 
 <!---
 Supercharge: 

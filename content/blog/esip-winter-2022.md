@@ -7,13 +7,13 @@ categories:
   - community
 tags:
   - impact
-banner: img/blog/sy-river-sycamore.jpeg
+banner: img/blog/esip-holmes-earlyadopter-square.png
 editor_options: 
   markdown: 
     wrap: 72
 ---
 
-At the ESIP Winter Meeting, "Data for All People: From Data Generation
+*At the ESIP Winter Meeting, "Data for All People: From Data Generation
 to Data Use and Understanding", we held a session called "[Better
 Science for Future Us: Planning for the Year of Open
 Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science)",
@@ -29,34 +29,28 @@ Science](https://science.nasa.gov/open-science/transform-to-open-science).
 Speakers shared stories about open science in government and their
 experiences with Openscapes. These examples were shared in a "Fishbowl"
 format, where speakers each shared and then there was a broader
-discussion with the 70+ participants. 
+discussion with the 70+ participants.*
 
-Quick links: 
+*Quick links:*
 
--   [ESIP Session
-    page](https://2022esipjanuarymeeting.sched.com/event/qkp5) - links
+-   [*ESIP Session
+    page*](https://2022esipjanuarymeeting.sched.com/event/qkp5) *- links
     to with [video
     recording](https://www.youtube.com/watch?v=hbFAkhNRpJw) and
-    [notes](https://docs.google.com/document/d/1etnk-B7Zl9VnjuuPhJFsyge5dwQwdVWW4lz-vfIAA1E/edit)
+    [notes](https://docs.google.com/document/d/1etnk-B7Zl9VnjuuPhJFsyge5dwQwdVWW4lz-vfIAA1E/edit)*
 
--   Slides: 
+-   *Slides:*
 
-    -   [NOAA Fisheries -
-        Holmes](https://docs.google.com/presentation/d/1iHnGfQsyUi6MCnIcyszXRtm49NBBeT23Go6XVM8UG0Y/edit#slide=id.p)
+    -   [*NOAA Fisheries -
+        Holmes*](https://docs.google.com/presentation/d/1iHnGfQsyUi6MCnIcyszXRtm49NBBeT23Go6XVM8UG0Y/edit#slide=id.p)
 
-    -   [California Water Boards -
-        Holder](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit?usp=sharing)
+    -   [*California Water Boards -
+        Holder*](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit?usp=sharing)
 
-    -   [Openscapes - Lowndes, Robinson,
-        Fenwick](https://docs.google.com/presentation/d/1oNPU8MmDzRbfFbB2qyxVRmsmLRlniwCKACZD5zfAbes/edit?pli=1#slide=id.g10c586c5c7b_1_0)
+    -   [*Openscapes - Lowndes, Robinson,
+        Fenwick*](https://docs.google.com/presentation/d/1oNPU8MmDzRbfFbB2qyxVRmsmLRlniwCKACZD5zfAbes/edit?pli=1#slide=id.g10c586c5c7b_1_0)
 
-  
-
----
-
-# 
-
-  
+------------------------------------------------------------------------
 
 Our ESIP session provided space to bring four different groups together
 who we have been working so that they could share their stories and
@@ -146,25 +140,17 @@ the agency, support open science communities such as the agency R User
 Group and RStudio Connect community, and build visibility for open
 science work already going on at NOAA Fisheries.
 
-  
-  
+<br>
+<center>
+  <a> <img src="/img/blog/esip-holmes-innovation-adopters.png" alt="Left image showing diffusion of innovation theory shows a bell curve that is labeled left to right with innovators as the 2.5%, early adopters as 13.5%, early majority as 34%, late majority as 34%, and laggards as the final 16%. Right image showing circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="650px"></a>
+  </center>
+  <br>
 
-![](https://lh4.googleusercontent.com/9SOVRXRNtl7lixo1sPsxSMDxIeEdYG3vqspAuDnEaZF4gBRgVqtznO-F19Xto-dkcF3c6bPccgLS0zYLeH_GXZ_Px2LHcedp1lvgZ9UcrBUyuYrLTWbljwBTehW-Og)
-
-![](https://lh6.googleusercontent.com/5WTu4iUi-MqIB1VoSTkBZsqUcn2EtTt4Vjs5lsExUYO-5ChV2SZoCiewWyaVxUJq2Bz0-VOQrQHdvL5Tg82Db2vBjrNAYXHPHXwQl3Wb4YHk57NscidXiQAfagbl6w)
-
-Slides from Eli Holmes'
+*Slides from Eli Holmes'
 [presentation](https://docs.google.com/presentation/d/1iHnGfQsyUi6MCnIcyszXRtm49NBBeT23Go6XVM8UG0Y/edit#slide=id.p)
 showing the diffusion of innovation theory and that early adopters can
-be isolated. 
+be isolated.*
 
-Alt text: diffusion of innovation theory shows a bell curve that is
-labeled left to right with innovators as the 2.5%, early adopters as
-13.5%, early majority as 34%, late majority as 34%, and laggards as the
-final 16%.
-
-  
-  
 
 Anna Holder said of the California Water Boards, "like many complex
 organizations, we too have complex data systems and infrastructure". She
@@ -181,32 +167,14 @@ importance of early adopters but the role early adopters play in
 teaching and supporting colleagues as whole organizations transition to
 open science.
 
-  
-  
+<br> 
+<center>
+<a> <img src="/img/blog/esip-holder-waterboards.png" alt="Slide summarizing key moments in the California Water Boards open data journey, with text boxes and dates overlaid on an image of a road. In 2016 - The California Open and Transparent Water Data Act (AB 1755) was enacted. In 2018 - the Water Board adopted its Open Data Resolution. From 2019-2020 - California published and began to implement its Water Resiliency Portfolio. In 2019 - The Water Board's Office of Information Management and Analysis (OIMA) published its Strategic Data Action Plan. In 2020 - California published and began to implement its State Data Strategy. In 2020 - OIMA published the Water Boards Data Literacy Strategy. In 2021 - OIMA launched the Water Boards College of Water Informatics to serve as a vehicle through which data literacy training and resources are delivered throughout the Water Boards. In 2021 - Members of OIMA partnered with Openscapes to assist with Champions cohorts and began to explore how Openscapes could contribute to and advance open science within the larger Water Boards organization." width="650px"></a>
+  </center>
+  <br>
 
-![](https://lh3.googleusercontent.com/YHKE34MbwsSWCthCxChA2hLLQahF8OwnWyb5H0hMeDQuUrKW4V3oBLLx4GKf9hPMrNL_woCHJQM6lUsy_zNtuA9esUV7YGhofdTIgngmaellxVuWI4kOe0PBKX-zVw)
-
-Slide from Anna Holder's
-[presentation](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit#slide=id.p1)
-
-Alt text: Slide summarizing key moments in the California Water Boards
-open data journey, with text boxes and dates overlaid on an image of a
-road. In 2016 - The California Open and Transparent Water Data Act (AB
-1755) was enacted. In 2018 - the Water Board adopted its Open Data
-Resolution. From 2019-2020 - California published and began to implement
-its Water Resiliency Portfolio. In 2019 - The Water Board's Office of
-Information Management and Analysis (OIMA) published its Strategic Data
-Action Plan. In 2020 - California published and began to implement its
-State Data Strategy. In 2020 - OIMA published the Water Boards Data
-Literacy Strategy. In 2021 - OIMA launched the Water Boards College of
-Water Informatics to serve as a vehicle through which data literacy
-training and resources are delivered throughout the Water Boards. In
-2021 - Members of OIMA partnered with Openscapes to assist with
-Champions cohorts and began to explore how Openscapes could contribute
-to and advance open science within the larger Water Boards organization.
-
-  
-  
+*Slide from Anna Holder's
+[presentation](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit#slide=id.p1)*
 
 It is critical to recognize that early adopters already exist. They are
 bright spots that get brighter when working together and collectively
@@ -310,5 +278,5 @@ Aaron provides user needs insights and technical support for archive and
 distribution, service development, and outreach activities, including
 developing tutorials, scripts, and presentations.
 
-<br> <img src="/img/blog/sy-river-sycamore.jpeg" width="350px">
-<figcaption> Photo by Julie Lowndes. </figcaption> <br>
+<br> <img src="/img/blog/esip-holmes-earlyadopter-square.png" alt="circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="350px">
+<figcaption>"Early Adopter figure from Eli Holmes' slides</figcaption> <br>

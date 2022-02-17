@@ -146,7 +146,7 @@ Group and RStudio Connect community, and build visibility for open
 science work already going on at NOAA Fisheries.
 
 <br> <center> <a>
-<img src="/img/blog/esip-holmes-innovation-adopters.png" alt="Left image showing diffusion of innovation theory shows a bell curve that is labeled left to right with innovators as the 2.5%, early adopters as 13.5%, early majority as 34%, late majority as 34%, and laggards as the final 16%. Right image showing circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="650px"></a>
+<img src="/img/blog/esip-holmes-innovation-adopters.png" alt="Left image showing diffusion of innovation theory shows a bell curve that is labeled left to right with innovators as the 2.5%, early adopters as 13.5%, early majority as 34%, late majority as 34%, and laggards as the final 16%. Right image showing circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="750px"></a>
 </center> <br>
 
 *Slides from Eli Holmes'
@@ -170,7 +170,7 @@ teaching and supporting colleagues as whole organizations transition to
 open science.
 
 <br> <center> <a>
-<img src="/img/blog/esip-holder-waterboards.png" alt="Slide summarizing key moments in the California Water Boards open data journey, with text boxes and dates overlaid on an image of a road. In 2016 - The California Open and Transparent Water Data Act (AB 1755) was enacted. In 2018 - the Water Board adopted its Open Data Resolution. From 2019-2020 - California published and began to implement its Water Resiliency Portfolio. In 2019 - The Water Board's Office of Information Management and Analysis (OIMA) published its Strategic Data Action Plan. In 2020 - California published and began to implement its State Data Strategy. In 2020 - OIMA published the Water Boards Data Literacy Strategy. In 2021 - OIMA launched the Water Boards College of Water Informatics to serve as a vehicle through which data literacy training and resources are delivered throughout the Water Boards. In 2021 - Members of OIMA partnered with Openscapes to assist with Champions cohorts and began to explore how Openscapes could contribute to and advance open science within the larger Water Boards organization." width="650px"></a>
+<img src="/img/blog/esip-holder-waterboards.png" alt="Slide summarizing key moments in the California Water Boards open data journey, with text boxes and dates overlaid on an image of a road. In 2016 - The California Open and Transparent Water Data Act (AB 1755) was enacted. In 2018 - the Water Board adopted its Open Data Resolution. From 2019-2020 - California published and began to implement its Water Resiliency Portfolio. In 2019 - The Water Board's Office of Information Management and Analysis (OIMA) published its Strategic Data Action Plan. In 2020 - California published and began to implement its State Data Strategy. In 2020 - OIMA published the Water Boards Data Literacy Strategy. In 2021 - OIMA launched the Water Boards College of Water Informatics to serve as a vehicle through which data literacy training and resources are delivered throughout the Water Boards. In 2021 - Members of OIMA partnered with Openscapes to assist with Champions cohorts and began to explore how Openscapes could contribute to and advance open science within the larger Water Boards organization." width="550px"></a>
 </center> <br>
 
 *Slide from Anna Holder's

@@ -13,23 +13,7 @@ editor_options:
     wrap: 72
 ---
 
-At the ESIP Winter Meeting, "Data for All People: From Data Generation
-to Data Use and Understanding", we held a session called "[Better
-Science for Future Us: Planning for the Year of Open
-Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science)",
-with speakers from University of North Carolina (UNC), National Oceanic
-and Atmospheric Administration (NOAA) Fisheries, California Water
-Boards, University of Colorado, and United States Geological Survey
-(USGS). The goals of this session were  to increase visibility and value
-of open science within government and support researchers and leaders
-that are already doing this within government organizations; to create
-more channels for inter- and cross-agency learning; and to share open
-science stories across agencies as we prepare for NASA's [Year of Open
-Science](https://science.nasa.gov/open-science/transform-to-open-science)
-initiative. Speakers shared stories about open science in government and
-their experiences with Openscapes. These examples were shared in a
-"Fishbowl" format, where speakers each shared and then there was a
-broader discussion with the 70+ participants. 
+*At the ESIP Winter Meeting, "Data for All People: From Data Generation to Data Use and Understanding", we held a session called "[Better Science for Future Us: Planning for the Year of Open Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science)", with speakers from University of North Carolina (UNC), National Oceanic and Atmospheric Administration (NOAA) Fisheries, California Water Boards, University of Colorado, and United States Geological Survey (USGS). The goals of this session were to increase visibility and value of open science within government and support researchers and leaders that are already doing this within government organizations; to create more channels for inter- and cross-agency learning; and to share open science stories across agencies as we prepare for NASA's [Year of Open Science](https://science.nasa.gov/open-science/transform-to-open-science)initiative. Speakers shared stories about open science in government and their experiences with Openscapes. These examples were shared in a "Fishbowl" format, where speakers each shared and then there was a broader discussion with the 70+ participants.*
 
 *Quick links:*
 
@@ -88,6 +72,8 @@ embodied. We describe these more fully below.
 
 -   Reuse and build from existing efforts to accelerate change
 
+<br>
+
 ## Both top-down and grassroots efforts are necessary
 
 Both top-down and grassroots efforts supporting open science are
@@ -101,8 +87,8 @@ framing efforts at NOAA Fisheries as "grassroots" as early adopter
 researchers find each other and join forces to make the case for open
 science to leadership.
 
- But as we talked, the importance of and need for both really came
-through. 
+But as we talked, the importance of and need for both really came
+through.
 
 When Amy Steiker and Aaron Friesz, from NASA's Distributed Active
 Archive Centers (DAACs), discussed their work with NASA Openscapes, Amy
@@ -120,6 +106,8 @@ and support from their NASA teams, managers, and leadership. So, while
 from the outside this might look strictly top-down, NASA is a really
 exciting example of how both are needed and how creating channels for
 them to listen and iterate together is really key.
+
+<br>
 
 ## Dissolve silos by supporting early adopters
 
@@ -182,7 +170,9 @@ spread more brightness within an organization, like Anna's work at the
 Water Boards, Eli's work at NOAA Fisheries, Aaron and Amy's work within
 NASA, or Ileana's cross- organization work with HBCUs. This follows the
 point above that grassroots efforts are critical for building these
-communities and helping identify needs. 
+communities and helping identify needs.
+
+<br>
 
 ## Reuse and build from existing efforts to accelerate change
 
@@ -234,12 +224,16 @@ feedback in "dry runs"; and teaching at Cloud Hackathons and workshops
 (see [NASA Cloud
 tutorials](https://nasa-openscapes.github.io/tutorials.html)). 
 
+<br>
+
 ## Onward
 
 Our team was very inspired by this session, including all of the
 comments and questions from both the speakers and the audience.
 Equitable access to open science will continue to drive our shared work
 going forward and we are excited for what's to come.
+
+<br>
 
 ## Speakers Bios
 

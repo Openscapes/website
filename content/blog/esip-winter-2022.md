@@ -13,23 +13,23 @@ editor_options:
     wrap: 72
 ---
 
-*At the ESIP Winter Meeting, "Data for All People: From Data Generation
+At the ESIP Winter Meeting, "Data for All People: From Data Generation
 to Data Use and Understanding", we held a session called "[Better
 Science for Future Us: Planning for the Year of Open
 Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science)",
 with speakers from University of North Carolina (UNC), National Oceanic
 and Atmospheric Administration (NOAA) Fisheries, California Water
 Boards, University of Colorado, and United States Geological Survey
-(USGS). The goals were  to increase visibility and value of open science
-within government and support researchers and leaders that are already
-doing this within government organizations; to create more channels for
-inter- and cross-agency learning; and to share open science stories
-across agencies as we prepare for the [Year of Open
-Science](https://science.nasa.gov/open-science/transform-to-open-science).
-Speakers shared stories about open science in government and their
-experiences with Openscapes. These examples were shared in a "Fishbowl"
-format, where speakers each shared and then there was a broader
-discussion with the 70+ participants.*
+(USGS). The goals of this session were  to increase visibility and value
+of open science within government and support researchers and leaders
+that are already doing this within government organizations; to create
+more channels for inter- and cross-agency learning; and to share open
+science stories across agencies as we prepare for NASA's [Year of Open
+Science](https://science.nasa.gov/open-science/transform-to-open-science)
+initiative. Speakers shared stories about open science in government and
+their experiences with Openscapes. These examples were shared in a
+"Fishbowl" format, where speakers each shared and then there was a
+broader discussion with the 70+ participants. 
 
 *Quick links:*
 
@@ -52,25 +52,29 @@ discussion with the 70+ participants.*
 
 ------------------------------------------------------------------------
 
-Our ESIP session provided space to bring four different groups together
-who we have been working so that they could share their stories and
-discuss with a broader audience of allies. These folks are "early
-adopters" who are investing the time and effort needed to help
-colleagues transition to open science. This session aimed to increase
-the visibility of open science within government, support open science
-leaders within government organizations, and create more channels for
-inter- and cross-agency learning.
+## 3 takeaways for planning for the year of open science
 
+Our ESIP session provided space to bring four different groups together
+who are working with Openscapes so that they could share their stories
+and discuss their implementation of open science practices with a
+broader audience of allies. These folks are "early adopters" who are
+investing the time and effort needed to help colleagues transition to
+open science. This session aimed to increase the visibility of open
+science within government, support open science leaders within
+government organizations, and create more channels for inter- and
+cross-agency learning.
+
+  
 A strong theme throughout the whole session was equity. Ileana Fenwick
 underscored how open science has not been accessible to everyone in
 science and discussed her ongoing work to build equitable pathways for
 researchers at Historically Black Colleges and Universities (HBCUs), and
 the importance of providing support and aftercare. Eli Holmes described
-how equity must become a focus within NOAA as well, where while some
-science centers have had a high density of early adopters and lots of
-resources including code sharing and peer mentors, other centers or labs
-have had fewer early adopters or their coders have not been connected to
-the others. Anna Holder's work at the California Water Boards centers
+how equity must become a focus within NOAA as well; while some science
+centers have had a high density of early adopters and lots of resources
+including code sharing and peer mentors, other centers or labs have had
+fewer early adopters or their coders have not been connected to the
+others. Anna Holder's work at the California Water Boards centers
 equity. Anna sees the true spirit of open science as being at the nexus
 of open data and science; effective science communication; and equity,
 specifically centered around racial equity and environmental justice.
@@ -100,11 +104,12 @@ science to leadership.
  But as we talked, the importance of and need for both really came
 through. 
 
-When Amy Steiker and Aaron Friesz discussed their work with NASA
-Openscapes, Amy mentioned that while there is critical top-down support
-from NASA leadership, managers look to researchers at the grassroots
-level to determine what open science can look like. Additionally, NASA
-staff have been asking for open source tooling and workflows to support
+When Amy Steiker and Aaron Friesz, from NASA's Distributed Active
+Archive Centers (DAACs), discussed their work with NASA Openscapes, Amy
+mentioned that while there is critical top-down support from NASA
+leadership, managers look to researchers at the grassroots level to
+determine what open science can look like. Additionally, NASA staff have
+been asking for open source tooling and workflows to support
 researchers, including JupyterHubs where they can develop open source
 code on the Cloud. Now as Aaron, Amy, and colleagues have access to a
 JupyterHub to develop and teach tutorials for NASA Earthdata (like they
@@ -114,7 +119,7 @@ they are able to share progress and lessons learned, and get feedback
 and support from their NASA teams, managers, and leadership. So, while
 from the outside this might look strictly top-down, NASA is a really
 exciting example of how both are needed and how creating channels for
-them to listen and iterate together is really key. 
+them to listen and iterate together is really key.
 
 ## Dissolve silos by supporting early adopters
 
@@ -140,17 +145,14 @@ the agency, support open science communities such as the agency R User
 Group and RStudio Connect community, and build visibility for open
 science work already going on at NOAA Fisheries.
 
-<br>
-<center>
-  <a> <img src="/img/blog/esip-holmes-innovation-adopters.png" alt="Left image showing diffusion of innovation theory shows a bell curve that is labeled left to right with innovators as the 2.5%, early adopters as 13.5%, early majority as 34%, late majority as 34%, and laggards as the final 16%. Right image showing circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="650px"></a>
-  </center>
-  <br>
+<br> <center> <a>
+<img src="/img/blog/esip-holmes-innovation-adopters.png" alt="Left image showing diffusion of innovation theory shows a bell curve that is labeled left to right with innovators as the 2.5%, early adopters as 13.5%, early majority as 34%, late majority as 34%, and laggards as the final 16%. Right image showing circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="650px"></a>
+</center> <br>
 
 *Slides from Eli Holmes'
 [presentation](https://docs.google.com/presentation/d/1iHnGfQsyUi6MCnIcyszXRtm49NBBeT23Go6XVM8UG0Y/edit#slide=id.p)
 showing the diffusion of innovation theory and that early adopters can
 be isolated.*
-
 
 Anna Holder said of the California Water Boards, "like many complex
 organizations, we too have complex data systems and infrastructure". She
@@ -158,7 +160,7 @@ described their open data journey and how this has been part of their
 organizational fabric for over five years. In addition to official
 strategies, communication and teaching with different audiences within
 the organization has been key. Anna and colleagues are leading "data
-literacy" workshops for executives ---  not to teach tools like R and
+literacy" workshops for executives --- not to teach tools like R and
 GitHub but to discuss that these tools exist and showing use cases that
 make their staff more efficient, for example where data quality control
 can be done in minutes rather than weeks. This work often involves
@@ -167,22 +169,20 @@ importance of early adopters but the role early adopters play in
 teaching and supporting colleagues as whole organizations transition to
 open science.
 
-<br> 
-<center>
-<a> <img src="/img/blog/esip-holder-waterboards.png" alt="Slide summarizing key moments in the California Water Boards open data journey, with text boxes and dates overlaid on an image of a road. In 2016 - The California Open and Transparent Water Data Act (AB 1755) was enacted. In 2018 - the Water Board adopted its Open Data Resolution. From 2019-2020 - California published and began to implement its Water Resiliency Portfolio. In 2019 - The Water Board's Office of Information Management and Analysis (OIMA) published its Strategic Data Action Plan. In 2020 - California published and began to implement its State Data Strategy. In 2020 - OIMA published the Water Boards Data Literacy Strategy. In 2021 - OIMA launched the Water Boards College of Water Informatics to serve as a vehicle through which data literacy training and resources are delivered throughout the Water Boards. In 2021 - Members of OIMA partnered with Openscapes to assist with Champions cohorts and began to explore how Openscapes could contribute to and advance open science within the larger Water Boards organization." width="650px"></a>
-  </center>
-  <br>
+<br> <center> <a>
+<img src="/img/blog/esip-holder-waterboards.png" alt="Slide summarizing key moments in the California Water Boards open data journey, with text boxes and dates overlaid on an image of a road. In 2016 - The California Open and Transparent Water Data Act (AB 1755) was enacted. In 2018 - the Water Board adopted its Open Data Resolution. From 2019-2020 - California published and began to implement its Water Resiliency Portfolio. In 2019 - The Water Board's Office of Information Management and Analysis (OIMA) published its Strategic Data Action Plan. In 2020 - California published and began to implement its State Data Strategy. In 2020 - OIMA published the Water Boards Data Literacy Strategy. In 2021 - OIMA launched the Water Boards College of Water Informatics to serve as a vehicle through which data literacy training and resources are delivered throughout the Water Boards. In 2021 - Members of OIMA partnered with Openscapes to assist with Champions cohorts and began to explore how Openscapes could contribute to and advance open science within the larger Water Boards organization." width="650px"></a>
+</center> <br>
 
 *Slide from Anna Holder's
 [presentation](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit#slide=id.p1)*
 
 It is critical to recognize that early adopters already exist. They are
 bright spots that get brighter when working together and collectively
-spread more brightness within an organization like Anna's work at the
-Water Boards, Eli's work at NOAA Fisheries, Aaron and Amy's work with
-NASA, or across organizations like Ileana's work with HBCUs. This
-follows the point above that grassroots efforts are critical for
-building these communities and helping identify needs. 
+spread more brightness within an organization, like Anna's work at the
+Water Boards, Eli's work at NOAA Fisheries, Aaron and Amy's work within
+NASA, or Ileana's cross- organization work with HBCUs. This follows the
+point above that grassroots efforts are critical for building these
+communities and helping identify needs. 
 
 ## Reuse and build from existing efforts to accelerate change
 
@@ -204,39 +204,39 @@ having our 2i2c JupyterHub has been really critical; for many it has
 been their first exposure to the Cloud, and since they now have hands-on
 experience they can better support researchers who are using it too. In
 Ileana, Eli, and Anna's work in marine and aquatic science, RStudio is a
-shared environment to work together because shared workflows for example
-with RMarkdown enable shared approaches to communicate with different
-audiences.
+shared environment to work together because shared workflows, for
+example with RMarkdown, enable shared approaches to communicate with
+different audiences.
 
 Another part is that we can reuse and build from what already works.
 Aaron Friesz described the benefit of being able to "peer over the wall"
-to see what colleagues at other NASA data centers have been doing
-through the NASA Openscapes Mentors Cohort. This then enables Mentors
-and their colleagues at other NASA data centers incorporate and reuse
-what was working elsewhere, rather than all reinventing in their own
-silos. This can mean reusing code as well as reusing communication
-channel setup for different communities, for example several data
-centers are re-using the 2021 Cloud Hackathon book structure and
-facilitation as well as the lessons in upcoming workshops. There is so
-much previous, ongoing, and accelerating work that has been developed as
-part of the open movement that we can leverage--- meaning technology,
-material, and the ability to work together. 
+to see and compare what types of strategies and resources other NASA
+DAACs have explored. This then enables Mentors and their colleagues at
+other NASA data centers to incorporate and reuse what was working
+elsewhere, rather than all reinventing in their own silos. This can mean
+reusing code as well as reusing communication channel setup for
+different communities; for example several data centers are re-using the
+2021 Cloud Hackathon book structure and facilitation as well as the
+lessons in upcoming workshops. There is so much previous, ongoing, and
+accelerating work that has been developed as part of the open movement
+that we can leverage --- meaning technology, material, and the ability
+to work together. 
 
 Finally, a large part is the time investment, i.e. having time for open
 science as part of paid jobs. Creating "space and place" takes time. It
 is really important to recognize that all speakers have been given time,
 resources, and support by their supervisors. This has been particularly
-important for NASA Openscapes, where Managers at the Distributed Active
-Archive Centers (DAACs) have approved dedicating up to 80% of weekly
-time to open science to support learning through Carpentries Instructor
-Training and Openscapes Cohort Calls; Co-Working, and Clinics;
-developing, reviewing, and getting teaching feedback in "dry runs"; and
-teaching at Cloud Hackathons and workshops (see [NASA Cloud
+important for NASA Openscapes, where Managers at the DAACs have approved
+dedicating up to 80% of weekly time to open science to support learning
+through Carpentries Instructor Training and Openscapes Cohort Calls;
+Co-Working, and Clinics; developing, reviewing, and getting teaching
+feedback in "dry runs"; and teaching at Cloud Hackathons and workshops
+(see [NASA Cloud
 tutorials](https://nasa-openscapes.github.io/tutorials.html)). 
 
 ## Onward
 
-Our team was very inspired by this session, including by all the
+Our team was very inspired by this session, including all of the
 comments and questions from both the speakers and the audience.
 Equitable access to open science will continue to drive our shared work
 going forward and we are excited for what's to come.
@@ -278,5 +278,7 @@ Aaron provides user needs insights and technical support for archive and
 distribution, service development, and outreach activities, including
 developing tutorials, scripts, and presentations.
 
-<br> <img src="/img/blog/esip-holmes-earlyadopter-square.png" alt="circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="350px">
-<figcaption>"Early Adopter figure from Eli Holmes' slides</figcaption> <br>
+<br>
+<img src="/img/blog/esip-holmes-earlyadopter-square.png" alt="circles full of cartoon people, some of whom are colored grey as early adopters and are isolated." width="350px">
+<figcaption>"Early Adopter figure from Eli Holmes' slides</figcaption>
+<br>

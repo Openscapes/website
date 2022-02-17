@@ -174,7 +174,7 @@ open science.
 </center> <br>
 
 *Slide from Anna Holder's
-[presentation](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit#slide=id.p1)*
+[presentation](https://docs.google.com/presentation/d/1Pl-hT_imSzP0uOyC7TbM_dw96_mnnLC96hCjYun99fA/edit#slide=id.p1) showing the California Water Boards' open data journey*
 
 It is critical to recognize that early adopters already exist. They are
 bright spots that get brighter when working together and collectively

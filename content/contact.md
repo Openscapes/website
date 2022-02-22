@@ -34,7 +34,7 @@ Please see our [events page](https://openscapes.github.io/events) for **Openscap
 
 ### Book a Champions Cohort
 
-Cohorts are led remotely over 2.5 months and involve 7-10 participating research groups. Please [email us](mailto:openscapes@nceas.ucsb.edu) if you're interested in booking a cohort.
+Cohorts are led remotely over 2.5 months and involve ~7 participating research groups. Please [email us](mailto:openscapes@nceas.ucsb.edu) if you're interested in booking a cohort.
 
 ### Sponsor Champions Cohorts and Workshops
 

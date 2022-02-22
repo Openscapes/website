@@ -120,7 +120,7 @@ The Openscapes Champions [Cohorts page](/cohorts) lists the inspiring research g
 
 The Openscapes Champions Program is strongly motivated by open data science, and with that comes the mindset of openness, collaboration, inclusion, trust, and creating the culture we want in science. 
 
-The [**Openscapes Champions Lessons Series**](https://openscapes.github.io/series/) is an open curriculum that we use in the Champions Program. It is iterated openly, with the most recent version always available online. Each Chapter has associated slides used in Cohort Calls, which are presented as 2- or 4-month [Agendas](https://openscapes.github.io/series/index.html#agendas).
+The [**Openscapes Champions Lessons Series**](https://openscapes.github.io/series/) is the core curriculum that we use in the Champions Program. It is iterated openly, with the most recent version always available online. Each Chapter has associated slides used in Cohort Calls, which we cover in Cohort Calls.
 
 The Lesson Series is originally framed around the the tools and practices critical to the OHI team's [path to better science in less time](https://www.nature.com/articles/s41559-017-0160), with examples from the open source programming language R and R communities. However, the concepts are relevant no matter the programming language, and we continually invest in this curriculum to incorporate examples from other languages and communities as well.
 

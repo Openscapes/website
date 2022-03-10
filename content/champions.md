@@ -98,7 +98,7 @@ The program is modeled after [Mozilla Open Leaders](https://foundation.mozilla.o
 
 ## CHAMPIONS COHORTS 
 
-The Openscapes Champions [Cohorts page](/cohorts) lists the inspiring research groups that have participated in the Champions Program. 
+Explore previous [**Openscapes Champions Cohorts**](https://openscapes.github.io/events/#category:Champions_Cohort) to learn about these inspiring teams' research and open data science momentum.
 
 <br> 
 

@@ -7,6 +7,7 @@ categories:
   - community
 tags:
   - impact
+  - community-call
 banner: img/blog/moz-movement-building-square.png
 ---
 

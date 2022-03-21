@@ -1,8 +1,8 @@
 ---
 title: "Openscapes Newsletter #5: Spring 2022"
 author: Julie Lowndes and Erin Robinson
-date: '2021-11-29'
-slug: events-december-2021
+date: '2022-03-21'
+slug: news-spring-2022
 categories:
   - community
 banner: img/blog/ocean-square.png

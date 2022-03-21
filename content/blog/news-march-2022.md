@@ -5,7 +5,7 @@ date: '2022-03-21'
 slug: news-spring-2022
 categories:
   - community
-banner: img/blog/ocean-square.png
+banner: img/blog/ocean-square.jpg
 ---
 
 ## **Openscapes Newsletter #5: Spring 2022**
@@ -46,4 +46,4 @@ Now, the Mentors are assisting the first [NASA Champions Cohort](https://nasa-op
 
 **RStudio Conference Keynote.** We're so excited to be sharing about NASA Openscapes and our work with Quarto at the RStudio Conference this summer! [Registration is open](https://www.rstudio.com/blog/rstudio-conf-2022-is-open-for-registration/) with diversity scholarships available!
 
-<br> <img src="/img/blog/ocean-square.png" width="300px"> <br>
+<br> <img src="/img/blog/ocean-square.jpg" width="300px"> <br>

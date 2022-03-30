@@ -12,7 +12,7 @@ tags:
 banner: img/blog/sasi-cohort-square.png
 ---
 
-*In Fall 2021 we led an Openscapes Champions Cohort for research teams part of the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the[ Gordon and Betty Moore Foundation](https://www.moore.org/). For this Cohort, we partnered with[ protocols.io](https://protocols.io) and co-led the cohort with a focus on collaborative, reproducible practices for writing protocols - reproducible methods that researchers use to collect data in the lab.*
+*In Fall 2021 we led an Openscapes Champions Cohort for research teams part of the Symbiosis in Aquatic Systems Initiative ([SASI](https://www.moore.org/initiative-strategy-detail?initiativeId=symbiosis-in-aquatic-systems-initiative)), funded by the[ Gordon and Betty Moore Foundation](https://www.moore.org/). For this Cohort, we partnered with[ protocols.io](https://protocols.io) and co-led the cohort with a focus on collaborative, reproducible practices for writing protocols - reproducible methods that researchers use to collect data in the lab.* ***Cross-posted on [protocols.io](https://www.protocols.io/workspaces/protocolsio-news/news/towards-collaborative-protocols-with-the-symbiosis1)***
 
 *Quick links:*
 

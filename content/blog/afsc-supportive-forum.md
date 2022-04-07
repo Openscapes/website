@@ -11,15 +11,15 @@ tags:
 banner: img/blog/afsc-ecofoci-square.png
 ---
 
-*In early 2022, 8 research teams from* National Oceanic and Atmospheric Administration (NOAA)'s *Alaska Fisheries Science Center (AFSC) participated in the [2022 Winter Openscapes Cohort](https://github.com/Openscapes/2022-noaa-afsc) of the [Openscapes Champions program](https://www.openscapes.org/champions/). Teams focused their energy on a range of important research issues supporting the AFSC mission including shellfish, fisheries, marine mammals, stock assessments, ecosystem indicators, trophic relationships, and food habits. This post is written by AFSC researchers Emily Markowitz, Resource Assessment & Conservation Engineering (RACE), Josh London, Marine Mammal Laboratory (MML), and Megsie Siple, Resource Assessment & Conservation Engineering (RACE).*
+*In early 2022, 8 research teams from the* *National Oceanic and Atmospheric Administration (NOAA)'s* *Alaska Fisheries Science Center (AFSC) participated in the* [2022 AFSC Cohort](https://github.com/Openscapes/2022-noaa-afsc) *of the [Openscapes Champions program](https://www.openscapes.org/champions/). Teams focused their energy on a range of important research issues supporting the AFSC mission including shellfish, fisheries, marine mammals, stock assessments, ecosystem indicators, trophic relationships, and food habits. This post is written by AFSC researchers Emily Markowitz, Resource Assessment & Conservation Engineering (RACE), Josh London, Marine Mammal Laboratory (MML), and Megsie Siple, Resource Assessment & Conservation Engineering (RACE).*
 
-Quick links: 
+*Quick links:*
 
--   <https://openscapes.github.io/2022-noaa-afsc/> - Cohort webpage
+-   [*https://openscapes.github.io/2022-noaa-afsc/*](https://openscapes.github.io/2022-noaa-afsc/) *- Cohort webpage*
 
--   <https://github.com/nmfs-openscapes> - New NMFS GitHub Organization for coordinating and highlighting open science at NOAA NMFS, including a [wiki](https://github.com/nmfs-openscapes/.github/wiki)
+-   [*https://github.com/nmfs-openscapes*](https://github.com/nmfs-openscapes) *- New NMFS GitHub Organization for coordinating and highlighting open science at NOAA NMFS, including a [wiki](https://github.com/nmfs-openscapes/.github/wiki)*
 
--   [NOAA Fisheries Champions Cohorts](https://openscapes.github.io/events/#category:NOAA_Fisheries) - AFSC was the fifth NOAA Fisheries Champions Cohort since 2020
+-   [*NOAA Fisheries Champions Cohorts*](https://openscapes.github.io/events/#category:NOAA_Fisheries) *- AFSC was the fifth NOAA Fisheries Champions Cohort since 2020*
 
 ------------------------------------------------------------------------
 

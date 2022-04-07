@@ -23,15 +23,19 @@ banner: img/blog/afsc-ecofoci-square.png
 
 ------------------------------------------------------------------------
 
-## **AFSC Champions Cohort summary**
+## AFSC Champions Cohort summary
 
 We worked with Jeremy Rusin to bring the Openscapes Champions Program to AFSC, which included 8 teams. The teams consisted of 41 AFSC employees from 5 AFSC divisions and the Alaska Regional Office. All of the teams developed their skills for improved analysis workflows, report writing and manuscript preparation, promoting a culture of inclusivity and collaboration, intentional investment in on- and off-boarding processes, better collaboration with academic and state governments, and integrated project management. All of this was achieved within the context of a growing expansion of open science within NOAA and the greater scientific community. 
 
 For each of the teams, the Openscapes training was just the beginning of a longer process. It is essential that AFSC leadership, division directors, and supervisors continue to offer the support, time, space, and enthusiasm as teams continue to develop skills and implement meaningful new practices. Participants in the training also recognize the need for additional training in specific skills and technologies (e.g., R, Python, Git and GitHub, advanced Google Workspace, reproducible analysis, collaborative writing). The AFSC can provide support for these needs by both identifying and funding training opportunities, and by encouraging scientists to allocate work time for expanding knowledge and expertise through free resources and self-directed training.
 
-![Figure from EcoFOCI Ecosystem Indicators Team showing their streamlined new path from data storage to culture. Figure from EcoFOCI Ecosystem Indicators Team showing their streamlined new path from data storage to culture. Figure from EcoFOCI Ecosystem Indicators Team showing their streamlined new path from data storage to culture](/img/blog/afsc-ecofoci.png)
+<br>
+<center>
+  <img src="/img/blog/afsc-ecofoci.png" width="900px"></a>
+   <figcaption>An example of an Openscapes pathway written by the EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety.</figcaption>
+</center>
+<br>
 
-***Figure 1**. An example of an Openscapes pathway written by the EcoFOCI team. The diagram summarizes how they used to share code, data, and files, and what their ongoing plans are for streamlining these processes and creating a team culture of openness and psychological safety.*
 
 Participants from the AFSC Openscapes cohort found the training transformative for their professional development. The training created a supportive forum for continued learning and collaboration across programs and divisions. As mentors for the AFSC Openscapes cohort, we are committed to the community of support and active learning environment established during the training. We feel confident in stating AFSC's continued investment in Openscapes will establish AFSC scientists as leaders in open science, enhance collaborations across divisions and centers, ensure continuity of long-term research efforts, and improve scientific communication to all stakeholders. Everyone involved in the cohort looks forward to expanded Openscapes training opportunities in the near future.
 
@@ -64,9 +68,14 @@ At the conclusion of the training, cohort members were encouraged to share their
 
 -   Additional and specific technical training in RMarkdown, GitHub, RStudio Connect, public data sharing and team-building skills.
 
-![](/img/blog/afsc-cohort-zoom.png)
 
-**Figure 2.** A zoom view of the 2022 AFSC Openscapes Cohort!
+<br>
+<center>
+  <img src="/img/blog/afsc-cohort-zoom.png" width="900px"></a>
+   <figcaption>A zoom view of the 2022 AFSC Openscapes Cohort!</figcaption>
+</center>
+<br>
+
 
 ## **Meet the teams and some of their work!**
 

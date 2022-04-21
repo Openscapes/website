@@ -8,6 +8,7 @@ categories:
   - champions
 tags:
   - impact
+  - noaa-fisheries
 banner: img/blog/afsc-ecofoci-square.png
 ---
 

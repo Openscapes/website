@@ -8,6 +8,7 @@ categories:
 tags:
   - impact
   - newsletter
+  - noaa-fisheries
 banner: img/blog/zoom_erin_julie_square.png
 ---
 

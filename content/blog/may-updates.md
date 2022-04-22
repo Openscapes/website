@@ -9,6 +9,8 @@ categories:
 tags:
   - impact
   - newsletter
+  - noaa-fisheries
+  - nasa-framework
 banner: img/blog/mrlowndes-DSCF5824-square.jpg
 ---
 

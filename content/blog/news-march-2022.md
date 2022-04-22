@@ -5,6 +5,10 @@ date: '2022-03-21'
 slug: news-spring-2022
 categories:
   - community
+tags:
+  - newsletter
+  - nasa-framework
+  - noaa-fisheries
 banner: img/blog/ocean-square.jpg
 ---
 

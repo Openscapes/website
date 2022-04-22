@@ -7,6 +7,7 @@ categories:
   - community
 tags:
   - impact
+  - nasa-framework
 banner: img/blog/nasa-daacs-logo-square.png
 ---
 

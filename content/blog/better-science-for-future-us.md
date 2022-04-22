@@ -7,6 +7,7 @@ categories:
   - community
 tags:
   - newsletter
+  - nasa-framework
 banner: img/blog/horst_mentors_square.png
 ---
 

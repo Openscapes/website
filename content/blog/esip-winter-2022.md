@@ -7,6 +7,8 @@ categories:
   - community
 tags:
   - impact
+  - noaa-fisheries
+  - nasa-framework
 banner: img/blog/esip-holmes-earlyadopter-square.png
 editor_options: 
   markdown: 

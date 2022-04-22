@@ -5,6 +5,10 @@ date: '2021-11-29'
 slug: events-december-2021
 categories:
   - community
+tags:
+  - newsletter
+  - nasa-framework
+  - noaa-fisheries
 banner: img/blog/bristol-snow-square.JPG
 ---
 

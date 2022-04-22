@@ -7,6 +7,8 @@ categories:
   - champions
 tags:
   - impact
+  - noaa-fisheries
+  - newsletter
 banner: img/blog/mr-lowndesDSCF1746-square.jpg
 ---
 

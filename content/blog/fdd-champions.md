@@ -8,6 +8,7 @@ categories:
   - champions
 tags:
   - impact
+  - noaa-fisheries
 banner: img/blog/bastille-soe-apple-tree-square.jpg
 ---
 

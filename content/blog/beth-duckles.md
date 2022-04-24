@@ -20,7 +20,7 @@ Our conversation was about [Qualitative Data Analysis (QDA)](https://www.apreshi
 
 > QDA is the systematic collection, organization and interpretation of unstructured data (e.g. interview transcripts, public documents, focus groups, open-ended survey questions). After a close reading of the qualitative data, researchers will assign "codes" or themes to relevant quotes and/or sections of video/audio/images.
 
-<br> <center> <a> <img src="/img/blog/apreshill-web.jpg" width="300px"></a> </center> <br>
+<br> <center> <a> <img src="/img/blog/beth-duckles-what-is-qda.png" width="300px"></a> </center> <br>
 
 "Coding" in the context of QDA means tagging the textual data to reveal patterns in the data.
 

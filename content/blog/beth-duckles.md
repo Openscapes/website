@@ -14,13 +14,16 @@ banner: img/blog/apreshill-web.jpg
 
 Our First 2022 Openscapes Community Call featured a chat with[Beth Duckles PhD](https://bethduckles.com), a research consultant and social scientist. Beth helps technologists, designers and scientists gather and use human-centered data, supporting folks who are trying out their mixed methods or qualitative skills and want coaching and partnership in conducting and analyzing their research. Beth is also the Founder and Co-Director of [Open Post Academics](https://openpostac.org/) (formerly the Athenas), an online peer-support community for people with a Ph.D. who have left or are considering leaving academia. The recording is on [Openscapes YouTube](https://youtu.be/ex4KVnWDMDQ).
 
-Our conversation was about [Qualitative Data Analysis (QDA)](https://www.apreshill.com/) - ​​what it is and how it can be used for evaluation. Specifically, we talked about how it can be used to evaluate the Openscapes Champions program. We had some funding from the Gordon and Betty Moore Foundation to experiment with this. 
+Our conversation was about Qualitative Data Analysis (QDA) - what it is and how it can be used for evaluation. Specifically, we talked about how it can be used to evaluate the Openscapes Champions program. We had some funding from the Gordon and Betty Moore Foundation to experiment with this.
 
 **What is QDA?** This slide from a talk about [Qualitative Research Using Open Tools](https://zenodo.org/record/2673016#.YlBMgLhlBpQ) with Beth and Vicky Rampin (nee Steeves) provides a short summary: 
 
 > QDA is the systematic collection, organization and interpretation of unstructured data (e.g. interview transcripts, public documents, focus groups, open-ended survey questions). After a close reading of the qualitative data, researchers will assign "codes" or themes to relevant quotes and/or sections of video/audio/images.
 
-<br> <center> <a> <img src="/img/blog/beth-duckles-what-is-qda.png" width="300px"></a> </center> <br>
+<br> 
+<center> <a> <img src="/img/blog/beth-duckles-what-is-qda.png" width="700px"></a> 
+</center>
+<br>
 
 "Coding" in the context of QDA means tagging the textual data to reveal patterns in the data.
 

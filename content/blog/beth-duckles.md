@@ -12,7 +12,7 @@ banner: img/blog/beth-duckles-what-is-qda.png
 
 ## A Qualitative Data Analysis Chat with Dr. Beth Duckles
 
-Our First 2022 Openscapes Community Call featured a chat with[Beth Duckles PhD](https://bethduckles.com), a research consultant and social scientist. Beth helps technologists, designers and scientists gather and use human-centered data, supporting folks who are trying out their mixed methods or qualitative skills and want coaching and partnership. Beth is also the Founder and Co-Director of [Open Post Academics](https://openpostac.org/) (formerly the Athenas), an online peer-support community for people with a Ph.D. who have left or are considering leaving academia. The recording is on [Openscapes YouTube](https://youtu.be/ex4KVnWDMDQ).
+Our First 2022 Openscapes Community Call featured a chat with [Beth Duckles PhD](https://bethduckles.com), a research consultant and social scientist. Beth helps technologists, designers and scientists gather and use human-centered data, supporting folks who are trying out their mixed methods or qualitative skills and want coaching and partnership. Beth is also the Founder and Co-Director of [Open Post Academics](https://openpostac.org/) (formerly the Athenas), an online peer-support community for people with a Ph.D. who have left or are considering leaving academia. The recording is on [Openscapes YouTube](https://youtu.be/ex4KVnWDMDQ).
 
 Our conversation was about Qualitative Data Analysis (QDA) - what it is and how it can be used for evaluation. Specifically, we talked about how it can be used to evaluate the Openscapes Champions program. We had some funding from the Gordon and Betty Moore Foundation to experiment with this.
 
@@ -24,9 +24,9 @@ Our conversation was about Qualitative Data Analysis (QDA) - what it is and how 
 
 "Coding" in the context of QDA means tagging the textual data to reveal patterns in the data or annotating the data with tags that can be used for analysis.
 
-**A qualitative lesson for quantitative researchers**: Small amounts of qualitative work can make your quantitative work better! For example, before you create a multiple choice question in a survey, be sure you know what types of answers people want to give, or you'll collect bad data by restricting their answers. Do some QDA first!
+**A qualitative lesson for quantitative researchers**: Small amounts of qualitative work can make your quantitative work better! For example, before you create a multiple choice question in a survey, be sure you know what types of responses people want to give, or you'll collect bad data by restricting their answers. Do some QDA first!
 
-Beth has been working with Openscapes to explore how QDA methods can be used with Google Doc Agendas (like this one!) to evaluate learning over time. One of the first things we learned was that the time scale of our Theory of Change was too big for the timescale of a Champions cohort.
+Beth has been working with Openscapes to explore how QDA methods can be used with our Google Doc Agendas to evaluate learning over time. One of the first things we learned was that the time scale of our Theory of Change was too big for the timescale of a Champions cohort.
 
 Our work did discover some themes in the agendas we looked at such as the challenge of having enough time (Do I have time to do x?), "Writing things down" (where and how the data is stored), and the challenges of onboarding/offboarding folks coming in and out of labs. This information can help us anticipate the needs of future Cohorts and adapt accordingly.
 

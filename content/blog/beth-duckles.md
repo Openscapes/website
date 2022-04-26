@@ -12,7 +12,7 @@ banner: img/blog/beth-duckles-what-is-qda-square.png
 
 ## A Qualitative Data Analysis Chat with Dr. Beth Duckles
 
-Our First 2022 Openscapes Community Call featured a chat with [Beth Duckles PhD](https://bethduckles.com), a research consultant and social scientist. Beth helps technologists, designers and scientists gather and use human-centered data, supporting folks who are trying out their mixed methods or qualitative skills and want coaching and partnership. Beth is also the Founder and Co-Director of [Open Post Academics](https://openpostac.org/) (formerly the Athenas), an online peer-support community for people with a Ph.D. who have left or are considering leaving academia. The recording is on [Openscapes YouTube](https://youtu.be/ex4KVnWDMDQ).
+Our First 2022 Openscapes Community Call featured a chat with [Beth Duckles PhD](https://bethduckles.com), a research consultant and social scientist. Beth helps technologists, designers and scientists gather and use human-centered data, supporting folks who are trying out their mixed methods or qualitative skills and want coaching and partnership. Beth is also the Founder and Co-Director of [Open Post Academics](https://openpostac.org/) (formerly the Athenas), an online peer-support community for people with a PhD who have left or are considering leaving academia. The recording is on [Openscapes YouTube](https://youtu.be/ex4KVnWDMDQ).
 
 Our conversation was about Qualitative Data Analysis (QDA) - what it is and how it can be used for evaluation. Specifically, we talked about how it can be used to evaluate the Openscapes Champions program. We had some funding from the Gordon and Betty Moore Foundation to experiment with this.
 

@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - community-call
-banner: img/blog/beth-duckles-what-is-qda.png
+banner: img/blog/beth-duckles-what-is-qda-square.png
 ---
 
 ## A Qualitative Data Analysis Chat with Dr. Beth Duckles

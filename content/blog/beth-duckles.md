@@ -22,11 +22,7 @@ Our conversation was about Qualitative Data Analysis (QDA) - what it is and how 
 
 <br> <center> <a> <img src="/img/blog/beth-duckles-what-is-qda.png" width="700px"></a> </center> <br>
 
-<br>
-<center>
-  <a> <img src="/img/blog/apreshill-web.jpg" width="300px"></a>
-</center>
-<br>
+<br> <center> <a> <img src="/img/blog/apreshill-web.jpg" width="300px"></a> </center> <br>
 
 "Coding" in the context of QDA means tagging the textual data to reveal patterns in the data or annotating the data with tags that can be used for analysis.
 

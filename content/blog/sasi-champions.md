@@ -8,7 +8,6 @@ categories:
   - champions
 tags:
   - impact
-  - community-call
 banner: img/blog/sasi-cohort-square.png
 ---
 

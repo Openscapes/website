@@ -22,8 +22,6 @@ Our conversation was about Qualitative Data Analysis (QDA) - what it is and how 
 
 <br> <center> <a> <img src="/img/blog/beth-duckles-what-is-qda.png" width="700px"></a> </center> <br>
 
-<br> <center> <a> <img src="/img/blog/apreshill-web.jpg" width="300px"></a> </center> <br>
-
 "Coding" in the context of QDA means tagging the textual data to reveal patterns in the data or annotating the data with tags that can be used for analysis.
 
 **A qualitative lesson for quantitative researchers**: Small amounts of qualitative work can make your quantitative work better! For example, before you create a multiple choice question in a survey, be sure you know what types of responses people want to give, or you'll collect bad data by restricting their answers. Do some QDA first!

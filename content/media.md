@@ -86,6 +86,12 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+<!--- NWFSC slides https://docs.google.com/presentation/d/1lAmahIsmm16o-KvzFzbiq9tgZ8uh0nlINkajYhp66-c/edit#slide=id.g1138e626848_2_7 --->
+
+- [NASA Openscapes Lessons from Year 1](https://docs.google.com/presentation/d/1jtiku5yOTzBtW2vT1-qwZPri_O2Bc_uzXNebIoKGLMg/edit?usp=sharing) - April 21, 2022: talk at [ESDSWG](https://wiki.earthdata.nasa.gov/display/ESDSWG/2022+ESDSWG+Meeting+Agenda) (40 minutes)
+
+- [Community Building: The NASA Openscapes Framework](https://openscapes.github.io/slides/esip_winter2022) - January 18, 2022: ESIP Winter Meeting (10 minutes)
+
 - [Open Project Design: Lessons from the NASA Openscapes Framework](https://docs.google.com/presentation/d/1uc2BGBsjVABa_ZnqYCi8EgeFjlUSMd3KMSlQJnok9T8/edit?usp=sharing) — December 17, 2021: invited talk at the [Open Science in Action](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session) Session at the AGU Fall meeting (30 minutes)
 
 - [Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1i-HNx756ZsYJMYsavCwiYtp2hbQX6vNyZ6lwVdKJyzQ/edit?usp=sharing) — December 8, 2021: invited talk about data interoperability at the [National Academies of Science, Engineering, and Medicine (NASEM) meeting co-hosted by the Mapping Sciences Committee and the Geographical Sciences Committee](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change) ([video](https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change)) (20 minutes)

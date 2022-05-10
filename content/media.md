@@ -86,6 +86,14 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+<!---
+- RStudio Conference Keynote
+
+- Roundtable
+--->
+
+- [Openscapes teaching practices](https://docs.google.com/presentation/d/1Ugj_J3JKQ_taPJ5NjBs9j3rbqsopDuCmkFkxKpBbD8g/edit#slide=id.g127e53acada_2_135) — May 9, 2022, with Eli Holmes; Meta Academy Workshop (HLG-MOS) (30 minutes)
+
 <!--- NWFSC slides https://docs.google.com/presentation/d/1lAmahIsmm16o-KvzFzbiq9tgZ8uh0nlINkajYhp66-c/edit#slide=id.g1138e626848_2_7 --->
 
 - [NASA Openscapes Lessons from Year 1](https://docs.google.com/presentation/d/1jtiku5yOTzBtW2vT1-qwZPri_O2Bc_uzXNebIoKGLMg/edit?usp=sharing) - April 21, 2022: talk at [ESDSWG](https://wiki.earthdata.nasa.gov/display/ESDSWG/2022+ESDSWG+Meeting+Agenda) (40 minutes)

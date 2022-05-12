@@ -12,7 +12,7 @@ tags:
 banner: img/blog/zoom-2022-nasa-champions-thumbnail.png
 ---
 
-*In Spring 2022 we led our first NASA Openscapes Champions Cohort for research teams that work with NASA EarthData. This cohort is funded by NASA and part of our [NASA Openscapes Framework project](https://nasa-openscapes.github.io/). For this Cohort, we co-led the cohort with the NASA DAAC mentors and we focused on shifting toward Open science, collaborative, reproducible practices to support research teams as they transition from the download model to the Cloud. We also actively experimented with cloud data access through the Openscapes 2i2c-hosted JupyterHub.* 
+*In Spring 2022 we led our first NASA Openscapes Champions Cohort for research teams that work with NASA EarthData. This cohort is funded by NASA and part of our [NASA Openscapes Framework project](https://nasa-openscapes.github.io/). For this Cohort, we co-led the cohort with the NASA DAAC mentors and we focused on shifting toward Open science, collaborative, reproducible practices to support research teams as they transition from the download model to the Cloud. We also actively experimented with cloud data access through the Openscapes 2i2c-hosted JupyterHub.*
 
 *Quick links:*
 

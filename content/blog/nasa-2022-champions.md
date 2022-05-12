@@ -1,6 +1,6 @@
 ---
 title: "From downloading data to Cloud access: NASA Openscapes Champions Wrap-up"
-author: Erin Robinson, Julie Lowndes, NASA DAAC Mentors
+author: NASA Openscapes Mentors, Erin Robinson, Julie Lowndes, Andy Barrett, Aaron Friesz, Alexis Hunzinger, Luis Lopez, Catalina Oaida, Jack McNelis, Christine Smit, Amy Steiker, Makhan Virdi
 date: '2022-05-12'
 slug: nasa-2022-champions
 categories:

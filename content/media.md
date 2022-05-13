@@ -92,7 +92,9 @@ https://twitter.com/mozilla/status/1375101206943703047
 - Roundtable
 --->
 
-- [Openscapes teaching practices](https://docs.google.com/presentation/d/1Ugj_J3JKQ_taPJ5NjBs9j3rbqsopDuCmkFkxKpBbD8g/edit#slide=id.g127e53acada_2_135) — May 9, 2022, with Eli Holmes; Meta Academy Workshop (HLG-MOS) (30 minutes)
+- Title TBD, Keynote at the RStudio Conference, July 2022!
+
+- [Openscapes teaching practices](https://docs.google.com/presentation/d/1Ugj_J3JKQ_taPJ5NjBs9j3rbqsopDuCmkFkxKpBbD8g/edit#slide=id.g127e53acada_2_135) — May 9, 2022, with Eli Holmes; High-level Group for the Modernisation of Statistical Production and Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE) Meta Academy Workshop (30 minutes) ([video]())
 
 <!--- NWFSC slides https://docs.google.com/presentation/d/1lAmahIsmm16o-KvzFzbiq9tgZ8uh0nlINkajYhp66-c/edit#slide=id.g1138e626848_2_7 --->
 

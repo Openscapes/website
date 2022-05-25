@@ -1,7 +1,7 @@
 ---
 title: "GitHub for supporting, reusing, contributing, and failing safely"
 author: Allison Horst and Julie Lowndes
-date: '2022-05-26' 
+date: '2022-05-25' 
 slug: github-illustrated-series
 categories:
   - community

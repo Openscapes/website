@@ -25,7 +25,7 @@ banner: /img/blog/github-illustrated-series/github_hi_five_square.png
 
 # GitHub for supporting, reusing, contributing, and failing safely
 
-**When we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub* **. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time -- something that is for everyone, whether or not we identify as "coders". People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it's a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.
+**When we talk about managing projects to help us contribute, reuse, collaborate, and fail safely, we are talking about GitHub\* **. We mean using modern collaborative software designed to organize otherwise unwieldy interrelated files and to track changes by potentially different people through time -- something that is for everyone, whether or not we identify as "coders". People do use GitHub for code- and data-intensive projects, but we are not limited to that use. GitHub is a powerful approach for any project that we want to organize and communicate about; it's a way we can be open with ourselves and our teams, and also work more publicly as we feel comfortable.
 
 So let's talk about why GitHub is so empowering for our project-oriented and collaborative lives.
 

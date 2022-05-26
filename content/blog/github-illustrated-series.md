@@ -42,7 +42,7 @@ So let's talk about why GitHub is so empowering for our project-oriented and col
 
 The concepts, mechanics, and vocabulary of GitHub (and underlying software Git) are new and unfamiliar when we get started or learn more about its capabilities. Hadley Wickham and Jenny Bryan use the analogy of climbing to describe how GitHub can keep us safe while also showing our journey.
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_wickham_bryan_git_quote.png" width="800px" alt = "On the left is a quote from Hadley Wickham and Jenny Bryan  that says "Using a Git commit is like using anchors and other protection when climbing...if you make a mistake you can't fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination." On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled "Commit". Three monsters on the ground support the climbers." </a> </center>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_wickham_bryan_git_quote.png" width="800px" alt = "On the left is a quote from Hadley Wickham and Jenny Bryan that says"Using a Git commit is like using anchors and other protection when climbing...if you make a mistake you can't fall past the previous commit. Commits are also helpful to others, because they show your journey, not just the destination." On the right, two little monsters climb a cliff face. Their ropes are secured by several anchors, each labeled "Commit". Three monsters on the ground support the climbers." </a> </center>
 
 Wickham & Bryan, R Packages <https://r-pkgs.org/preface.html> 
 
@@ -63,25 +63,25 @@ GitHub helps streamline our work because it takes care of otherwise time-consumi
 
 GitHub helps us support others and existing work. Whether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not. 
 
-<br> <center> \<img src = "/img/blog/github-illustrated-series/github_groundcrew_text.png" width="800px" alt = "Four little monsters on grass support another monster starting their climb up a rock face. The climber's harness is labeled "Coder", the belayer wears a harness labeled "Code review", two others consulting a book and route map wear caps labeled "Documentation" and "Reuse", and another brings a box labeled "Project management and snacks"." </a> </center> <br>
+<br> <center> \<img src = "/img/blog/github-illustrated-series/github_groundcrew_text.png" width="800px" alt = "Four little monsters on grass support another monster starting their climb up a rock face. The climber's harness is labeled"Coder", the belayer wears a harness labeled "Code review", two others consulting a book and route map wear caps labeled "Documentation" and "Reuse", and another brings a box labeled "Project management and snacks"." </a> </center> <br>
 
 ## GitHub helps us reuse
 
 GitHub helps us reuse existing work, which lets us learn and build from other people's shared experience rather than reinventing on our own. Plus, the existing work gets better each time someone tries it and shares their experience back. Whether it's code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others. 
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_reuse.jpg" width="800px" alt = "Two monsters consult a book with routes labeled "Existing routes" and "Our route" with warning information - images of lightning, a snake, and rocks falling - and notes on the facing page, while looking at the rock face they plan to climb. In the distance, one monster belays another who is climbing." </a> </center> <br>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_reuse.jpg" width="800px" alt = "Two monsters consult a book with routes labeled"Existing routes" and "Our route" with warning information - images of lightning, a snake, and rocks falling - and notes on the facing page, while looking at the rock face they plan to climb. In the distance, one monster belays another who is climbing." </a> </center> <br>
 
 ## GitHub helps us contribute
 
 GitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won't break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there.
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_clip_v1.png" width="600px" alt = "A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word "Click!"" </a> </center> <br>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_clip_v1.png" width="600px" alt = "A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word"Click!"" </a> </center> <br>
 
 ## GitHub helps us fail safely
 
 GitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won't be catastrophic! When we fail, we'll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past. 
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_fall_v2.png" width="800px" alt = "A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled "Commit"." </a> </center> <br>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_fall_v2.png" width="800px" alt = "A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled"Commit"." </a> </center> <br>
 
 ## Harness the power of GitHub
 

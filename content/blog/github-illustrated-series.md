@@ -34,7 +34,7 @@ So let's talk about why GitHub is so empowering for our project-oriented and col
 ## Why GitHub?
 
 <center>
-<img src="/img/blog/github-illustrated-series/github_friends_v2.png" width="800px" alt = "A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks that are tacos, a map, and a rope. Text above the monsters quotes Jenny Bryan: \"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.\"" 
+<img src="/img/blog/github-illustrated-series/github_friends.png" width="800px" alt = "A row of 6 cute smiling monsters celebrating using GitHub. The first, wearing a climbing harness labeled \"Me\" is high-fiving another whose harness says \"Future Me\". Others hold a box of snacks that are tacos, a map, and a rope. Text above the monsters quotes Jenny Bryan: \"Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.\"" 
 </a>
 </center>
 
@@ -53,7 +53,7 @@ Wickham & Bryan, R Packages <https://r-pkgs.org/preface.html> 
 GitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking. Instead of spending our time inspecting and fretting over whether "analysis_final_v2.xls" or "analysis_final_final.xls" is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step. <br>
 
 <center>
-<img src="/img/blog/github-illustrated-series/github_compare_v4_text.png" width="800px" alt = "In the left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope’s anchors, secured with carabiners, are labeled from bottom to top and say \"Initial commit\", \"Data Cleaned\", \"Analysis completed\". Another anchor on their harness  is ready to place and is labeled \"Manuscript drafted\". In the right panel, against a gray sky with rain and lightning, an unhappy stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like \"analysis_final_v2.xls\", \"analysis_final_final.xls\", and \"ignore_this.xls\". Text above the left panel says: \"When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…\" Text above the right panel says \"...but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward.\""
+<img src="/img/blog/github-illustrated-series/github_compare_text.png" width="800px" alt = "In the left panel, against a blue sky with white clouds, a confident-looking monster climbs a rock face. Their rope’s anchors, secured with carabiners, are labeled from bottom to top and say \"Initial commit\", \"Data Cleaned\", \"Analysis completed\". Another anchor on their harness  is ready to place and is labeled \"Manuscript drafted\". In the right panel, against a gray sky with rain and lightning, an unhappy stressed-looking monster climbs a rock face. Their rope has a knot, is frayed, and is looped around one foot. Their anchors, placed haphazardly and not well-secured, are labeled things like \"analysis_final_v2.xls\", \"analysis_final_final.xls\", and \"ignore_this.xls\". Text above the left panel says: \"When working with GitHub we can navigate with more obvious, safe, streamlined routes that let us focus on the science-y things we want to do…\" Text above the right panel says \"...but working without GitHub can be disorienting, with too much time spent sifting through past work to figure out next steps forward.\""
 </a>
 </center>
 
@@ -75,25 +75,25 @@ GitHub helps us reuse existing work, which lets us learn and build from other pe
 
 GitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won't break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there.
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_clip_v1.png" width="600px" alt = "A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word"Click!"" </a> </center> <br>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_clip.png" width="600px" alt = "A close-up rear view of a monster climbing a rock face, clicking into an anchor point, with the word"Click!"" </a> </center> <br>
 
 ## GitHub helps us fail safely
 
 GitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won't be catastrophic! When we fail, we'll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past. 
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_fall_v2.png" width="800px" alt = "A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled"Commit"." </a> </center> <br>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_fall.png" width="800px" alt = "A confidently smiling monster is falling from a rock overhang, while secured by four anchors, each labeled"Commit"." </a> </center> <br>
 
 ## Harness the power of GitHub
 
 Once we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge. This transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub.
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_scoping_v1.jpg" width="800px" alt = "Rear-view of three well-prepared monsters arriving at a climb. They have route maps, binoculars, ropes, backpacks, and a box of snacks. The middle monster has a GitHub Octocat image on their backpack. In the distance, several monsters are at different stages of ascending, with one at the summit, and others supporting them from the base." </a> </center> <br>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_scoping.jpg" width="800px" alt = "Rear-view of three well-prepared monsters arriving at a climb. They have route maps, binoculars, ropes, backpacks, and a box of snacks. The middle monster has a GitHub Octocat image on their backpack. In the distance, several monsters are at different stages of ascending, with one at the summit, and others supporting them from the base." </a> </center> <br>
 
 ## GitHub for the win!
 
 GitHub enables new frontiers for open science as we collaborate, share, and publish more easily. And, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let's all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together. 
 
-<br> <center> \<img src="/img/blog/github-illustrated-series/github_harness_v1.jpg" width="600px" alt = "Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope." </a> </center>
+<br> <center> \<img src="/img/blog/github-illustrated-series/github_harness.jpg" width="600px" alt = "Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope." </a> </center>
 
 ------------------------------------------------------------------------
 

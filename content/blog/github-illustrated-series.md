@@ -17,9 +17,9 @@ banner: /img/blog/github-illustrated-series/github_hi_five_square.png
 
 -   *Download from <https://github.com/allisonhorst/stats-illustrations>*
 
--   *Reuse/remix from this [slide deck](https://docs.google.com/presentation/d/1OuLcJHWxpauVic0WEfGsWVreHbkmnINiEXldV5pjD5Q/)*
+-   *Reuse/remix from [this slide deck](https://docs.google.com/presentation/d/1OuLcJHWxpauVic0WEfGsWVreHbkmnINiEXldV5pjD5Q/)*
 
--   *View/share this twitter thread*
+-   *View/share [this twitter thread](https://twitter.com/openscapes/status/1531658115015270400?s=20&t=GdP9_PChQ1EINLJwQNpRug)*
 
 ------------------------------------------------------------------------
 

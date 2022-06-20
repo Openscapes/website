@@ -7,6 +7,8 @@ categories:
   - community
 tags:
   - community-call
+  - how-to
+  - quarto
 banner: img/blog/nasa-openscapes-rladies-quarto-square.png
 ---
 

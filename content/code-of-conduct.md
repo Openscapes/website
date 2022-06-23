@@ -1,4 +1,4 @@
-+++ title = "Code of Conduct" description = "Code of Conduct" keywords = \["code of conduct","community participation guidelines"\] +++
++++ title = "Code of Conduct" description = "Code of Conduct" keywords = ["code of conduct","community participation guidelines"] +++
 
 ## Code of Conduct
 

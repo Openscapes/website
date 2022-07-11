@@ -9,6 +9,7 @@ tags:
   - community-call
   - how-to
   - quarto
+  - nasa-framework
 banner: img/blog/nasa-openscapes-rladies-quarto-square.png
 ---
 

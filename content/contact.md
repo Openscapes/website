@@ -67,6 +67,6 @@ https://www.tandfonline.com/doi/full/10.1080/08920753.2021.1846155
 
 ### Email us with your ideas
 
-There are more awesome ways to get involved with Openscapes and open data science than we have written above — please [email us](mailto:openscapes@nceas.ucsb.edu) with your ideas for getting involved! 
+There are more awesome ways to get involved with Openscapes and open data science than we have written above — please [email us](mailto:hello@openscapes.org) with your ideas for getting involved! 
 
 <br> 

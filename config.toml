@@ -73,7 +73,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 3
     name = "Email"
-    url = "mailto:openscapes@nceas.ucsb.edu"
+    url = "mailto:hello@openscapes.org"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -112,12 +112,9 @@ paginate = 10
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p><strong>Openscapes</strong>
-        <br>National Center for Ecological
-        <br>Analysis & Synthesis (NCEAS)
-        <br>University of California
-        <br>Santa Barbara, California, USA
+        <br>California, USA
         <br>----
-        <br>openscapes @ nceas.ucsb.edu
+        <br>hello @ openscapes.org
         <br>Twitter & GitHub: @openscapes
       </p>
       """ 

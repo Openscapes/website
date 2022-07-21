@@ -21,7 +21,7 @@ And what was the fun about? Lots of things. The book we converted is Gavin Fay�
 
 There is joy in our commits!
 
-<br> <center> <a><img src="/img/blog/quarto-commits-ileanaf-render.png" width="500px" alt="A screenshot of Ileana's commit message, Updated _quarto.yml only and successfully rendered book! :O"></a> </center> <br>
+<br> <center> <a><img src="/img/blog/quarto-commits-ileana-render.png" width="500px" alt="A screenshot of Ileana's commit message that says Updated _quarto.yml only and successfully rendered book! :O"></a> </center> <br>
 
 We started by familiarizing ourselves through Mine Çetinkaya-Rundel’s “Reproducible authoring with Quarto” ([slides](https://mine-cetinkaya-rundel.github.io/2022-repro-toronto/#/title-slide), [YouTube](https://www.youtube.com/watch?v=6p4vOKS6Xls)), Danielle Navarro’s “[Porting a distill blog to quarto](https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/)”, and Nick Tierney’s [Notes on Changing from Rmarkdown/Bookdown to Quarto](https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/). In June, we participated in the Community Call, [A Quarto Chat with NASA Openscapes](https://www.openscapes.org/blog/2022/06/22/hello-quarto/), co-hosted with R-Ladies Santa Barbara. It was relatively straightforward to figure basic things out by searching the Quarto documentation, coming back to those resources, and checking out the GitHub sources of other Quarto books to see how others have set things up.
 
@@ -32,8 +32,7 @@ Here’s the GitHub view of the Faylab Lab Manual [before](https://github.com/th
 
 As is also the Openscapes practice, I’m learning (... trying to learn) to embrace “done for now, not perfect”. “Making shareable documents with Quarto” is a living document in which we aim to describe things as clearly as possible in the time we have, share it with others, and improve as we come back to it. If we wait till we have time to write flawless docs, it’ll never happen. This is such a safe place to grow one’s comfort zone! 
 
-SCREENSHOT
-<br> <center> <a><img src="/img/blog/quarto-jupyterlab.png" width="700px" alt="A screenshot of what it looks like to use Quarto with Jupyter Notebooks in the NASA Openscapes 2i2c JupyterHub. The left panel shows folder structure under the 2022-ECOSTRESS-Cloud-Workshop. The right panel shows contents of the _quarto.yml file"></a> </center> <br>
+<br> <center> <a><img src="/img/blog/quarto-commits-stef-done.png" width="500px" alt="A screenshot of Ileana's commit message that says Fix typos & grammar. Love to see done not perfect!!"></a> </center> <br>
 
 This conversion took us about XX combined hours, which includes time reading, learning, trying things, and fixing things. This includes learning that when you fork a repo and then make a branch, by default the branch’s pull request goes to *the original repo* not your fork (d’oh!). Our GitHub Action to render the Faylab Lab Manual failed initially because we had a piece of R code - even though the code was commented out! That was resolved when we deleted the line. On the plus side, we saw the ease of adding citations via DOI in the RStudio Visual Editor ([tutorial](https://openscapes.github.io/quarto-website-tutorial/transition-from-rmarkdown.html#citations); [YouTube](https://youtu.be/azVAl343CIU?t=2923)). The time spent learning is already paying off as I (Stef) contribute to our other open documentation in Quarto, like our [Guide to the Openscapes Approach](https://openscapes.github.io/approach-guide/) ([GitHub](https://github.com/openscapes/approach-guide)). 
 

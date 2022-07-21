@@ -8,7 +8,7 @@ categories:
 tags:
   - how-to
   - quarto
-banner: img/blog/nasa-openscapes-rladies-quarto-square.png
+banner: img/blog/quarto-commits-square.png
 ---
 
 ## Learning by doing: migrating to Quarto from Bookdown
@@ -32,7 +32,7 @@ Here’s the GitHub view of the Faylab Lab Manual [before](https://github.com/th
 
 As is also the Openscapes practice, I’m learning (... trying to learn) to embrace “done for now, not perfect”. “Making shareable documents with Quarto” is a living document in which we aim to describe things as clearly as possible in the time we have, share it with others, and improve as we come back to it. If we wait till we have time to write flawless docs, it’ll never happen. This is such a safe place to grow one’s comfort zone! 
 
-<br> <center> <a><img src="/img/blog/quarto-commits-stef-done.png" width="500px" alt="A screenshot of Ileana's commit message that says Fix typos & grammar. Love to see done not perfect!!"></a> </center> <br>
+<br> <center> <a><img src="/img/blog/quarto-commits-stef-done.png" width="500px" alt="A screenshot of Stef's commit message that says Fix typos & grammar. Love to see done not perfect!!"></a> </center> <br>
 
 This conversion took us about XX combined hours, which includes time reading, learning, trying things, and fixing things. This includes learning that when you fork a repo and then make a branch, by default the branch’s pull request goes to *the original repo* not your fork (d’oh!). Our GitHub Action to render the Faylab Lab Manual failed initially because we had a piece of R code - even though the code was commented out! That was resolved when we deleted the line. On the plus side, we saw the ease of adding citations via DOI in the RStudio Visual Editor ([tutorial](https://openscapes.github.io/quarto-website-tutorial/transition-from-rmarkdown.html#citations); [YouTube](https://youtu.be/azVAl343CIU?t=2923)). The time spent learning is already paying off as I (Stef) contribute to our other open documentation in Quarto, like our [Guide to the Openscapes Approach](https://openscapes.github.io/approach-guide/) ([GitHub](https://github.com/openscapes/approach-guide)). 
 

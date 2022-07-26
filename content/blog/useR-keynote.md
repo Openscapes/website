@@ -282,7 +282,7 @@ The most immediate thing to join the Openscapes effort and community is to visit
 
 I am currently strategizing and fundraising to build out Openscapes into a full-time, long-term program operated at the US [National Center for Ecological Analysis & Synthesis](https://nceas.ucsb.edu) at the University of California Santa Barbara, where I am based. I will be focused on this in the next nine months due to a generous gift from the [Moore Foundation](https://www.moore.org/) following my fellowship support from [Mozilla](https://foundation.mozilla.org/en/). My goal is to increase the number of research groups Openscapes mentors each year with a small core team and vibrant community. I also want to see about extending/replicating/spinning off Openscapes to other communities (i.e. beyond environmental science). I plan to continue the online cohorts, [scaling up as Mozilla Open Leaders has](https://openscapes.org/blog/2019/01/28/introducing-champions-program/). Additionally, this winter I will lead my first in-person workshop for research groups, adapting the [Champions lesson series](https://openscapes.github.io/series) (and hoping to find time to build that out more too!).
 
-But I'm excited to hear your ideas! Please reach out; I'd love to [hear from you](mailto:openscapes@nceas.ucsb.edu).
+But I'm excited to hear your ideas! Please reach out; I'd love to [hear from you](mailto:hello@openscapes.org).
 
 
 --

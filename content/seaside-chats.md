@@ -1,12 +1,14 @@
 +++
-title = "Seaside Chat Topics"
+title = "Seaside Chats"
 description = "ideas for seaside chats"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
  <link href="{{ "css/table.css" | relURL}}" rel="stylesheet">
 
-## SEASIDE CHAT TOPICS
+## SEASIDE CHATS
+
+Seaside Chats are a shared learning space for research groups. These are places where group members despite having differing research questions and expertise — feel comfortable discussing data challenges and seeking, offering and accepting guidance from one another. Scheduling these regularly demonstrates that this is a priority and promotes a more open culture; naming these meetings can give them value and identity. We take this idea from the Ocean Health Index team at NCEAS, which called these meetings Seaside Chats. (paraphrased from [Lowndes et al. 2019](https://www.nature.com/articles/d41586-019-03335-4)). 
 
 *Preamble. This is a running list, curated and opinionated. Last updated April 2019. See also our blog post about [Champions' Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chats/).* 
 

@@ -14,7 +14,7 @@ banner: img/blog/ocean-square.jpg
 
 ## **Openscapes Newsletter #5: Spring 2022**
 
-*Welcome to Openscapes' fifth newsletter! If you're interested in seeing these infrequent updates in your inbox, please[ sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[ get involved](https://openscapes.org/contact) page).*
+*Welcome to Openscapes' fifth newsletter! If you're interested in seeing these infrequent updates in your inbox, please[sign up here](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform) (linked from our[get involved](https://openscapes.org/contact) page).*
 
 *We have two upcoming Spring events: please learn more and register at [openscapes.org/events](https://openscapes.github.io/events).*
 
@@ -30,7 +30,7 @@ Something that has resonated in the past months is the idea of "slowing down to 
 
 ## **Planning for the year of open science**
 
-We held our first [cross-government agency event](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science) at the ESIP Winter Meeting, with speakers from University of North Carolina (UNC), National Oceanic and Atmospheric Administration (NOAA) Fisheries, California Water Boards, University of Colorado, and United States Geological Survey (USGS). The goals of this session were to increase visibility and value of open science within government and support researchers and leaders that are already doing this within government organizations; to create more channels for inter- and cross-agency learning; and to share open science stories across agencies as we prepare for NASA's[ Year of Open Science](https://science.nasa.gov/open-science/transform-to-open-science) initiative. Speakers shared stories about open science in government and their experiences with Openscapes, and summarized [3 takeaways in a blog post](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/).  
+We held our first [cross-government agency event](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science) at the ESIP Winter Meeting, with speakers from University of North Carolina (UNC), National Oceanic and Atmospheric Administration (NOAA) Fisheries, California Water Boards, University of Colorado, and United States Geological Survey (USGS). The goals of this session were to increase visibility and value of open science within government and support researchers and leaders that are already doing this within government organizations; to create more channels for inter- and cross-agency learning; and to share open science stories across agencies as we prepare for NASA's[Year of Open Science](https://science.nasa.gov/open-science/transform-to-open-science) initiative. Speakers shared stories about open science in government and their experiences with Openscapes, and summarized [3 takeaways in a blog post](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/).
 
 We have also continued our work with NOAA Fisheries, and just completed a Champions Cohort with eight teams from the Alaska Fisheries Science Center. These teams have been really supported to invest time in developing shared practices and skills and we'll be sharing a blog post before long!
 

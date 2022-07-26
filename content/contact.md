@@ -18,7 +18,7 @@ We welcome you to engage however best works for you! We are @openscapes on [Twit
 
 <center><img src="/img/horst_openscapes_mountains_salmon.png" width="80px"></center>
 
-We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:openscapes@nceas.ucsb.edu) with more ideas. 
+We are excited to grow the Openscapes community and open data science communities more broadly. Here are several avenues to get involved, and please [email us](mailto:hello@openscapes.org) with more ideas. 
 
 ### Follow us on Twitter @openscapes
 
@@ -34,11 +34,11 @@ Please see our [events page](https://openscapes.github.io/events) for **Openscap
 
 ### Book a Champions Cohort
 
-Cohorts are led remotely over 2.5 months and involve ~7 participating research groups. Please [email us](mailto:openscapes@nceas.ucsb.edu) if you're interested in booking a cohort.
+Cohorts are led remotely over 2.5 months and involve ~7 participating research groups. Please [email us](mailto:hello@openscapes.org) if you're interested in booking a cohort.
 
 ### Sponsor Champions Cohorts and Workshops
 
-We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:openscapes@nceas.ucsb.edu).
+We are thankful for the funding support that makes Openscapes possible, and are interested in further partnerships. If you are interested in sponsoring research groups to participate in the Openscapes Champions program, please [email us](mailto:hello@openscapes.org).
 
 ### Talk with your colleagues
 

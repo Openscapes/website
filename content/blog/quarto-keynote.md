@@ -21,7 +21,7 @@ banner: /img/blog/horst_collaborate_penguins_telescope_square.png
 
 -   *art: <https://twitter.com/allison_horst/status/1552693891706413056>*
 
--   *twitter thread: <https://twitter.com/juliesquid/status/1553527320308338688>* 
+-   *twitter thread: <https://twitter.com/juliesquid/status/1553527320308338688>*
 
 
 At [rstudio::conf(2022)](https://www.rstudio.com/conference/), I had the distinct honor to welcome folks to [Quarto](https://quarto.org), which Openscapes has been using to collaborate and reimagine how we tackle inclusive environmental science & the climate crisis. Openscapes was the first external user of Quarto, collaborating with the Quarto developer team and [NASA Earthdata Openscapes Mentors](https://nasa-openscapes.github.io) for the last year to develop and teach tutorials to help researchers migrate their workflows to the cloud. We've primarily used Quarto as Python users, creating beautiful collections of Jupyter notebooks that are Quarto websites, including the [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) and the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/). Learn more through [A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara](https://www.openscapes.org/blog/2022/06/22/hello-quarto/) with Catalina Oaida, Aaron Friesz, Amy Steiker, and J.J. Allaire.

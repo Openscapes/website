@@ -1,4 +1,8 @@
-+++ title = "About" description = "About" keywords = \["NCEAS","Mozilla","better science in less time"\] +++
++++
+title = "About"
+description = "About"
+keywords = ["NCEAS","Mozilla","better science in less time"]
++++
 
 **Openscapes is an approach for doing better science for future us.** We offer mentorship, teaching, coaching and community organizing centered around open data science: we help teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind.
 

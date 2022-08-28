@@ -1,5 +1,5 @@
 +++
-title = "Openscapes Team and Partners"
+title = "Openscapes Team"
 description = "team"
 keywords = ["team", "partners"]
 +++

@@ -22,40 +22,10 @@ We are excited to continue learning and iterating with the open movement towards
 
 ## OUR TEAM
 
-Julia Stewart Lowndes, PhD launched and directs Openscapes. She is a marine ecologist working at the intersection of actionable environmental science, data science, and open science. She is a Mozilla Fellow and Senior Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, having earned her PhD from Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate. Learn more about Julia, email her, and follow her on Twitter.
-
-
-
-Erin Robinson is an active contributor to Openscapes. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work. Erin works at the intersection of community informatics, Earth science and non-profit management. Learn more about Erin, email her, and follow her on Twitter.
+Learn about our [**our team**](/team) who are helping grow and improve Openscapes!
 
 <center><img src="/img/horst_openscapes_arctic_crab.png" width="100px"></center>
 
-## NCEAS
-
-The National Center for Ecological Analysis and Synthesis (NCEAS) conducts transformational science focused on informing solutions that will allow people and nature to thrive. Through data synthesis, collaborations, and open science, NCEAS accelerates scientific discoveries and generates big-picture insights to help solve environmental challenges. Established in 1995, NCEAS is an independent research affiliate of the University of California at Santa Barbara with a global network and impact. [Learn more](https://www.nceas.ucsb.edu/) about NCEAS, [subscribe](http://ucsb.us12.list-manage1.com/subscribe?u=d7494403ed9d8c97a5479f0d4&id=bbef3949b4) to the newsletter, and follow them on [Twitter](https://twitter.com/nceas) or [Facebook](https://www.facebook.com/NCEASUCSB/).
-
-<center><img src="/img/horst_openscapes_arctic_narwhal.png" width="100px"></center>
-
-## MOZILLA
-
-Mozilla believes the internet must always remain a global public resource, open and accessible to all. Its work is guided by the [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/). Mozilla focuses on fueling the movement for a healthy internet by supporting a diverse group of [fellows](https://foundation.mozilla.org/fellowships/directory) working on key internet issues; by connecting open internet leaders at events like [MozFest](https://mozillafestival.org/); by publishing critical research in the [Internet Health Report](https://internethealthreport.org/2018/); and by rallying citizens around advocacy issues that connect the wellbeing of the internet directly to everyday life. Follow Mozilla on [Twitter](https://twitter.com/mozilla).
-
-<center><img src="/img/horst_openscapes_arctic_puffins.png" width="100px"></center>
-
-## OUR PARTNERS
-
-We are so grateful for [**our partners**](/partners) who are helping grow and improve Openscapes!
-
-<!---
-Hide this bc now modernized language and elevated on Our Approach page.
-
-## OUR VISION & ETHOS
-
-Our vision is a scientific culture that is more efficient and collaborative, and can uncover environmental solutions faster. Openscapes opens the landscapes of science by growing communities of practice around environmental open data science. This means promoting open science and using the internet for good. It also means enabling open culture driven by collaboration, empathy, and kindness. We aim to create a positive open culture in science, so we can do better science in less time.
-
---->
-
-<center><img src="/img/horst_openscapes_arctic_ship.png" width="100px"></center>
 
 ## OUR CODE OF CONDUCT
 
@@ -71,7 +41,7 @@ Allison Horst creates original art for Openscapes, beginning as an artist in res
 
 See all of Allison's open landscapes on the [**gallery page**](/gallery).
 
-<br>
+<center><img src="/img/horst_openscapes_arctic_narwhal.png" width="100px"></center>
 
 ## OUR LOGO
 
@@ -79,13 +49,13 @@ Our logo designed by Allison Horst represents both the open landscapes and the d
 
 <img src="/img/openscapes_hex_design_final_correct_dimensions.png" width="200px">
 
-<br>
+<center><img src="/img/horst_openscapes_arctic_puffins.png" width="100px"></center>
 
 ## OUR FUNDING
 
 We thank our funders for supporting open science tools, people, and communities. Openscapes was originally created with support from [Mozilla](https://www.mozilla.org), which also sponsored the [first Champions Cohort](/cohorts). In 2019 we received additional support from the [Gordon and Betty Moore Foundation](https://www.moore.org/) to develop a strategic growth plan for Openscapes.
 
-<br>
+<center><img src="/img/horst_openscapes_arctic_ship.png" width="100px"></center>
 
 ## OUR WEBSITE
 

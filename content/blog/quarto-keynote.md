@@ -17,11 +17,8 @@ banner: /img/blog/horst_collaborate_penguins_telescope_square.png
 
 - ***recording*** *- [rstudio.com/conference/2022/keynotes/collaborate-with-quarto](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)*
 -   ***slides*** - *[mine.quarto.pub/hello-quarto](https://mine.quarto.pub/hello-quarto)*
-
 -   ***repo*** - *[github.com/mine-cetinkaya-rundel/hello-quarto](https://github.com/mine-cetinkaya-rundel/hello-quarto)*
-
 -   ***art*** - *<https://twitter.com/allison_horst/status/1552693891706413056>*
-
 -   ***twitter thread*** - *<https://twitter.com/juliesquid/status/1553527320308338688>*
 
 ----

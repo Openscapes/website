@@ -25,7 +25,7 @@ banner: /img/blog/horst_collaborate_penguins_telescope_square.png
 
 At [rstudio::conf(2022)](https://www.rstudio.com/conference/), I had the distinct honor to welcome folks to [Quarto](https://quarto.org), which Openscapes has been using to collaborate and reimagine how we tackle inclusive environmental science & the climate crisis. Openscapes was the first external user of Quarto, collaborating with the Quarto developer team and [NASA Earthdata Openscapes Mentors](https://nasa-openscapes.github.io) for the last year to develop and teach tutorials to help researchers migrate their workflows to the cloud. We've primarily used Quarto as Python users, creating beautiful collections of Jupyter notebooks that are Quarto websites, including the [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) and the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/). Learn more through [A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara](https://www.openscapes.org/blog/2022/06/22/hello-quarto/) with Catalina Oaida, Aaron Friesz, Amy Steiker, and J.J. Allaire.
 
-<br> <center> <a><img src="/img/blog/horst_collaborate_penguins_telescope_2.png" width="90%" alt="One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo "moon" in the night sky."></a> <figcaption> Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst.</figcaption> </center> <br>
+<br> <center> <a><img src="/img/blog/horst_collaborate_penguins_telescope_2.png" width="90%" alt="One penguin standing on another penguin's shoulders in a snowscape, looking through a telescope at a Quarto logo "moon" in the night sky."></a> <figcaption> Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustration by Allison Horst.</figcaption> </center> <br>
 
 What is Quarto? Quarto is software that unifies & extends the RMarkdown ecosystem. Quarto builds from 10 years of lessons and development from RMarkdown - which has been transformative for the R community - streamlining reproducibility across coding languages (R, Python, Julia) and comfort levels (new and seasoned coders of all career levels). It is a new open source system supporting publishing scientific and technical writing, and one place that this shows up is as an absolute game-changer for citations, which will dramatically help scientists and research teams focus on their science. An [audible "wow"](https://twitter.com/hadleywickham/status/1553382131816095746) came from the audience when I demoed how to insert citations in-line by typing `@`, which lets you select from your existing Zotero references or paste in a DOI. 
 
@@ -41,13 +41,5 @@ I am so grateful to J.J. Allaire for his mentorship and friendship and the oppor
 
 <br> <center> <a><img src="/img/blog/horst_reimagine_quarto_twopenguins.png" width="90%" alt="Two excited penguins diving off of an iceberg into the ocean. A Quarto logo "moon" in the sky is reflected in the water that they're diving into."></a> <figcaption>Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst.</figcaption> </center> <br>
 
-## Addition
-
-I have received a lot of lovely feedback from this talk, which reemphasizes how awesome the open community is. Here is one note in particular:
-
-> I enjoyed your talk at R studio: conf last week. If the goal was to get me interested in making the switch from Rmarkdown to Quarto you succeeded, but your urge for us to contribute to the open science community left an even bigger impact. ... I've always wanted to apply myself to working on environmental issues, but I've never known how to make that leap coming from a pure stats background. I feel like it is a critical time to get involved and was hoping you had some insights or suggestions. I'd love to get involved with Openscapes if any opportunities arise.
-
-And my reply: This is amazing, and we want to help empower folks to contribute from wherever they can! We'll focus more on this coming up, but here are the first ideas, in line with slowing down to speed up: First: Listening to understand where people are, and then
-
--   
+<br>
 

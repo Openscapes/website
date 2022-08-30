@@ -15,13 +15,14 @@ banner: /img/blog/horst_collaborate_penguins_telescope_square.png
 
 *All slides, demos, art, are available for reuse and remix!*
 
--   *slides: [https://mine.quarto.pub/hello-quarto](https://t.co/aMyt7EUwUE)*
+- ***recording**: [rstudio.com/conference/2022/keynotes/collaborate-with-quarto](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)*
+-   ***slides**: [mine.quarto.pub/hello-quarto](https://mine.quarto.pub/hello-quarto)*
 
--   *repo: [https://github.com/mine-cetinkaya-rundel/hello-quarto](https://t.co/9MEk2ASQtq)*
+-   ***repo**: [github.com/mine-cetinkaya-rundel/hello-quarto](https://github.com/mine-cetinkaya-rundel/hello-quarto)*
 
--   *art: <https://twitter.com/allison_horst/status/1552693891706413056>*
+-   ***art**: <https://twitter.com/allison_horst/status/1552693891706413056>*
 
--   *twitter thread: <https://twitter.com/juliesquid/status/1553527320308338688>*
+-   ***twitter thread**: <https://twitter.com/juliesquid/status/1553527320308338688>*
 
 
 At [rstudio::conf(2022)](https://www.rstudio.com/conference/), I had the distinct honor to welcome folks to [Quarto](https://quarto.org), which Openscapes has been using to collaborate and reimagine how we tackle inclusive environmental science & the climate crisis. Openscapes was the first external user of Quarto, collaborating with the Quarto developer team and [NASA Earthdata Openscapes Mentors](https://nasa-openscapes.github.io) for the last year to develop and teach tutorials to help researchers migrate their workflows to the cloud. We've primarily used Quarto as Python users, creating beautiful collections of Jupyter notebooks that are Quarto websites, including the [2021 Cloud Hackathon](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/) and the [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/). Learn more through [A Quarto Chat with NASA Openscapes, co-hosted with R-Ladies Santa Barbara](https://www.openscapes.org/blog/2022/06/22/hello-quarto/) with Catalina Oaida, Aaron Friesz, Amy Steiker, and J.J. Allaire.
@@ -41,3 +42,14 @@ This keynote was a big deal, and I \*struggled\* to clearly scope the reimagine 
 I am so grateful to J.J. Allaire for his mentorship and friendship and the opportunity to collaborate with Quarto. And I also appreciate J.J., Hadley Wickham, Joe Cheng, Jenny Bryan, and Hannah Frick for their support throughout the years and as well as helping me build confidence in the days before the keynote. And of course Mine Cetinkaya-Rundel on co-creating the keynote and reading Ileana's quote, as I reimagined what I could do :) 
 
 <br> <center> <a><img src="/img/blog/horst_reimagine_quarto_twopenguins.png" width="90%" alt="Two excited penguins diving off of an iceberg into the ocean. A Quarto logo "moon" in the sky is reflected in the water that they're diving into."></a> <figcaption>Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst.</figcaption> </center> <br>
+
+## Addition
+
+I have received a lot of lovely feedback from this talk, which reemphasizes how awesome the open community is. Here is one note in particular:
+
+> I enjoyed your talk at R studio: conf last week. If the goal was to get me interested in making the switch from Rmarkdown to Quarto you succeeded, but your urge for us to contribute to the open science community left an even bigger impact. ... I've always wanted to apply myself to working on environmental issues, but I've never known how to make that leap coming from a pure stats background. I feel like it is a critical time to get involved and was hoping you had some insights or suggestions. I'd love to get involved with Openscapes if any opportunities arise.
+
+And my reply: This is amazing, and we want to help empower folks to contribute from wherever they can! We'll focus more on this coming up, but here are the first ideas, in line with slowing down to speed up: First: Listening to understand where people are, and then
+
+-   
+

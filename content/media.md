@@ -86,13 +86,14 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+
+- [Hello Quarto: share • collaborate • teach • reimagine](https://mine.quarto.pub/hello-quarto) — July 28, 2022: Keynote at RStudio Conference with Mine Çetinkaya-Rundel ([video](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)) (60 minutes)
+
 <!---
-- RStudio Conference Keynote
+
 
 - Roundtable
 --->
-
-- Title TBD, Keynote at the RStudio Conference, July 2022!
 
 - [Openscapes teaching practices](https://docs.google.com/presentation/d/1Ugj_J3JKQ_taPJ5NjBs9j3rbqsopDuCmkFkxKpBbD8g/edit#slide=id.g127e53acada_2_135) — May 9, 2022, with Eli Holmes; High-level Group for the Modernisation of Statistical Production and Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE) Meta Academy Workshop (30 minutes) ([video](https://www.youtube.com/watch?v=TuqgE2jc2ZQ))
 

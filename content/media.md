@@ -89,6 +89,8 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 - [Hello Quarto: share • collaborate • teach • reimagine](https://mine.quarto.pub/hello-quarto) — July 28, 2022: Keynote at RStudio Conference with Mine Çetinkaya-Rundel ([video](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)) (60 minutes)
 
+- [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)(20 minutes)
+
 <!---
 
 

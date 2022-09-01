@@ -11,9 +11,9 @@ keywords = ["team", "partners"]
 
 [**Erin Robinson**](https://erinrobinson.net/) is a core Openscapes team member and advisor. She co-leads the NASA Framework project with Julie and has been instrumental in scaling Openscapes with lessons learned from their NASA work. Erin works at the intersection of community informatics, Earth science and non-profit management.
 
-**Ileana Fenwick** is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
+[**Ileana Fenwick**](https://twitter.com/_ileanaf) is a core Openscapes team member; she is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 
-[**Stefanie Butland**](https://stefaniebutland.netlify.app/), MSc is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement. 
+[**Stefanie Butland**](https://stefaniebutland.netlify.app/) is a core Openscapes team member and co-leads Champions Cohorts. She is a research scientist by training and an open science and tech community builder by passion. Stefanie is a Fellow of the Center for Scientific Collaboration and Community Engagement. 
 
 [**NASA Earthdata Mentors**](https://nasa-openscapes.github.io/mentors.html#mentor-cohort) are supporting researchers using NASA Earthdata as they migrate workflows to the Cloud 
 

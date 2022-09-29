@@ -1,6 +1,6 @@
 ---
 title: "Aligning mission around collaborative practices, with researchers, supervisors,
-  and IT""
+  and IT"
 author: "Molly Stevens, Adyan Rios, Erica Rule"
 date: "2022-09-30"
 slug: "2022-sefsc-summer"
@@ -41,9 +41,7 @@ SEFSC's Sustainable Fisheries Division (SFD) coordinates and conducts stock asse
 
 The Biology and Life History Branch within Fisheries, Assessment, Technology, and Engineering Support Division (FATES-BLH) documented their communication plan which acknowledged the areas where they are successful and identified areas for improvement (see figures below). Their branch has weekly meetings to strategize and track progress in real time, but is working to improve documentation of resulting products for easy and reproducible assessment inputs throughout SEFSC. Their team has been collaborating with SFD to receive assessment details through GitHub pages as well as collaborating within version-controlled programs, removing task redundancy and resulting in streamlined workflows. They are also working to document institutional knowledge and species-specific data issues, where the distribution of these details will vastly improve analyses and data inputs for stock assessments in the southeast. With SEFSC realignment, branches are spread throughout multiple cities in the southeast region, necessitating efficient communication and workflows.
 
-IMAGE HERE
-
-caption: FATES-BLH Branch team communication plan which highlights current successes and areas for improvement.
+<br> <center><a><img src="/img/blog/sefsc-sfd-commsplan.png" width="900px" alt="alt txt"></a><figcaption>FATES-BLH Branch team communication plan which highlights current successes and areas for improvement.</figcaption> </center> <br>
 
 IMAGE HERE
 

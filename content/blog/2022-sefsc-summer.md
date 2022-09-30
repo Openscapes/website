@@ -2,7 +2,7 @@
 title: "Aligning mission around collaborative practices, with researchers, supervisors,
   and IT"
 author: "Molly Stevens, Adyan Rios, Erica Rule"
-date: "2022-09-29"
+date: "2022-09-30"
 slug: "2022-sefsc-summer"
 categories:
  - community

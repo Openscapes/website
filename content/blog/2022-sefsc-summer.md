@@ -53,9 +53,7 @@ The Biology and Life History Branch within Fisheries, Assessment, Technology, an
 
 Reports and analyses for Integrated Ecosystem Assessment (IEA) are often recurring or require edits to data inputs throughout the process. These workflows are spread throughout individuals' Google folders and collaborators have been communicating via multiple email threads.  The Openscapes Cohort helped this team to envision a better future with open science tools including data extraction code stored on GitHub that feeds directly into Quarto reports (see figure below). They also envision tracking current data versions with auto-generated date tags, an improvement over many versions of the same product in individual workflows that are difficult to track. The IEA team documented this process and improvements for the SEFSC 2022 Summer Cohort; many teams at SEFSC are working through similar issues and striving towards the highest quality data and most efficient generation of reports. All teams found common ground in this effort, highlighting positive impacts of open science practices that facilitate inspiration, expand collaboration, and synergize our diverse expertise across the Center.
 
-IMAGE HERE
-
-caption: Integrated Ecosystem Assessment team pathway towards improved data quality through version control, streamlined communications, and automated reports.
+<br><center><a><img src="/img/blog/sefsc-iea-pathway.png" width="900px" alt="alt txt"></a><figcaption>caption: Integrated Ecosystem Assessment team pathway towards improved data quality through version control, streamlined communications, and automated reports.</figcaption></center><br>
 
 ## Closing / Onward
 

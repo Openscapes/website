@@ -37,9 +37,19 @@ This keynote was an enormous honor, having grown up professionally in the R [(#r
 
 This keynote was a big deal, and I \*struggled\* to clearly scope the reimagine part. So grateful to so many people who listened, coached, inspired me, including [@minebocek](https://twitter.com/minebocek), [@allison_horst](https://twitter.com/allison_horst), [@connector_erin](https://twitter.com/connector_erin), [@StefanieButland](https://twitter.com/StefanieButland), [@LizNeeley](https://twitter.com/LizNeeley), [@_ileanaf](https://twitter.com/_ileanaf), [@eeholm](https://twitter.com/eeholm), [@CieraReports](https://twitter.com/CieraReports), [@hfcfrick](https://twitter.com/hfcfrick), [@adyadyan](https://twitter.com/adyadyan), [@gavin_fay](https://twitter.com/gavin_fay), [@tararobertson](https://twitter.com/tararobertson), [@deepseadawn](https://twitter.com/deepseadawn), [@katharine_mach](https://twitter.com/katharine_mach), [@apreshill](https://twitter.com/apreshill). I could go on for much longer, but to close - 
 
-I am so grateful to J.J. Allaire for his mentorship and friendship and the opportunity to collaborate with Quarto. And I also appreciate J.J., Hadley Wickham, Joe Cheng, Jenny Bryan, and Hannah Frick for their support throughout the years and as well as helping me build confidence in the days before the keynote. And of course Mine Cetinkaya-Rundel on co-creating the keynote and reading Ileana's quote, as I reimagined what I could do :) 
+I am so grateful to J.J. Allaire for his mentorship and friendship and the opportunity to collaborate with Quarto. And I also appreciate J.J., Hadley Wickham, Joe Cheng, Jenny Bryan, and Hannah Frick for their support throughout the years and as well as helping me build confidence in the days before the keynote. And of course Mine Cetinkaya-Rundel on co-creating the keynote and reading [Ileana Fenwick's quote](https://mine.quarto.pub/hello-quarto/#/quote-ileana-fenwick), as I reimagined what I could do :) 
 
 <br> <center> <a><img src="/img/blog/horst_reimagine_quarto_twopenguins.png" width="90%" alt="Two excited penguins diving off of an iceberg into the ocean. A Quarto logo "moon" in the sky is reflected in the water that they're diving into."></a> <figcaption>Artwork from "Hello, Quarto" keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst.</figcaption> </center> <br>
 
 <br>
 
+<!---
+## Addition
+
+I have received a lot of lovely feedback from this talk, which reemphasizes how awesome the open community is. Here is one note in particular:
+
+> I enjoyed your talk at R studio: conf last week. If the goal was to get me interested in making the switch from Rmarkdown to Quarto you succeeded, but your urge for us to contribute to the open science community left an even bigger impact. ... I've always wanted to apply myself to working on environmental issues, but I've never known how to make that leap coming from a pure stats background. I feel like it is a critical time to get involved and was hoping you had some insights or suggestions. I'd love to get involved with Openscapes if any opportunities arise.
+
+And my reply: This is amazing, and we want to help empower folks to contribute from wherever they can! We'll focus more on this coming up, but here are the first ideas, in line with slowing down to speed up: First: Listening to understand where people are, and then
+
+--->   

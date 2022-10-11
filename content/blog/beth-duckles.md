@@ -1,6 +1,6 @@
 ---
 title: "A Qualitative Data Analysis Chat with Dr. Beth Duckles"
-author: Julie Lowndes, Erin Robinson, Stefanie Butland, Beth Duckles
+author: Beth Duckles, Erin Robinson, Stefanie Butland, Julie Lowndes
 date: '2022-04-26'
 slug: beth-duckles
 categories:

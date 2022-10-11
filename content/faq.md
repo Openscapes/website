@@ -4,6 +4,7 @@ description = "FAQ"
 keywords = ["FAQ"]
 +++
 
+
 The Openscapes [Champions Program](https://openscapes/org/champions) is not a typical training workshop for individuals. **Through Openscapes you focus on your own work with your team.** As Openscapes introduces modern concepts, tooling, and examples from your peers for collaborative open data science, your team focuses on where you are and where you want to go together. 
 
 One of the biggest benefits we hear from past Champions is that Openscapes helps them "find their team" by identifying common needs and solutions, which makes science feel less lonely. While teams do not require a shared project, teams should not be arbitrarily constructed. Teams should be colleagues who already interact around research and will continue to, for example a research lab or group.

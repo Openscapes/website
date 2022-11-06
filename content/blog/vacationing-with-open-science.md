@@ -8,7 +8,7 @@ categories:
 banner: /img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411_square.jpeg
 ---
 
-*I've just taken a 2+ week vacation and truly unplugged. While this post seems a bit personal for the Openscapes blog, I wanted to share a bit about how our open science process made it possible, because one of the things we hear often from researchers is that they feel like they can't take vacation - too much rests solely on their shoulders, solely on their laptops. And I have felt this way too, which was one reason why time off was a long time coming. Taking time off in some ways was an experiment, a stress-test of our workflow, and it had very positive results with everything working more-than smoothly in my absence, room for leadership and grow of others, and me returning feeling fresh. This post shares a bit about our teamwork and shared workflows setup, as well as some highlights from visiting family in the UK and Italy.*
+*I've just taken a 2+ week vacation and truly unplugged. While this post seems a bit personal for the Openscapes blog, I wanted to share a bit about how our open science process made it possible, because one of the things we hear often from researchers is that they feel like they can't take vacation - too much rests solely on their shoulders, solely on their laptops. And I have felt this way too, which was one reason why time off was a long time coming. Taking time off in some ways was an experiment, a stress-test of our workflow, and it had very positive results with everything working more-than-smoothly in my absence, room for leadership and grow of others, and me returning feeling fresh. This post shares a bit about our teamwork and shared workflows setup, as well as some highlights from visiting family in the UK and Italy.*
 
 ## Open science teamwork and shared systems
 
@@ -34,56 +34,57 @@ First, we spent two weeks in the UK's Lake District National Park. My mother-in-
 
 -   Fish and chips on Morecombe Bay at sunset!
 
-Then, we spent one week in northern Italy. It was a holiday weekend so we had half the time staying in a little town in the Dolomites and half the time at home in Treviso where the kids have school. Highlights include:
+Then, we spent one week in northern Italy. It was a holiday weekend so we had half the time staying in a little town in the Dolomites and half the time at home in Treviso where the kids have school. Highlights included:
 
 -   Hiking on clear days with panoramic views, eating cheese-cucumber sandwiches, boiled eggs, and grapes off the vine
 
--   Hide-and-seek with the kids in the Airbnb - a vertical house with 4 stories of two rooms per floor with plenty of cool furniture and alcoves to hide in
+-   Hide-and-seek with siblings in the Airbnb - a vertical house with 4 stories of two rooms per floor with plenty of cool furniture and alcoves to hide in
 
--   Cycling in rural Treviso to take the kids to school, visit the market, and then eat homemade lasagne, minestrone soup (Veneto-style), and having mascarpone with sweet jam and biscuits, teaching the kids to knit
+-   Cycling in rural Treviso to take siblings to school, visit the market, and then eat homemade lasagne, minestrone soup (Veneto-style), and having mascarpone with sweet jam and biscuits, teaching the kids to knit
 
--   Hearing Italian and German spoken, seeing alpine architecture with window flowerbeds and woodpiles, and eating so much pizza
+-   Hearing Italian and German spoken, seeing alpine architecture with window flowerbeds and woodpiles, and eating so much (but never enough) pizza
 
 Here are some photos, taken by Elliot Lowndes ([mrlowndes.com](https://mrlowndes.com)). Thanks for reading!
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/hedgehog_elowndes_PXL_20221015_170207047.PORTRAIT.jpeg" width="90%" alt="closeup photo of a wild hedgehog in the grass with beech seedpods"\></a> </center> <br>
+
+<br> <center> <a><img src="/img/blog/vacation-2022/hedgehog_elowndes_PXL_20221015_170207047.PORTRAIT.jpeg" width="90%" alt="closeup photo of a wild hedgehog in the grass with beech seedpods"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/grasmere_elowndes_DSCF7370.jpeg" width="90%" alt="view of a lake in the distance with green grass and trees and a dry stone wall in the foreground"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/grasmere_elowndes_DSCF7370.jpeg" width="90%" alt="view of a lake in the distance with green grass and trees and a dry stone wall in the foreground"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411.jpeg" width="90%" alt="an open wooden gate connecting a dry stone wall with greenery in the background"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/grasmere_gate_elowndes_DSCF7411.jpeg" width="90%" alt="an open wooden gate connecting a dry stone wall with greenery in the background"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/eskdale_hut_elowndes_DSCF7596-HDR.jpeg" width="90%" alt="a stone hut in the foreground with green and orange meadows in the distance with hills and dry stone walls"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/eskdale_hut_elowndes_DSCF7596-HDR.jpeg" width="90%" alt="a stone hut in the foreground with green and orange meadows in the distance with hills and dry stone walls"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/ullswater_herdwicks_elowndes_DSCF7693.jpeg" width="90%" alt="herdwick sheep with white faces and grey bodies in a green forest"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/ullswater_herdwicks_elowndes_DSCF7693.jpeg" width="90%" alt="herdwick sheep with white faces and grey bodies in a green forest"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/ullswater_selfie_elowndes_PXL_20221025_120924657.jpeg" width="90%" alt="a selfie of a white man and woman smiling with a lake behind them"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/ullswater_selfie_elowndes_PXL_20221025_120924657.jpeg" width="90%" alt="a selfie of a white man and woman smiling with a lake behind them"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/yorkshire_highlandcows_elowndes_DSCF7893.jpeg" width="90%" alt="Highland cows with long horns with green rolling hills and sun through broken clouds"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/yorkshire_highlandcows_elowndes_DSCF7893.jpeg" width="90%" alt="Highland cows with long horns with green rolling hills and sun through broken clouds"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/malham_elowndes_DSCF7971-HDR.jpeg" width="90%" alt="grey rocks that create a limestone pavement geological feature in the foreground with green hills in the background with sun through broken clouds"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/malham_elowndes_DSCF7971-HDR.jpeg" width="90%" alt="grey rocks that create a limestone pavement geological feature in the foreground with green hills in the background with sun through broken clouds"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/dolomites_elowndes_DSCF8053.jpeg" width="90%" alt="photo of a white man and woman smiling, wearing hiking clothes with mountain peaks behind them"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/dolomites_elowndes_DSCF8053.jpeg" width="90%" alt="photo of a white man and woman smiling, wearing hiking clothes with mountain peaks behind them"></a> </center> <br>
 
 <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/lavalle_agordino_elowndes_DSCF8218.jpeg" width="90%" alt="photo of an Italian alpine village along a river with tall mountain peaks behind"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/lavalle_agordino_elowndes_DSCF8218.jpeg" width="90%" alt="photo of an Italian alpine village along a river with tall mountain peaks behind"></a> </center> <br>
 
-<br> <center> <a>\<img src="/img/blog/vacation-2022/dolomites_fallcolors_DSCF8106.jpg" width="90%" alt="photo of yellow trees in the foreground and tall mountains in the background with light through broken clouds"\></a> </center> <br>
+<br> <center> <a><img src="/img/blog/vacation-2022/dolomites_fallcolors_DSCF8106.jpg" width="90%" alt="photo of yellow trees in the foreground and tall mountains in the background with light through broken clouds"></a> </center> <br>
 
 <br>

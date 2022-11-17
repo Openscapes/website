@@ -12,13 +12,15 @@ banner: img/blog/cloud-infrastructure-lopez-screenshot-square.png
 
 ## The why, what, and how of our NASA Openscapes cloud infrastructure: 2i2c JupyterHub and corn environment
 
-**I am a software engineer at the [National Snow and Ice Data Center](https://nsidc.org/home). Last month I gave a casual overview of our current cloud infrastructure set up with NASA Openscapes. The purpose was to share the why, what, and how of our setup with 2i2c JupyterHub and corn, to see how we can reuse what works and improve from other ideas. This blog post is a short overview of that talk, and links to the slides and recording are below.**
+*I am a software engineer at the [National Snow and Ice Data Center](https://nsidc.org/home). Last month I gave a casual overview of our current cloud infrastructure set up with NASA Openscapes. The purpose was to share the why, what, and how of our setup with 2i2c JupyterHub and corn, to see how we can reuse what works and improve from other ideas. This blog post is a short overview of that talk, and links to the slides and recording are below.*
 
-**We support researchers using NASA Earthdata as they migrate their data analysis workflows to the cloud. This blog post does not go into deep detail about how NASA Earthdata is migrating to the cloud, but you can read more about our efforts with NASA Openscapes at https://nasa-openscapes.github.io.**
+*We support researchers using NASA Earthdata as they migrate their data analysis workflows to the cloud. This blog post does not go into deep detail about how NASA Earthdata is migrating to the cloud, but you can read more about our efforts with NASA Openscapes at https://nasa-openscapes.github.io.*
 
-- **[Slides](https://docs.google.com/presentation/d/100aazshfYJfIe5pjQ6w3hswjA9zuuhEd2sZ3P4LhxJc/edit?usp=sharing)**
+- *[Slides](https://docs.google.com/presentation/d/100aazshfYJfIe5pjQ6w3hswjA9zuuhEd2sZ3P4LhxJc/edit?usp=sharing)*
 
-- **[Recording](https://youtu.be/Payju0KDScg)**
+- *[Recording](https://youtu.be/Payju0KDScg)*
+
+---
 
 ## Background: a tale of two workflows
 

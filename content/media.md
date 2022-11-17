@@ -86,6 +86,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
+*See [NASA-Openscapes](https://nasa-openscapes.github.io) for additional presentations from NASA Mentors!*
 
 - [Hello Quarto: share • collaborate • teach • reimagine](https://mine.quarto.pub/hello-quarto) — July 28, 2022: Keynote at RStudio Conference with Mine Çetinkaya-Rundel ([video](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)) (60 minutes)
 

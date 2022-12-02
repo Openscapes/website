@@ -8,7 +8,7 @@ categories:
   - champions
 tags:
   - impact
-banner: img/blog/square.png
+banner: /img/blog/Openscapes_SWAMPCohort_Timeline_20220526_520x520.png
 ---
 
 *Note: Openscapes began to work with and onboard mentors over the summer of 2021 while also beginning writing the [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/) to help document our process. This post focuses on what the California Water Boards mentors learned in 2022 as they led their own Cohort in the agency. This was the first Cohort to be "independently led" by mentors within their own agency, we hope the first of many! Thank you Corey and Anna for your continued and inspiring leadership in open and kinder science (and beyond).*
@@ -80,3 +80,5 @@ The progressive changes that cohort members identified fit right in with where o
 **Rollout framework using internal tools:** While Google Drive is a great platform for file organization, sharing, and real-time development, it is difficult to access & edit private drives without linking to a Google account first. Our alternative is Microsoft SharePoint, which may have a clunkier interface, but resolves access issues that members had to contribute to the cohort.
 
 **Develop an implementation strategy:** Just like at other large and small institutions, Water Boards management use strategic plans to document priorities and make decisions about how their staff will spend their time to accomplish programmatic and agency missions. We will be drafting an Openscapes Implementation Strategy to document our OIMA's proposed vision, goals, objectives, and expected outcomes of continuing to lead Openscapes Champions cohorts at the Water Boards, in addition to the implementation steps, target audience, and expected timeline. We are drafting the strategy in November and December 2022 and will begin distributing the strategy through the internal outreach process in 2023.
+
+<br> <center><a><img src="/img/blog/swamp_envsci_selfie.jpg" width="600px" alt="photo of four women smiling, standing on a path in a forest"></a><figcaption>SWAMP team Environmental Scientists that went through the SWRCB 2022 Cohort</figcaption> </center> <br>

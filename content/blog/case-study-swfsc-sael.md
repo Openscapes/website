@@ -10,7 +10,7 @@ tags:
   - impact
   - case-study
   - noaa-fisheries
-banner: /img/blog/swfsc-sael-site-kourtney-burger-square.png
+banner: /img/blog/swfsc-sael-site-kourtney-burger_square.png
 ---
 
 *This blog post is authored by Kourtney Burger and is [cross-posted from the NOAA Fisheries Science blog](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science). Kourtney works as a biological science technician with the SWFSC Acoustic Ecology Lab. She is responsible for the lab's data management and general lab management and maintenance. Her current research interests include using passive acoustics monitoring as a non-invasive way to study marine mammals in their natural environments. When Kourtney's not working, you can find her spending time outdoors and hanging out with her dog.*
@@ -19,7 +19,7 @@ banner: /img/blog/swfsc-sael-site-kourtney-burger-square.png
 
 ### Why open science is good science
 
-<br> <center><a><img src="/img/blog/horst_openscapes_champions.png" alt="find and copy alt txt"></a><figcaption>Openscapes helps us move away from the lonely science path to navigate the Open Science landscape where we can work as a team. Artwork by [Allison Horst](https://allisonhorst.com/).</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/horst_openscapes_champions.jpg" alt="find and copy alt txt"></a><figcaption>Openscapes helps us move away from the lonely science path to navigate the Open Science landscape where we can work as a team. Artwork by [Allison Horst](https://allisonhorst.com/).</figcaption> </center> <br>
 
 Over the last two months I participated in the [Openscapes Champions](https://www.openscapes.org/champions/): NOAA Southwest & Pacific Islands Fisheries Fall 2022 Cohort. Openscapes encompasses the Open Science movement, which includes making your research and the scientific process more accessible, reproducible, and collaborative. Before starting this workshop, the [Southwest Acoustic Ecology Lab](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab) (SAEL) already incorporated the Open Science culture in many aspects of our work, but the Openscapes framework gave us the opportunity to build some Open Science habits that we were lacking and started our journey towards a more efficient and collaborative team.
 
@@ -41,7 +41,7 @@ Seaside Chats with our SAEL team allowed those of us attending the Openscapes wo
 
 My favorite tool I was introduced to was [Quarto](https://quarto.org/) (an open source scientific and technical publishing system). My team and I quickly realized that this was the perfect tool for transferring everything from our messy Google Drives to GitHub! To put this into action, I transferred our recently revamped Adrift Field Methods manual to a Quarto web book. Previously, it was sitting in a google drive where it wasn't easy to find and had accessibility issues. In just a couple hours, I was able to easily make a new repository, copy a Quarto template, and transfer the google document to a [GitHub repository](https://github.com/SAEL-SWFSC/adrift-field-methods) and an easy to navigate [website](https://sael-swfsc.github.io/adrift-field-methods/)! As we continued to transfer documents from google drives to GitHub, it became easier to find and share things, and the stress associated with file management drastically decreased.
 
-<br> <center><a><img src="/img/blog/swfsc-sael-site-kourtney-burger.png" width="600px" alt="screenshot of web page. Left navigation bar with round NOAA logo above a table of contents. Right side has text titled Summary above a diagram of drifting acoustic buoy"></a><figcaption>Screenshot from our ADRIFT Field Methods website created through the Openscapes Program. This is a living document where we can outline our methodology and update/archive specific components of our methods and hardware as changes are made. Credit: NOAA Fisheries / Kourtney Burger</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/swfsc-sael-site-kourtney-burger.jpg" width="600px" alt="screenshot of web page. Left navigation bar with round NOAA logo above a table of contents. Right side has text titled Summary above a diagram of drifting acoustic buoy"></a><figcaption>Screenshot from our ADRIFT Field Methods website created through the Openscapes Program. This is a living document where we can outline our methodology and update/archive specific components of our methods and hardware as changes are made. Credit: NOAA Fisheries / Kourtney Burger</figcaption> </center> <br>
 
 Going into this program, our team culture fully embraced the Open Science movement. Openscapes pushed us to dive deeper into specific tools and strategies that will allow our science, methods, and lab culture to live beyond the current members of our team. Moving forward, we will continue to develop our [GitHub](https://github.com/SAEL-SWFSC) as a living home for all of our lab manuals, methods, and shared resources.
 

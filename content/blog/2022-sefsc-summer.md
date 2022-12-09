@@ -9,7 +9,7 @@ categories:
  - champions
 tag:
  - impact
- - noaa-fisheries
+ - noaa-fisheries 
 banner: img/blog/sefsc-fates-commsplan-square.png
 ---
 

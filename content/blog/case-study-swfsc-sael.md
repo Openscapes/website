@@ -19,7 +19,7 @@ banner: /img/blog/swfsc-sael-site-kourtney-burger_square.png
 
 ### Why open science is good science
 
-<br> <center><a><img src="/img/blog/horst_openscapes_champions.jpg" alt="find and copy alt txt"></a><figcaption>Openscapes helps us move away from the lonely science path to navigate the Open Science landscape where we can work as a team. Artwork by [Allison Horst](https://allisonhorst.com/).</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/horst_openscapes_champions.jpg" width="800px" alt="find and copy alt txt"></a><figcaption>Openscapes helps us move away from the lonely science path to navigate the Open Science landscape where we can work as a team. Artwork by [Allison Horst](https://allisonhorst.com/).</figcaption> </center> <br>
 
 Over the last two months I participated in the [Openscapes Champions](https://www.openscapes.org/champions/): NOAA Southwest & Pacific Islands Fisheries Fall 2022 Cohort. Openscapes encompasses the Open Science movement, which includes making your research and the scientific process more accessible, reproducible, and collaborative. Before starting this workshop, the [Southwest Acoustic Ecology Lab](https://www.fisheries.noaa.gov/west-coast/science-data/southwest-acoustic-ecology-lab) (SAEL) already incorporated the Open Science culture in many aspects of our work, but the Openscapes framework gave us the opportunity to build some Open Science habits that we were lacking and started our journey towards a more efficient and collaborative team.
 

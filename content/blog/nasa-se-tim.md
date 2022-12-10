@@ -107,7 +107,7 @@ Currently, in order to programmatically access NASA datasets, users must be fami
 We are developing this Python library with several use cases in mind:
 
 -   We work at the granule, or file, level
-    -   If we already use OPeNDAP/Harmony in an effective way, \`earthaccess\` does not support subsetting, or GIS operations (yet)
+    -   If we already use OPeNDAP/Harmony in an effective way, `earthaccess` does not support subsetting, or GIS operations (yet)
 -   We don't require granule pre-processing.
     -   (see above)
 -   We are not cloud experts and just want to access the data.
@@ -117,5 +117,3 @@ See it in action!! [Analyzing Sea Level Rise Using Earth Data in the Cloud](http
 ## Onward!
 
 These are highlights from our work as a NASA Openscapes Mentor community. We've focused on teaching adult learners across experiences and career stages, visualizing concepts and complex workflows, and creating a python package that abstracts many of these backend components to make cloud access truly only a few lines of code. We have more to share, which we will continue to do this year at the **AGU Fall Meeting, Tuesday morning in the IN22C - [Environmental Data User Support with Cloud-Based User Services II Poster session](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/159166)**. If you're there, please find us, we'd love to connect more about supporting researchers with NASA Earthdata in the cloud and open science!
-
-

@@ -41,7 +41,7 @@ Throughout 2022 the GES DISC DAAC led internal trainings with our DAAC colleague
 
 **How did it go?** We taught 33 colleagues this way. In terms of skill and comfort level in advance, there were 12 Beginners, 14 Intermediate, and 7 Advanced. Positive feedback included: "More simple & straightforward than I thought"; Breaking up code pieces helped; Pre-filled notebooks useful to refer to; Easy to follow; GitHub clone was easy!; Breakout rooms for troubleshooting. Challenges included: Window/tab management; Too much material; Live-coding typing was too fast; Continue to define jargon/terminology throughout the workshop. We also asked about prerequisite knowledge colleagues would have benefited from, and they listed familiarity with Earthdata tools; Basic Python; Basic cloud (AWS) understanding & terminology; Account set up for cloud access.
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-learn.png" width="600px" alt="diagram titled What did we learn? with four blue squares in a 2 x 2 layout. Text in the blue squares is written out in the blog post text below."></a><figcaption>What did we learn from internal training: four key elements.</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-learn.png" width="800px" alt="diagram titled What did we learn? with four blue squares in a 2 x 2 layout. Text in the blue squares is written out in the blog post text below."></a><figcaption>What did we learn from internal training: four key elements.</figcaption> </center> <br>
 
 **Overall, we had four main lessons learned:**
 
@@ -63,10 +63,12 @@ Throughout 2022 we also led many training events with end-users - largely academ
 | [**ECOSTRESS Workshop**](https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/)                           | April 2022      | Exposing ECOSTRESS data users to ECOSTRESS version 2 (v2) data products in the cloud. Learning objectives focus on how to find and access ECOSTRESS v2 data from Earthdata Cloud either by downloading or accessing the data on the cloud.                        |
 | [**LP DAAC University Events**](https://git.earthdata.nasa.gov/projects/LPDUR/repos/lpdaac_cloud_data_access/browse) | April, May 2022 | A series of Jupyter Notebooks, written in Python, demonstrating how to get started with NASA Earthdata in the cloud. Topics include: Cloud Data Access in AWS, Cloud Optimized Data, Data Discovery using STAC via NASA's CMR-STAC API, Working with Cloud Data. |
 
+<br>
+<br>
 
 The main outcome was that **these events markedly raise cloud comfort level**.
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-survey.png" width="600px" alt="two pie charts labeled Before, After, with legend to the right. Before pie has 3 slices with 61.9% 'Little to no experience using the cloud - not comfortable'; 33.3% 'Beginner cloud experience - somewhat comfortable'; remainder 'Intermediate cloud experience - comfortable'. After pie has 3 slices with 66.7% 'Intermediate cloud experience - comfortable'; 19% 'Advanced cloud experience - very comfortable'; 14.3% 'Beginner cloud experience - somewhat comfortable'. Quoted text below pies says [We need] Better documentation/tutorials for how to access data over the cloud. It would have been **extremely difficult** to do any of this **without the help of the hackathon**."></a><figcaption>Users' comfort levels before and after training</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-survey.png" width="800px" alt="two pie charts labeled Before, After, with legend to the right. Before pie has 3 slices with 61.9% 'Little to no experience using the cloud - not comfortable'; 33.3% 'Beginner cloud experience - somewhat comfortable'; remainder 'Intermediate cloud experience - comfortable'. After pie has 3 slices with 66.7% 'Intermediate cloud experience - comfortable'; 19% 'Advanced cloud experience - very comfortable'; 14.3% 'Beginner cloud experience - somewhat comfortable'. Quoted text below pies says [We need] Better documentation/tutorials for how to access data over the cloud. It would have been **extremely difficult** to do any of this **without the help of the hackathon**."></a><figcaption>Users' comfort levels before and after training</figcaption> </center> <br>
 
 Understanding the "why" was a big part of this - why move workflows to the Cloud. Learners' takeaways predominantly centered around improved conceptual understanding of why and when to use, or not use, the cloud... while also recognizing that there is a significant learning curve and time investment required for adoption.
 
@@ -78,7 +80,7 @@ We also saw common pain points: inconsistent data availability and service offer
 
 -   Continuing to close the loop between the users we work with and our engineers to build solutions together - leveraging the 2i2c environment as we understand cost and funding mechanisms.
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-forward.png" width="600px" alt="diagram with center zigzag line with 4 circles at the angles, labeled Continuing to support Openscapes 2i2C Hub; Spinning up a permanent cloud environment; Advanced Cloud Processing; Open Science Enablement"></a><figcaption>Ideas for supporting users in the cloud</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-forward.png" width="800px" alt="diagram with center zigzag line with 4 circles at the angles, labeled Continuing to support Openscapes 2i2C Hub; Spinning up a permanent cloud environment; Advanced Cloud Processing; Open Science Enablement"></a><figcaption>Ideas for supporting users in the cloud</figcaption> </center> <br>
 
 ## Earthdata Cloud Cookbook: Workflow and Vocab Cheatsheets
 
@@ -91,7 +93,7 @@ Examples:
 
 **Tools & Services Roadmap** - a practical guide for learning and selecting the right tool or service for a given use case
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-workflow-cheatsheet.png" width="600px" alt="screenshot of Workflow Cheatsheet that is accessible from link in the figure caption"></a><figcaption>A Workflow Cheatsheet for NASA Earthdata Cloud, outlining steps for: find data, transform, download, authentication, access, and tech set up. See the [Cheatsheet](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheets.html#workflow-cheatsheet) for clickable icons that lead to tutorials!</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-workflow-cheatsheet.png" width="800px" alt="screenshot of Workflow Cheatsheet that is accessible from link in the figure caption"></a><figcaption>A Workflow Cheatsheet for NASA Earthdata Cloud, outlining steps for: find data, transform, download, authentication, access, and tech set up. See the [Cheatsheet](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheets.html#workflow-cheatsheet) for clickable icons that lead to tutorials!</figcaption> </center> <br>
 
 **Workflow Cheatsheet** - Practical reference guide as user begins taking the conceptual pieces to explore and implement in their own workflows
 
@@ -110,7 +112,7 @@ Currently, in order to programmatically access NASA datasets, users must be fami
 
 `earthdata` will abstract this complexity for the user so that they can run a few lines of Python code and have the output return their query as Python objects, and they can carry on with their important science!
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-earthaccess-api.png" width="600px" alt="top of image has NASA logo and heading NASA Earthdata API Client. Text ' TL;DR: earthdata is a Python package to search, preview and access NASA datasets (on-prem or in the cloud with a few lines of code. Screenshot below text shows example code that can be accessed at https://github.com/nsidc/earthaccess"></a><figcaption>Example code using `earthaccess`. Note that with the renaming of the library, this code would now run following `import earthaccess` rather than `import earthdata`. </figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-earthaccess-api.png" width="800px" alt="top of image has NASA logo and heading NASA Earthdata API Client. Text ' TL;DR: earthdata is a Python package to search, preview and access NASA datasets (on-prem or in the cloud with a few lines of code. Screenshot below text shows example code that can be accessed at https://github.com/nsidc/earthaccess"></a><figcaption>Example code using `earthaccess`. Note that with the renaming of the library, this code would now run following `import earthaccess` rather than `import earthdata`. </figcaption> </center> <br>
 
 We are developing this Python library with several use cases in mind:
 

@@ -23,7 +23,7 @@ banner: img/blog/nasa-se-tim-learn-square.png
 
 -   [*Open Source Science Data Repositories Workshop*](https://docs.google.com/presentation/d/1OnjRhSgA_6iT4jvUCqW6plhuvwPIn_Vu-cfzo7QX2V4/)*, September 2022*
 
-*Recording*
+[*Recording*](https://youtu.be/EV5c7upAiyg)
 
 ------------------------------------------------------------------------
 
@@ -41,24 +41,32 @@ Throughout 2022 the GES DISC DAAC led internal trainings with our DAAC colleague
 
 **How did it go?** We taught 33 colleagues this way. In terms of skill and comfort level in advance, there were 12 Beginners, 14 Intermediate, and 7 Advanced. Positive feedback included: "More simple & straightforward than I thought"; Breaking up code pieces helped; Pre-filled notebooks useful to refer to; Easy to follow; GitHub clone was easy!; Breakout rooms for troubleshooting. Challenges included: Window/tab management; Too much material; Live-coding typing was too fast; Continue to define jargon/terminology throughout the workshop. We also asked about prerequisite knowledge colleagues would have benefited from, and they listed familiarity with Earthdata tools; Basic Python; Basic cloud (AWS) understanding & terminology; Account set up for cloud access.
 
+<br> <center><a><img src="/img/blog/nasa-se-tim-learn.png" width="600px" alt="diagram titled What did we learn? with four blue squares in a 2 x 2 layout. Text in the blue squares is written out in the blog post text below."></a><figcaption>What did we learn from internal training: four key elements.</figcaption> </center> <br>
+
 **Overall, we had four main lessons learned:**
 
 -   **Learning curve is steep!** No one left an expert and we continue to help staff who are experimenting in the cloud
 -   **Provide resources that are easy to revisit!** Website, slides, instructions, recordings are all useful for staff who spend more time with the material
 -   **Continued support and education are critical** - Necessary to host refresher workshops to exercise the knowledge and introduce new tools and methods
 -   **Lay a foundation with cloud basics and terminologies** - Introduce terms and concepts early, perhaps in a separate meeting or clinic, and continue defining them throughout the workshop
-
-<br> <center><a><img src="/img/blog/nasa-se-tim-learn.png" width="600px" alt="txt"></a><figcaption>caption</figcaption> </center> <br>
+-   
 
 ## End-user Training Events
 
 Throughout 2022 we also led many training events with end-users - largely academic faculty and students using NASA Earthdata.
 
-TABLE OF EVENTS
+| **Event**                                                                                                            | Date            | **Focus Area / Goals**                                                                                                                                                                                                                                            |
+|--------------|-------------|---------------------------------------------|
+| [**Cloud Hackathon**](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/)                                       | November 2021   | Five day collaborative open science learning experience aimed at exploring, creating, and promoting effective cloud-based science and applications workflows using NASA Earthdata Cloud data, tools, and services (among others).                                 |
+| [**AGU Workshop**](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/)                                       | December 2021   | Half-day workshop focused on enabling Analysis in the Cloud using NASA Earth Science Data.                                                                                                                                                                        |
+| [**SWOT Oceanography Workshop**](https://podaac.github.io/2022-SWOT-Ocean-Cloud-Workshop/)                           | March 2022      | Preparing for Surface Water and Ocean Topography (SWOT) and enable the (oceanography) science team to be ready for processing and handling the large volumes of SWOT SSH data in the cloud.                                                                       |
+| [**ECOSTRESS Workshop**](https://nasa-openscapes.github.io/2022-ECOSTRESS-Cloud-Workshop/)                           | April 2022      | Exposing ECOSTRESS data users to ECOSTRESS version 2 (v2) data products in the cloud. Learning objectives focus on how to find and access ECOSTRESS v2 data from Earthdata Cloud either by downloading or accessing the data on the cloud.                        |
+| [**LP DAAC University Events**](https://git.earthdata.nasa.gov/projects/LPDUR/repos/lpdaac_cloud_data_access/browse) | April, May 2022 | A series of Jupyter Notebooks, written in Python, demonstrating how to get started with NASA Earthdata in the cloud. Topics include: Cloud Data Access in AWS, Cloud Optimized Data, Data Discovery using STAC via NASA's CMR-STAC API, Working with Cloud Data. |
+
 
 The main outcome was that **these events markedly raise cloud comfort level**.
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-survey.png" width="600px" alt="txt"></a><figcaption>Users comfort levels before and after training</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-survey.png" width="600px" alt="two pie charts labeled Before, After, with legend to the right. Before pie has 3 slices with 61.9% 'Little to no experience using the cloud - not comfortable'; 33.3% 'Beginner cloud experience - somewhat comfortable'; remainder 'Intermediate cloud experience - comfortable'. After pie has 3 slices with 66.7% 'Intermediate cloud experience - comfortable'; 19% 'Advanced cloud experience - very comfortable'; 14.3% 'Beginner cloud experience - somewhat comfortable'. Quoted text below pies says [We need] Better documentation/tutorials for how to access data over the cloud. It would have been **extremely difficult** to do any of this **without the help of the hackathon**."></a><figcaption>Users' comfort levels before and after training</figcaption> </center> <br>
 
 Understanding the "why" was a big part of this - why move workflows to the Cloud. Learners' takeaways predominantly centered around improved conceptual understanding of why and when to use, or not use, the cloud... while also recognizing that there is a significant learning curve and time investment required for adoption.
 
@@ -66,24 +74,24 @@ We also saw common pain points: inconsistent data availability and service offer
 
 **Moving forward, we have ideas for supporting users in the Cloud:**
 
--   Recognizing easy cloud access as a core service - our 2i2c Jupyter Hub has been critical for reducing barriers to cloud entry and having a shared environment to meet users where they are (see [this blog by Luis Lopez](https://www.openscapes.org/blog/2022/11/17/nasa-earthdata-cloud-infrastructure/) for more)
+-   Recognizing easy cloud access as a core service - our 2i2c Jupyter Hub has been critical for reducing barriers to cloud entry and having a shared environment to meet users where they are (see [this blog by Luis Lopez](https://www.openscapes.org/blog/2022/11/17/nasa-earthdata-cloud-infrastructure/) for more).
 
--   Continuing to close the loop between the users we work with and our engineers to build solutions together - leveraging the 2i2c environment as we understand cost and funding mechanisms
+-   Continuing to close the loop between the users we work with and our engineers to build solutions together - leveraging the 2i2c environment as we understand cost and funding mechanisms.
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-forward.png" width="600px" alt="txt"></a><figcaption>caption</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-forward.png" width="600px" alt="diagram with center zigzag line with 4 circles at the angles, labeled Continuing to support Openscapes 2i2C Hub; Spinning up a permanent cloud environment; Advanced Cloud Processing; Open Science Enablement"></a><figcaption>Ideas for supporting users in the cloud</figcaption> </center> <br>
 
 ## Earthdata Cloud Cookbook: Workflow and Vocab Cheatsheets
 
 We have been creating Workflow and Vocab Cheatsheets to increase accessibility to data & resources, as well as many tools, and lots of (new) jargon. They are conceptual, practical, or reference guides to help users find the paths and tools most useful for a given need; we recognize there is a range of where in the learning process the users find themselves → a range of guides & cheatsheets. These cheatsheets and guides have been developed with NASA Openscapes and other DAAC mentors - consistency across DAACs, in messaging, information, and user experience. They are currently available digitally:
 
--   [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheet.html) 
+-   [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheet.html)
 -   On DAAC websites e.g. [PO.DAAC - Cloud Data Page](https://podaac.jpl.nasa.gov/cloud-datasets/about)
 
 Examples:
 
 **Tools & Services Roadmap** - a practical guide for learning and selecting the right tool or service for a given use case
 
-<br> <center><a><img src="/img/blog/nasa-se-tim-workflow-cheatsheet.png" width="600px" alt="txt"></a><figcaption>caption</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-workflow-cheatsheet.png" width="600px" alt="screenshot of Workflow Cheatsheet that is accessible from link in the figure caption"></a><figcaption>A Workflow Cheatsheet for NASA Earthdata Cloud, outlining steps for: find data, transform, download, authentication, access, and tech set up. See the [Cheatsheet](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/cheatsheets.html#workflow-cheatsheet) for clickable icons that lead to tutorials!</figcaption> </center> <br>
 
 **Workflow Cheatsheet** - Practical reference guide as user begins taking the conceptual pieces to explore and implement in their own workflows
 
@@ -92,7 +100,7 @@ Examples:
 
 The Earthdata Cloud Cookbook itself is a curated collection of tutorials we've iterated on and adapted following versions and feedback from live (virtual) training events. It focuses on the common steps across DAACs/users, and is available for self-paced learning. It is under active, open development, and links back to the underlying GitHub repo. It is a place to learn, share, and experiment with NASA Earthdata on the Cloud. We know this has a lot of moving parts, and we are iterating as we go, and welcome feedback and contributions.
 
-## `earthaccess`
+## `earthaccess` python library
 
 [`earthaccess`](https://github.com/nsidc/earthaccess) supports NASA Data Search and Access in Python. (It was previously named earthdata, and we are updating documentation).
 
@@ -102,7 +110,7 @@ Currently, in order to programmatically access NASA datasets, users must be fami
 
 `earthdata` will abstract this complexity for the user so that they can run a few lines of Python code and have the output return their query as Python objects, and they can carry on with their important science!
 
-<br> <center><a><img src="/img/blog/API.png" width="600px" alt="txt"></a><figcaption>caption</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/nasa-se-tim-earthaccess-api.png" width="600px" alt="top of image has NASA logo and heading NASA Earthdata API Client. Text ' TL;DR: earthdata is a Python package to search, preview and access NASA datasets (on-prem or in the cloud with a few lines of code. Screenshot below text shows example code that can be accessed at https://github.com/nsidc/earthaccess"></a><figcaption>Example code using `earthaccess`. Note that with the renaming of the library, this code would now run following `import earthaccess` rather than `import earthdata`. </figcaption> </center> <br>
 
 We are developing this Python library with several use cases in mind:
 
@@ -112,7 +120,7 @@ We are developing this Python library with several use cases in mind:
     -   (see above)
 -   We are not cloud experts and just want to access the data.
 
-See it in action!! [Analyzing Sea Level Rise Using Earth Data in the Cloud](https://nbviewer.org/gist/betolink/b8a37c6e58da16ba7183c21e6fc731b1)
+**See it in action!!** [Analyzing Sea Level Rise Using Earth Data in the Cloud](https://nbviewer.org/gist/betolink/b8a37c6e58da16ba7183c21e6fc731b1)
 
 ## Onward!
 

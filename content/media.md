@@ -86,7 +86,12 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 ## PRESENTATIONS
 
-*See [NASA-Openscapes](https://nasa-openscapes.github.io) for additional presentations from NASA Mentors!*
+*See [NASA-Openscapes](https://nasa-openscapes.github.io) and [NMFS-Openscapes](https://nmfs-openscapes.github.io) for many additional presentations from NASA and NOAA Fisheries Mentors!*
+
+
+<!---https://www.exascaleproject.org/event/openscapes/--->
+
+- [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit?usp=sharing)  - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session
 
 - [Hello Quarto: share • collaborate • teach • reimagine](https://mine.quarto.pub/hello-quarto) — July 28, 2022: Keynote at RStudio Conference with Mine Çetinkaya-Rundel ([video](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)) (60 minutes)
 

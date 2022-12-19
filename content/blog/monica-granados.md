@@ -10,7 +10,7 @@ tags:
 banner: img/blog/monica-granados-square.png
 ---
 
-## A casual conversation with Dr. Monica Granados to discuss the Open Climate Campaign and how we can reimagine open science as part of the climate movement
+## Reimagining open science as part of the climate movement
 
 Our 7th Openscapes Community Call featured a "celebrity interview" with [Monica Granados](https://www.monicagranados.com/), PhD. Monica is the [Open Climate Campaign](https://openclimatecampaign.org/) Manager at Creative Commons and on the Leadership team of [PREreview](https://www.prereview.org/). She is an open science specialist and a trained ecologist. Monica was interviewed by Julie Lowndes, PhD, Openscapes Director. Watch the recording on Openscapes YouTube. **ADD LINK**
 
@@ -19,9 +19,11 @@ In this conversation, we dug into what each of us can do to connect our daily wo
 -   If climate is part of your day job, how to leverage open science
 -   If open science is part of your day job, how to connect that to climate
 
-Monica told us about her "origin story" in open science as an ecologist and the pivotal roles some people and organizations played.
+Monica told us about her "origin story" in open science as an ecologist and the roles some people and organizations played. She shared how an open science course through [NCEAS](https://www.nceas.ucsb.edu/) was pivotal, and how she came home a different person telling all her friends and colleagues “Have you heard about open science?!!!”. She was transformed by the idea that this was a different way to do science - a paradigmatic shift and a new philosophy of science. One moment in particular that stood out was when Karthik Ram, founder of rOpenSci, showed Monica how she could access Daniel Pauley's fisheries work directly from R. Mozilla Open Leaders was another part of her journey, where she deepened her mindsets and skills for "working open".
 
-_SOME CONTENT HERE_
+Monica also shared about the Open Climate Campaign - a 4-year project funded by the Arcadia Foundation to help make open sharing of resources around research the norm in climate science.
+
+A recurring theme throughout the conversation was breaking down problems into tasks you can contribute to. It's not about trying to solve the huge problem - it's about bringing in your own expertise / perspective. "We need all the big things - policy, green solutions - but go where your own expertise is."
 
 **After the interview**, participants contributed to a rich conversation with questions touching on which workflows should be streamlined to reduce the time required to discover, connect, and coordinate around open science; funding models; licensing; and differences in how open science for climate is moving forward in governments, universities, and elsewhere.
 

@@ -12,7 +12,7 @@ banner: img/blog/monica-granados-square.png
 
 ## Reimagining open science as part of the climate movement
 
-Our 7th Openscapes Community Call featured a "celebrity interview" with [Monica Granados](https://www.monicagranados.com/), PhD. Monica is the [Open Climate Campaign](https://openclimatecampaign.org/) Manager at Creative Commons and on the Leadership team of [PREreview](https://www.prereview.org/). She is an open science specialist and a trained ecologist. Monica was interviewed by Julie Lowndes, PhD, Openscapes Director. Watch the recording on Openscapes YouTube. **ADD LINK**
+Our 7th Openscapes Community Call featured a "celebrity interview" with [Monica Granados](https://www.monicagranados.com/), PhD. Monica is the [Open Climate Campaign](https://openclimatecampaign.org/) Manager at Creative Commons and on the Leadership team of [PREreview](https://www.prereview.org/). She is an open science specialist and a trained ecologist. Monica was interviewed by Julie Lowndes, PhD, Openscapes Director. Watch the [recording on Openscapes YouTube](https://youtu.be/Tnx8wjA6-k0).
 
 In this conversation, we dug into what each of us can do to connect our daily work to the climate movement. **How do we connect "big problems" like climate change with "little problems" like sharing knowledge, data, different versions of files, and automating analyses & reports?** We wanted to come away with concrete actions we can all weave into our daily work:
 

@@ -25,7 +25,7 @@ Monica also shared about the Open Climate Campaign - a 4-year project funded by 
 
 A recurring theme throughout the conversation was breaking down problems into tasks you can contribute to. It's not about trying to solve the huge problem - it's about bringing in your own expertise / perspective. "We need all the big things - policy, green solutions - but go where your own expertise is."
 
-**After the interview**, participants contributed to a rich conversation with questions touching on which workflows should be streamlined to reduce the time required to discover, connect, and coordinate around open science; funding models; licensing; and differences in how open science for climate is moving forward in governments, universities, and elsewhere.
+**After the interview**, participants contributed to a rich conversation with questions touching on which workflows should be streamlined to reduce the time required to discover, connect, and coordinate around open science; funding models; licensing; and differences in how open science for climate is moving forward in governments, universities, and elsewhere. [Collaborative notes](https://docs.google.com/document/d/1iz0UrhK8_5P0MkiqwEBBaW1fzbhFxN_UF8I4c4dE1OA/) are in our Google Doc.
 
 > We underestimate the power of contribution--of acting within our own sphere of influence to tackle the piece of the problem that is right in front of us. - Abigail Dillen in Litigating in a Time of Crisis, in [All We Can Save](https://www.allwecansave.earth/anthology)
 

@@ -88,10 +88,9 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 *See [NASA-Openscapes](https://nasa-openscapes.github.io) and [NMFS-Openscapes](https://nmfs-openscapes.github.io) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
-
-<!---https://www.exascaleproject.org/event/openscapes/--->
-
 <br>
+
+- [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit?usp=sharing) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes' 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) 
 
 - [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit?usp=sharing)  - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session
 

@@ -77,6 +77,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 - [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) — hands-on training curriculum for a workshop at the [2020 RStudio Conference](https://rstudio.com/conference/), taught over two days with the Openscapes mindset: it is a friendly and empowering intro to becoming a modern R user. Co-developed and taught with Allison Horst.
 <!---https://education.rstudio.com/blog/2020/02/conf2020-workshops/--->
 - [Tidy Data Illustrated Series](/blog/2020/10/12/tidy-data) — artwork to illustrate why tidy data is so powerful for efficiency, reproducibility, and collaboration. Developed with and illustrated by Allison Horst.
+- [GitHub Illustrated Series](https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/) — artwork to illustrate why GitHub is powerful for supporting, reusing, contributing, and failing safely. Developed with and illustrated by Allison Horst.
 - [Openscapes Approach Guide](https://openscapes.github.io/approach-guide) —  an open and iterating guide to document our process and onboard folks to the Openscapes approach.
 
 <!---CYOP--->
@@ -90,7 +91,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 <br>
 
-- [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit?usp=sharing) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes' 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) 
+- [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit?usp=sharing) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes' 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) ([video](https://www.youtube.com/watch?v=unjQxQPfnqM)) 
 
 - [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit?usp=sharing)  - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session
 

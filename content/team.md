@@ -1,7 +1,7 @@
 +++ 
 title = "Openscapes Team" 
 description = "team" 
-keywords = \["team", "partners"\] 
+keywords = ["team", "partners"] 
 +++
 
 ## Our Team

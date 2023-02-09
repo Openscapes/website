@@ -17,7 +17,7 @@ We know that daily demands leave little time for researchers to transition to be
 
 1. **Openscapes Framework**. A scalable leadership and community building framework that supports researchers and staff transitioning to open data science. The framework involves developing a Mentor community, empowering science teams through the Champions Program, and scaling the Champions program with the Mentors in a way that is sustainable and supported. See our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) below, and an example: [NASA Openscapes](https://nasa-openscapes.github.io).
 
-<center><img src="/img/openscapes-flywheel-eea.png" width="800px"></center>
+<center><img src="/img/openscapes-flywheel-vpub.png" width="800px"></center>
 
 
 <!---https://docs.google.com/presentation/d/14Ko80NL1qA3KsH0Spgym20DXp5ZLn6zE2KOuqUTNMVA/edit#slide=id.gc846ffc89f_2_32--->

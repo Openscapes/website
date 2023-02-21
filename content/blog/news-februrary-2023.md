@@ -1,7 +1,7 @@
 ---
 title: "Openscapes Newsletter #6: Winter 2023"
 author: Julie Lowndes and Stefanie Butland
-date: '2022-03-21'
+date: '2022-02-21'
 slug: news-winter-2023
 categories:
   - community

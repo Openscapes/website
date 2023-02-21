@@ -9,7 +9,7 @@ tags:
   - newsletter
   - nasa-framework
   - noaa-fisheries
-banner: img/blog/ocean-square.jpg
+banner: img/blog/mrlowndes_carrizo_plain.png
 ---
 
 ## **Openscapes Newsletter #6: Winter 2023**
@@ -56,8 +56,8 @@ We've got big problems like climate change, social justice, democracy, and the o
 
 -   Nominations open for our 2023 [NASA Champions Cohort](https://nasa-openscapes.github.io/champions) that will run April - June.
 
--   In June we'll launch a brand new program! Openscapes Reflections will be a light-weight, friendly, low-pressure way to help individuals and teams reflect and onboard to open, collaborative, inclusive workflows ~~with Openscapes~~. The format borrows from professional leadership coaching. It is primarily asynchronous but with accountability and community support through recordings and optional coworking via zoom. We'll add registration information to openscapes.org/reflections.
+-   In June we'll launch a brand new program, **Openscapes Reflections**! This will be a 3-week program, modeled after leadership coaching in a mostly self-paced format. It will offer structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
 
 In 2023, **we're committed to being braver** in connecting the impact of our work to the environment and the climate movement; to culture and mindset change for individuals, for teams, and for institutions; and as always, to kinder science.
 
-<br> <img src="/img/blog/ocean-square.jpg" width="300px"> <br>
+<br> <img src="/img/blog/mrlowndes_carrizo_plain.png" width="300px"> <br>

@@ -28,9 +28,9 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 -   [NOAA Fisheries Mentors](https://nmfs-openscapes.github.io/mentors.html) supported their colleagues through six Champions Cohorts. Read about the experiences and impacts of Fall 2022 Openscapes training [nationwide](https://openscapes.org/blog/2023/01/24/2022-noaa-nmfs-fall/), with additional posts from NOAA Fisheries [Alaska](https://openscapes.org/blog/2023/02/16/2022-noaa-afsc-fall/), and [Southwest](https://openscapes.org/blog/2022/12/09/case-study-swfsc-sael/), Summer [Southeast](https://openscapes.org/blog/2022/09/30/2022-sefsc-summer/), and Winter [Alaska](https://openscapes.org/blog/2022/04/07/afsc-supportive-forum/) Fisheries Science Centers. Additional resources include the [NMFS Openscapes](https://nmfs-openscapes.github.io/) site and [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/).
 
--   [CalEPA Mentors](https://cawaterboarddatacenter.github.io/swrcb-openscapes/contact.html) forked the Champions program and co-led the first Cohort for the California Water Boards ([blog post](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/)) and fully documented it in a Quarto book, [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/).
+-   [Califorina Water Boards / CalEPA Mentors](https://cawaterboarddatacenter.github.io/swrcb-openscapes/contact.html) forked the Champions program and co-led the first Cohort for the California Water Boards ([blog post](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/)) and fully documented it in a Quarto book, [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/).
 
--   240 Champions "graduated"! Their work and energy has been awesome! It's so wonderful to see teams of Champions come back to guest-teach their peers and share their ongoing journeys toward more open kinder science.
+-   240 Champions particpated in Openscapes this year; their work and energy has been awesome! It's so wonderful to see teams of Champions come back to guest-teach their peers and share their ongoing journeys toward more open kinder science. See their stories above with NOAA Fisheries and CalEPA.
 
 -   Ileana Fenwick and Stefanie Butland joined the Openscapes team ([tweet](https://twitter.com/openscapes/status/1534951248369025031))! They both do incredibly valuable work and we are so grateful to work together.
 
@@ -54,10 +54,10 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 **Coming up**
 
--   Nominations open for our 2023 [NASA Champions Cohort](https://nasa-openscapes.github.io/champions) that will run April - June. Please spread the word for teams using NASA Earthdata and interested in migrating workflows to the Cloud.
+-   Nominations open for our 2023 [**NASA Champions Cohort**](https://nasa-openscapes.github.io/champions) that will run April - June. Please spread the word for teams using NASA Earthdata and interested in migrating workflows to the Cloud.
 
 -   In June we'll launch a brand new program, **Openscapes Reflections**! This will be a 3-week program, modeled after leadership coaching in a mostly self-paced format. It will offer structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
 
-Thanks for reading, and here's to kinder science and the year of open science!
+Thanks for reading, and here's to kinder science and the Year of Open Science 2023!
 
 <br> <img src="/img/blog/sb_paradise_road.png" width="300px"> <br>

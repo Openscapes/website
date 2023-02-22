@@ -18,7 +18,7 @@ banner: img/blog/mrlowndes_carrizo_plain.png
 
 ------------------------------------------------------------------------
 
-Let's come back to the core of what we do: we engage, empower, and amplify. We connect and elevate, whether that is on tech like Quarto and JupyterHubs or communities like R-Ladies, Ladies of Landsat, Black in Marine Science, and NASA Earthdata. This isn't about "getting" people to do open science, it's about welcoming folks to better ways of working, keeping kindness always at the forefront.
+Hello! As we continue into 2023, we at Openscapes continue to come back to the core of what we do: we engage, empower, and amplify. Whether it is with tech like Quarto and JupyterHubs or communities like R-Ladies, Ladies of Landsat, Black in Marine Science, and NASA Earthdata, it's about welcoming folks to better ways of working and open science.
 
 We've got big problems like climate change, social justice, democracy, and the ongoing pandemic, and folks feel stuck on the "little" problems of copy-pasting, and moving files around.
 

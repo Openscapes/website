@@ -58,6 +58,6 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 -   In June we'll launch a brand new program, **Openscapes Reflections**! This will be a 3-week program, modeled after leadership coaching in a mostly self-paced format. It will offer structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
 
-In 2023, **we're committed to being braver** in connecting the impact of our work to the environment and the climate movement; to culture and mindset change for individuals, for teams, and for institutions; and as always, to kinder science.
+Thanks for reading, and here's to kinder science and the year of open science!
 
 <br> <img src="/img/blog/mrlowndes_carrizo_plain.png" width="300px"> <br>

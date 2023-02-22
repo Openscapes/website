@@ -9,7 +9,7 @@ tags:
   - newsletter
   - nasa-framework
   - noaa-fisheries
-banner: img/blog/mrlowndes_carrizo_plain.png
+banner: img/blog/sb_paradise_road.png
 ---
 
 ## **Openscapes Newsletter #6: Winter 2023**
@@ -60,4 +60,4 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 Thanks for reading, and here's to kinder science and the year of open science!
 
-<br> <img src="/img/blog/mrlowndes_carrizo_plain.png" width="300px"> <br>
+<br> <img src="/img/blog/sb_paradise_road.png" width="300px"> <br>

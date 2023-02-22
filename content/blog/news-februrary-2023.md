@@ -56,6 +56,8 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 -   Nominations open for our 2023 [**NASA Champions Cohort**](https://nasa-openscapes.github.io/champions) that will run April - June. Please spread the word for teams using NASA Earthdata and interested in migrating workflows to the Cloud.
 
+- **Community Calls** with Ileana Fenwick, Aneese Williams and Alex Davis about their experiences leading the Pathways to Open Science program, and with Sean Kross describing the workflow creating `kyber`.
+
 -   In June we'll launch a brand new program, **Openscapes Reflections**! This will be a 3-week program, modeled after leadership coaching in a mostly self-paced format. It will offer structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
 
 Thanks for reading, and here's to kinder science and the Year of Open Science 2023!

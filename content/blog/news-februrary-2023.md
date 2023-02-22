@@ -20,7 +20,7 @@ banner: img/blog/mrlowndes_carrizo_plain.png
 
 Hello! As we continue into 2023, we at Openscapes continue to come back to the core of what we do: we engage, empower, and amplify. Whether it is with tech like Quarto and JupyterHubs or communities like R-Ladies, Ladies of Landsat, Black in Marine Science, and NASA Earthdata, it's about welcoming folks to better ways of working and open science.
 
-We've got big problems like climate change, social justice, democracy, and the ongoing pandemic, and folks feel stuck on the "little" problems of copy-pasting, and moving files around.
+In 2023, we're committed to being braver in connecting the impact of our work to the environment and the climate movement; to culture and mindset change for individuals, for teams, and for institutions; and as always, to kinder science.
 
 **In the last year**, what emerged was a clear sense of movement building towards better science for future us. The Openscapes community grew as Champions and Mentors prioritized time for learning, sharing, teaching with each other, and also advocated for themselves and their colleagues to have time to do so.
 

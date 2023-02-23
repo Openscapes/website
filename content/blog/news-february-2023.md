@@ -30,7 +30,7 @@ In 2023, we're committed to being braver in connecting the impact of our work to
 
 -   [California Water Boards / CalEPA Mentors](https://cawaterboarddatacenter.github.io/swrcb-openscapes/contact.html) forked the Champions program and co-led the first Cohort for the California Water Boards ([blog post](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/)) and fully documented it in a Quarto book, [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/).
 
--   240 Champions participated in Openscapes this year; their work and energy has been awesome! It's so wonderful to see teams of Champions come back to guest-teach their peers and share their ongoing journeys toward more open kinder science. See their stories above with NOAA Fisheries and CalEPA.
+-   240 Champions participated in Openscapes this year; their work and energy has been awesome! It's so wonderful to see teams of Champions come back to guest-teach their peers and share their ongoing journeys toward more open, kinder science. See their stories above with NOAA Fisheries and CalEPA.
 
 -   Ileana Fenwick and Stefanie Butland joined the Openscapes team ([tweet](https://twitter.com/openscapes/status/1534951248369025031))! They both do incredibly valuable work and we are so grateful to work together.
 

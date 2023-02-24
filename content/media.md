@@ -7,6 +7,8 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## PUBLICATIONS
 
+- Erin Robinson & Julia Stewart Lowndes. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/), preprint, 2022
+
 - Abigail Cabunoc Mayes, Chad Sansing, Julia Lowndes. [3 lessons from remote meetings we're taking back to the office](https://opensource.com/article/20/6/remote-meetings). *Open Source Way*, 2020
 
 - Julia S. Stewart Lowndes. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). *Scientific  American*, 2019

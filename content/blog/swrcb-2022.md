@@ -17,7 +17,7 @@ banner: /img/blog/Openscapes_SWAMPCohort_Timeline_20220526_520x520.png
 
 ***Addition February 2023:***
 
-- *[SWRCB-Openscapes Book](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) book: Education and mentorship in open science at the California State Water Resources Control Board*
+- *[SWRCB-Openscapes Book](https://cawaterboarddatacenter.github.io/swrcb-openscapes/): Education and mentorship in open science at the California State Water Resources Control Board*
 
 ------------------------------------------------------------------------
 

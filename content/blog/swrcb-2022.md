@@ -15,6 +15,10 @@ banner: /img/blog/Openscapes_SWAMPCohort_Timeline_20220526_520x520.png
 
 *This blog post is authored by Corey Clatterbuck and Anna Holder from the California Water Boards Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)). Here, we describe why we led a Champions Program Cohort at the California Water Boards and how we did it, including details about our process, outcomes, what we learned, and what's coming next. See [openscapes.org/champions](https://openscapes.org/champions) for more background on the Champions program.*
 
+***Addition February 2023:***
+
+- [SWRCB-Openscapes Book](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) book: Education and mentorship in open science at the California State Water Resources Control Board
+
 ------------------------------------------------------------------------
 
 ### Intro to the OIMA | Openscapes Partnership

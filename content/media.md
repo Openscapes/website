@@ -93,6 +93,8 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 <br>
 
+- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing) - March 8, 2023 - Julie Lowndes. [Women in Data Science Conference](widsconference.org/), Stanford University (15 minutes)
+
 - [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit?usp=sharing) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes' 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) ([video](https://www.youtube.com/watch?v=unjQxQPfnqM)) 
 
 - [Supporting open science as a daily practice](https://docs.google.com/presentation/d/19OoPaUVVOA6AFLLd9mYeiM8f1BNNnoAjJCP4RD6Ahe8/edit?usp=sharing)  - December 16, 2022 - Julie Lowndes, Erin Robinson, Openscapes Mentors. AGU Fall Conference Talk, NASA TOPS [The Future is Open](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161588) session

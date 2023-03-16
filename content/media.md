@@ -43,6 +43,10 @@ https://twitter.com/WeAreRLadies/status/1204488583299526656
 
 ## MEDIA
 
+- [Using the NASA Openscapes Framework to enable open science](https://nsidc.org/news-analyses/news-stories/using-nasa-openscapes-framework-enable-open-science) - Audrey Payne. March 16, 2023. *NASA's National Snow and Ice Data Center*
+
+- [Open Science, Openscapes, Climate Action, and Kindness](https://open.spotify.com/episode/5VxMtPXeV6geWlFOoQf5j7) — Schalk Neethling. March 8, 2023. *Mechanical Ink Podcast*
+
 - [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/openscapes) — Emily Cassidy. March 24, 2021. *NASA Earth Data*.
 
 <!---https://twitter.com/NASAEarthData/status/1374761368214196233
@@ -57,7 +61,9 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 - [Tech tools to make research more open and inclusive](https://www.nature.com/articles/d41586-020-00216-z) — Kendall Powell. February 3, 2020. *Nature*.
 
+<!--- 
 - [The coupling of innovation and open data science tools for science has been fascinating to me and hard to tease apart: An interview with Dr Julia Stewart Lowndes](https://www.statisticsviews.com/details/feature/11216365/The-coupling-of-innovation-and-open-data-science-tools-for-science-has-been-fasc.html) — Alison Oliver. January 29, 2020. *Statistics Views*.
+--->
 
 - [Open Science and 'Star Wars'](https://medium.com/read-write-participate/open-science-and-star-wars-2577b8081e8f) - Mozilla. July 11, 2019. *Medium.*
 
@@ -92,6 +98,9 @@ https://twitter.com/mozilla/status/1375101206943703047
 *See [NASA-Openscapes](https://nasa-openscapes.github.io) and [NMFS-Openscapes](https://nmfs-openscapes.github.io) for many additional presentations from NASA and NOAA Fisheries Mentors!*
 
 <br>
+
+- [Communicating Impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit?usp=sharing) - March 22, 2023 - Julie Lowndes, Erin Robinson, Justin Rice. NASA ESDSWG Meeting, Baltimore, Maryland (15 minutes)
+
 
 - [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing) - March 8, 2023 - Julie Lowndes. [Women in Data Science Conference](widsconference.org/), Stanford University (15 minutes)
 

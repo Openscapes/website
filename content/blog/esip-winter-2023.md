@@ -108,4 +108,4 @@ One of the most inspiring aspects of this panel was the mutual recognition of co
 
 **Adyan Rios** is a research ecologist at NOAA Fisheries, in the Caribbean Fisheries Branch of the Sustainable Fisheries Division at the Southeast Fisheries Science Center (SEFSC). Adyan participated in Openscapes in Fall 2021 and became an organizer and mentor in 2022; co-leading Summer and 4 Fall Cohorts with NOAA Fisheries.
 
-<br> <img src="/img/blog/esip-2023-speakers.png" alt="headshots of 6 speakers around Openscapes hex logo"> <figcaption>ESIP 2023 panelists</figcaption> <br>
+<br> <img src="/img/blog/esip-2023-speakers.png" alt="headshots of 6 speakers around Openscapes hex logo" width="750px"> <figcaption>ESIP 2023 panelists</figcaption> <br>

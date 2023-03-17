@@ -102,7 +102,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 - [Communicating Impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit?usp=sharing) - March 22, 2023 - Julie Lowndes, Erin Robinson, Justin Rice. NASA ESDSWG Meeting, Baltimore, Maryland (15 minutes)
 
 
-- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing) - March 8, 2023 - Julie Lowndes. [Women in Data Science Conference](widsconference.org/), Stanford University (15 minutes)
+- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1CkhsAB9SZrfa5ARvm7b0B48xlPWuOHioqlsa5jqD92A/edit?usp=sharing) - March 8, 2023 - Julie Lowndes. [Women in Data Science Conference](widsconference.org/), Stanford University ([conference video, 6h30](https://livestream.com/accounts/1973198/events/10788211/videos/235353485)) (15 minutes)
 
 - [Openscapes: supporting better science for future us](https://docs.google.com/presentation/d/1uKtVnZR8X94tADAWEE1THHKCbvfBbg2PBcH8asaoJQQ/edit?usp=sharing) - January 11, 2023 - Julie Lowndes. [Best Practices for HPC Software Developers Webinar Series](https://www.exascaleproject.org/event/openscapes/) hosted by The IDEAS Productivity project, in partnership with the Department of Energy Computing Facilities of the ALCF, OLCF, and NERSC, and the DOE Exascale Computing Project (ECP). This talk is part of Lowndes' 2022 [NSF Better Scientific Software (BSSw) fellowship](https://bssw.io/pages/meet-our-fellows) ([video](https://www.youtube.com/watch?v=unjQxQPfnqM)) 
 

@@ -68,6 +68,7 @@ Erin Robinson opened the session saying that solutions to large-scale environmen
 Reflecting as a Mentor at NOAA Fisheries supporting [6 Openscapes cohorts (240 staff) in 2022](https://www.openscapes.org/tags/noaa-fisheries/), Josh London said that "collaboration is something we're never taught." Individuality is instilled in grad school and we never have a chance to change this through "business as usual." We need the space and place to relearn. Don't spend your time trying to solve things yourself. Learn together first! It's ok to ask for help early. Adyan Rios is also a NOAA Fisheries Mentor, who is helping develop a learning culture at the Southeast Fisheries Science Center through leading "Surf Sessions" where colleagues cowork remotely and share what they know. Adyan echoed this need for radical collaboration, saying that it's radical because it means being vulnerable. It means people sharing things they haven't figured out yet, while they're still messy. Or share a cool thing you learned, like a keyboard shortcut. If you just learned it, chances are someone in your community didn't know it yet either. Sharing makes their day a little better and make their work more efficient. This harkens back to Cassie creating cheatsheets to share what she figured out to help others.
 
 > Team collaboration is not something that we've all learned from the beginning. In grad school it's instilled in us this idea that anything meaningful that we do in science is supposed to be done by us as individuals. Josh London
+<br>
 
 > This mindset and practice \[of learning **together** first\] has been revolutionary for us at NOAA. Adyan Rios
 
@@ -107,4 +108,4 @@ One of the most inspiring aspects of this panel was the mutual recognition of co
 
 **Adyan Rios** is a research ecologist at NOAA Fisheries, in the Caribbean Fisheries Branch of the Sustainable Fisheries Division at the Southeast Fisheries Science Center (SEFSC). Adyan participated in Openscapes in Fall 2021 and became an organizer and mentor in 2022; co-leading Summer and 4 Fall Cohorts with NOAA Fisheries.
 
-<br> <img src="/img/blog/esip-2023-speakers-square.png" alt="headshots of 6 speakers around Openscapes hex logo" width="350px"> <figcaption>"ESIP 2023 panelists</figcaption> <br>
+<br> <img src="/img/blog/esip-2023-speakers.png" alt="headshots of 6 speakers around Openscapes hex logo" width="350px"> <figcaption>ESIP 2023 panelists</figcaption> <br>

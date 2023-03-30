@@ -8,8 +8,12 @@ Openscapes is about engaging, empowering, and amplifying each other as we increa
 
 ## Our current projects
 
-- [**NASA Openscapes Framework**](https://nasa-openscapes.github.io) — We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
 - [**Openscapes Champions Cohorts**](https://openscapes.org/champions) — We aim to lead Champions Cohorts each year while also developing Mentors who can lead Cohorts for their own communities as part of their jobs
+- [**NASA Openscapes Framework**](https://nasa-openscapes.github.io) — We support researchers using NASA Earthdata served from the Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud
+- [**NOAA Fisheries Openscapes**](https://nmfs-openscapes.github.io) — We have supported 10 Champions Cohorts with NOAA Fisheries (National Marine Fisheries Service NMFS) and a growing Mentor community
+- [**California Water Boards Openscapes**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) — The California Water Boards / CalEPA forked the Champions program and have led it internally and are part of our Mentor Community
+- [**Pathways to Open Science**](https://openscapes.github.io/pathways-to-open-science/) — We support Black environmental & marine researchers building community for the future of data intensive science. This program is led by Ileana Fenwick of Openscapes in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/).
+
 
 <!---
 We welcome you to engage however best works for you! We are @openscapes on [Twitter](https://twitter.com/openscapes), [Medium](https://medium.com/@openscapes), and [Github](https://github.com/openscapes).** 

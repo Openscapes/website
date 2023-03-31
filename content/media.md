@@ -99,7 +99,7 @@ https://twitter.com/mozilla/status/1375101206943703047
 
 <br>
 
-- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1WzNaQWVBTLSq4IX0GkvGlQWbDJ4isVpSvGnjb_rdEKU/edit#slide=id.g21f3e4cd791_0_2240) - March 31, 2023 — Julie Lowndes, Ileana Fenwick. [Univ. Toronto Mississauga Biology Seminar Series](https://www.utm.utoronto.ca/biology/biology-seminar-series) (45 minutes)
+- [Openscapes: supporting kinder science for future us](https://docs.google.com/presentation/d/1WzNaQWVBTLSq4IX0GkvGlQWbDJ4isVpSvGnjb_rdEKU/edit?usp=sharing) - March 31, 2023 — Julie Lowndes, Ileana Fenwick. [Univ. Toronto Mississauga Biology Seminar Series](https://www.utm.utoronto.ca/biology/biology-seminar-series) (45 minutes)
 
 - [Communicating Impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit?usp=sharing) - March 22, 2023 - Julie Lowndes, Erin Robinson, Justin Rice. NASA ESDSWG Meeting, Baltimore, Maryland (15 minutes)
 

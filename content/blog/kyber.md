@@ -7,7 +7,7 @@ categories:
   - community
 tags:
   - community-call
-banner: img/blog/IMAGE.png
+banner: img/blog/kyber-design-square.png
 ---
 
 ## **How the Kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education**
@@ -34,11 +34,9 @@ Watch the [video (starting at 44:30)](https://youtu.be/K99uqIlhI9s?t=2670) of Ju
 
 ## **What was the motivation for Kyber?**
 
-<br> <center> <a><img src="/img/blog/airbnb-work.jpg" width="700px" alt="6 smiling people sit at a round table with their laptops open. Window in background"></a> </center> <br><figcaption>Sean Kross joined the Openscapes summit</figcaption><br>
+<br> <center> <a><img src="/img/blog/airbnb-work.jpg" width="700px" alt="6 smiling people sit at a round table with their laptops open. Window in background"></a> </center> <br><figcaption>Sean Kross joined our 2019 [summit](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/) with the inaugural Openscapes Champions</figcaption><br>
 
-Sean Kross assisted our 2019 Inaugural Openscapes Champions Cohort, learning from and supporting 7 academic marine science research teams. Photo from our [summit](https://www.openscapes.org/blog/2019/04/25/summit-reflections2/).
-
-Sean was deeply involved with the [inaugural](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/) Champions Cohort at Openscapes in 2019 and was privy to the manual creation of the infrastructure to make it happen. Sharing that curriculum with more groups would require repetition so:
+Sean Kross assisted our 2019 Inaugural Openscapes Champions Cohort, learning from and supporting 7 academic marine science research teams. He was deeply involved with the [inaugural](https://www.openscapes.org/blog/2019/06/12/wins-cohort1/) Champions Cohort at Openscapes in 2019 and was privy to the manual creation of the infrastructure to make it happen. Sharing that curriculum with more groups would require repetition so:
 
 1.  Openscapes already makes heavy use of Google Drive and GitHub, how can we use R to bring both together?
 

@@ -7,7 +7,7 @@ slug: "2022-sefsc-summer"
 categories:
  - community
  - champions
-tag:
+tags:
  - impact
  - noaa-fisheries 
 banner: img/blog/sefsc-fates-commsplan-square.png

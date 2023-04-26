@@ -12,7 +12,7 @@ banner: img/blog/PathwaysToOpenScience_GroupZoom_square_2023_01_26.png
 
 *Welcome to Pathways to Open Science, a remote event series for Black environmental & marine researchers to build community for the future of data intensive science! What you will read here includes numbers and facts we've reported to our gracious funders, but more than anything we provided an inclusive onramp for open science in an intentional way that will continue to inspire more equitable open science programming moving forward. The Pathways team is so excited to report that this series provided tangible skills that will accelerate the science of incredible Black researchers across the globe (we even had international participants!). While difficult to capture with numbers, the community, hope, and excitement within this space was invaluable. This program was a true labor of love for us as organizers who have often felt the burden of being one of few or the only Black researcher in the room. It is also a powerful testament to the powerful allyship of our organizers and funders in centering Black leadership in efforts to successfully serve our community as demonstrated here. It was an honor to create this space with our team and spearhead this effort, and we look forward to improving our approach to build even more community in the years to come.*
 
-*The following is our final report to our funder CS&S and CZI. We are so grateful for their support!*
+*The following is our final report to our funder [Code for Science and Society\'s Event Fund](https://www.codeforsociety.org/eventfund) and [CZI](https://chanzuckerberg.com/science/). We are so grateful for their support!*
 
 *Ileana Fenwick ♥️*
 
@@ -61,7 +61,7 @@ Our first Community Call in the series had over [80 participants](https://twitte
 
 Many folks from coworking attended all six events, and the connections are big and long-lasting. For example, one participant Aliyah shared her experiences learning R and Python in a small Coworking conversation with Dr. Farina from Howard University, a Historically Black College and University. Dr. Farina learned from Aliyah's experience and plans to incorporate into her courses for undergraduates. Further, Aliyah is participating in a GIS class in France this summer, and Dr. Farina will share that opportunity with her students as well. This is one example of why we celebrate these connections, because their impact moves beyond the current programming and will expose students who were not present to opportunities and resources that otherwise would not have been shared with their professors.
 
-We are interested in measuring impact not only by big numbers, remembering that Ileana Fenwick is an "n of 1" who has had an outside influence. Ileana participated in an Openscapes event in 2021 funded by CS&S Event Fund, and is a powerful example of empowering folks to build community. This also aligns with "slowing down to speed up", which we see again and again through Openscapes. "Small numbers are important" - Dr. Yvette Pearson, UT Dallas [TOPS Supporting DEI in Open Science panel](https://www.linkedin.com/posts/aaas-sea-change_openscience-activity-7038923780311678976-S2cp/).
+We are interested in measuring impact not only by big numbers, remembering that Ileana Fenwick is an "n of 1" who has had an outsized influence. Ileana participated in an Openscapes event in 2021 funded by CS&S Event Fund, and is a powerful example of empowering folks to build community. This also aligns with "slowing down to speed up", which we see again and again through Openscapes. "Small numbers are important" - Dr. Yvette Pearson, UT Dallas [TOPS Supporting DEI in Open Science panel](https://www.linkedin.com/posts/aaas-sea-change_openscience-activity-7038923780311678976-S2cp/).
 
 #### **How were attendees and speakers / presenters recruited?**
 
@@ -86,7 +86,7 @@ This 6-part remote event series runs on Thursdays, January 26 - March 2. Event f
 -   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions.
     -   February 2, 16, March 2 from 5:00 to 6:00 pm EST
 
-### January 26: What is open science anyway? What can it mean for you?
+#### January 26: What is open science anyway? What can it mean for you?
 
 Learn all about open science and data organization skills that will save you time and energy!
 
@@ -98,7 +98,7 @@ Speakers:
 
 <br> <center><a><img src="/img/blog/PathwaysToOpenScience_GroupZoom_2023_01_26.png" width="600px" alt="Zoom screenshot of smiling faces of Black people in a 5 by 6 grid. Some are waving"></a><figcaption>Zoom participants in our kickoff Community Call including co-organizers Ileana Fenwick, Alex Davis, And Aneese Williams</figcaption> </center> <br>
 
-### February 9: Building our skills for a better tomorrow
+#### February 9: Building our skills for a better tomorrow
 
 Hear from experts about building community and your data science toolkit for more efficient research!
 
@@ -110,7 +110,7 @@ Speakers:
 
 <br> <center><a><img src="/img/blog/PathwaysToOpenScience_GroupZoom_2023_02_09.png" width="600px" alt="Zoom screenshot of smiling faces of Black people in a 3 by 4 grid. Some are giving thumbs up."></a><figcaption>Zoom participants in our 2nd Community Call including speakers LaTreese Denson, De'Marcus Robinson, and Jason Williams</figcaption> </center> <br>
 
-### February 23: Data Science is for US
+#### February 23: Data Science is for US
 
 Join the conversation! Hear all about our journeys into data science and building community for innovation.
 
@@ -132,7 +132,7 @@ One of the most frequent comments from participants and speakers has been how wo
 
 #### **What steps have you taken to build or sustain the community after the event?**
 
-Challenge: aftercare of the community. We have a private Slack channel for participants inside our larger Slack for participants of all Openscapes programs. People were keen to join. There are currently 21 members including (Stefanie Butland and Julie Lowndes as of April 25, 2023). However, it is quiet there. Ileana has been posting a Thursday Tip each week since the event series ended, but without much engagement in this channel or in the broader Openscapes Slack. It will take development of an intentional approach to foster communication and community building here.
+Challenge: aftercare of the community. We have a private Slack channel for participants inside our larger Slack for participants of all Openscapes programs. People were keen to join. There are currently 21 members including Stefanie Butland and Julie Lowndes (as of April 25, 2023). However, it is quiet there. Ileana has been posting a Thursday Tip each week since the event series ended, but without much engagement in this channel or in the broader Openscapes Slack. It will take development of an intentional approach to foster communication and community building here.
 
 Alex Davis and Aneese Williams have joined the broader Openscapes Mentors community, where Ileana, Stefanie and Julie have already been active. From January-May through our bi-weekly meetings we are learning coaching skills with Tara Robertson, a DEI consultant and leadership coach who has [worked with Openscapes since 2021](https://www.openscapes.org/blog/2021/05/27/tara-robertson/), initially through a CS&S Event Fund grant (for the Openscapes event series where Ileana first participated!). We are learning valuable coaching skills - how to ask open-ended questions, how to listen - that make us better equipped as mentors, teachers, and leaders. When listening as a coach, we're trying to help the other person define their problem and find their solution, outside of our expertise. This is different from mentoring, when we do have an answer within our expertise. Developing these coach listening skills, what questions to ask, and when to use mentoring vs coaching skills, is the focus of our sessions; we are practicing coaching skills together to tackle common challenges and skill-build together.
 
@@ -154,11 +154,11 @@ Perhaps shared resources like Zoom? We capped registration at 150 folks for the 
 
 #### **What was your process for developing and implementing your code of conduct/guidelines for community participation?**
 
-The Openscapes Code of Conduct is heavily drawn from[rOpenSci](https://ropensci.org/code-of-conduct/) and[Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area (see Mozilla's[inclusion repo](https://github.com/mozilla/inclusion). Additional resources influencing this document include[RStudio](https://rstudio.com/about/what-makes-rstudio-different/),[Open Post Academics](https://openpostac.org/), and the groups described in[open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Please also see the value and ethics statements from[Ben Marwick's lab](http://faculty.washington.edu/bmarwick/values_and_ethics/) as well as other inspiring examples from[EpiEllie's twitter thread](https://twitter.com/EpiEllie/status/1268729159762747394) and[the coop at Fred Hutch](https://fredhutch.github.io/coop/community/coop-values/).
+The Openscapes Code of Conduct is heavily drawn from [rOpenSci](https://ropensci.org/code-of-conduct/) and [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), who we greatly appreciate for their leadership in this area (see Mozilla's [inclusion repo](https://github.com/mozilla/inclusion)). Additional resources influencing this document include [RStudio](https://rstudio.com/about/what-makes-rstudio-different/), [Open Post Academics](https://openpostac.org/), and the groups described in [Open Software Means Kinder Science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/). Please also see the value and ethics statements from [Ben Marwick's lab](http://faculty.washington.edu/bmarwick/values_and_ethics/) as well as other inspiring examples from [EpiEllie's twitter thread](https://twitter.com/EpiEllie/status/1268729159762747394) and [the Coop at Fred Hutch](https://fredhutch.github.io/coop/community/coop-values/).
 
 #### **Link to the final code of conduct/guidelines for community participation used for your event:**
 
-<https://www.openscapes.org/code-of-conduct/>  
+<https://www.openscapes.org/code-of-conduct/>
 
 #### **What products (e.g. recordings, papers, software) were created as a result of the event? Please provide links.**
 
@@ -182,7 +182,7 @@ Yes, along with a short survey specific to our audience.
 
 Thank you to the Event Fund and CZI for making this possible! This was really joyful to design and lead. We've all learned a lot along the way -- whether that is engagement and "examining the cracks", to open facilitation strategies, using Slack and Google Drive, to the acronym PWI (predominantly white institutions). Further, the impact we've seen is really profound. Here are a few pieces of shared joy:
 
-### Testimonials
+#### Testimonials
 
 Feb 1after - event 1 of 6
 

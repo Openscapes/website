@@ -75,7 +75,7 @@ Our goals stayed the same; we are very happy to have met our original goals. The
 
 <br> <center><a><img src="/img/blog/PathwaysToOpenScience_Mentimeter_2023_01_26.png" width="600px" alt="Word cloud of sentiments shared by participants in response to 'Describe how you feel about (starting) your open science journey!' include nervous, excited, hopeful, open, encouraged."></a><figcaption> Word cloud of sentiments shared by participants in response to "Describe how you feel about (starting) your open science journey!"</figcaption> </center> <br>
 
-<br> <center><a><img src="/img/blog/PathwaysToOpenScience_GroupZoom_2023_01_26.png" width="600px" alt="Zoom screenshot with caption at left 'Fact: I don't know how to do this <ins>yet</ins>; at right are video images of the 3 co-organizers. Some are waving"></a><figcaption>Learning the power of yet, "Fact: I don't know how to do this yet"</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/PathwaysToOpenScience_power-of-yet-ileana1.png" width="600px" alt="Zoom screenshot with caption at left. At right are video images of the 3 co-organizers."></a><figcaption>Learning the power of yet. Fact: I don't know how to do this yet</figcaption> </center> <br>
 
 #### **Provide a brief description of the activities / schedule.**
 

@@ -40,3 +40,5 @@ This is our flagship program that we first led in 2019. We partner with groups t
 We began developing the Mentors Framework in 2021 in partnership with NASA.
 
 [NASA Openscapes](https://nasa-openscapes.github.io/) • [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io) • [California Water Boards Openscapes](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)
+
+<br>

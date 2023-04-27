@@ -25,9 +25,9 @@ paginate = 10
     weight = 1  
 
 [[menu.main]]
-    name = "Champions Program"
-    identifier = "champions"
-    url  = "/champions/"
+    name = "Initiatives"
+    identifier = "initiatives"
+    url  = "/initiatives/"
     weight = 2    
 
 [[menu.main]]

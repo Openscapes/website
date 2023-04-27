@@ -16,6 +16,8 @@ We launched this program in 2023 and plan to lead it annually in May!
 
 [Webpage & Booklet](https://openscapes.github.io/booklet/)
 
+<br>
+
 ## Pathways to Open Science Program
 
 **Pathways to Open Science** **is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science.** It is led by Ileana Fenwick of [Openscapes](https://openscapes.org/) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/),
@@ -23,6 +25,8 @@ We launched this program in 2023 and plan to lead it annually in May!
 We launched this program in 2023 and plan to lead it annually in January-March.
 
 [Webpage & Resources](https://openscapes.github.io/pathways-to-open-science/) • [Blog post](https://www.openscapes.org/blog/2023/04/26/pathways-report/)
+
+<br>
 
 ## Champions Program
 
@@ -32,6 +36,8 @@ communities. We work with academic, government, and non-profit research teams wh
 This is our flagship program that we first led in 2019. We partner with groups to coordinate cohorts of ~7 research teams.
 
 [Webpage](https://www.openscapes.org/champions/) • [Lesson Series](https://openscapes.github.io/series/) • [Blog posts](https://www.openscapes.org/categories/champions/)
+
+<br>
 
 ## Mentors Framework
 

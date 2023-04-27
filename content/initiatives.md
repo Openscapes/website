@@ -43,7 +43,7 @@ This is our flagship program that we first led in 2019. We partner with groups t
 
 **The Mentors Framework is a multi-year engine for culture change within organizations.** It is a creative approach developed with [Erin Robinson](https://erinrobinson.info/) that blends tech and community building; it\'s remote-first and draws inspiration and skills from many places including mentoring, coaching, facilitating, art, feminism, open source, environment, inclusion, and leaders we admire.
 
-We began developing the Mentors Framework in 2021 in partnership with NASA.
+We began developing the Mentors Framework in 2021 in partnership with NASA. We have also been informally growing the Mentors Framework with NOAA Fisheries and the California Water Boards and excited to expand what we are learning with other groups.  
 
 [NASA Openscapes](https://nasa-openscapes.github.io/) • [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io) • [California Water Boards Openscapes](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)
 

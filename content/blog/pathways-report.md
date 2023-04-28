@@ -198,4 +198,6 @@ Feb 3 - A message about Pathways coworking
 
 Our planning team meetings were very joyful! We had regular coworking meetings to get things done together. Here is a peek at our ongoing meeting doc: 
 
-<br> <center><a><img src="/img/blog/pathways_to_open_science_meetings_screenshot.png" width="500px" alt="A screenshot of the table of contents from a google sheet: there are over 20 dates from November 2022 through March 2023"></a><figcaption>Screenshot of our planning team's coworking Google Doc</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/pathways_to_open_science_meetings_screenshot.png" width="200px" alt="A screenshot of the table of contents from a google sheet: there are over 20 dates from November 2022 through March 2023"></a><figcaption>Screenshot of our planning team's coworking Google Doc</figcaption> </center> <br>
+
+<br>

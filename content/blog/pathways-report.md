@@ -184,7 +184,7 @@ Thank you to the Event Fund and CZI for making this possible! This was really jo
 
 #### Testimonials
 
-Feb 1after - event 1 of 6
+Feb 1 - after event 1 of 6
 
 > Another impact from Pathways!! Our Howard professor reached out saying she has a freshman biology student who is now interested in fisheries and asked about internships for this summer
 
@@ -193,3 +193,9 @@ Feb 1after - event 1 of 6
 Feb 3 - A message about Pathways coworking
 
 > I desperately need to just sit down and tackle this daunting task so it was good accountability plus it gave me some possible alternatives that might be quicker!" I am so happy that coworking created space for this!!!
+
+#### Parting thought
+
+Our planning team meetings were very joyful! We had regular coworking meetings to get things done together. Here is a peek at our ongoing meeting doc: 
+
+<br> <center><a><img src="/img/blog/pathways_to_open_science_meetings_screenshot.png" width="500px" alt="A screenshot of the table of contents from a google sheet: there are over 20 dates from November 2022 through March 2023"></a><figcaption>Screenshot of our planning team's coworking Google Doc</figcaption> </center> <br>

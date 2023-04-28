@@ -6,7 +6,7 @@ keywords = ["inclusion","movement","questions","what if"]
 
 All of our initiatives are remote-by-design. Welcome! 
 
-<br> <center><a><img src="/img/horst-openscapes-mentors.png" width="500px" alt="digital illustration of four friendly animals wearing purple baseball caps with an orange hexagon: a lizard waving, a fox with a banner that says "welcome", a hedgehog handing out maps, a beaver offering a rock."></a></center> <br>
+<br> <center><a><img src="/img/horst-openscapes-mentors.jpg" width="500px" alt="digital illustration of four friendly animals wearing purple baseball caps with an orange hexagon: a lizard waving, a fox with a banner that says "welcome", a hedgehog handing out maps, a beaver offering a rock."></a></center> <br>
 
 <br>
 

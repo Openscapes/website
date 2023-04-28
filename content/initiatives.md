@@ -12,7 +12,7 @@ All of our initiatives are remote-by-design. Welcome!
 
 ## Reflections Program
 
-**Openscapes Reflections is an open data science coaching program for researchers and those who support research.** We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We\'ve designed the Reflections Program to meet this need; Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach.
+**Openscapes Reflections is an open data science coaching program for researchers and those who support research.** We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We've designed the Reflections Program to meet this need; Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach.
 
 We launched this program in 2023 and plan to lead it annually in May!
 

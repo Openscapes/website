@@ -42,4 +42,4 @@ Are you interested in contributing to our [NASA Openscapes Earthdata Cloud Cookb
 
 Thanks for reading, and for being a part of this open science movement!
 
-<br> <img src="/img/blog/fig-mountain-2023-square.jpg" width="300px" alt="landscape with blue sky, mountains and valley in background, trees in midground, dense cover of purple lupines and orange turks cap lilies on hillside in foreground"> <br>
+<br> <img src="/img/blog/fig-mountain-2023-square.jpg" width="300px" alt="landscape with blue sky, mountains and valley in background, trees in midground, dense cover of purple lupins and orange poppies on hillside in foreground"> <br>

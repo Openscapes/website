@@ -26,12 +26,26 @@ banner: img/blog/pan-talk-case-study-square.png
 
 On May 4, 2023, Xiaohua Pan, Christopher Battisto, and Nicholas Lenssen (GES DISC) gave a presentation titled "**Pathway Finder of Cloud Computing using NASA Resources: A Case Study of Characterizing Wildfires in Western U.S.,"** hosted by the NASA GSFC Ocean Ecology Lab. 
 
-<br> <center><a><img src="/img/blog/pan-talk-outline.png" width="500px" alt="An outline slide of Pan's talk with the motivation, introduction, FAQ, Demo, Take-home messages, and question time"></a><figcaption>Outline of the presentation by Pan et al.</figcaption> </center> <br>
+In brief, the main purpose of this presentation will be to share with the broad NASA user communities what cloud computing looks like and what the benefits of cloud computing are for an interdisciplinary study. We also share the lessons and challenges learned from this case study. By the way, this talk IS for cloud novices, NOT for cloud gurus. 
+
+<br> <center><a><img src="/img/blog/pan-talk-title.png" width="500px" alt="A title slide of Pan et al's talk titled "Pathwfinder of Cloud Computing using NASA Resources: A case study of characterizing wildfires in the western US with 3 photos of people: an asian woman and two white men from NASA GES DISC></a><figcaption>Title slide from the presentation by Pan et al.</figcaption> </center> <br>
 
 This presentation aims to inform and educate the NASA user community on cloud data and cloud computing. They shared the pathways, benefits, and roadblocks to cloud computing using an interdisciplinary case study and live demos of various cloud-accessing scenarios done in a JupyterHub that is part of the [NASA Openscapes](https://nasa-openscapes.github.io) project managed by [2i2c](http://2i2c.org/). 
 
-<br> <center><a><img src="/img/blog/pan-talk-case-study.png" width="500px" alt="A slide from Pan's talk with a map of the United States wih an arrow pointing to the Dixie Fire in California, and a time series of fire hotspots showing spikes in 2021"></a><figcaption>Interdisciplinary case study of characterizing wildfires in the western US, from the presentation by Pan et al.</figcaption> </center> <br>
+<br> <center><a><img src="/img/blog/pan-talk-outline.png" width="500px" alt="An outline slide of Pan's talk with the motivation, introduction, FAQ, Demo, Take-home messages, and question time"></a><figcaption>Outline of the presentation by Pan et al.</figcaption> </center> <br>
 
 Xiaohua also shared her journal from a scientist doing her research with all on-premises data to a pathfinder conducting her wildfire research in the cloud to shed some light on others to find their journeys to the cloud. Finally, she emphasized the importance of cloud training gained through openscapes as a DAAC staff. This presentation reached about 70 people from NASA earth science divisions and universities. It was well received, with many questions and positive feedback, reflecting the interest and puzzlement of the NASA user community on cloud data and cloud computing.
 
-<br>
+<br> <center><a><img src="/img/blog/pan-talk-case-study.png" width="500px" alt="A slide from Pan's talk with a map of the United States wih an arrow pointing to the Dixie Fire in California, and a time series of fire hotspots showing spikes in 2021"></a><figcaption>Interdisciplinary case study of characterizing wildfires in the western US, from the presentation by Pan et al.</figcaption> </center> <br>
+
+**Xiaohua Pan:**
+
+Dr. Pan joined Goddard Earth Sciences Data and Information Services Center (GES DISC) at NASA GSFC in 2020 as a senior scientific software developer, working on data services including curating NASA's earth data (e.g., MERRA-2) and user support. She also actively writes scientific articles and data recipes, and interacts with data user communities. She had worked on understanding the interaction of air pollution with climate using models and satellite observations in the NASA GSFC Atmospheric Chemistry and Dynamics Laboratory as a research scientist during 2009-2020, and as a NASA NPP postdoc fellow during 2013-2015. Dr. Pan received her Ph.D. majoring in Climate Dynamics in 2009 from George Mason University.
+
+**Chris Battisto:**
+
+Chris Battisto is an AWS Certified Solutions Architect and Scientific Software Developer at GES DISC since 2021. Chris is part of the User Needs team, and assists in creating tutorials and resources for users who wish to access GES DISC data using programming tools, such as Python, or for training staff and users on cloud resources. Chris has a background in atmospheric science, and received his M.S. in Geography from Northern Illinois University in 2021.
+
+**Nick Lenssen:**
+
+Nick has been a Scientific Developer at GES DISC since 2021. Nick is responsible for Level 2 subsetting services using Harmony in the cloud and is currently working on onboarding more datasets to the subsetting service. Nick has a background in Meteorology and received his B.S in Meteorology at Florida Institute of Technology.

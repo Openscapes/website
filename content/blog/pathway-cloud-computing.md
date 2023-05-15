@@ -26,8 +26,6 @@ banner: img/blog/pan-talk-case-study-square.png
 
 On May 4, 2023, Xiaohua Pan, Christopher Battisto, and Nicholas Lenssen (GES DISC) gave a presentation titled "**Pathway Finder of Cloud Computing using NASA Resources: A Case Study of Characterizing Wildfires in Western U.S.,"** hosted by the NASA GSFC Ocean Ecology Lab. 
 
-In brief, the main purpose of this presentation will be to share with the broad NASA user communities what cloud computing looks like and what the benefits of cloud computing are for an interdisciplinary study. We also share the lessons and challenges learned from this case study. By the way, this talk IS for cloud novices, NOT for cloud gurus. 
-
 <br> <center><a><img src="/img/blog/pan-talk-title.png" width="500px" alt="A title slide of Pan et al's talk titled "Pathwfinder of Cloud Computing using NASA Resources: A case study of characterizing wildfires in the western US with 3 photos of people: an asian woman and two white men from NASA GES DISC></a><figcaption>Title slide from the presentation by Pan et al.</figcaption> </center> <br>
 
 This presentation aims to inform and educate the NASA user community on cloud data and cloud computing. They shared the pathways, benefits, and roadblocks to cloud computing using an interdisciplinary case study and live demos of various cloud-accessing scenarios done in a JupyterHub that is part of the [NASA Openscapes](https://nasa-openscapes.github.io) project managed by [2i2c](http://2i2c.org/). 

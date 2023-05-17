@@ -17,11 +17,17 @@ banner: img/blog/mrlowndes-bee-square.jpg
 
 ------------------------------------------------------------------------
 
-> "This quietly subversive training showed me how to be a better mentor and coach by using new tools or old tools in better ways to hear what people are saying and help them find solutions within themselves...and by helping me get out of my own way in the process." Amanda Bradford, Research Ecologist, PIFSC, NOAA Fisheries <br>
+> "This quietly subversive training showed me how to be a better mentor and coach by using new tools or old tools in better ways to hear what people are saying and help them find solutions within themselves...and by helping me get out of my own way in the process." Amanda Bradford, Research Ecologist, PIFSC, NOAA Fisheries
 
-> "This was amazing! I love the courses that make you feel uncomfortable and safe at the same time because that's where change happens. It was such a positive growing experience. I was also able to connect with so many amazing people and that in itself was worth it. Learning from the others has expanded my views on coaching/mentoring/ etc so much!" Alex Davis, The Diversity Project, UCLA <br>
+<!-- break -->
 
-> "This program provides a solid foundation for learning what goes into *good* mentoring and coaching conducted by an instructor who leads by example. When members of the group place their trust in the instructor and program, it becomes free group therapy with other scientists, where vulnerability is welcomed and mental breakthroughs are made. This bred an extremely comfortable and supportive cohort that I would like to keep in touch with! - Alexis Hunzinger, NASA GES DISC Data Center <br>
+> "This was amazing! I love the courses that make you feel uncomfortable and safe at the same time because that's where change happens. It was such a positive growing experience. I was also able to connect with so many amazing people and that in itself was worth it. Learning from the others has expanded my views on coaching/mentoring/ etc so much!" Alex Davis, The Diversity Project, UCLA
+
+<!-- break -->
+
+> "This program provides a solid foundation for learning what goes into *good* mentoring and coaching conducted by an instructor who leads by example. When members of the group place their trust in the instructor and program, it becomes free group therapy with other scientists, where vulnerability is welcomed and mental breakthroughs are made. This bred an extremely comfortable and supportive cohort that I would like to keep in touch with! - Alexis Hunzinger, NASA GES DISC Data Center
+
+<!-- break -->
 
 > "This has been unlike any leadership training offered to us through typical NOAA/government channels. I think it has been a real eye opener to the importance of getting training outside of our typical (and comfortable) space" Josh London, Wildlife Biologist at NOAA Alaska Fisheries Science Center <br>
 
@@ -101,11 +107,17 @@ Bravery has come up throughout this cohort and this post, and this braveness and
 
 In our final session we paired up to coach each other through developing our own statement of purpose in open science.
 
-> I am an elevator to a better tomorrow 
+> I am an elevator to a better tomorrow
+
+<!-- break -->
 
 > I am a pollinator who connects people to each other and ideas so everyone flourishes 
 
+<!-- break -->
+
 > I am the momentum that answers to my peers 
+
+<!-- break -->
 
 **We are all the momentum that answers to our peers**. To make meaningful change, we must work across all levels and elevate those who will be the change along with us.
 

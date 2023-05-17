@@ -121,4 +121,4 @@ In our final session we paired up to coach each other through developing our own
 
 **We are all the momentum that answers to our peers**. To make meaningful change, we must work across all levels and elevate those who will be the change along with us.
 
-<br> <center><a><img src="/img/blog/mrlowndes-bee.jpg" width="800px" alt="a bee standing on a pink flower with multiple florets, against a black background"></a></center> <br>
+<br> <center><a><img src="/img/blog/mrlowndes-bee.jpg" width="800px" alt="a bee standing on a pink flower with multiple florets, against a black background"></a><figcaption>photo by Elliot Lowndes</figcaption></center> <br>

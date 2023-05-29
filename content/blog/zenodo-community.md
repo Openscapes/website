@@ -11,7 +11,7 @@ tags:
   - impact
   - noaa-fisheries
   - nasa-framework
-banner: img/blog/zenodo-openscapes-community.png
+banner: img/blog/zenodo-openscapes-community-square.png
 ---
 
 # We created a Zenodo Openscapes Community!

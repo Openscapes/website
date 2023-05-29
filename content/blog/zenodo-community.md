@@ -22,7 +22,7 @@ We want to share our work in a way that people can find it, use it, improve it, 
 
 <br> <center><a><img src="/img/blog/zenodo-openscapes-community.png" width="800px" alt="screenshot of the Openscapes Community page on Zenodo"></a><figcaption>Openscapes Community page on Zenodo</figcaption></center> <br>
 
-## Use cases
+## Our use cases
 
 The Openscapes Approach Guide gives instructions for our use cases, with pointers for things that might not be obvious to a first-time user.
 
@@ -39,8 +39,10 @@ The Openscapes Approach Guide gives instructions for our use cases, with pointer
 
 ## Bonus things I learned
 
-<!--# need better heading; this is the closing paragraph but wanted to convey couple of cool adjacent things -->
+<!--# need better heading?; this is the closing but wanted to convey couple of cool adjacent things -->
 
-Of course I want credit for my contributions! When we add an author's ORCID ID to a Zenodo record, their ORCID profile is automatically updated. I learned of this bonus when I uploaded a post on which I'm a co-author, and then received email notification that this record had been added to my ORCID profile. Why is this so cool? An ORCID iD is a unique, open digital identifier that distinguishes you from every other researcher with the same or a similar name to you. My ORCID profile is a bit like a CV. I use it to collect my research publications (not limited to peer reviewed papers) along with things like education and service on boards. Having it automatically updated is great.
+Of course I want credit for my contributions! When we add an author's ORCID ID to a Zenodo record, their ORCID profile is automatically updated. I learned of this bonus when I uploaded a post on which I'm a co-author, and then received email notification that this record had been added to my ORCID profile. Why is this so cool? An [ORCID iD](https://support.orcid.org/hc/en-us/articles/360006897334-What-is-my-ORCID-iD-and-how-should-I-use-it-) is a unique, open digital identifier that distinguishes you from every other researcher with the same or a similar name to you. My ORCID profile is a bit like a CV. I use it to collect my research publications (not limited to peer reviewed papers) along with things like education and service on boards. Having it automatically updated is great.
+
+![](images/zenodo-orcid.png)
 
 Want to create a Zenodo Community? Play in the [Sandbox](https://sandbox.zenodo.org/) first, where anyone can create and refine a draft Community before publishing it in Zenodo. Creating a Sandbox version forced me to recognize decisions to make before creating the real thing, like: needing to create it from an account that looks professional like "curator", rather than my personal email username; or deciding what types of research products to include or exclude. This webinar section "[How to create a community](https://youtu.be/yj2r8RayIX8?t=734)" screenshares a walk-through that makes things crystal clear.

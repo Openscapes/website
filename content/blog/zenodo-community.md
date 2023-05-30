@@ -36,12 +36,11 @@ The [Openscapes Approach Guide](https://openscapes.github.io/approach-guide/appr
 -   How to add your existing Zenodo record to the Zenodo Openscapes Community
 -   How to publish a new record in Zenodo to get a DOI
 -   How to get a DOI for materials on GitHub
-
-**How to cite an Openscapes product**. Approach Guide link? See Cite As on the record's Zenodo page
+-   How to cite Openscapes publications
 
 ## Bonus things I learned
 
-Of course I want credit for my contributions! When we add an author's ORCID ID to a Zenodo record, their ORCID profile is automatically updated. I learned of this bonus when I uploaded a post on which I'm a co-author, and then received email notification that this record had been added to my ORCID profile. Why is this so cool? An [ORCID iD](https://support.orcid.org/hc/en-us/articles/360006897334-What-is-my-ORCID-iD-and-how-should-I-use-it-) is a unique, open digital identifier that distinguishes you from every other researcher with the same or a similar name to you. My ORCID profile is a bit like a CV. I use it to collect my research publications (not limited to peer reviewed papers) along with things like education and service on boards. Having it automatically updated is great.
+Of course I want credit for my contributions! When we add an author's ORCID ID to a Zenodo record, their ORCID profile is automatically updated. I learned of this bonus when I uploaded a post on which I'm a co-author, and then received email notification that this record had been added to my ORCID profile. Why is this so cool? An [ORCID ID](https://support.orcid.org/hc/en-us/articles/360006897334-What-is-my-ORCID-iD-and-how-should-I-use-it-) is a unique, open digital identifier that distinguishes you from every other researcher with the same or a similar name to you. My ORCID profile is a bit like a CV. I use it to collect my research publications (not limited to peer reviewed papers) along with things like education and service on boards. Having it automatically updated is great.
 
 <br> <center><a><img src="/img/blog/zenodo-orcid.png" width="800px" alt="screenshot showing zenodo record called 3 Approaches for the Year of Open Science with green ID symbol linked with an arrow to a second screenshot showing the ORCID record for that publication"></a><figcaption>Associating a Zenodo record with an author's ORCID ID results in that record being automatically listed in their ORCID profile</figcaption></center> <br>
 
